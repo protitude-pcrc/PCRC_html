@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "5e4d6b81-80d4-49ee-a9c2-e96a6dfb64f0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f416faa1-7b95-4766-bdea-21002bbe9e1e"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/pcrc-webinar-series-statistical-considerations-randomized-control-trial-rct-design"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

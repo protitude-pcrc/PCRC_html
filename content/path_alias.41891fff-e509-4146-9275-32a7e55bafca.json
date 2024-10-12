@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "41891fff-e509-4146-9275-32a7e55bafca"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/a323f983-6bd4-4d06-84be-41e256785ed9"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/research\/investigator-support-information\/collaborating-pcrc\/letter-intent"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b8d67099-cf7f-4bc1-ab19-796a6db0b7e4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/19c1fb0a-4619-42e9-a801-c0f4c6188ac0"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/include70676"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

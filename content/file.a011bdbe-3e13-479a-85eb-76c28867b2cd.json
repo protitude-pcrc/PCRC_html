@@ -1,0 +1,75 @@
+{
+    "uuid": [
+        {
+            "value": "a011bdbe-3e13-479a-85eb-76c28867b2cd"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "image",
+            "target_type": "file_type",
+            "target_uuid": "5a44da8e-ed3c-44a3-a323-ce4123599632"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "filename": [
+        {
+            "value": "CurrentMembershipMap.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/membershipmap_11-28-17.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 94159
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-06-20T22:27:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-09-17T19:21:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/currentmembershipmapjpg",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_image_alt_text": [
+        {
+            "value": "PCRC Membership Map"
+        }
+    ],
+    "field_image_title_text": []
+}

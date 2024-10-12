@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "aecaa06e-06f8-4a82-8e32-d03a2658395b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/6ace3af2-832b-4503-931e-7edb09b290b3"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/corescenters\/measurement-core\/instrument-systematic-reviews"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

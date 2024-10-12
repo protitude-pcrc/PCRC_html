@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e9cfb1c4-8bd7-4826-b96f-6442af898654"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/c04b3180-da4d-4360-93ed-8b35a0a6c1ee"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/corescenters\/clinical-studiesmethodology-core"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

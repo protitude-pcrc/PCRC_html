@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "9909631d-0caa-4cbf-a695-c6da18998005"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/f9b4242c-2abe-480a-b874-170091d1f816"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/mcmatt"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

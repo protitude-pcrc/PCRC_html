@@ -1,0 +1,71 @@
+{
+    "uuid": [
+        {
+            "value": "2c0b5507-6efe-454f-b8ce-30b7f833f8b0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "image",
+            "target_type": "file_type",
+            "target_uuid": "5a44da8e-ed3c-44a3-a323-ce4123599632"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "filename": [
+        {
+            "value": "Harger.jpeg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/directory\/Harger.jpeg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 800140
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-04-14T13:57:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-04-14T13:57:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/hargerjpeg",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_image_alt_text": [],
+    "field_image_title_text": []
+}

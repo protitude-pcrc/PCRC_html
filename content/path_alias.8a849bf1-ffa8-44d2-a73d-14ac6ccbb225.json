@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "8a849bf1-ffa8-44d2-a73d-14ac6ccbb225"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/3401359f-9ed7-4898-95f1-20e77c0e5fe7"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/beepproficient"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

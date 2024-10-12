@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "25e6665a-d689-452e-b859-951cda356daf"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-12-04T22:52:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "4th Annual Quality Matters Conference"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-09-11T16:28:27+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-12-04T22:52:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/4th-annual-quality-matters-conference",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Please join your colleagues on October 11<sup>th<\/sup> at the 4<sup>th<\/sup> Annual Quality Matters Conference, a half-day virtual conference focused on timely issues related to quality of care in palliative care. Co-sponsored by AAHPM, CAPC, NPCRC, PCQN, and GPCQA, the conference will feature twelve national experts, including Plenary Speaker Dr. Jennifer Temel. Last year we had over 800 clinicians, researchers, and administrators join and expect over 1000 this October.<\/p>\r\n\r\n<p>Registration for the conference is&nbsp;<strong>free<\/strong>&nbsp;to all participants and registrants will receive 4.25 of&nbsp;<strong>complimentary<\/strong>&nbsp;CME\/ANCC from Duke University.<\/p>\r\n\r\n<p>Attached is a flyer with additional details on the conference. Registration can be found at&nbsp;<a href=\"https:\/\/www.gpcqa.org\/qmc\" target=\"_blank\">www.gpcqa.org\/qmc<\/a>.<\/p>\r\n\r\n<p>Please feel free to forward to those who may have interest.<\/p>\r\n\r\n<drupal-entity data-embed-button=\"file_browser\" data-entity-embed-display=\"file:file_default\" data-entity-embed-display-settings=\"{&quot;use_description_as_link_text&quot;:1,&quot;description&quot;:&quot;QMC Flyer&quot;}\" data-entity-type=\"file\" data-entity-uuid=\"9106a5ed-a245-4d27-a5a2-bb812625f5d7\"><\/drupal-entity>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "October 11, 2018"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

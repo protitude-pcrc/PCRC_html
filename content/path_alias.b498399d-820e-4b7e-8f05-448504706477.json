@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b498399d-820e-4b7e-8f05-448504706477"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/a32e5fc2-e6f7-4c80-9423-dcd5b7bbd626"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/pcrc-history-visualpng"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

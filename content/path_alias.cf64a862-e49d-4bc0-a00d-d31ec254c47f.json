@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "cf64a862-e49d-4bc0-a00d-d31ec254c47f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/81a7c00f-4d23-4760-ae9f-2c0f8a960fd4"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-36-may-2019"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

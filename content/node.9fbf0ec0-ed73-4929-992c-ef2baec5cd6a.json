@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "9fbf0ec0-ed73-4929-992c-ef2baec5cd6a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-08-05T18:56:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Caregiver Core"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-06-26T18:30:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-08-05T18:56:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/corescenters\/caregiver-core",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h3>Core Leadership:<\/h3>\r\n\r\n<drupal-entity alt=\"Betty Ferrell, PhD, MA, FAAN, FPCN\" data-align=\"left\" data-caption=\"Core Lead: Betty Ferrell, PhD, MA, FAAN, FPCN\" data-embed-button=\"image_browser\" data-entity-embed-display=\"image:linked_responsive_image\" data-entity-embed-display-settings=\"{&quot;responsive_image_style&quot;:&quot;original&quot;,&quot;image_link&quot;:&quot;&quot;,&quot;link_uri&quot;:&quot;&quot;}\" data-entity-type=\"file\" data-entity-uuid=\"9a519183-583f-4acc-a55d-f0edb10dd832\"><\/drupal-entity>\r\n\r\n<drupal-entity alt=\"J. Nicholas Dionne-Odom\" data-align=\"center\" data-caption=\"Core Co-Lead: J. Nicholas Dionne-Odom, PhD RN ACHPN\" data-embed-button=\"image_browser\" data-entity-embed-display=\"image:linked_responsive_image\" data-entity-embed-display-settings=\"{&quot;responsive_image_style&quot;:&quot;original&quot;,&quot;image_link&quot;:&quot;&quot;,&quot;link_uri&quot;:&quot;&quot;}\" data-entity-type=\"file\" data-entity-uuid=\"c24d732d-0b9e-48e3-80db-8e1ae323e81e\"><\/drupal-entity>\r\n\r\n<p><em>Contact <a href=\"mailto:bferrell@coh.org\">Betty Ferrell<\/a> for a core consultation.<\/em><\/p>\r\n\r\n<h4>Roles and Responsibilities of the Caregiver Core:<\/h4>\r\n\r\n<ul>\r\n\t<li>Discuss opportunities to include caregivers in palliative care studies involving patients.<\/li>\r\n\t<li>Explore areas of science needed to advance understanding of caregiving in palliative care.<\/li>\r\n\t<li>Assist investigators in the selection of conceptual models, study designs, outcome variables and measurement tools for use in caregiver research.<\/li>\r\n\t<li>Discuss opportunities for inclusion of qualitative data in&nbsp; caregiver research.<\/li>\r\n<\/ul>\r\n\r\n<h4><br \/>\r\nCaregiver Core Resources<\/h4>\r\n\r\n<ul>\r\n\t<li>\r\n\t<p><u>10 Questions to Consider When Doing Research With Family Caregivers<\/u>: Dr.&nbsp;J. Nick Dionne-Odom's PCRC Webinar, August 22, 2019:&nbsp; &nbsp; &nbsp;<a href=\"https:\/\/pcrc.box.com\/s\/6hc7b5pl1pk5pnk4dieg3nxck9cxpvwh\" target=\"_blank\">Slides<\/a>&nbsp; &nbsp; &nbsp;<a href=\"https:\/\/pcrc.box.com\/s\/5i6112f9rhpb1eqj2fn35n5aj7krq3h2\" target=\"_blank\">Recording<\/a><\/p>\r\n\t<\/li>\r\n<\/ul>\r\n\r\n<p><strong>Recommended Reading:<\/strong><\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"http:\/\/www.ncbi.nlm.nih.gov\/pubmed\/26991807#\" target=\"_blank\">Caring for Caregivers and Patients: Revisiting the Research and Clinical Priorities for Informal Cancer Caregiving <em>Cancer.<\/em> 2016 Mar 17.<\/a><\/li>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/152083h6tp8va4ae192tsgoqumzuuiuy\" target=\"_blank\">Palliative and End of Life Care Priority Setting Partnership (PeolcPSP): Putting patients, carers, and clinicians at the heart of palliative and end of life care research.<\/a><\/li>\r\n<\/ul>\r\n\r\n<p><br \/>\r\n<strong>Systematic Reviews:<\/strong><\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/s7ga071jywxuyu91b0i9h1ct73d9ucr4\" target=\"_blank\">ADRD-specific caregiver related resources: A systematic review<\/a><\/li>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/cvdb3jh4pj4eukr349r0rqzwpg2wnq7d\" target=\"_blank\">Family caregiving for persons with heart failure at the intersection of heart failure and palliative care: A state-of-the-science review<\/a> - 2017, <em>Heart Failure Review<\/em><\/li>\r\n\t<li><a href=\"http:\/\/link.springer.com\/article\/10.1007\/s11136-016-1239-0\" rel=\"noopener\" target=\"_blank\">Patient-reported outcome measures for cancer caregivers: a systematic review<\/a> - 2016, <em>Quality of Life Research<\/em><\/li>\r\n\t<li><a href=\"http:\/\/onlinelibrary.wiley.com\/doi\/10.3322\/caac.21396\/full\" rel=\"noopener\" target=\"_blank\">A Review of Family Caregiving Intervention Trials in Oncology <\/a>-&nbsp;This article contains a review of literature published from 2010 to 2016 on family caregiving in oncology.<\/li>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/m42s7qpylhf5mi1hrmshn2uoce37ggov\" target=\"_blank\">Family Caregiver Strain and Burden: A Systematic Review of Evidence-Based Interventions When Caring for Patients with Cancer<\/a> - &nbsp;<a abstractlink=\"yes\" alsec=\"jour\" alterm=\"Clin J Oncol Nurs.\" aria-expanded=\"false\" aria-haspopup=\"true\" href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/?term=Family+Caregiver+Strain+and+Burden+A+systematic+review+of+evidence-based+interventions+when+caring+for+patients+with+cancer#\" role=\"menuitem\" title=\"Clinical journal of oncology nursing.\">Clin J Oncol Nurs.<\/a>&nbsp;2020 Feb 1;24(1):31-50. doi: 10.1188\/20.CJON.31-50.<em>&nbsp;<\/em><\/li>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/bnnmjp30e3wikl1odeb4sdfk2wefuuhi\" target=\"_blank\">Examples of Qualitative Research with Caregivers in ADRD Research<\/a><\/li>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/n8veh02n1gwyw8q3cyhxej81b8qfitc5\" target=\"_blank\">Care Interventions for People Living With Dementia and Their Caregivers<\/a><a href=\"https:\/\/pcrc.box.com\/s\/n8veh02n1gwyw8q3cyhxej81b8qfitc5\" target=\"_blank\">&nbsp;<\/a><\/li>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/b4rxdziptty5cfpcac5y2o3lzp1iku1j\" target=\"_blank\">Caregiver Research: Systematic Review Update 2021<\/a><\/li>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/nu7bz6070iot3zqbgjwirjxsd0x6me83\" target=\"_blank\">A systematic review of systematic reviews of needs of family caregivers of older adults with dementia.<\/a><\/li>\r\n<\/ul>\r\n\r\n<p><strong>Related Organizations:<\/strong><\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/www.eapcnet.eu\/eapc-groups\/reference\/family-carers\" rel=\"noopener\" target=\"_blank\">International Palliative Care Family Carer Research Collaboration<\/a><\/li>\r\n<\/ul>\r\n\r\n<p><br \/>\r\n<strong>Caregiver Instruments: <\/strong><\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/app.box.com\/embed\/preview\/nx0svzlbrfjusek8hjlqqyqvdbzlm1oh?view=&amp;sort=&amp;direction=ASC&amp;theme=light\" rel=\"noopener\" target=\"_blank\">Selected Caregiver Assessment Measures: A Resource Inventory for Practitioners<\/a><\/li>\r\n\t<li><a href=\"https:\/\/app.box.com\/embed\/preview\/fbeaxqn8j2isdmyh8j378nmhd2w0h1h2?theme=dark\" rel=\"noopener\" target=\"_blank\">Family Caregiver Instruments and Assessment Tools<\/a><\/li>\r\n\t<li><a href=\"https:\/\/gero.usc.edu\/labs\/tuckerseeleylab\/individual-measures\/\" rel=\"noopener\" target=\"_blank\">Individual Measures - The Tucker-Seeley Research Lab (USC Leonard Davis School of Gerontology)<\/a><\/li>\r\n\t<li><a href=\"https:\/\/www.stressmeasurement.org\/measurement-toolbox\" rel=\"noopener\" target=\"_blank\">Stress Measurement Toolbox - UCSF<\/a>&nbsp;<\/li>\r\n\t<li><a href=\"https:\/\/www.phenxtoolkit.org\/\" rel=\"noopener\" target=\"_blank\">PhenX Toolkit - RTI International<\/a><\/li>\r\n\t<li><a href=\"https:\/\/palliativecareresearch.org\/corescenters\/measurement-core\" target=\"_blank\">Additional instrument resources can be accessed on the&nbsp;PCRC Measurement Core page by clicking here.<\/a><\/li>\r\n<\/ul>\r\n\r\n<p><br \/>\r\n<strong>Sample Proposals:<\/strong><\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/cal88ua22sg1mxas4lswsxtdl4djpdrm\" rel=\"noopener\" target=\"_blank\">P01 Family Caregivers of Patients with Lung Cancer<\/a><\/li>\r\n<\/ul>\r\n\r\n<p><br \/>\r\n<strong>Caregiving Research Resources:<\/strong><\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/xpbh6fud8n3d0yk1tmvxddkl16uwo8u3\" target=\"_blank\">Selecting a Conceptual Model of Caregiving Research<\/a><\/li>\r\n\t<li><a href=\"\/sites\/default\/files\/migrated_files\/PCRC-Methodological_Considerations_Refs1.pdf\" rel=\"noopener\" target=\"_blank\">Methodological Considerations for Caregiver Research References<\/a><\/li>\r\n\t<li><a href=\"https:\/\/case.edu\/nursing\/distance-care\/\" target=\"_blank\">Case Western Reserve University's Distance Caregiver Study website<\/a><\/li>\r\n\t<li>Latino Family Caregiving at End of Life video: A video-soap opera, telenovela entitled Cuidadores como yo\/Caregivers Like Me for the education of family caregivers. Available in <a href=\"https:\/\/www.youtube.com\/watch?v=ck6Bs1T2Zck&amp;feature=youtu.be\" target=\"_blank\">English<\/a> or <a href=\"https:\/\/www.youtube.com\/watch?v=HXF-F-apTCc&amp;feature=youtu.be\" target=\"_blank\">Spanish<\/a>.\r\n\t<ul>\r\n\t\t<li><a href=\"https:\/\/pubmed.ncbi.nlm.nih.gov\/26019262\/\" rel=\"noopener\" target=\"_blank\"><span style=\"font-size:10pt\">Cruz-Oliver DM, Malmstrom TK, Fern\u00e1ndez N, Parikh M, Garc\u00eda J, Sanchez-Reilly S. Education Intervention \"Caregivers Like Me\" for Latino Family Caregivers Improved Attitudes Toward Professional Assistance at End-of-life Care. <em>Am J Hosp Palliat Care<\/em>. 2016 Jul;33(6):527-36. doi: 10.1177\/1049909115584315. Epub 2015 May 27. PMID: 26019262.<\/span><\/a><\/li>\r\n\t\t<li><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC6464451\/\" rel=\"noopener\" target=\"_blank\"><span style=\"font-size:10pt\">Cruz-Oliver DM, Ellis K, Sanchez-Reilly S. Caregivers Like Me: An Education Intervention for Family Caregivers of Latino Elders at End-of-Life. <em>MedEdPORTAL<\/em>. 2016 Sep 1;12:10448. doi: 10.15766\/mep_2374-8265.10448. PMID: 31008226; PMCID: PMC6464451.<\/span><\/a><\/li>\r\n\t\t<li><a href=\"https:\/\/pubmed.ncbi.nlm.nih.gov\/28592164\/\" rel=\"noopener\" target=\"_blank\"><span style=\"font-size:10pt\">Cruz-Oliver DM, Parikh M, Wallace CL, Malmstrom TK, Sanchez-Reilly S. What Did Latino Family Caregivers Expect and Learn From Education Intervention \"Caregivers Like Me\"? <em>Am J Hosp Palliat Care<\/em>. 2018 Mar;35(3):404-410. doi: 10.1177\/1049909117709550. Epub 2017 Jun 8. PMID: 28592164.<\/span><\/a><\/li>\r\n\t\t<li><a href=\"https:\/\/pubmed.ncbi.nlm.nih.gov\/28716618\/\" rel=\"noopener\" target=\"_blank\"><span style=\"font-size:10pt\">Cruz-Oliver DM, Malmstrom TK, Roegner M, Yeo G. Evaluation of a Video-Based Seminar to Raise Health Care Professionals' Awareness of Culturally Sensitive End-of-Life Care. <em>J Pain Symptom Manage<\/em>. 2017 Oct;54(4):546-554. doi: 10.1016\/j.jpainsymman.2017.07.023. Epub 2017 Jul 15. PMID: 28716618.<\/span><\/a><\/li>\r\n\t<\/ul>\r\n\t<\/li>\r\n<\/ul>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

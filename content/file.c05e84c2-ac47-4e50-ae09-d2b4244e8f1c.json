@@ -1,0 +1,75 @@
+{
+    "uuid": [
+        {
+            "value": "c05e84c2-ac47-4e50-ae09-d2b4244e8f1c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "image",
+            "target_type": "file_type",
+            "target_uuid": "5a44da8e-ed3c-44a3-a323-ce4123599632"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "filename": [
+        {
+            "value": "bennett_antonia_UNC.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/migrated_files\/bennett_antonia_UNC.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 111368
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-09-04T18:30:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-08-02T18:30:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/bennettantoniauncjpg",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_image_alt_text": [
+        {
+            "value": "Antonia Bennett, PhD"
+        }
+    ],
+    "field_image_title_text": []
+}

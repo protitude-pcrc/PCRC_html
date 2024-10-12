@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "78e38c14-d0e0-4924-8ba0-641e050490f6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-06-28T15:51:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5f686ebb-b50d-407c-8038-e50304f18bef"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "PCRC Data Available for Secondary Analysis"
+        }
+    ],
+    "created": [
+        {
+            "value": "2016-07-13T18:14:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-06-28T15:51:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/research\/conduct-your-research-through-pcrc\/pcrc-data-available-secondary-analysis",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h3>Statin Discontinuation<\/h3>\r\n\r\n<p>Multisite randomized trial of continuing versus discontinuing statins<\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/25798575\" target=\"_blank\">JAMA Intern Med.<\/a> 2015 May;175(5):691-700<\/li>\r\n\t<li><strong>Primary objective: <\/strong>to determine, among patients with life-limiting illness, if there is a difference in the proportion who die within 60 days after enrollment between patients for whom statins are discontinued versus patients who are maintained on the medication<\/li>\r\n\t<li><strong>Secondary objectives: <\/strong>overall survival, important CVD events, QOL, symptoms, performance status (Karnofsky), polypharmacy, satisfaction with care, costs<\/li>\r\n\t<li>Total N: 381, 15 study sites<\/li>\r\n<\/ul>\r\n\r\n<h3>Best Supportive Care<\/h3>\r\n\r\n<p>Implementation of consensus-based standards for best supportive care in a clinical trial: a pilot study<\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"http:\/\/ascopubs.org\/doi\/abs\/10.1200\/JCO.2017.35.15_suppl.e21682\">J Clin Oncol.<\/a> 2017 35:15_suppl, e21682-e21682.<\/li>\r\n\t<li><strong>Primary objective<\/strong>: using clinician behavior intervention checklist (BSC), test the feasibility of thorough documentation of BSC delivery<\/li>\r\n\t<li><strong>Secondary:<\/strong> estimate variance in the BSC checklist completion; assess provider satisfaction with BSC; evaluate differences in patient experience before and after introduction of the BSC checklist<\/li>\r\n\t<li><strong>Total N:<\/strong> 41 patients and 23 providers, 4 study sites<\/li>\r\n<\/ul>\r\n\r\n<h3>Reducing End-of-Life Symptoms with Touch (REST)<\/h3>\r\n\r\n<p>Massage therapy versus simple touch to improve pain and mood in patients with advanced cancer: a randomized trial<\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/18794556\">Ann Intern Med.<\/a> 2008 Sep 16;149(6):369-79.<\/li>\r\n\t<li><strong>Primary objective:<\/strong> To evaluate the efficacy of massage for decreasing pain and symptom distress and improving quality of life among persons with advanced cancer<\/li>\r\n\t<li>Repeated measures, six 30-minute massage or simple-touch sessions over 2 weeks<\/li>\r\n\t<li>380 adults with advanced cancer who were experiencing moderate-to-severe pain; 90% were enrolled in hospice<\/li>\r\n\t<li><strong>Total N:<\/strong> 380 patients, 15 hospice study sites<\/li>\r\n<\/ul>\r\n\r\n<h3>Patient-Centered Disease Management for Heart Failure (PCDM)<\/h3>\r\n\r\n<p>Multisite randomized clinical trial of a collaborative care PCDM intervention versus usual care in patients with heart failure (HF)<\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/25822284\">JAMA Intern Med.<\/a> 2015 May;175(5):725-32.<\/li>\r\n\t<li><strong>Intervention:<\/strong> Collaborative care by a multidisciplinary care team consisting of a nurse coordinator, cardiologist, psychiatrist, and primary care physician; home telemonitoring and patient self-management support; and screening and treatment for comorbid depression<\/li>\r\n\t<li><strong>Primary objective:<\/strong> To determine the effectiveness of the PCDM intervention in improving the HF specific health status (measured with the Kansas City Cardiomyopathy Questionnaire (KCCQ)) of participants<\/li>\r\n\t<li><strong>Secondary objective:<\/strong> To determine the effectiveness of the PCDM intervention on mortality, hospitalization, and depressive symptoms (Patient Health Questionnaire 9)<\/li>\r\n\t<li><strong>Total N:<\/strong> 392 patients, 4 VA medical center sites<\/li>\r\n<\/ul>\r\n\r\n<h3>Is death rattle a phenomenon that requires medical treatment?<\/h3>\r\n\r\n<p>Multisite prospective two-group observation study of respiratory distress in dying patients with and without death rattle<\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/24047451\">J Palliat Med.<\/a> 2013 Oct;16(10):1255-9.<\/li>\r\n\t<li><strong>Intervention:<\/strong> Collaborative care by a multidisciplinary care team consisting of a nurse coordinator, cardiologist, psychiatrist, and primary care physician; home telemonitoring and patient self-management support; and screening and treatment for comorbid depression<\/li>\r\n\t<li><strong>Primary objective:<\/strong> To determine if patients with naturally occurring death rattle experience respiratory distress<\/li>\r\n\t<li><strong>Total N:<\/strong> 71 patients, 3 palliative care and hospice sites<\/li>\r\n<\/ul>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": [
+        {
+            "value": "The PCRC has the following de-identified datasets available for secondary analysis in the PCRC Data Repository"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ee857243-c6b1-4a9b-99e9-27e1cfda2cc7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f200da82-a54d-42d1-bb3c-42ec95bf715f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/organizational-leads"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "uuid": [
+        {
+            "value": "dbb606a7-8610-4a6a-9c64-ec3d04f8ef35"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c4c1b62a-869d-454a-b78c-bde33aba2db8"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c4c1b62a-869d-454a-b78c-bde33aba2db8"
+        }
+    ],
+    "title": [
+        {
+            "value": "PCRC Data Repository"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-02-07T00:26:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-02-07T00:26:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/pcrc-data-repository",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

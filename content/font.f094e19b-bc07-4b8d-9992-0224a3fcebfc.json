@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "f094e19b-bc07-4b8d-9992-0224a3fcebfc"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Kalam&subset=devanagari#300"
+        }
+    ],
+    "name": [
+        {
+            "value": "Kalam 300 (devanagari)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Kalam"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "300"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:9:\"Kalam:300\";s:6:\"subset\";s:10:\"devanagari\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:01:53+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:01:53+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "fb3c9f53-320b-4929-8d89-6cc4f7c8330f"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6964e565-7158-454f-8e66-67ca0d8c11a9"
+        }
+    ],
+    "field_tags": []
+}

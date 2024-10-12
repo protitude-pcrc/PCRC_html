@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "4a8df6d1-0922-4cfc-9437-5c730d61a95d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "2018 Beeson RFA"
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-05-02T06:40:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2017-05-02T06:40:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/2018-beeson-rfa",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p class=\"p1\"><span class=\"s1\">The RFA for the 2018 Paul B. Beeson Emerging Leaders Career Development Award in Aging (K76) has just been announced: <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__grants.nih.gov_grants_guide_rfa-2Dfiles_RFA-2DAG-2D18-2D006.html&amp;d=DwMGaQ&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=Qk3dqNDVdWdnjgQB8KHIhI05k-DbXyVv7porITV0b5s&amp;s=2MtK8M10rp1MCKYxj8zLGoTRF7fcByTsdOSYzMwH4uw&amp;e=\"><span class=\"s2\">https:\/\/grants.nih.gov\/grants\/guide\/rfa-files\/RFA-AG-18-006.html<\/span><\/a>. Be sure to take a look!<\/span><\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

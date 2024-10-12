@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b88c71fa-5875-4b9e-8804-27c0fb4e6fee"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/a24a96f3-3226-4c66-a34b-8f5e3fa857eb"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/research\/investigator-support-information\/mentorship-selective"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

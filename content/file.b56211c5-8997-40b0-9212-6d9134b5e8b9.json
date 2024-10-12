@@ -1,0 +1,71 @@
+{
+    "uuid": [
+        {
+            "value": "b56211c5-8997-40b0-9212-6d9134b5e8b9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "image",
+            "target_type": "file_type",
+            "target_uuid": "5a44da8e-ed3c-44a3-a323-ce4123599632"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "filename": [
+        {
+            "value": "SusanMarden.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/migrated_files\/SusanMarden.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 39999
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-04-07T13:25:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2015-04-07T13:25:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/susanmardenjpg",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_image_alt_text": [],
+    "field_image_title_text": []
+}

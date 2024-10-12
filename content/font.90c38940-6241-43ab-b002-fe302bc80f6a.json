@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "90c38940-6241-43ab-b002-fe302bc80f6a"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=IBM Plex Serif&subset=latin-ext#300italic"
+        }
+    ],
+    "name": [
+        {
+            "value": "IBM Plex Serif 300italic (latin-ext)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "IBM Plex Serif"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "italic"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "300"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:24:\"IBM Plex Serif:300italic\";s:6:\"subset\";s:9:\"latin-ext\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:01:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:01:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "12b0dea5-d190-4fa8-bef6-36049468456b"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "10a98e12-b538-4b56-9c26-6fc5480a093e"
+        }
+    ],
+    "field_tags": []
+}

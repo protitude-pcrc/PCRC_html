@@ -1,0 +1,99 @@
+{
+    "uuid": [
+        {
+            "value": "6bea31bd-b103-430b-b671-c816229ddae9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-05T15:10:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Pilot Grant Process"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-07-13T15:52:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-05T15:10:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/research\/conduct-your-research-through-pcrc\/pilot-grant-process",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>To see our current funding opportunities, please see our <a href=\"\/node\/521\" target=\"_blank\">Pilot Funding Opportunities page<\/a>.<\/p>\r\n\r\n<h3>PCRC pilot grants use the following process:<\/h3>\r\n\r\n<h3><a href=\"\/sites\/default\/files\/migrated_files\/Pilot_Grants.png\"><img alt=\"Pilot_Grants\" height=\"2225\" src=\"\/sites\/default\/files\/migrated_files\/Pilot_Grants.png\" width=\"3575\" \/><\/a><\/h3>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": [
+        {
+            "value": "Supporting Investigator Development for Building the Science of Palliative Care"
+        }
+    ]
+}

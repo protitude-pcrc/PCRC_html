@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "7b7f0384-053c-4c57-888e-002f543e0410"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Mirza&subset=arabic#regular"
+        }
+    ],
+    "name": [
+        {
+            "value": "Mirza regular (arabic)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Mirza"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "normal"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:13:\"Mirza:regular\";s:6:\"subset\";s:6:\"arabic\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:01:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:01:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2f636896-a5a0-4bdf-8074-2ca54f732f28"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "77be5c58-1174-4af9-b2c4-9e8f09b63c12"
+        }
+    ],
+    "field_tags": []
+}

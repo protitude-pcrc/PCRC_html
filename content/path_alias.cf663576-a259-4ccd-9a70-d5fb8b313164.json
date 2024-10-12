@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "cf663576-a259-4ccd-9a70-d5fb8b313164"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/taxonomy\/term\/358"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news-type\/pcrc-testimonials"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

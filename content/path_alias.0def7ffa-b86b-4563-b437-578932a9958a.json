@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "0def7ffa-b86b-4563-b437-578932a9958a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/c3f718bf-ae8d-4ab6-89b7-ba028a22825d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/pcrcprotocolinstructions-v2pdf"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

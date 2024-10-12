@@ -1,0 +1,71 @@
+{
+    "uuid": [
+        {
+            "value": "c2163890-a7b0-45de-819f-cb07e651e18e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "image",
+            "target_type": "file_type",
+            "target_uuid": "5a44da8e-ed3c-44a3-a323-ce4123599632"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "filename": [
+        {
+            "value": "Tillman_NewsletterPic.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/migrated_files\/Tillman_NewsletterPic.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 108461
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-10-06T04:20:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2017-10-06T04:20:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/tillmannewsletterpicjpg",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_image_alt_text": [],
+    "field_image_title_text": []
+}

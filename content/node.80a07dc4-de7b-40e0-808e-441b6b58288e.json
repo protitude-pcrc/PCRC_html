@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "80a07dc4-de7b-40e0-808e-441b6b58288e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Changing policies impact NIH-funded studies involving human subjects"
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-08-15T05:07:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2017-08-15T05:07:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/changing-policies-impact-nih-funded-studies-involving-human-subjects",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p class=\"p2\"><span class=\"s1\">Message to NIH grant applicants\/awardees, contractors, researchers and research administrators:<\/span><\/p>\r\n<p class=\"p2\"><span class=\"s1\">If you are conducting NIH-funded research that involves human subjects, or are considering applying to NIH for support of such research, we want to call your attention to important changes that may affect how you:<\/span><\/p>\r\n\r\n<ul class=\"ul1\">\r\n \t<li class=\"li2\" style=\"text-align: left;\"><span class=\"s1\">select the right NIH funding opportunity announcement<\/span><\/li>\r\n \t<li class=\"li2\"><span class=\"s1\">write the research strategy and human subjects sections of your application<\/span><\/li>\r\n \t<li class=\"li2\"><span class=\"s1\">comply with appropriate policies and regulations<\/span><\/li>\r\n<\/ul>\r\n<p class=\"p2\"><span class=\"s1\"><b>First, familiarize yourself with the new PHS Human Subject and Clinical Trial Information form <\/b>(for application due dates of January 25, 2018). \u00a0<a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__grants.nih.gov_policy_clinical-2Dtrials_new-2Dhuman-2Dsubject-2Dclinical-2Dtrial-2Dinfo-2Dform.htm&amp;d=DwMFAg&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=DpfrjJvnOVHpE7Ot39t6f1qEZC9zYmJKbx_ADH15ZKM&amp;m=qH3uKvjYCZFPRnV1bDG9X8phMaHqMmYE1Rhmi4594Sk&amp;s=ZFOFMu2JeOcelCJIO1Z01G9rpAAxW_U3m_ITNm1yPOY&amp;e=\"><span class=\"s2\">Learn about the new form here<\/span><\/a>.<\/span><\/p>\r\n<p class=\"p2\"><strong><span class=\"s1\">Second, review\u00a0 <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__grants.nih.gov_grants_guide_notice-2Dfiles_NOT-2DOD-2D15-2D015.html&amp;d=DwMFAg&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=DpfrjJvnOVHpE7Ot39t6f1qEZC9zYmJKbx_ADH15ZKM&amp;m=qH3uKvjYCZFPRnV1bDG9X8phMaHqMmYE1Rhmi4594Sk&amp;s=3SAllNI0UDO27hxD5egs0QuW2ZtEcaMzOa_p252Wi_M&amp;e=\"><span class=\"s2\">the updated NIH definition of a clinical trial<\/span><\/a>.\u00a0<\/span><\/strong><span class=\"s1\">Visit the NIH\u00a0<a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__grants.nih.gov_policy_clinical-2Dtrials_definition.htm&amp;d=DwMFAg&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=DpfrjJvnOVHpE7Ot39t6f1qEZC9zYmJKbx_ADH15ZKM&amp;m=qH3uKvjYCZFPRnV1bDG9X8phMaHqMmYE1Rhmi4594Sk&amp;s=FpWpL1WKXzcvJZZe-qWhnwbrGOUsYIfTLyPkiuBowrQ&amp;e=\"><span class=\"s2\">webpage on the definition<\/span><\/a> that includes case studies, FAQs and other resources that can help. Still unsure?\u00a0 Contact your NIH program official or the scientific point of contact listed on the funding opportunity announcement to which you are applying.<\/span><\/p>\r\n<p class=\"p2\"><span class=\"s1\"><b>Third, familiarize yourself with NIH policy changes related to enhancing stewardship of clinical trials<\/b>.<\/span><\/p>\r\n<p class=\"p2\"><span class=\"s1\">Visit the new <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__grants.nih.gov_policy_clinical-2Dtrials.htm&amp;d=DwMFAg&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=DpfrjJvnOVHpE7Ot39t6f1qEZC9zYmJKbx_ADH15ZKM&amp;m=qH3uKvjYCZFPRnV1bDG9X8phMaHqMmYE1Rhmi4594Sk&amp;s=E8jMT6sw5R_6a9xDIuIhfJQ4lPXuzC2ketlIv19dcMs&amp;e=\"><span class=\"s2\">Clinical Trial Requirements for NIH Grantees and Contractors web page<\/span><\/a> to bring together all the information you need to know.\u00a0 Please review this information carefully.\u00a0 Your attention to detail will be critical to ensuring successful funding of your clinical trial awards.<\/span><span class=\"s1\">\u00a0<\/span><\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

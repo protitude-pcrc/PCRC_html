@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "3f8eafa8-3dc1-484e-b1a9-1c61033b2a60"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Mogra&subset=gujarati#regular"
+        }
+    ],
+    "name": [
+        {
+            "value": "Mogra regular (gujarati)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Mogra"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "normal"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:13:\"Mogra:regular\";s:6:\"subset\";s:8:\"gujarati\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:01:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:01:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2f636896-a5a0-4bdf-8074-2ca54f732f28"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d4473324-ddd6-464a-a960-bc183f891419"
+        }
+    ],
+    "field_tags": []
+}

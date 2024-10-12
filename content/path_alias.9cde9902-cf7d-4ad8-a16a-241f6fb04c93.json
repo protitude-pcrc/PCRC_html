@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "9cde9902-cf7d-4ad8-a16a-241f6fb04c93"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/555c202b-c00b-494c-aed2-003666d4001f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/july-13th-webinar-implementation-science"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

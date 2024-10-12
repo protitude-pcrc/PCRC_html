@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "dc11cb3b-ee79-499e-9273-4dc5735dcbbb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/ced8d6d2-bbcc-453b-b5ec-4bed673f18a8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/dyctiostelium"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

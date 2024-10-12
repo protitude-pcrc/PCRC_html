@@ -1,0 +1,113 @@
+{
+    "uuid": [
+        {
+            "value": "5dda2b83-04c1-433d-8b75-6122d8f1d35e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "directory",
+            "target_type": "node_type",
+            "target_uuid": "79e51216-81f7-458b-8bed-a5a563ac74ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-01T13:34:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "ea51790b-3f51-4230-8332-0ade273c9f9b"
+        }
+    ],
+    "title": [
+        {
+            "value": "Claire Richards"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-20T16:35:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-01T13:34:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "body": [],
+    "feeds_item": [],
+    "field_area_of_focus": [],
+    "field_directory_image": [],
+    "field_email": [],
+    "field_list_assignment": [],
+    "field_membership_title": [],
+    "field_name": [
+        {
+            "title": "",
+            "given": "Claire",
+            "middle": "",
+            "family": "Richards",
+            "generational": "",
+            "credentials": ""
+        }
+    ],
+    "field_organization": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "327aefcb-9917-4ebf-a3e2-b135edc0bf4c"
+        }
+    ],
+    "field_publication_title": [],
+    "field_scientific_title": []
+}

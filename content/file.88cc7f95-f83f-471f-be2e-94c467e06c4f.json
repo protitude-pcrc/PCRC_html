@@ -1,0 +1,71 @@
+{
+    "uuid": [
+        {
+            "value": "88cc7f95-f83f-471f-be2e-94c467e06c4f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "image",
+            "target_type": "file_type",
+            "target_uuid": "5a44da8e-ed3c-44a3-a323-ce4123599632"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "filename": [
+        {
+            "value": "pcrc_map_n168_090518r.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/pcrc_map_n168_090518r.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 94159
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-09-17T19:25:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-09-17T19:25:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/pcrcmapn168090518rjpg",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_image_alt_text": [],
+    "field_image_title_text": []
+}

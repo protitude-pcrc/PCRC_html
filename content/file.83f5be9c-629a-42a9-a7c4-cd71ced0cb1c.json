@@ -1,0 +1,71 @@
+{
+    "uuid": [
+        {
+            "value": "83f5be9c-629a-42a9-a7c4-cd71ced0cb1c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "image",
+            "target_type": "file_type",
+            "target_uuid": "5a44da8e-ed3c-44a3-a323-ce4123599632"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "filename": [
+        {
+            "value": "davidson-patricia-nursing-faculty.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/directory\/davidson-patricia-nursing-faculty.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 109646
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-03-24T15:54:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-03-24T15:54:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/davidson-patricia-nursing-facultyjpg",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_image_alt_text": [],
+    "field_image_title_text": []
+}

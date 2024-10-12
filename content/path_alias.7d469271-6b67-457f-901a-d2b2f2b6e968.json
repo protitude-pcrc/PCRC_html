@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7d469271-6b67-457f-901a-d2b2f2b6e968"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/8bda2f01-35e3-4caf-9955-f16aff738d53"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/nih-across-lifespan-workshop"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

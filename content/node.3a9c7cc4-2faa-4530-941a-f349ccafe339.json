@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "3a9c7cc4-2faa-4530-941a-f349ccafe339"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c4c1b62a-869d-454a-b78c-bde33aba2db8"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c4c1b62a-869d-454a-b78c-bde33aba2db8"
+        }
+    ],
+    "title": [
+        {
+            "value": "Research!America highlights the PCRC"
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-05-16T01:05:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2017-05-16T01:05:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/researchamerica-highlights-pcrc",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "The PCRC was highlighted recently by Research!America.\r\nThe article highlights the PCRC's\u00a0high-impact research, namely the Statin Discontinuation Trial.\r\n\r\nRead more here: <strong>http:\/\/www.researchamerica.org\/blog\/palliative-care-research-improves-quality-life<\/strong>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6dd63752-6c14-4b63-b4b3-629fa676ba6e"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a1db425d-2f66-457c-be62-cdff25c1bd0f"
+        }
+    ]
+}

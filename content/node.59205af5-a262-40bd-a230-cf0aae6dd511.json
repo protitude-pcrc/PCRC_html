@@ -1,0 +1,110 @@
+{
+    "uuid": [
+        {
+            "value": "59205af5-a262-40bd-a230-cf0aae6dd511"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "AGING Initiative Webinar on Funding Opportunities in Multiple Chronic Conditions Research"
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-01-03T22:46:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2017-01-03T22:46:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/aging-initiative-webinar-funding-opportunities-multiple-chronic-conditions-research",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "The AGING Initiative is hosting a January 23rd webinar featuring funding opportunities in Multiple Chronic Conditions Research with representatives from NIA, PCORI, and AHRQ. \u00a0See the announcement below:\r\n\r\n<strong>Funding Opportunities in Multiple Chronic Conditions (MCCs) Research<\/strong>\r\n\r\nDate: <strong>January 23, 2017\r\n<\/strong>Time: <strong>3:00pm-4:30pm EDT\r\n<\/strong>3:00pm EDT | 2:00pm CDT | 1:00pm MDT | 12:00pm PDT\r\n\r\n<strong>Panelists:<\/strong>\r\n\r\n<strong>Marcel Salive, MD, MPH<\/strong><strong>\r\n<\/strong>Division of Geriatrics and Clinical Gerontology,\r\nNational Institute on Aging (NIA)\r\n\r\n<strong>Neeraj K. Arora, MS, PhD\r\n<\/strong>Senior Program Officer, Improving Healthcare Systems,\r\nPatient Centered Outcomes Research Institute (PCORI)\r\n\r\n<strong>\u00a0<\/strong><strong>Arlene S. Bierman, MD, MS\r\n<\/strong>Director, Center for Evidence and Practice Improvement\r\nAgency for Healthcare Research and Quality (AHRQ)\r\n\r\n&nbsp;\r\n\r\n<strong><em>Early registration is highly encouraged. <\/em><\/strong><em>\r\nRegister here: <\/em><a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__mpci.webex.com_mpci_onstage_g.php-3FMTID-3Dec3715d65e634023fae060931a078ff27&amp;d=DQMFAg&amp;c=shNJtf5dKgNcPZ6Yh64b-A&amp;r=tX3IW7cD-UsuUyOhhWt9oK8q33qpetNKL9z3yFzqNUA&amp;m=Iv84iH8_nYRBfLidztI4ccDkZFfxinfGPBQVrqceMHY&amp;s=Kuc_xBdzcc_E0eoZd-MuMFSvAvnCCX063501qP8KDjU&amp;e=\">Webinar Registration.<\/a>\r\n\r\n<strong>\u00a0<\/strong><strong>Webinar Access link:<\/strong>\r\n<a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__mpci.webex.com_mpci_onstage_g.php-3FMTID-3Dec3715d65e634023fae060931a078ff27&amp;d=DQMFAg&amp;c=shNJtf5dKgNcPZ6Yh64b-A&amp;r=tX3IW7cD-UsuUyOhhWt9oK8q33qpetNKL9z3yFzqNUA&amp;m=Iv84iH8_nYRBfLidztI4ccDkZFfxinfGPBQVrqceMHY&amp;s=Kuc_xBdzcc_E0eoZd-MuMFSvAvnCCX063501qP8KDjU&amp;e=\">https:\/\/mpci.webex.com\/mpci\/onstage\/g.php?MTID=ec3715d65e634023fae060931a078ff27\r\n<\/a><strong>Phone Number: <\/strong>415-655-0002 |<strong>Access Code: <\/strong>662 765 729\r\n\r\nThe webinar will be presented by <strong>Dr. Marcel Salive<\/strong>, NIA, <strong>Dr. Neeraj Arora<\/strong>, PCORI and <strong>Dr. Arlene Bierman<\/strong>, AHRQ. Learn more about the developing funding priorities and upcoming funding opportunities relating to multiple chronic conditions in older adults.\r\n\r\n<em>Questions you\u2019d like to be answered during the webinar will be accepted prior to the webinar; \u00a0<\/em><em>Please send questions to <\/em><a href=\"mailto:Kathryn.Anzuoni@meyersprimary.org\"><em>Kathryn.Anzuoni@meyersprimary.org<\/em><\/a><em> by Wednesday, January 18.<\/em>\r\n\r\n<em>\u00a0<\/em>\r\n\r\nThe HCSRN-OAICs AGING (Advancing Geriatrics Infrastructure &amp; Network Growth) Initiative is an NIA-funded endeavor with the goal of connecting investigators and resources within the Health Care Systems Research Network (HCSRN) with those in the Claude D. Pepper Older Americans Independence Centers (OAICs) to create a national resource to advance an interdisciplinary research agenda focused on older adults with multiple chronic conditions (MCCs).\u00a0 This webinar series is hosted by the Dissemination Workgroup, co-led by <strong>Dr. Leah Hanson<\/strong>, HealthPartners, and <strong>Dr. Heather Whitson<\/strong>, Duke University, of the <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=http-3A__www.hcsrn.org_en_Collaboration_Consortia_AGING-5FInitiative.html&amp;d=DQMFAg&amp;c=shNJtf5dKgNcPZ6Yh64b-A&amp;r=tX3IW7cD-UsuUyOhhWt9oK8q33qpetNKL9z3yFzqNUA&amp;m=Iv84iH8_nYRBfLidztI4ccDkZFfxinfGPBQVrqceMHY&amp;s=2GRp4Bd9oGdNGPsrnE-DxB1GHXJ0z4qDjYOPssps1Wk&amp;e=\">HCSRN-OAICs AGING Initiative<\/a>.\r\n\r\nFor more information about joining this webinar, please contact Kathryn Anzuoni at: <a href=\"mailto:Kathryn.Anzuoni@MeyersPrimary.org\">Kathryn.Anzuoni@MeyersPrimary.org<\/a>\r\n\r\n&nbsp;",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6dd63752-6c14-4b63-b4b3-629fa676ba6e"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a1db425d-2f66-457c-be62-cdff25c1bd0f"
+        }
+    ]
+}

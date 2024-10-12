@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "2d415a77-0e82-43e2-98bb-9151bf6077f4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-04-26T20:42:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c4c1b62a-869d-454a-b78c-bde33aba2db8"
+        }
+    ],
+    "title": [
+        {
+            "value": "PCRC De-identified Data Repository (DiDR)"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-02-07T00:38:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-04-26T20:42:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/corescenters\/data-informatics-statistics-core-disc\/pcrc-de-identified-data-repository-didr",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The PCRC Data Informatics and Statistics Core (DISC) hosts a de-identified quantitative&nbsp;data repository (DiDR) of PCRC-supported and non-PCRC end-of-life and palliative care (EOLPC) research study data.<\/p>\r\n\r\n<p>Anyone may request the quantitative&nbsp;data and download related study materials for secondary analysis.<\/p>\r\n\r\n<p>Please use the buttons below to browse available studies in the DiDR and to&nbsp;view previous data requests.&nbsp;<\/p>\r\n\r\n<center>\r\n<p>[button url=\"\/studies\" size=\"medium\" color=\"blue\"]Browse Studies[\/button]<br \/>\r\n[button url=\"\/requests\" size=\"medium\" color=\"green\"]View Requests[\/button]<br \/>\r\n&nbsp;<\/p>\r\n<\/center>\r\n\r\n<p>To request data from the PCRC's De-identified repository please use the button below to submit the data request form. &nbsp;<\/p>\r\n\r\n<p>[center][button url=\"https:\/\/airtable.com\/shrEtCq5FbpGUjDsU\" target=\"_blank\" size=\"medium\" color=\"orange\"]Data Request Form[\/button][\/center]<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>To donate EOLPC data from a closed study to the DiDR, please use the button below to submit the data deposit request form and then&nbsp;<a href=\"mailto:RILEY.GILLETTE@CUANSCHUTZ.EDU;pcrc@ucdenver.edu?subject=Donate%20Data%20to%20DiDR\" target=\"_blank\">PCRC Data Manager<\/a>&nbsp;will be in contact.<\/p>\r\n\r\n<p>[center][button url=\"https:\/\/airtable.com\/shr35qSMIQKp6L7wB\" target=\"_blank\" size=\"medium\" color=\"blue\"]Data Deposit Request Form[\/button][\/center]<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p><em>Please <a href=\"mailto:pcrc@ucdenver.edu;KATHRYN.COLBORN@CUANSCHUTZ.EDU?subject=DiDR\" rel=\"noopener\" target=\"_blank\"><strong>contact us<\/strong><\/a> for any additional questions related to the DiDR.<\/em><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

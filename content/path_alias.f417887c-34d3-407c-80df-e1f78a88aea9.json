@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f417887c-34d3-407c-80df-e1f78a88aea9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/ccb8bea4-e74f-4f67-87d6-42784ce258d6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/nih-workshop-webcast-recording-single-irbs"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

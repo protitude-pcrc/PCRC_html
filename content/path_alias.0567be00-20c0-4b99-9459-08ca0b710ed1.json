@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "0567be00-20c0-4b99-9459-08ca0b710ed1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/28d04899-9a65-483d-884c-9cc6f7fd55a2"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/study\/interdisciplinary-models-icu-based-palliative-care"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

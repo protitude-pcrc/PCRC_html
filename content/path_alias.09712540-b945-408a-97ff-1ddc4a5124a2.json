@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "09712540-b945-408a-97ff-1ddc4a5124a2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/42e4651f-9413-4282-aace-cbd28a0f4a39"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/pcrchospiceandpalliativecareutdata-entry-formspdf"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

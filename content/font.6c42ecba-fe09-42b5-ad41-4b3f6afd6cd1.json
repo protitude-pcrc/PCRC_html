@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "6c42ecba-fe09-42b5-ad41-4b3f6afd6cd1"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Saira&subset=vietnamese#600"
+        }
+    ],
+    "name": [
+        {
+            "value": "Saira 600 (vietnamese)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Saira"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "600"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:9:\"Saira:600\";s:6:\"subset\";s:10:\"vietnamese\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:01:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:01:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "3a52e156-ae57-4a95-a295-e559e21bea2e"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "cdf1899f-717b-43ca-8ecb-e18813b65a79"
+        }
+    ],
+    "field_tags": []
+}

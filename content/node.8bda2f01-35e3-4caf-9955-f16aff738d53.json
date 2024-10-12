@@ -1,0 +1,103 @@
+{
+    "uuid": [
+        {
+            "value": "8bda2f01-35e3-4caf-9955-f16aff738d53"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "NIH \"Across the Lifespan\" Workshop"
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-05-02T06:38:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2017-05-02T06:38:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/nih-across-lifespan-workshop",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p class=\"p1\"><span class=\"s1\">NIH workshop \u201cAcross the Lifespan\u201d which will take place at their Bethesda campus on June 1 and 2, 2017. You can find the relevant information at the workshop <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__www.nia.nih.gov_about_events_2017_inclusion-2Dacross-2Dlifespan&amp;d=DwMGaQ&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=Qk3dqNDVdWdnjgQB8KHIhI05k-DbXyVv7porITV0b5s&amp;s=LeSyjA6KMhszlbrRjsEGgEHzGh7RdB_-qafpEKkVUmQ&amp;e=\"><span class=\"s2\">event page<\/span><\/a> and <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__www.nia.nih.gov_inclusion-2Dacross-2Dlifespan&amp;d=DwMGaQ&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=Qk3dqNDVdWdnjgQB8KHIhI05k-DbXyVv7porITV0b5s&amp;s=iiMlXb_J9pfDaYiQ-QO0WANkVXA1cDUWlc5b7-8xQRw&amp;e=\"><span class=\"s2\">registration page<\/span><\/a>. In-person attendance will be limited, so those interested in attending should register as soon as feasible.<\/span><\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        []
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "ef5d7bb0-20f4-40cc-b515-9b0eea717e23"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "APRIL 2017, ISSUE 24 PCRC NEWSLETTER"
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-04-27T04:05:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2017-04-27T04:05:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/april-2017-issue-24-pcrc-newsletter",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<a href=\"https:\/\/pcrc.box.com\/v\/April2017Newsletter\" target=\"_blank\" rel=\"noopener noreferrer\">View and download the April\u00a0PCRC Newsletter<\/a>\r\n\r\n<iframe src=\"https:\/\/duke.app.box.com\/embed\/s\/ztz9ugkhetv6kgyaan2efgp7o3wcz200\" width=\"500\" height=\"400\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "97b6363a-ff22-4988-adc2-e592a56a7fb7"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "8bf6fa29-8b3c-4cb7-a717-2758d2c85f54"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/5341b916-1fb1-4410-8c5a-25c2e6244a69"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-17-january-2016"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

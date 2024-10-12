@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "20de023c-5189-4eae-911b-aa05b73e874e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/63dbc1a3-a27f-4134-b03f-fdd242eaca01"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/who-we-are"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

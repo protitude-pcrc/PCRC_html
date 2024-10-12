@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "418f5230-0d2c-4014-b278-51520dd56c23"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/15fa9d99-150c-4b3d-bc92-c1c962c70bcb"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/burstpaste"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

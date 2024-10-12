@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "4235b960-1288-4180-bcfa-059330954340"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:35:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "NPCRC RFAs"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-09-17T04:23:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2015-09-17T04:23:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/npcrc-rfas",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "In an effort to support investigators conducting clinical research in palliative care who wish to maximize their chances of larger extramural funding, the National Palliative Care Research Center (NPCRC) is soliciting applications for Pilot\/Exploratory Project Grants (PEP), Junior Faculty Career Development Awards (CDA), and our new opportunity for mid-career investigators, Transition to Independence Awards (TIA). These RFAs are limited to applications that focus on palliative care research projects for seriously ill patients and their families in one or more of the three specific areas:\r\n<ol>\r\n \t<li>\u00a0Exploring the relationship of pain and other distressing symptoms to quality and quantity of life, independence, function, and disability and developing interventions directed at their treatment in patients with advanced and chronic illnesses;<\/li>\r\n \t<li>\u00a0Studying methods of improving communication between patients living with serious illness, their families and their health care providers;<\/li>\r\n \t<li>\u00a0Evaluating models and systems of care for patients living with advanced illness and their families.Letters of Intent are due November 2, 2015. Full proposals are accepted by invitation only and are due January 15, 2016. All awards will start July 1, 2016.<\/li>\r\n<\/ol>\r\nFor more information about the RFA and application process, please visit the NPCRC\u2019s web site at: <a href=\"http:\/\/www.npcrc.org\" target=\"_blank\">www.npcrc.org<\/a>\r\n\r\n<a href=\"\/sites\/default\/files\/migrated_files\/RFA-TIA_2015.pdf\"><img class=\"alignnone wp-image-228\" src=\"\/sites\/default\/files\/migrated_files\/pdf-icon.png\" alt=\"pdf-file\" width=\"30\" height=\"30\" \/>RFA Transition to Independence Award<\/a>\r\n\r\n<a href=\"\/sites\/default\/files\/migrated_files\/RFA-CDA_2015.pdf\"><img class=\"alignnone wp-image-228\" src=\"\/sites\/default\/files\/migrated_files\/pdf-icon.png\" alt=\"pdf-file\" width=\"30\" height=\"30\" \/>RFA Junior Faculty Career Development Award<\/a>\r\n\r\n<a href=\"\/sites\/default\/files\/migrated_files\/RFA-PILOT_2015.pdf\"><img class=\"alignnone wp-image-228\" src=\"\/sites\/default\/files\/migrated_files\/pdf-icon.png\" alt=\"pdf-file\" width=\"30\" height=\"30\" \/>RFA Pilot and Exploratory Project Support Grant<\/a>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

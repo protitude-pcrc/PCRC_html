@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ddabbe33-b2f5-45ae-add2-ac2d9e718473"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/a2ee9b06-89c3-4f24-b9bb-dc1ab12a5822"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/brettstarn"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

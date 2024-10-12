@@ -1,0 +1,110 @@
+{
+    "uuid": [
+        {
+            "value": "31510500-3f11-4473-b2b3-16b0593a2942"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-12-15T00:09:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "NCI-Sponsored Cancer Caregiving Webinar Series"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-12-15T00:06:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-12-15T00:09:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/nci-sponsored-cancer-caregiving-webinar-series",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p align=\"center\"><b>Cancer Caregiving Webinar Series<\/b><\/p>\r\n\r\n<p align=\"center\"><b>Supporting the Science of Informal Cancer Caregiving:&nbsp;<\/b><\/p>\r\n\r\n<p align=\"center\"><b>Highlights of NCI-Funded Research<\/b><\/p>\r\n\r\n<p align=\"center\"><br aria-hidden=\"true\" \/>\r\n<b>Tuesday, January 18, 2022<\/b><\/p>\r\n\r\n<p align=\"center\"><b>Wednesday, February 23, 2022<\/b><\/p>\r\n\r\n<p align=\"center\"><b>Thursday, March 17, 2022<\/b><\/p>\r\n\r\n<p align=\"center\"><b>Tuesday, April 19, 2022<\/b><\/p>\r\n\r\n<p align=\"center\"><b>Wednesday, May 18, 2022<\/b><\/p>\r\n\r\n<p align=\"center\"><b>&nbsp;<\/b><\/p>\r\n\r\n<p align=\"center\"><b>1:00 PM \u2013 2:00 PM ET<\/b><\/p>\r\n\r\n<p align=\"center\"><b>&nbsp;<\/b><\/p>\r\n\r\n<p align=\"center\"><a data-auth=\"NotApplicable\" data-linkindex=\"1\" href=\"https:\/\/urldefense.com\/v3\/__https:\/cbiit.webex.com\/mw3300\/mywebex\/default.do?nomenu=true&amp;siteurl=cbiit&amp;service=6&amp;rnd=0.1835165151248287&amp;main_url=https*3A*2F*2Fcbiit.webex.com*2Fec3300*2Feventcenter*2Fprogram*2FprogramDetail.do*3FtheAction*3Ddetail*26internalProgramTicket*3D4832534b000000056815f8bf015d9bcd169981612f23332f307c7984b508580d7df3495732619f8c*26siteurl*3Dcbiit*26internalProgramTicketUnList*3D4832534b000000056815f8bf015d9bcd169981612f23332f307c7984b508580d7df3495732619f8c*26cProgViewID*3D11627227*26PRID*3D8d6805532af26e7e0042b88c3230b8fc__;JSUlJSUlJSUlJSUlJSUlJSUlJQ!!Fou38LsQmgU!71VJ_9a1BgEWxBTlPjbBGERhDdULu9mwpNSfx49_ADZWYTj8f_vDTSZ4SDsUIg$\" rel=\"noopener noreferrer\" target=\"_blank\"><b>Register Here<\/b><\/a><\/p>\r\n\r\n<p><b>&nbsp;<\/b><\/p>\r\n\r\n<p><b>Purpose:&nbsp;<\/b><\/p>\r\n\r\n<p><b>&nbsp;<\/b><\/p>\r\n\r\n<p>We invite you to attend a 5-part webinar series on informal cancer caregiving.&nbsp; This webinar series will invite National Cancer Institute (NCI)-funded grantees to describe their accomplishments, challenges, and future directions in cancer caregiving research.&nbsp; The first session will provide brief background information of the current state of the science focused on cancer caregiving. Each session will have dedicated presentations from each of the funded grantees.&nbsp; This webinar series will conclude in May with an NCI-led discussion of themes among the funded grants and key opportunities for future research to support cancer caregiving.&nbsp;&nbsp;&nbsp;<\/p>\r\n\r\n<p><b>&nbsp;<\/b><\/p>\r\n\r\n<p><b>Background:<\/b><\/p>\r\n\r\n<p>Over the last decade, NCI has placed a strong emphasis on advancing research on informal cancer caregiving. In 2015, NCI hosted a workshop to identify research priorities,&nbsp;and in response, NCI developed a funding opportunity announcement (FOA),&nbsp;<i>Intervening with Cancer Caregivers to Improve Patient Health Outcomes and Optimize Health Care Utilization&nbsp;<\/i><a data-auth=\"NotApplicable\" data-linkindex=\"2\" href=\"https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/PAR-19-352.html\" rel=\"noopener noreferrer\" target=\"_blank\">PAR-19-352<\/a>&nbsp;(R01),&nbsp;<a data-auth=\"NotApplicable\" data-linkindex=\"3\" href=\"https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/par-19-355.html\" rel=\"noopener noreferrer\" target=\"_blank\">PAR-19-355<\/a>&nbsp;(R21)<i>,<\/i>&nbsp;to support interventions for cancer caregivers.&nbsp; Informal cancer caregiving research continues to be a priority at NCI and in&nbsp;the Healthcare Delivery Research Program.&nbsp; NCI remains committed to supporting future research in this area.&nbsp;&nbsp;<\/p>\r\n\r\n<p><b>Intended Audience:<\/b>&nbsp;This webinar is intended for extramural investigators, advocates, and the public.&nbsp; No experience with cancer caregiving research is necessary.<\/p>\r\n\r\n<p><br aria-hidden=\"true\" \/>\r\nFor background on NCI\u2019s research focusing on cancer caregiving, please see the following resource:<\/p>\r\n\r\n<p><a data-auth=\"NotApplicable\" data-linkindex=\"4\" href=\"https:\/\/urldefense.com\/v3\/__https:\/healthcaredelivery.cancer.gov\/caregiving\/__;!!Fou38LsQmgU!71VJ_9a1BgEWxBTlPjbBGERhDdULu9mwpNSfx49_ADZWYTj8f_vDTSYXZctw5Q$\" rel=\"noopener noreferrer\" target=\"_blank\">https:\/\/healthcaredelivery.cancer.gov\/caregiving\/<\/a><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Supporting the Science of Informal Cancer Caregiving: Highlights of NCI-Funded Research"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "79f19229-97ab-4374-b750-70a60097eb51"
+        }
+    ]
+}

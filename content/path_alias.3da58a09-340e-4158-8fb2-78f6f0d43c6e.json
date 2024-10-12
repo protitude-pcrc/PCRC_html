@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "3da58a09-340e-4158-8fb2-78f6f0d43c6e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/e0bae151-3531-4d80-bd4f-3b5b92348d78"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/study-summary-pcdmpdf"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

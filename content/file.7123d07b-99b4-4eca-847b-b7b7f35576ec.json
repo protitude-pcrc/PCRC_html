@@ -1,0 +1,69 @@
+{
+    "uuid": [
+        {
+            "value": "7123d07b-99b4-4eca-847b-b7b7f35576ec"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "document",
+            "target_type": "file_type",
+            "target_uuid": "aba37c63-b654-405f-a34e-d829c2ad7580"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "filename": [
+        {
+            "value": "Codebook100819.pdf"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/dictionaries\/Codebook100819.pdf"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/pdf"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 157406
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-03-24T17:20:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-03-24T17:30:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/codebook100819pdf",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ]
+}

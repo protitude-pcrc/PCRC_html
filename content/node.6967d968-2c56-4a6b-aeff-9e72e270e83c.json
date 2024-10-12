@@ -1,0 +1,122 @@
+{
+    "uuid": [
+        {
+            "value": "6967d968-2c56-4a6b-aeff-9e72e270e83c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "directory",
+            "target_type": "node_type",
+            "target_uuid": "79e51216-81f7-458b-8bed-a5a563ac74ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-01-05T18:46:14+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "ea51790b-3f51-4230-8332-0ade273c9f9b"
+        }
+    ],
+    "title": [
+        {
+            "value": "Judith Baggs"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-20T16:35:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-01-05T18:46:14+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "body": [],
+    "feeds_item": [],
+    "field_area_of_focus": [],
+    "field_directory_image": [
+        {
+            "alt": "Judith Baggs",
+            "title": "",
+            "width": 200,
+            "height": 200,
+            "target_type": "file",
+            "target_uuid": "622e1438-634a-4ead-956f-863832791ffd"
+        }
+    ],
+    "field_email": [],
+    "field_list_assignment": [],
+    "field_membership_title": [],
+    "field_name": [
+        {
+            "title": "",
+            "given": "Judith",
+            "middle": "",
+            "family": "Baggs",
+            "generational": "",
+            "credentials": "PhD, RN, FAAN"
+        }
+    ],
+    "field_organization": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "af6de4f5-c835-43bb-a6ba-a49144330b67"
+        }
+    ],
+    "field_publication_title": [],
+    "field_scientific_title": []
+}

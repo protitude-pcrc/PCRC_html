@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "4340808e-390c-4055-a9b9-e5c2ae33ad3c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/c752cae4-8dcc-47b0-9121-7fc7f0bf8e22"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/trophyteam"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "67975cec-5ff3-486b-98fe-1caad4a617b4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7baedd37-63b1-4a79-9494-0062a16ddb75"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/draft-webinar-announcement"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "fc819276-9993-4a88-8fb5-71091aa8c6aa"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/ea58139e-fc2b-491e-9c8d-52ddc9794c0f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/new-pcrc-publication"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e84b1c58-d359-4fb5-886a-75b160ab4fe2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/08a67312-8b63-410f-9689-0639f1917bf6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-52-january-2023"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

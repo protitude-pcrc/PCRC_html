@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a6819d5d-71e1-446b-a792-18298405d56d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/2dab4d87-d614-4850-8239-15ffd1a5075a"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/deboraarnd"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

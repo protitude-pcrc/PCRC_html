@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "8d2a565f-1719-4e72-992c-c05f802791bf"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/39fdc20e-e95b-4fd7-8823-4dceb53962c8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/cleanedcodebookpdf"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

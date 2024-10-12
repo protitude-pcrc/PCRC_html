@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "10ca4508-b15a-4ac0-81d1-7f88dadfc787"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/ba43fbba-69bc-4e87-ac28-448ca97b98d0"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/drose"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

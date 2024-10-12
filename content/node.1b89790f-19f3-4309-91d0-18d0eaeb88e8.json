@@ -1,0 +1,237 @@
+{
+    "uuid": [
+        {
+            "value": "1b89790f-19f3-4309-91d0-18d0eaeb88e8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-18T14:58:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "title": [
+        {
+            "value": "Mindfulness-Based Multi-Symptom CBT for Advanced Cancer Patients"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-18T14:54:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-18T14:58:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/study\/mindfulness-based-multi-symptom-cbt-advanced-cancer-patients",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [],
+    "field_approved_data_requests": [],
+    "field_award_number": [],
+    "field_condition_studied": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1a9a9841-c6b9-4156-9470-2eb00019aeda"
+        }
+    ],
+    "field_csr_summary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "c6b3031b-ac9e-49c0-9e9f-af54a920dec0"
+        }
+    ],
+    "field_data_dictionary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "3672a4ae-2bd6-4968-8b5c-45dbc4913aa4"
+        }
+    ],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e494a23c-aea6-4f0b-a534-4b948ddfdb07"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Telephone Implementation of Mindfulness-Based Multi-Symptom CBT for Advanced Cancer Patients"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "24"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": false
+        }
+    ],
+    "field_nct_link_field": [],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d7cd26a3-2482-49da-b75d-bdd120b563ae"
+        }
+    ],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        }
+    ],
+    "field_participant_ethnicity_coll": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "350f6f60-c882-44d9-bf86-2f242d671d54"
+        }
+    ],
+    "field_participant_race": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "88ac74e1-8f30-4ba6-bbe9-d8a410f35170"
+        }
+    ],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bb33a50f-e9de-47ae-80e4-5167ef2b0d2f"
+        }
+    ],
+    "field_pcrc_study_num": [
+        {
+            "value": "17-10"
+        }
+    ],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/pubmed.ncbi.nlm.nih.gov\/31539599\/",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [],
+    "field_study_design": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8efa09b9-e9aa-43b7-bb08-51dcd38fabe3"
+        }
+    ],
+    "field_study_pi": [
+        {
+            "value": "Jennifer Plumb Vilardaga, PhD"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "Duke University"
+        }
+    ],
+    "field_study_setting": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4fb30600-1784-41e5-8d7d-2e45bef6acca"
+        }
+    ],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "89b177d7-1afa-4d2b-bb5a-199a38866463"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p><strong>Context:&nbsp;<\/strong>Patients with advanced cancer face a life-limiting condition that brings a high symptom burden that often includes pain, fatigue, and psychological distress. Psychosocial interventions have promise for managing symptoms but need additional tailoring for these patients' specific needs. Patients with advanced cancer in the community also face persistent barriers-availability of interventions in community clinics as well as financial and illness-related factors-to accessing psychosocial interventions.<\/p>\r\n\r\n<p><strong>Objectives:&nbsp;<\/strong>The aim of the present study was to assess the feasibility and acceptability of telephone implementation of Engage, a novel brief combined Coping Skills Training and Acceptance and Commitment Therapy protocol, for reducing symptoms and increasing quality of life in community patients with advanced cancer.<\/p>\r\n\r\n<p><strong>Methods:&nbsp;<\/strong>Adult patients with advanced cancer receiving care in the community received Engage, four 60-minute manualized telephone sessions delivered by a trained psychotherapist and completed pretreatment and post-treatment assessments.<\/p>\r\n\r\n<p><strong>Results:&nbsp;<\/strong>Engage was feasible, achieving 100% accrual (N = 24) of a heterogeneous sample of patients with advanced cancer, with good retention (88% completed). Acceptability was demonstrated via satisfaction (mean 29 of 32; SD 2), engagement (95% attendance), and use of skills. Secondary analyses pointed to reductions in pain interference, fatigue, psychological distress, and improvements in psychological acceptance and engagement in value-guided activity after treatment.<\/p>\r\n\r\n<p><strong>Conclusion:&nbsp;<\/strong>Engage, our brief novel combined Coping Skills and Acceptance and Commitment Therapy intervention, demonstrated initial feasibility and acceptability when delivered over the telephone and increased access for community clinic patients with advanced cancer. Future research will assess the comparative efficacy of Engage in larger randomized trials.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [
+        {
+            "value": "<p><strong>Keywords:&nbsp;<\/strong>Acceptance; advanced cancer; coping skills; pain; palliative care.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_therapeutic_area": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9f0b313e-b0ad-4af6-94c5-b2cd31413fe1"
+        }
+    ],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4d3f370c-c53a-4fa5-b976-8e7d7eab9dc9"
+        }
+    ]
+}

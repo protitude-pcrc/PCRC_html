@@ -1,0 +1,110 @@
+{
+    "uuid": [
+        {
+            "value": "bc87298c-d6f0-4d51-9c27-3b41a4e5f5eb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-28T18:09:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "title": [
+        {
+            "value": "Accepting Applications: University of Colorado Palliative Care and Aging Research Training (T32)"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-28T17:40:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-28T18:09:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/accepting-applications-university-colorado-palliative-care-and-aging-research-training-t32",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The University of Colorado is currently accepting applications for the <strong>Palliative Care and Aging Research Training (T32)<\/strong>.<\/p>\r\n\r\n<p>Fellowships will be 1-2 years in duration, supported by a Ruth Kirschstein National Research Service Award (NRSA) T32 from the National Institute on Aging (NIA). The goal of this T32 is to prepare postdoctoral fellows for careers as researchers at the intersection of aging and palliative care. This Program builds on the significant palliative care expertise and research opportunities within the University of Colorado, providing mentorship and support for pursuing an individualized program of research and career development.<\/p>\r\n\r\n<p><strong>Applications are due by December 1, 2022 for start dates in 2023.<\/strong><\/p>\r\n\r\n<p>Interested applicants are encouraged to contact Dr. Jean Kutner (<a href=\"mailto:jean.kutner@cuanschutz.edu\">Jean.Kutner@cuanschutz.edu<\/a>)<\/p>\r\n\r\n<p>For general information, please contact Agata Hardin (<a href=\"mailto:agata.hardin@cuanschutz.edu\">agata.hardin@cuanschutz.edu<\/a>)<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>For more information about T32 opportunities at the University of Colorado, click <a href=\"https:\/\/medschool.cuanschutz.edu\/general-internal-medicine\/education\/palliative-care-and-aging-research-training-(t32)\" rel=\"noopener\" target=\"_blank\">HERE<\/a><\/p>\r\n\r\n<p>Link to Flyer: <a href=\"https:\/\/pcrc.box.com\/s\/w8jz1mhihzxymt4mxgrmxhsnbcrmko1o\" rel=\"noopener\" target=\"_blank\">Palliative Care Post-Doctoral Research Fellowship Programs<\/a>&nbsp;(throughout the US)<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Accepting Applications: University of Colorado Palliative Care and Aging Research Training (T32)"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

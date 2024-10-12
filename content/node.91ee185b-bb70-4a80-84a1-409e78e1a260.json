@@ -1,0 +1,130 @@
+{
+    "uuid": [
+        {
+            "value": "91ee185b-bb70-4a80-84a1-409e78e1a260"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "directory",
+            "target_type": "node_type",
+            "target_uuid": "79e51216-81f7-458b-8bed-a5a563ac74ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-03-23T21:52:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5f686ebb-b50d-407c-8038-e50304f18bef"
+        }
+    ],
+    "title": [
+        {
+            "value": "Sangeetha Tadimalla"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-05-30T06:20:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-03-23T21:52:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "body": [],
+    "feeds_item": [],
+    "field_area_of_focus": [
+        {
+            "value": "Post-Award Grants Management"
+        }
+    ],
+    "field_directory_image": [
+        {
+            "alt": "Sangeetha Tadimalla",
+            "title": "",
+            "width": 180,
+            "height": 180,
+            "target_type": "file",
+            "target_uuid": "23547dd7-716b-415e-bed9-02dffcb56d7e"
+        }
+    ],
+    "field_email": [
+        {
+            "value": "sangeetha.tadimalla@cuanschutz.edu"
+        }
+    ],
+    "field_list_assignment": [],
+    "field_membership_title": [],
+    "field_name": [
+        {
+            "title": "",
+            "given": "Sangeetha",
+            "middle": "",
+            "family": "Tadimalla",
+            "generational": null,
+            "credentials": ""
+        }
+    ],
+    "field_organization": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "decc977a-16a5-4c6a-b874-01fcfe20cd8a"
+        }
+    ],
+    "field_publication_title": [],
+    "field_scientific_title": []
+}

@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "ed69193c-b447-4c3d-8303-b975d97155cb"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Nanum Gothic Coding&subset=korean#regular"
+        }
+    ],
+    "name": [
+        {
+            "value": "Nanum Gothic Coding regular (korean)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Nanum Gothic Coding"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "normal"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:27:\"Nanum Gothic Coding:regular\";s:6:\"subset\";s:6:\"korean\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:01:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:01:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8f451f1d-cfa8-4e10-9377-429acc145808"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2be376ff-cb73-457e-9333-7840cbb2b1fe"
+        }
+    ],
+    "field_tags": []
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ea8e1483-328a-4e60-b8bf-1c5813afafc8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/735a9c96-86d4-4bef-996e-bb3b26749f2a"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/neckbugs"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

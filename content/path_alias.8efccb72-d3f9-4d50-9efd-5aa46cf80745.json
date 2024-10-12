@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "8efccb72-d3f9-4d50-9efd-5aa46cf80745"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/2d415a77-0e82-43e2-98bb-9151bf6077f4"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/corescenters\/data-informatics-statistics-core-disc\/pcrc-de-identified-data-repository-didr"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "fd3c4ae6-d1de-47c2-9112-a2db7166110b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/1dfc2ada-706e-40af-b5c1-6a9b993792ec"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/ctsinclair"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

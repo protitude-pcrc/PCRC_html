@@ -1,0 +1,100 @@
+{
+    "uuid": [
+        {
+            "value": "b98c0620-dc56-4876-9370-0d8e0a384d0b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "queue": [
+        {
+            "target_id": "external_advisory_board",
+            "target_type": "entity_queue",
+            "target_uuid": "36c01165-4817-45f7-9fc0-63923b269d06"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2018-04-30T19:27:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "4f9256af-a749-4859-a639-cdce784ab732"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "4f9256af-a749-4859-a639-cdce784ab732"
+        }
+    ],
+    "title": [
+        {
+            "value": "External Advisory Board"
+        }
+    ],
+    "items": [
+        {
+            "target_type": "node",
+            "target_uuid": "b58fd19e-464f-4593-93ee-fc40e0fe9565"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "fc0327cb-e4d9-4cd0-8e6a-449a47cb813e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "8250c49e-0244-49a3-bc77-21f638669b7d"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42abb8fe-ef67-4d02-8f42-c6714bc94d60"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "f12e9c0e-3e6c-4db0-95f1-32722cd2b373"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "9b646dd4-7110-499f-8a36-d1e6a1681801"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "d9ec30b8-28aa-4d4f-b224-174be441dfda"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-30T19:27:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-05-18T14:28:27+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ]
+}

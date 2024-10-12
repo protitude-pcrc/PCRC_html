@@ -1,0 +1,71 @@
+{
+    "uuid": [
+        {
+            "value": "6dd63752-6c14-4b63-b4b3-629fa676ba6e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "news_types",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "6d215aaa-3963-453e-8360-218af67c2384"
+        }
+    ],
+    "revision_created": [],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "name": [
+        {
+            "value": "In the News"
+        }
+    ],
+    "description": [
+        {
+            "value": null,
+            "format": null
+        }
+    ],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "parent": [
+        {
+            "target_id": null
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T16:33:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news-type\/news",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ]
+}

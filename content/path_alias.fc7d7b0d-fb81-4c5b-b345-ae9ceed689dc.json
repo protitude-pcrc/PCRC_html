@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "fc7d7b0d-fb81-4c5b-b345-ae9ceed689dc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/5d9113ab-ef30-45e6-9de6-c55c87a8076a"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/jhjkim"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "871b45ce-a18f-4067-a135-c1a0af3485f4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-08-06T20:30:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "Upcoming Funding Opportunity! "
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-08-06T20:28:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-08-06T20:30:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/upcoming-funding-opportunity",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The AGING Initiative would like to share an upcoming funding opportunity on behalf of the&nbsp;<\/p>\r\n\r\n<p>U.S. Deprescribing Research Network (USDeN):<\/p>\r\n\r\n<p>USDeN seeks an investigator team to participate in a funded electronic data harmonization initiative related to deprescribing.&nbsp; Currently, 4 health systems will soon begin participation in a Data Harmonization workgroup to demonstrate approaches to using routinely available electronic health data in trials of deprescribing. We are seeking a 5th site to join this workgroup. The project will span 24 months, with $70,000 of funding available for the new site. Please visit our website to view the RFA and submit an application.&nbsp;<a data-auth=\"NotApplicable\" href=\"https:\/\/urldefense.com\/v3\/__https:\/nam01.safelinks.protection.outlook.com\/?url=https*3A*2F*2Fdeprescribingresearch.org*2Fdata-harmonization-working-group-collaborating-site-opportunity*2F&amp;data=02*7C01*7C*7C424fdda472cd421a5cde08d837d7269a*7Cee9155fe2da34378a6c44405faf57b2e*7C0*7C0*7C637320744482627581&amp;sdata=tqzP6udMJBxqIc6BGunxDR9owFnX4gknqWLGUVH4Uq4*3D&amp;reserved=0__;JSUlJSUlJSUlJSUlJQ!!OToaGQ!8BZGiGUZgV7IrfwNK0gUGcrJDjPlOc3r1tjFVbSzE8_8iuL7Jemfd7K0qTsW6hZPx1v8CA$\" rel=\"noopener noreferrer\" target=\"_blank\">https:\/\/deprescribingresearch.org\/data-harmonization-working-group-collaborating-site-opportunity\/<\/a>&nbsp;<\/p>\r\n\r\n<p><b>The deadline to apply is&nbsp;<u>September 25, 2020,11:59 PM (PST)<\/u>.<\/b>&nbsp;If you have questions, please email:&nbsp;<a data-auth=\"NotApplicable\" href=\"mailto:admin@deprescribingresearch.org\" rel=\"noopener noreferrer\" target=\"_blank\">admin@deprescribingresearch.org<\/a>.&nbsp;<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "U.S. Deprescribing Research Network (USDeN) Data Harmonization Initiative  "
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

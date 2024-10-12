@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "5013b52b-5190-4232-8ddc-bc0041eac49f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-01-04T22:57:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "6cac56de-08eb-4148-8ad6-c0d54446f554"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "6cac56de-08eb-4148-8ad6-c0d54446f554"
+        }
+    ],
+    "title": [
+        {
+            "value": "Upcoming events & presentations"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-01-04T22:51:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-01-04T22:57:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/upcoming-events-presentations",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h1>&nbsp;<\/h1>\r\n\r\n<h1>PCRC ANNUAL INVESTIGATOR MEETING<\/h1>\r\n\r\n<p>The 2021 PCRC Annual Investigator Meeting is scheduled and all members are welcome!<\/p>\r\n\r\n<ul>\r\n\t<li>Wednesday, March 17, 2021 @ 12:00pm - 5:00pm ET<\/li>\r\n\t<li>Thursday, March 18, 2021 @ 12:00pm - 5:00 pm ET<\/li>\r\n<\/ul>\r\n\r\n<p><b>Please note that&nbsp;<\/b><b>registration is required and there is no cost to attend.<\/b><\/p>\r\n\r\n<h2><a href=\"https:\/\/airtable.com\/shrsD8Zc4e6ik9tpn\">Register here<\/a>[\/button]<\/h2>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

@@ -1,0 +1,104 @@
+{
+    "uuid": [
+        {
+            "value": "06358c33-598c-4728-99c0-18603fe9e98c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "queue": [
+        {
+            "target_id": "publications_committee",
+            "target_type": "entity_queue",
+            "target_uuid": "d026bcaa-c9e0-4418-82ba-70361cb7e10f"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2021-07-07T21:51:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "Publication Committee"
+        }
+    ],
+    "items": [
+        {
+            "target_type": "node",
+            "target_uuid": "b588aa3c-1208-415b-9b8e-102cbd2236a1"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "0e8a2c61-57d2-42f8-8cec-9a59dcd023fc"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "40530390-9f62-4fcf-998e-9a6c0ad51e7b"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "1ffe2340-6136-4512-a51a-e4abcc879756"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "666051a2-164d-43ca-9556-f58d80554fe2"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "6967d968-2c56-4a6b-aeff-9e72e270e83c"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "f67a7bf9-2b61-4874-ab6b-bda6d288de48"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c76e200b-ecfb-4bcf-b7b6-d7e4294f2989"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-07-07T21:51:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-07-21T18:27:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ]
+}

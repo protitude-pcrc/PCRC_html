@@ -1,0 +1,113 @@
+{
+    "uuid": [
+        {
+            "value": "b9631a22-69b6-4c82-9baa-dfa781584faa"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "directory",
+            "target_type": "node_type",
+            "target_uuid": "79e51216-81f7-458b-8bed-a5a563ac74ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-01T13:31:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "Linda Mitchell"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-07-21T21:07:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-01T13:31:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "body": [],
+    "feeds_item": [],
+    "field_area_of_focus": [],
+    "field_directory_image": [],
+    "field_email": [],
+    "field_list_assignment": [],
+    "field_membership_title": [],
+    "field_name": [
+        {
+            "title": "",
+            "given": "Linda",
+            "middle": "",
+            "family": "Mitchell",
+            "generational": "",
+            "credentials": ""
+        }
+    ],
+    "field_organization": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d79b1583-b0b5-41b7-bee3-0fd4f1649317"
+        }
+    ],
+    "field_publication_title": [],
+    "field_scientific_title": []
+}

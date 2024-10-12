@@ -1,0 +1,147 @@
+{
+    "uuid": [
+        {
+            "value": "f0d4182a-eee2-4f7f-85af-f9f94a404697"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "request",
+            "target_type": "node_type",
+            "target_uuid": "8262baa8-4bbb-493f-a05e-aae40f8a4fff"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-12-21T19:36:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "title": [
+        {
+            "value": "Characterizing Negative Communication Experiences at the End of Life for Adolescent and Young Adult Cancer Patients Living in Poverty"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-07-30T22:50:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-12-21T19:36:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/request\/2021-0001",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_affiliation": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a4bb5c6b-b681-4b95-87e6-2987634a5a62"
+        }
+    ],
+    "field_data_requested": [
+        {
+            "target_type": "node",
+            "target_uuid": "5925e705-11e6-453a-b76f-28fa836e5f50"
+        }
+    ],
+    "field_date_of_approval": [
+        {
+            "value": "2021-04-16"
+        }
+    ],
+    "field_date_of_submission": [
+        {
+            "value": "2021-02-23"
+        }
+    ],
+    "field_pcrc_project_review": [],
+    "field_pi": [
+        {
+            "value": "Bryan A. Sisk, MD, MSCI"
+        }
+    ],
+    "field_project_status": [
+        {
+            "value": "<p><em>Published<\/em><\/p>\r\n\r\n<p><a href=\"https:\/\/pubmed.ncbi.nlm.nih.gov\/34870475\/\">Sisk, B. A., Keenan, M. A., Schulz, G. L., Bakitas, M., Currie, E. R., Gilbertson-White, S., Lindley, L. C., Roeland, E. J., &amp; Mack, J. W. (2021).<\/a><\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_reason_deemed_infeasible": [],
+    "field_request_number": [
+        {
+            "value": "2021-0001"
+        }
+    ],
+    "field_request_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ba7bda26-0f55-4e73-8bc3-3cc5408dfd93"
+        }
+    ],
+    "field_research_proposal": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "5a16439d-cde0-4e16-b09a-dce4c12fdb93"
+        }
+    ],
+    "field_research_proposal_abstract": [
+        {
+            "value": "<p>High-quality, open communication is a standard of palliative care for adolescent and young adult (AYA) patients at the end of life. However, clinicians might have difficulty identifying the unique communication needs and preferences of each patient, which can lead to communication breakdowns and less effective care. Exploring negative communication experiences near the end of life is an important first step in understanding how to best individualize communication to meet each patient\u2019s unique needs. As part of a study deposited in the PCRC repository, Mack et al. performed 28 semi-structured interviews with caregivers of AYA patients who died of cancer. The interview guide explored several themes pertinent to our proposed analysis, including prognostic awareness, decisions about location of death, barriers to care, and quality of care. We propose to perform a secondary analysis of these interviews with a focus on characterizing negative communication experiences. I discussed our proposed secondary analysis with Dr. Mack, and she indicated that this dataset contains several instances of negative communication experiences. She was supportive of the feasibility and importance of this analysis.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ]
+}

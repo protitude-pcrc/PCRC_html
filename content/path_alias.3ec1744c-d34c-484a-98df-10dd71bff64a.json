@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "3ec1744c-d34c-484a-98df-10dd71bff64a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/2b4ccd35-651f-437a-8a5d-2ca4c44a9240"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/corescenters\/measurement-core"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

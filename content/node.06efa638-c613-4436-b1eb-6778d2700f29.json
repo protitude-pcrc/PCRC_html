@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "06efa638-c613-4436-b1eb-6778d2700f29"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-07T16:50:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Funding Opportunities"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-01-27T20:01:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-07T16:50:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/funding-opportunities",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>We put all known&nbsp;NIH Funding Opportunity Announcements (FOAs) and non-NIH Funding and Training Opportunities on our announcement page. &nbsp;If a relevant funding announcement is not listed, we would greatly appreciate you e-mailing us at <a href=\"mailto:PCRC@ucdenver.edu\">PCRC@ucdenver.edu<\/a> with the relevant FOA information for posting. Thank you for helping us keep this list up to date for the entire PCRC Community!<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

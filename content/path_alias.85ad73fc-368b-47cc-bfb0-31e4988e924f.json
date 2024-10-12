@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "85ad73fc-368b-47cc-bfb0-31e4988e924f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/936912b9-02a7-4299-97f8-6def8cae5068"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/study\/statin-discontinuation"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

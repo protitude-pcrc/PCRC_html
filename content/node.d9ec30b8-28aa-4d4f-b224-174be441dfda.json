@@ -1,0 +1,122 @@
+{
+    "uuid": [
+        {
+            "value": "d9ec30b8-28aa-4d4f-b224-174be441dfda"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "directory",
+            "target_type": "node_type",
+            "target_uuid": "79e51216-81f7-458b-8bed-a5a563ac74ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-07-07T16:50:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "Anna Gosline"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-07-07T16:48:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-07-07T16:50:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "body": [],
+    "feeds_item": [],
+    "field_area_of_focus": [],
+    "field_directory_image": [
+        {
+            "alt": "Anna Gosline",
+            "title": "",
+            "width": 263,
+            "height": 191,
+            "target_type": "file",
+            "target_uuid": "ed0c86bf-4252-44f2-a81c-f67a94cac26e"
+        }
+    ],
+    "field_email": [],
+    "field_list_assignment": [],
+    "field_membership_title": [],
+    "field_name": [
+        {
+            "title": "",
+            "given": "Anna",
+            "middle": "",
+            "family": "Gosline",
+            "generational": "",
+            "credentials": ""
+        }
+    ],
+    "field_organization": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "32210a09-e2ac-447f-88a7-e5daf00e8b26"
+        }
+    ],
+    "field_publication_title": [],
+    "field_scientific_title": []
+}

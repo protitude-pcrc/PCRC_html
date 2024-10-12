@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "d7931f12-07cd-45e1-9f13-92c97475b2ff"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Cambay&subset=devanagari#italic"
+        }
+    ],
+    "name": [
+        {
+            "value": "Cambay italic (devanagari)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Cambay"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "italic"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "normal"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:13:\"Cambay:italic\";s:6:\"subset\";s:10:\"devanagari\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:02:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:02:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "3a52e156-ae57-4a95-a295-e559e21bea2e"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6964e565-7158-454f-8e66-67ca0d8c11a9"
+        }
+    ],
+    "field_tags": []
+}

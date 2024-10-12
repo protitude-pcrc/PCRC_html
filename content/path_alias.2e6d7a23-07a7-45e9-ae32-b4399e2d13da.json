@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "2e6d7a23-07a7-45e9-ae32-b4399e2d13da"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/ee2a9682-07db-44ad-a159-eb42dbe6f524"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/dcruzoli"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

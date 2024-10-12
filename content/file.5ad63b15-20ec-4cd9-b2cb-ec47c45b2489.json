@@ -1,0 +1,69 @@
+{
+    "uuid": [
+        {
+            "value": "5ad63b15-20ec-4cd9-b2cb-ec47c45b2489"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "document",
+            "target_type": "file_type",
+            "target_uuid": "aba37c63-b654-405f-a34e-d829c2ad7580"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "filename": [
+        {
+            "value": "Ferrell_14-09_datadict.pdf"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/dictionaries\/Ferrell_14-09_datadict.pdf"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/pdf"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 50573
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-01-25T22:21:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-01-25T22:28:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/ferrell14-09datadictpdf",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ]
+}

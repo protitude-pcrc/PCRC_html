@@ -1,0 +1,101 @@
+{
+    "uid": [
+        {
+            "value": 295
+        }
+    ],
+    "uuid": [
+        {
+            "value": "6cac56de-08eb-4148-8ad6-c0d54446f554"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "carriebrill"
+        }
+    ],
+    "mail": [
+        {
+            "value": "user+295@localhost.localdomain"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-05-31T18:14:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-28T19:16:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "site_admin",
+            "target_type": "user_role",
+            "target_uuid": "5c9a605e-cd2a-4369-9afe-b50d97679930"
+        },
+        {
+            "target_id": "administrator",
+            "target_type": "user_role",
+            "target_uuid": "73159c81-e29a-4a24-9f9f-4da7ac7ce0be"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/user\/carriebrill",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_affiliation": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "decc977a-16a5-4c6a-b874-01fcfe20cd8a"
+        }
+    ],
+    "field_are_you_a_pcrc_member_": [],
+    "field_first_name": [
+        {
+            "value": "Aliquam antehabeo dignissim eum fere jumentum secundum tego verto vindico"
+        }
+    ],
+    "field_last_name": [
+        {
+            "value": "Abdo dignissim facilisi fere nutus olim. Abico dolore elit inhibeo pagus suscipit. Diam iusto iustum neo probo sed sino. Abbas caecus defui eligo nisl pala pertineo probo saepius. Ibidem interdico mos oppeto pecus vel."
+        }
+    ],
+    "user_picture": []
+}

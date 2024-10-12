@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "2f4e69ef-97fe-44b8-8002-07c4a830a2da"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/57bf1493-2b6a-45ec-9aae-59390c317959"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/tsannes"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

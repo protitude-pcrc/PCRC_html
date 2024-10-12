@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a2fd7d1b-efe2-4967-ab5e-f83581144fed"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/739116f3-25fe-4646-a3c4-20f9225c0605"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/study-summary-restpdf"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

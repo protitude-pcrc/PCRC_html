@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "8b9bd93a-f8aa-4656-b626-9f807ec1e722"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/2afc555c-c56d-4fbc-8eb6-77ab608cfa73"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/pcrc-data-codebookpdf"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

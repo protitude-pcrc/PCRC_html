@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "eddf0f1d-94cb-4cde-b95e-a74f2d301a9c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-07-12T18:17:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Measurement Core - Cloned"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-05-11T19:19:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-07-12T18:17:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/measurement-core-cloned",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h4>Core Leadership:<\/h4>\r\n\r\n<drupal-entity alt=\"Antonia Bennett\" data-align=\"left\" data-caption=\"Antonia Bennett, PhD\" data-embed-button=\"image_browser\" data-entity-embed-display=\"image:linked_responsive_image\" data-entity-embed-display-settings=\"{&quot;responsive_image_style&quot;:&quot;original&quot;,&quot;image_link&quot;:&quot;&quot;,&quot;link_uri&quot;:&quot;&quot;}\" data-entity-type=\"file\" data-entity-uuid=\"c05e84c2-ac47-4e50-ae09-d2b4244e8f1c\" title=\"Antonia Bennett\"><\/drupal-entity>\r\n\r\n<drupal-entity alt=\"Laura Hanson\" data-align=\"center\" data-caption=\"Laura Hanson, MD\" data-embed-button=\"image_browser\" data-entity-embed-display=\"image:linked_responsive_image\" data-entity-embed-display-settings=\"{&quot;responsive_image_style&quot;:&quot;original&quot;,&quot;image_link&quot;:&quot;&quot;,&quot;link_uri&quot;:&quot;&quot;}\" data-entity-type=\"file\" data-entity-uuid=\"c8bb51ba-3353-4894-9448-71a9f2fb2e4f\" title=\"Laura Hanson\"><\/drupal-entity>\r\n\r\n<p><em>Contact <a href=\"mailto:avbenn@email.unc.edu?subject=PCRC%20Measurement%20Core%20Consultation\">Antonia Bennett<\/a>&nbsp;or <a href=\"mailto:lhanson@med.unc.edu\">Laura Hanson<\/a> for a core consultation.<\/em><\/p>\r\n\r\n<h4>Roles and responsibilities of the Measurement Core:<\/h4>\r\n\r\n<ul>\r\n\t<li>Assist with identifying appropriate survey instruments, especially those for patients and clinicians.<\/li>\r\n\t<li>Assist with planning the logistics of survey data collection, including the mode and method of data capture (self or interviewer administered; by paper, tablet, or web; in clinic or at home), the frequency of assessments and reminders, informational handouts, and training of site staff and survey respondents.<\/li>\r\n\t<li>Provide input on draft qualitative interview discussion guides, and the plan for qualitative data analysis.<\/li>\r\n\t<li>Review and provide input on portions of protocol text,&nbsp;consent forms, and IRB applications regarding survey data collection or qualitative research, as appropriate.<\/li>\r\n\t<li>Assist with identifying the correct scoring algorithm for survey instruments and provide this to the Data &amp; Statistics Core or to the Study Investigator\u2019s statistician.<\/li>\r\n<\/ul>\r\n\r\n<h4>Core Resources:<\/h4>\r\n\r\n<ul>\r\n\t<li><a href=\"\/corescenters\/measurement-core\/pcrc-instrument-library\" rel=\"noopener noreferrer\" target=\"_blank\">PCRC Instrument Library<\/a><\/li>\r\n\t<li><a href=\"\/corescenters\/measurement-core\/instrument-systematic-reviews\" rel=\"noopener noreferrer\" target=\"_blank\">Systematic Reviews of Instruments Relevant to Palliative Care<\/a><\/li>\r\n\t<li><a href=\"\/corescenters\/measurement-core\/implement-patient-reported-outcomes-pros-research-studies\" rel=\"noopener noreferrer\" target=\"_blank\">How to implement Patient Reported Outcomes (PROs) in your research studies<\/a><\/li>\r\n\t<li><a href=\"\/corescenters\/measurement-core\/measurement-references\" rel=\"noopener noreferrer\" target=\"_blank\">Useful references and resources when designing studies and conducting research that includes PROs<\/a><\/li>\r\n\t<li><a href=\"https:\/\/www.effectivehealthcare.ahrq.gov\/search-for-guides-reviews-and-reports\/?pageaction=displayproduct&amp;productID=2442\" target=\"_blank\">AHRQ Evidence Review: Assessment Tools for Palliative Care<\/a><\/li>\r\n<\/ul>\r\n\r\n<p><em><a href=\"https:\/\/pcrc.box.com\/measurement\" rel=\"noopener noreferrer\" target=\"_blank\">Members only resources<\/a><\/em><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

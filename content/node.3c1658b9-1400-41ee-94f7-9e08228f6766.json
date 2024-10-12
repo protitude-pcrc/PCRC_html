@@ -1,0 +1,118 @@
+{
+    "uuid": [
+        {
+            "value": "3c1658b9-1400-41ee-94f7-9e08228f6766"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "directory",
+            "target_type": "node_type",
+            "target_uuid": "79e51216-81f7-458b-8bed-a5a563ac74ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-02-18T19:31:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "Victoria Powell"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-02-18T19:31:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-02-18T19:31:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "body": [],
+    "feeds_item": [],
+    "field_area_of_focus": [],
+    "field_directory_image": [],
+    "field_email": [],
+    "field_list_assignment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a8fb19e0-8715-4d2c-bd30-3533a3efed75"
+        }
+    ],
+    "field_membership_title": [],
+    "field_name": [
+        {
+            "title": "",
+            "given": "Victoria",
+            "middle": "",
+            "family": "Powell",
+            "generational": "",
+            "credentials": ""
+        }
+    ],
+    "field_organization": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "54797394-8b84-4f5e-aee8-9025658d7ec9"
+        }
+    ],
+    "field_publication_title": [],
+    "field_scientific_title": []
+}

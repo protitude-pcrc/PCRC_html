@@ -1,0 +1,52 @@
+{
+    "uuid": [
+        {
+            "value": "7a283730-8431-448c-9a6a-635825c4ed67"
+        }
+    ],
+    "hash": [
+        {
+            "value": "onNkseCGba-kHIWo0QOY9r1brYKe5sF9VSmAQDhniUQ"
+        }
+    ],
+    "type": [
+        {
+            "value": "redirect"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "redirect_source": [
+        {
+            "path": "resources\/documents",
+            "query": []
+        }
+    ],
+    "redirect_redirect": [
+        {
+            "uri": "internal:\/node\/495",
+            "title": null,
+            "options": []
+        }
+    ],
+    "language": [
+        {
+            "value": "en"
+        }
+    ],
+    "status_code": [
+        {
+            "value": 301
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-09-11T21:25:14+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

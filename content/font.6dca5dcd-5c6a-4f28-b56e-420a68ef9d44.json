@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "6dca5dcd-5c6a-4f28-b56e-420a68ef9d44"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Pacifico&subset=latin-ext#regular"
+        }
+    ],
+    "name": [
+        {
+            "value": "Pacifico regular (latin-ext)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Pacifico"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "normal"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:16:\"Pacifico:regular\";s:6:\"subset\";s:9:\"latin-ext\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:01:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:01:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "fb3c9f53-320b-4929-8d89-6cc4f7c8330f"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "10a98e12-b538-4b56-9c26-6fc5480a093e"
+        }
+    ],
+    "field_tags": []
+}

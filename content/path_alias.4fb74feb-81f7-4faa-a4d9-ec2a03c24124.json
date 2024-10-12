@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "4fb74feb-81f7-4faa-a4d9-ec2a03c24124"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/d720ec8e-a7ae-48b1-9353-76fb729404c4"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-46-july-2021"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

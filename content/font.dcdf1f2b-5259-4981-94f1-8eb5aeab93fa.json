@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "dcdf1f2b-5259-4981-94f1-8eb5aeab93fa"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Abhaya Libre&subset=sinhala#600"
+        }
+    ],
+    "name": [
+        {
+            "value": "Abhaya Libre 600 (sinhala)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Abhaya Libre"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "600"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:16:\"Abhaya Libre:600\";s:6:\"subset\";s:7:\"sinhala\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:02:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:02:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "12b0dea5-d190-4fa8-bef6-36049468456b"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4fc1b327-2724-4317-97b7-93225a09ef42"
+        }
+    ],
+    "field_tags": []
+}

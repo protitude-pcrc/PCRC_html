@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "1a4b30ec-eb36-459f-88e3-4f5801692c0a"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Zilla Slab Highlight&subset=latin#700"
+        }
+    ],
+    "name": [
+        {
+            "value": "Zilla Slab Highlight 700 (latin)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Zilla Slab Highlight"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "700"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:24:\"Zilla Slab Highlight:700\";s:6:\"subset\";s:5:\"latin\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:00:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:00:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2f636896-a5a0-4bdf-8074-2ca54f732f28"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c83d4743-2724-408c-9f92-1bbec189df18"
+        }
+    ],
+    "field_tags": []
+}

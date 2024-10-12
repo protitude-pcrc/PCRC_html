@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "eaf40773-b433-4faa-935f-6c1997f99f25"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/c4db4985-6715-40f8-a2e5-2f2227e86834"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/rdoscleaneddatadictionarypdf"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

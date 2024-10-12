@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "afbbff17-dbd2-4314-9cdb-49a229389a54"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/31fcf1bd-623f-4fe3-9f33-6c2ad02f6d16"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/galenspell"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

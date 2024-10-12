@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b2683837-7cc5-4f6b-8752-8f56f6aee217"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/4eaf4632-f891-4676-9064-924b0b35c340"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/walkergree"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

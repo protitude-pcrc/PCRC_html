@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "cde175e3-5736-41f0-be34-d6628d4f30aa"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/taxonomy\/term\/355"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news-type\/news"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

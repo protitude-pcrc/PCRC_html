@@ -1,0 +1,99 @@
+{
+    "uuid": [
+        {
+            "value": "8867fc8b-2b35-40be-a81d-c3ba337f682b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-22T20:34:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Caregiver Profile Fact Sheets"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-10-07T17:13:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-22T20:34:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/corescenters\/caregiver-core\/caregiver-profile-fact-sheets",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Caregiving Resources are available from the <a href=\"http:\/\/www.caregiving.org\/\" target=\"_blank\">National Alliance for Caregiving (NAC).<\/a>&nbsp; Below are links to Caregiver Profile Fact Sheets. These were developed from the data in the Caregiving in the U.S. 2020 report, jointly conducted by the NAC and AARP.<\/p>\r\n\r\n<h4>The \"Typical\" Caregiver Profile Fact Sheets:&nbsp;<\/h4>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/www.caregiving.org\/wp-content\/uploads\/2020\/05\/AARP1316_CGProfile_AfricanAmerican_May7v8.pdf\" rel=\"noopener\" target=\"_blank\">African American Caregiver<\/a><\/li>\r\n\t<li><a href=\"https:\/\/www.caregiving.org\/wp-content\/uploads\/2020\/06\/AARP1316_CGProfile_Asian_508.pdf\" rel=\"noopener\" target=\"_blank\">Asian Caregiver<\/a><\/li>\r\n\t<li><a href=\"https:\/\/www.caregiving.org\/wp-content\/uploads\/2020\/05\/AARP1316_CGProfile_FeelingAlone_May7v8.pdf\" rel=\"noopener\" target=\"_blank\">Feeling Alone Caregiver<\/a><\/li>\r\n\t<li><a href=\"https:\/\/www.caregiving.org\/wp-content\/uploads\/2020\/05\/AARP1316_CGProfile_GenX_May7v8.pdf\" rel=\"noopener\" target=\"_blank\">Gen X Caregiver<\/a><\/li>\r\n\t<li><a href=\"https:\/\/www.caregiving.org\/wp-content\/uploads\/2020\/05\/AARP1316_CGProfile_HighIntensity_May7v8.pdf\" rel=\"noopener\" target=\"_blank\">High Intensity Caregiver<\/a><\/li>\r\n\t<li><a href=\"https:\/\/www.caregiving.org\/wp-content\/uploads\/2020\/05\/AARP1316_CGProfile_Hispanic_May7v8.pdf\" rel=\"noopener\" target=\"_blank\">Hispanic Caregiver<\/a><\/li>\r\n\t<li><a href=\"https:\/\/www.caregiving.org\/wp-content\/uploads\/2020\/05\/AARP1316_CGProfile_LGBTQ_May7v8.pdf\" rel=\"noopener\" target=\"_blank\">LGBTQ Caregiver<\/a><\/li>\r\n\t<li><a href=\"https:\/\/www.caregiving.org\/wp-content\/uploads\/2020\/05\/AARP1316_CGProfile_Millennial_May7v8.pdf\" rel=\"noopener\" target=\"_blank\">Millennial Caregiver<\/a><\/li>\r\n\t<li><a href=\"https:\/\/www.caregiving.org\/wp-content\/uploads\/2020\/05\/AARP1316_CGProfile_NoChoice_May7v8.pdf\" rel=\"noopener\" target=\"_blank\">No Choice Caregiver<\/a><\/li>\r\n\t<li><a href=\"https:\/\/www.caregiving.org\/wp-content\/uploads\/2020\/05\/AARP1316_CGProfile_Rural_May7v8.pdf\" rel=\"noopener\" target=\"_blank\">Rural Area Caregiver<\/a><\/li>\r\n\t<li><a href=\"https:\/\/www.caregiving.org\/wp-content\/uploads\/2020\/05\/AARP1316_CGProfile_Student_May7v8.pdf\" rel=\"noopener\" target=\"_blank\">Student Caregiver<\/a><\/li>\r\n<\/ul>\r\n\r\n<p>The full report and additional related materials are available here:<\/p>\r\n\r\n<p>[button url=\"https:\/\/www.caregiving.org\/caregiving-in-the-us-2020\/\" size=\"\" color=\"green\" target=\"_blank\"]Caregiving in the U.S. 2020 Report[\/button]<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": [
+        {
+            "value": "Developed from the data in the Caregiving in the U.S. 2020 report, jointly conducted by the National Alliance for Caregiving (NAC) and AARP"
+        }
+    ]
+}

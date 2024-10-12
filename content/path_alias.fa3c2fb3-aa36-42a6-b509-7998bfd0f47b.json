@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "fa3c2fb3-aa36-42a6-b509-7998bfd0f47b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/db2cad05-1e3b-4b35-b163-99d7d036130c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/filebrowsericonpng"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

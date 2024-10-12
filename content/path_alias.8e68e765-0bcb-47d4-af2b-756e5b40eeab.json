@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "8e68e765-0bcb-47d4-af2b-756e5b40eeab"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/e61c90bd-e4cd-446c-94ae-2a89af1e604a"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/rhinomainstreet"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

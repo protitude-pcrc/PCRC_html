@@ -1,0 +1,37 @@
+{
+    "uuid": [
+        {
+            "value": "498c032f-a5f3-4e7d-b34a-abf4833e6aec"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "shortcut_set": [
+        {
+            "target_id": "default",
+            "target_type": "shortcut_set",
+            "target_uuid": "7a4b1aa4-019a-486f-9b1e-b39e6ca91ced"
+        }
+    ],
+    "title": [
+        {
+            "value": "Create Directory Entry"
+        }
+    ],
+    "weight": [],
+    "link": [
+        {
+            "uri": "internal:\/node\/add\/directory",
+            "title": null,
+            "options": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ]
+}

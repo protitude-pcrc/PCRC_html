@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "3370cff3-dff8-4151-a671-0204fa31bc3f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/a54f6726-3dbb-4239-ba9e-831121a653b5"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/jbail"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

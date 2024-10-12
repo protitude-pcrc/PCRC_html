@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "97f8d228-875b-4114-8b08-edb478865dd9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/d3d43677-798b-4bc7-938f-3c52611d54e9"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/ninr-r21-faqs"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

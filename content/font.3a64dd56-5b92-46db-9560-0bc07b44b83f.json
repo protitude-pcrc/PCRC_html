@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "3a64dd56-5b92-46db-9560-0bc07b44b83f"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Song Myung&subset=korean#regular"
+        }
+    ],
+    "name": [
+        {
+            "value": "Song Myung regular (korean)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Song Myung"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "normal"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:18:\"Song Myung:regular\";s:6:\"subset\";s:6:\"korean\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:01:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:01:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "12b0dea5-d190-4fa8-bef6-36049468456b"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2be376ff-cb73-457e-9333-7840cbb2b1fe"
+        }
+    ],
+    "field_tags": []
+}

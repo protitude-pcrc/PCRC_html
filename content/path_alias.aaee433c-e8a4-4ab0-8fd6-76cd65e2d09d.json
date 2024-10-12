@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "aaee433c-e8a4-4ab0-8fd6-76cd65e2d09d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/dc0f8b34-5bec-4257-b086-e804dd2b3471"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/sthrane"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

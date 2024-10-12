@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d2d4965d-e3cf-41f9-8d14-631b3c0cba63"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/2faefc57-90d7-4161-8608-11edff037610"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/cu-boulder"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

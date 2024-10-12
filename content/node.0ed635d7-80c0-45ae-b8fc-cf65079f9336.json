@@ -1,0 +1,118 @@
+{
+    "uuid": [
+        {
+            "value": "0ed635d7-80c0-45ae-b8fc-cf65079f9336"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "directory",
+            "target_type": "node_type",
+            "target_uuid": "79e51216-81f7-458b-8bed-a5a563ac74ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-02-22T17:42:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "Naomi George"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-02-22T17:41:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-02-22T17:42:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "body": [],
+    "feeds_item": [],
+    "field_area_of_focus": [],
+    "field_directory_image": [],
+    "field_email": [],
+    "field_list_assignment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a8fb19e0-8715-4d2c-bd30-3533a3efed75"
+        }
+    ],
+    "field_membership_title": [],
+    "field_name": [
+        {
+            "title": "",
+            "given": "Naomi",
+            "middle": "",
+            "family": "George",
+            "generational": "",
+            "credentials": ""
+        }
+    ],
+    "field_organization": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "7ef51e92-1638-448b-82dd-a25ed0612fee"
+        }
+    ],
+    "field_publication_title": [],
+    "field_scientific_title": []
+}

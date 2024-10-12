@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "55a79db6-1d91-48d2-9c0e-c53178ad2ca7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "NIH Notice of Intent to Publish"
+        }
+    ],
+    "created": [
+        {
+            "value": "2016-08-12T09:50:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2016-08-12T09:50:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/nih-notice-intent-publish",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p class=\"p1\"><span class=\"s1\">The\u00a0NIH has issued this notice of intent to publish:\u00a0<a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=http-3A__grants.nih.gov_grants_guide_notice-2Dfiles_NOT-2DNR-2D16-2D004.html&amp;d=CwMFAg&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=DpfrjJvnOVHpE7Ot39t6f1qEZC9zYmJKbx_ADH15ZKM&amp;m=B6sr5-nXOITB0FcTTrazSAgv2u2newCUIaWIqpfpRcA&amp;s=9GijA-SSnvVLAuk6EFeX1CtLMdey5lZCS98B0msI55s&amp;e=\" target=\"_blank\"><span class=\"s2\">http:\/\/grants.nih.gov\/grants\/guide\/notice-files\/NOT-NR-16-004.html<\/span><\/a><\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\">We are excited by the opportunity for continued funding for the PCRC and have been working on a plan for \u201cPCRC 3.0\u201d. We will keep the PCRC membership informed regarding these plans as they evolve and look forward to engaging with you to make this the strongest possible submission.<\/span><\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

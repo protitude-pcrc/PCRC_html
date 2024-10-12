@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "fa0bbea0-6fcc-41b9-a2ed-0ec49bc188cd"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Cousine&subset=latin-ext#italic"
+        }
+    ],
+    "name": [
+        {
+            "value": "Cousine italic (latin-ext)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Cousine"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "italic"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "normal"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:14:\"Cousine:italic\";s:6:\"subset\";s:9:\"latin-ext\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:02:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:02:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8f451f1d-cfa8-4e10-9377-429acc145808"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "10a98e12-b538-4b56-9c26-6fc5480a093e"
+        }
+    ],
+    "field_tags": []
+}

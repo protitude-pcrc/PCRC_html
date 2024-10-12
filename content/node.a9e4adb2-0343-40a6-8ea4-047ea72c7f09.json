@@ -1,0 +1,118 @@
+{
+    "uuid": [
+        {
+            "value": "a9e4adb2-0343-40a6-8ea4-047ea72c7f09"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "directory",
+            "target_type": "node_type",
+            "target_uuid": "79e51216-81f7-458b-8bed-a5a563ac74ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-10-31T16:39:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "Komal Murali"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-01-03T22:30:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-10-31T16:39:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "body": [],
+    "feeds_item": [],
+    "field_area_of_focus": [],
+    "field_directory_image": [],
+    "field_email": [],
+    "field_list_assignment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a8fb19e0-8715-4d2c-bd30-3533a3efed75"
+        }
+    ],
+    "field_membership_title": [],
+    "field_name": [
+        {
+            "title": "",
+            "given": "Komal",
+            "middle": "",
+            "family": "Murali",
+            "generational": "",
+            "credentials": ""
+        }
+    ],
+    "field_organization": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1a6e598a-428c-4f65-adf9-b1b7af4e72c1"
+        }
+    ],
+    "field_publication_title": [],
+    "field_scientific_title": []
+}

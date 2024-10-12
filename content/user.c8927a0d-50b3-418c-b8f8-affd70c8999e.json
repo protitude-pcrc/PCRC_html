@@ -1,0 +1,79 @@
+{
+    "uid": [
+        {
+            "value": 9587
+        }
+    ],
+    "uuid": [
+        {
+            "value": "c8927a0d-50b3-418c-b8f8-affd70c8999e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [],
+    "name": [
+        {
+            "value": "therealbutterrobot"
+        }
+    ],
+    "mail": [
+        {
+            "value": "therealbutterrobot@rickmorty.cn"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-12-29T11:24:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-12-29T11:24:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "request",
+            "target_type": "user_role",
+            "target_uuid": "372304bc-f32f-4566-8313-c53ef14f1eb1"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/user\/therealbutterrobot",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_affiliation": [],
+    "field_are_you_a_pcrc_member_": [],
+    "field_first_name": [],
+    "field_last_name": [],
+    "user_picture": []
+}

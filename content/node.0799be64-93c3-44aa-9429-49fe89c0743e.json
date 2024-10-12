@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "0799be64-93c3-44aa-9429-49fe89c0743e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-12-07T18:16:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "Funding Opportunities"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-12-07T18:11:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-12-07T18:16:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/funding-opportunities",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The US Deprescribing Research Network (USDeN) has released two funding opportunities that may be of interest to PCRC members.<\/p>\r\n\r\n<p>The goal of the USDeN&nbsp;is to support the development and dissemination of evidence about deprescribing for older adults, and through this improve medication use among older adults and the outcomes that are important to them.&nbsp; Funded by the US National Institute on Aging, the network is a community of people united by a shared interest in improving research on deprescribing for older adults.&nbsp; The network\u2019s key activities are designed to provide resources and supports that will catalyze expansion of the quality, quantity, and ultimate impact of deprescribing research, and to promote mutual learning and collaboration that is essential to this goal.&nbsp;<\/p>\r\n\r\n<p><strong>Pilot and Grant Planning Awards:<\/strong>&nbsp;Applications are now being accepted (deadline is <strong>January 22, 2021<\/strong>). Up to $60K per proposal for projects related to deprescribing research,&nbsp;&nbsp;For more information, see&nbsp;<a data-auth=\"NotApplicable\" href=\"https:\/\/secure-web.cisco.com\/1nEZR-dQWxLoyykND4K7l_P50pD7pXXmlrmSTHRFPPUFo7U6jv6uhgKQL_0SmYhgLeQBBb8M4iJ8T6y3X40zrXmESvYE_ZiGuyKzjl3g7CgBXzHDIsY5irCtZaKTA2sdE4-ejnpt0dRDkRHxLq14iFchzbf9Y39Wh0tT8MccFOW985T24GTzR47tk2-1_ZSM5unsxNFBqDX1cOmX7OWQ_QqG1iLFsR62evu3bEjx-lWvXARYXZga5iTFLpWPOWHqG-6CXhgG5jXQU5pRsPtyanQ\/https%3A%2F%2Fdeprescribingresearch.org%2Fnetwork-activities%2Fgrant-opportunities%2F\" rel=\"noopener noreferrer\" target=\"_blank\">https:\/\/deprescribingresearch.org\/network-activities\/grant-opportunities\/<\/a>.<\/p>\r\n\r\n<p><strong>Junior Investigator Intensive:&nbsp;<\/strong>&nbsp;Applications are now being accepted (deadline is <strong>February 1, 2021<\/strong>). This year-long virtual program is designed to advance the scholarship and career development of fellows, junior faculty, and other early-stage investigators interested in a research career that involves deprescribing research.&nbsp;&nbsp;For more information, see&nbsp;<a data-auth=\"NotApplicable\" href=\"https:\/\/secure-web.cisco.com\/1S02H8Wb_c74InJ2Z3nZnoVLtPzbzlOYOUmzJoQGzuZbxJLIZMju2-0qguN-m6Qzjsdr0JZLa6a3soEaqv7T4wNS4i8elws8toYwaawNypTkLti_EOFNv0LSi-tKlZLbD07eI-rGPtNjqNiti_1D0XwKr605fGWbluyMUKMT6ZJTsWeLnhBDPZjdDXqw1psr2844b4H1eKNAim0nBW2KYY_NI4z7qtsq-Dt78pPY_zkgp09333WiaxvZAmtC3zGs_6C-nfgl6bFBWnLqgymEHBA\/https%3A%2F%2Fdeprescribingresearch.org%2Frequest-for-applicants-for-a-junior-investigator-intensive-program-in-deprescribing-research%2F\" rel=\"noopener noreferrer\" target=\"_blank\">https:\/\/deprescribingresearch.org\/request-for-applicants-for-a-junior-investigator-intensive-program-in-deprescribing-research\/<\/a>.<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "US Deprescribing Research Network (USDeN)"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

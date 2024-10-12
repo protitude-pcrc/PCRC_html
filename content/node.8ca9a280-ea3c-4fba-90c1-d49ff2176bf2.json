@@ -1,0 +1,130 @@
+{
+    "uuid": [
+        {
+            "value": "8ca9a280-ea3c-4fba-90c1-d49ff2176bf2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "directory",
+            "target_type": "node_type",
+            "target_uuid": "79e51216-81f7-458b-8bed-a5a563ac74ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-04-14T14:01:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "Geoffrey Harger"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-04-14T13:53:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-04-14T14:01:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "body": [],
+    "feeds_item": [],
+    "field_area_of_focus": [
+        {
+            "value": "Project Manager"
+        }
+    ],
+    "field_directory_image": [
+        {
+            "alt": "Geoffrey Harger",
+            "title": "",
+            "width": 1536,
+            "height": 2048,
+            "target_type": "file",
+            "target_uuid": "2c0b5507-6efe-454f-b8ce-30b7f833f8b0"
+        }
+    ],
+    "field_email": [
+        {
+            "value": "Geoffrey.Harger@cuanschutz.edu"
+        }
+    ],
+    "field_list_assignment": [],
+    "field_membership_title": [],
+    "field_name": [
+        {
+            "title": "",
+            "given": "Geoffrey",
+            "middle": "",
+            "family": "Harger",
+            "generational": "",
+            "credentials": "MPH"
+        }
+    ],
+    "field_organization": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "decc977a-16a5-4c6a-b874-01fcfe20cd8a"
+        }
+    ],
+    "field_publication_title": [],
+    "field_scientific_title": []
+}

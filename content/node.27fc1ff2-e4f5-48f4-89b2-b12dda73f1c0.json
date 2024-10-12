@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "27fc1ff2-e4f5-48f4-89b2-b12dda73f1c0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-02-05T23:32:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "Post-Acute Care Conference"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-02-05T23:29:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-02-05T23:32:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/post-acute-care-conference",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The University of Colorado Anschutz Medical Campus (Aurora, CO) is hosting a two-day conference, April 27 and 28, 2019 to develop and advance a research and policy agenda for the future of post-acute care. For more information and to register for the conference, please click the button below.<\/p>\r\n\r\n<center>[button color=\"orange\" size=\"large\" url=\"http:\/\/www.cvent.com\/events\/denver-post-acute-care-conference\/event-summary-699457c424e0426e852a81cfb49d0094.aspx\" target=\"_blank\"]More Information[\/button]<\/center>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Sharing New Opportunities in Post-Acute Care "
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

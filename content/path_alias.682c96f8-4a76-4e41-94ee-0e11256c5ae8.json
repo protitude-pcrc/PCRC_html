@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "682c96f8-4a76-4e41-94ee-0e11256c5ae8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3303268d-b398-4500-9e45-77e4b97156ed"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/webinar-template"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

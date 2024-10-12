@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "255efbe8-6264-4d37-90d2-da6b33151837"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/abde100e-fbbd-4f11-ad6b-78350fa57916"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/detailpegasus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

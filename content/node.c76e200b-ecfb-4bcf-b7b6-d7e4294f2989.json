@@ -1,0 +1,127 @@
+{
+    "uuid": [
+        {
+            "value": "c76e200b-ecfb-4bcf-b7b6-d7e4294f2989"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "directory",
+            "target_type": "node_type",
+            "target_uuid": "79e51216-81f7-458b-8bed-a5a563ac74ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-07-21T18:16:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "Timothy Quill"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-09-30T19:42:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-07-21T18:16:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "body": [],
+    "feeds_item": [],
+    "field_area_of_focus": [],
+    "field_directory_image": [
+        {
+            "alt": "Timothy Quill, MD",
+            "title": "",
+            "width": 320,
+            "height": 481,
+            "target_type": "file",
+            "target_uuid": "e906f69f-56fc-405a-8524-09573eb1a20e"
+        }
+    ],
+    "field_email": [
+        {
+            "value": "tequill1971@gmail.com"
+        }
+    ],
+    "field_list_assignment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a8fb19e0-8715-4d2c-bd30-3533a3efed75"
+        }
+    ],
+    "field_membership_title": [],
+    "field_name": [
+        {
+            "title": "",
+            "given": "Timothy",
+            "middle": "",
+            "family": "Quill",
+            "generational": "",
+            "credentials": "MD"
+        }
+    ],
+    "field_organization": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "cc094861-bf67-4361-9bca-a13467cfd612"
+        }
+    ],
+    "field_publication_title": [],
+    "field_scientific_title": []
+}

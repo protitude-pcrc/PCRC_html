@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f2528026-f1b3-41a0-b726-d7d2efea95b8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/a2927954-ad07-41d3-9f63-4c5e2a42e1d1"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/summary-members"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

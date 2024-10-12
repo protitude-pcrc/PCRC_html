@@ -1,0 +1,69 @@
+{
+    "uuid": [
+        {
+            "value": "bfe69021-38e6-4568-8e41-d4ebdeabdb64"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "document",
+            "target_type": "file_type",
+            "target_uuid": "aba37c63-b654-405f-a34e-d829c2ad7580"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "filename": [
+        {
+            "value": "CompiledDataDictionary_StatinAnalysisDataSets_redacted.pdf"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/dictionaries\/CompiledDataDictionary_StatinAnalysisDataSets_redacted.pdf"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/pdf"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 556246
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-06-21T16:33:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-06-21T16:44:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/compileddatadictionarystatinanalysisdatasetsredactedpdf",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ]
+}

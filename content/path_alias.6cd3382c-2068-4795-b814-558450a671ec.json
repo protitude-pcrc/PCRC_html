@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "6cd3382c-2068-4795-b814-558450a671ec"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f37aaa44-628b-4d04-b176-04061a2397f4"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-13-may-2015"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

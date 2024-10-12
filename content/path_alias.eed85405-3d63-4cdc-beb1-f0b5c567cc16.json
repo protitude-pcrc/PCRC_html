@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "eed85405-3d63-4cdc-beb1-f0b5c567cc16"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f446034e-bf06-4438-93fd-68806b6d177e"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-47-october-2021"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

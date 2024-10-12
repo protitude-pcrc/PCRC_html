@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "56e7b26a-640c-4ecc-8156-bab59aaba1ec"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/c1da7468-f46b-44c9-beda-2bcb530cba54"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-45-april-2021"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

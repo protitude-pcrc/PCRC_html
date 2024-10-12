@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "319af8ed-7165-4136-9e33-d851508d3dfc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/4bbbf73f-245f-40a8-b300-126d6349e8b5"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/events-presentations"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

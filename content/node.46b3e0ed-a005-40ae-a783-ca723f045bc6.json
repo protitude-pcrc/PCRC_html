@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "46b3e0ed-a005-40ae-a783-ca723f045bc6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-04-26T16:47:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Committee\/Task Force Call For Applications"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-10-07T16:36:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-04-26T16:47:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/who-we-are\/committeetask-force-call-applications",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>There are many benefits that accompany your membership in the PCRC, the opportunity to serve on a PCRC committee\/task force is one of the many.&nbsp; As a member, there are several expectations for demonstrating your commitment to the PCRC which include the following options:<\/p>\r\n\r\n<ul>\r\n\t<li><span><span>participate as an active committee\/task force member<\/span>,<\/span> or<\/li>\r\n\t<li>contribute to the scientific development of PCRC by providing expertise, or<\/li>\r\n\t<li>contribute to clinical studies through study development or conduct<\/li>\r\n<\/ul>\r\n\r\n<center>[button url=\"https:\/\/airtable.com\/shrUkrjr97EhEEAYB\" size=\"\" color=\"green\" target=\"_blank\"]Apply Here - Rolling Applications Accepted[\/button]<\/center>\r\n\r\n<h2>Potential Committee\/Task Force Openings<\/h2>\r\n\r\n<p><em>(please note you must be a PCRC member to apply)<\/em><\/p>\r\n\r\n<drupal-entity alt=\"PCRC Organizational Structure\" data-embed-button=\"image_browser\" data-entity-embed-display=\"image:linked_responsive_image\" data-entity-embed-display-settings=\"{&quot;responsive_image_style&quot;:&quot;wide&quot;,&quot;image_link&quot;:&quot;&quot;,&quot;link_uri&quot;:&quot;&quot;}\" data-entity-type=\"file\" data-entity-uuid=\"4fec85c4-f133-4695-bf33-3efc2a553f88\"><\/drupal-entity>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<div class=\"Basic-Text-Frame\" id=\"_idContainer000\">\r\n<h4 class=\"Basic-Paragraph ParaOverride-1\">&nbsp;<\/h4>\r\n\r\n<h4 class=\"Basic-Paragraph ParaOverride-1\">Steering Committee<\/h4>\r\n\r\n<p class=\"Basic-Paragraph ParaOverride-1\">Sets the strategic direction of the PCRC; holds responsibility for high-level decisions that determine PCRC structure\/function.&nbsp; PCRC members applying to this committee should be full members with investigative and leadership experience.<\/p>\r\n\r\n<p class=\"Basic-Paragraph ParaOverride-1\"><a href=\"mailto:jean.kutner@cuanschutz.edu\"><span class=\"Hyperlink\">Jean Kutner<\/span><\/a>, <span class=\"Hyperlink\"><a href=\"mailto:csritchie@mgh.harvard.edu\">Christine Ritchie<\/a><\/span>, and <span class=\"Hyperlink\"><a href=\"mailto: kathryn.pollak@duke.edu\">Kathryn Pollak<\/a><\/span><\/p>\r\n\r\n<h4 class=\"Basic-Paragraph ParaOverride-1\">Scientific Review Committee<\/h4>\r\n\r\n<p class=\"Basic-Paragraph ParaOverride-1\">Evaluates proposals for new research, and makes recommendations to the Steering Committee regarding which studies to support through the PCRC, including prioritization and queuing.&nbsp;<\/p>\r\n\r\n<p class=\"Basic-Paragraph ParaOverride-1\"><a href=\"mailto:thomas.leblanc@duke.edu?subject=PCRC%20Scientific%20Review%20Committee\"><span class=\"Hyperlink\">Thomas LeBlanc<\/span><\/a><\/p>\r\n\r\n<h4 class=\"Basic-Paragraph ParaOverride-1\">Membership Committee<\/h4>\r\n\r\n<p class=\"Basic-Paragraph ParaOverride-1\">Evaluates all new member applications, makes recommendations to SC; Develops &amp; monitors compliance with Membership Guidelines.<\/p>\r\n\r\n<p class=\"Basic-Paragraph ParaOverride-1\"><a href=\"mailto:dena.schulman-green@nyu.edu?subject=PCRC%20Membership%20Committee\"><span class=\"Hyperlink\">Dena Schulman-Green<\/span><\/a><\/p>\r\n\r\n<h4>Publication Committee<\/h4>\r\n\r\n<p>Reviews all manuscripts submitted on behalf of the PCRC, ensures quality and adherence to the Authorship Protocol.<\/p>\r\n\r\n<p><a href=\"mailto:m.campbell@wayne.edu?subject=PCRC%20Publication%20Committee\">Margaret (Meg) Campbell<\/a><\/p>\r\n\r\n<h4 class=\"Basic-Paragraph ParaOverride-1\">Annual Investigator Meeting (AIM)&nbsp;Task Force<\/h4>\r\n\r\n<p class=\"Basic-Paragraph ParaOverride-1\">To organize and plan the PCRC Annual Investigator&nbsp;meetings.<\/p>\r\n\r\n<p class=\"Basic-Paragraph ParaOverride-1\"><a href=\"mailto:terrah.akard@vanderbilt.edu\">Terrah Akard<\/a><\/p>\r\n\r\n<h4 class=\"Basic-Paragraph ParaOverride-1\">Ad-hoc SRC Reviewers<\/h4>\r\n\r\n<p class=\"Basic-Paragraph ParaOverride-1\"><a href=\"mailto:thomas.leblanc@duke.edu\"><span class=\"Hyperlink\">Thomas LeBlanc<\/span><\/a><\/p>\r\n\r\n<h4 class=\"Basic-Paragraph ParaOverride-1\">Ad hoc Pilot Grant Reviewers<\/h4>\r\n\r\n<p class=\"Basic-Paragraph ParaOverride-1\"><a href=\"mailto:csritchie@mgh.harvard.edu\">Christine Ritchie<\/a><\/p>\r\n<\/div>\r\n\r\n<h2>Application Process<\/h2>\r\n\r\n<p>Applications are accepted on a rolling basis as needs arise, to be considered please complete the application here:<\/p>\r\n\r\n<center>[button url=\"https:\/\/airtable.com\/shrUkrjr97EhEEAYB\" size=\"\" color=\"green\" target=\"_blank\"]Apply Here[\/button]<\/center>\r\n\r\n<h5>Approval Process<\/h5>\r\n\r\n<ul>\r\n\t<li>Online Membership Application submitted<\/li>\r\n\t<li>Committee\/Task force leadership Review &amp; Recommendations<\/li>\r\n\t<li>Executive and Steering Committee Review \/Approval<\/li>\r\n\t<li>Steering Committee membership is by vote of the PCRC membership<\/li>\r\n\t<li>Notification<\/li>\r\n\t<li>New Member On-boarding<\/li>\r\n<\/ul>\r\n\r\n<p>General questions may be sent to <a href=\"mailto:pcrc@ucdenver.edu\">pcrc@ucdenver.edu<\/a>.<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

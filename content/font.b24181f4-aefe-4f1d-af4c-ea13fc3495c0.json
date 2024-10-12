@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "b24181f4-aefe-4f1d-af4c-ea13fc3495c0"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Montserrat&subset=latin-ext#800italic"
+        }
+    ],
+    "name": [
+        {
+            "value": "Montserrat 800italic (latin-ext)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Montserrat"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "italic"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "800"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:20:\"Montserrat:800italic\";s:6:\"subset\";s:9:\"latin-ext\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:01:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:01:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "3a52e156-ae57-4a95-a295-e559e21bea2e"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "10a98e12-b538-4b56-9c26-6fc5480a093e"
+        }
+    ],
+    "field_tags": []
+}

@@ -1,0 +1,100 @@
+{
+    "uuid": [
+        {
+            "value": "dd91dd55-1fef-4c8c-82fc-b08d280769a4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "queue": [
+        {
+            "target_id": "membership_committee",
+            "target_type": "entity_queue",
+            "target_uuid": "52f42bd2-10ee-4306-b37f-3b894e3e8ef9"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2018-04-30T17:55:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "4f9256af-a749-4859-a639-cdce784ab732"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "4f9256af-a749-4859-a639-cdce784ab732"
+        }
+    ],
+    "title": [
+        {
+            "value": "Membership Committee"
+        }
+    ],
+    "items": [
+        {
+            "target_type": "node",
+            "target_uuid": "ae8f5835-7239-4d33-a54f-65a151eab0fd"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "443fd469-f922-45db-8863-fcad9f9f4e55"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "718b6bce-49fd-4fc4-a6b5-554846062926"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "01a6d6a4-b153-47bc-88a6-6a0c824a2fcd"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "4f617463-f7d8-44ee-a069-961f65a557f8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "6b6e40cc-851e-4fd2-a975-feffab8e80a9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "3e75d6cb-e7a6-480d-b2be-23e396d879e9"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-30T17:55:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-04-05T16:56:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ]
+}

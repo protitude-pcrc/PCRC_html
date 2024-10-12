@@ -1,0 +1,69 @@
+{
+    "uuid": [
+        {
+            "value": "62a3ac2b-7e7d-4529-8231-8bd682853c9f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "document",
+            "target_type": "file_type",
+            "target_uuid": "aba37c63-b654-405f-a34e-d829c2ad7580"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "filename": [
+        {
+            "value": "Study Summary - Long 14-06p.docx"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/csr_summaries\/Study Summary - Long 14-06p.docx"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 192129
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-04-06T18:15:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-04-06T18:25:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/study-summary-long-14-06pdocx",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d9920fa0-539d-4ef2-a286-029ed4331efe"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/a0854671-6a91-41cb-8b99-e7fa1951715e"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/leakingdiggers"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

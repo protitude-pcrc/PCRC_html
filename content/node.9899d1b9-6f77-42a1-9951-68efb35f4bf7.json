@@ -1,0 +1,259 @@
+{
+    "uuid": [
+        {
+            "value": "9899d1b9-6f77-42a1-9951-68efb35f4bf7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-08-15T22:47:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "Rater Intensity Psychometrics of the Respiratory Distress Observation Scale Patient Data"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-05-15T18:18:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-08-15T22:47:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/study\/rater-intensity-psychometrics-respiratory-distress-observation-scale-patient-data",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "8e297f7b-64f5-44a1-a796-1fb8b34b0680"
+        }
+    ],
+    "field_approved_data_requests": [],
+    "field_award_number": [
+        {
+            "value": "R03NR012820"
+        }
+    ],
+    "field_condition_studied": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8831528a-a5ce-441c-a11e-546983797930"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "83712aa5-211f-46de-a282-dead5352e1ec"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ce4e1d08-48a7-4ef8-bf5a-123148f64dcf"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "7af4261f-4397-4f37-b980-f57c7df48abf"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d4c251a2-2c5b-48f9-ad19-c228c1e8048f"
+        }
+    ],
+    "field_csr_summary": [],
+    "field_data_dictionary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "c4db4985-6715-40f8-a2e5-2f2227e86834"
+        }
+    ],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e494a23c-aea6-4f0b-a534-4b948ddfdb07"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Rater Intensity Psychometrics of the Respiratory Distress Observation Scale Patient Data"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "136"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": false
+        }
+    ],
+    "field_nct_link_field": [],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d7cd26a3-2482-49da-b75d-bdd120b563ae"
+        }
+    ],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        }
+    ],
+    "field_participant_ethnicity_coll": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "350f6f60-c882-44d9-bf86-2f242d671d54"
+        }
+    ],
+    "field_participant_race": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "36faef51-6c51-4ba6-a88c-7f25cc6846bd"
+        }
+    ],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bb33a50f-e9de-47ae-80e4-5167ef2b0d2f"
+        }
+    ],
+    "field_pcrc_study_num": [],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/25634631",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [
+        {
+            "value": "National Institute of Nursing Research"
+        }
+    ],
+    "field_study_design": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8afd07a0-58a3-4743-8946-461e4165bb67"
+        }
+    ],
+    "field_study_pi": [
+        {
+            "value": "Margaret Campbell, PhD, RN, FPCN"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "Wayne State University"
+        }
+    ],
+    "field_study_setting": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "0273e5e5-00f3-4ffe-89c2-4dd69d36e8fc"
+        }
+    ],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [],
+    "field_summary": [
+        {
+            "value": "<p>The Respiratory Distress Observation Scale\u00a9 (RDOS) is an innovative solution to assessment when a dyspnea report cannot be elicited. The RDOS has acceptable reliability and validity psychometrics. This study aimed to identify distress-intensity cut-points of the RDOS.<\/p>\r\n\r\n<p>Receiver operating characteristic (ROC) curve analysis was conducted with inpatients stratified by four levels of respiratory distress\u2014none, mild, moderate, or severe. Patients provided three self-report measures of dyspnea: dichotomous (yes\/no); a ranking of none, mild, moderate, or severe; and a numerical rating scale.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [],
+    "field_therapeutic_area": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9f0b313e-b0ad-4af6-94c5-b2cd31413fe1"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "5a63a88c-7232-4892-bb34-63e7ddc7e662"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6a1018ec-a158-4a14-9d20-00e8998eb62d"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c423d9a8-677d-45f4-981e-143fb7f7106a"
+        }
+    ],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "fbd491b5-cd5e-4bef-9b16-793bee9672cc"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "9eb4a927-1a38-4570-bd3c-9ab783ec8941"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Montserrat Alternates&subset=cyrillic-ext#600"
+        }
+    ],
+    "name": [
+        {
+            "value": "Montserrat Alternates 600 (cyrillic-ext)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Montserrat Alternates"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "600"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:25:\"Montserrat Alternates:600\";s:6:\"subset\";s:12:\"cyrillic-ext\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:01:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:01:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "3a52e156-ae57-4a95-a295-e559e21bea2e"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "16e1d3a5-ee65-45c5-b809-f593551984b0"
+        }
+    ],
+    "field_tags": []
+}

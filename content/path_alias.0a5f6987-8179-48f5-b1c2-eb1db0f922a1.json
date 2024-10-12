@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "0a5f6987-8179-48f5-b1c2-eb1db0f922a1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/d8f5d056-40ff-436d-8064-06ed7d4e9a73"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/funding-opportunity-announcement-foa-webinar"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

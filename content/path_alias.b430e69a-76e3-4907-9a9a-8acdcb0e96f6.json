@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b430e69a-76e3-4907-9a9a-8acdcb0e96f6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/ffc7727e-49b0-462c-8cbe-24ebfe2cea40"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/jowlinsecure"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

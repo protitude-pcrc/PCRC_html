@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "fa91f9cb-6458-425c-807b-5bdb041cff01"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/44c1be01-ef10-4e19-8200-f873133ac60a"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/phenompresident"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

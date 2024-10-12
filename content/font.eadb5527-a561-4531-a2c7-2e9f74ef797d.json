@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "eadb5527-a561-4531-a2c7-2e9f74ef797d"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Source Sans Pro&subset=greek-ext#300italic"
+        }
+    ],
+    "name": [
+        {
+            "value": "Source Sans Pro 300italic (greek-ext)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Source Sans Pro"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "italic"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "300"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:25:\"Source Sans Pro:300italic\";s:6:\"subset\";s:9:\"greek-ext\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:00:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:00:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "3a52e156-ae57-4a95-a295-e559e21bea2e"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4bc2d2bc-b086-4cfa-aa03-92c030ca7c37"
+        }
+    ],
+    "field_tags": []
+}

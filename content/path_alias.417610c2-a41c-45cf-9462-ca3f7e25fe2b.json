@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "417610c2-a41c-45cf-9462-ca3f7e25fe2b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/taxonomy\/term\/357"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news-type\/pcrc-news"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

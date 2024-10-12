@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "3e456e5d-c2de-4042-a407-4c34cd1ab5f4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/f7a372d6-380f-44b1-91cd-3a1553e027f2"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/rmace"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

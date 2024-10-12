@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "57118817-88e8-453c-97af-872735d08858"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-02-26T19:23:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c4c1b62a-869d-454a-b78c-bde33aba2db8"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c4c1b62a-869d-454a-b78c-bde33aba2db8"
+        }
+    ],
+    "title": [
+        {
+            "value": "Apply now for the 2019 PCRC Mentoring Course!"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-02-26T19:23:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-02-26T19:23:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/apply-now-2019-pcrc-mentoring-course",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p style=\"margin:0in 0in 0.0001pt\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial,sans-serif\">On behalf of the Palliative Care Research Cooperative Group, we would like to invite you to apply to participate in the <b><u>Mentorship Selective<\/u><\/b>.&nbsp; <\/span><\/span><\/p>\r\n\r\n<p style=\"margin:0in 0in 0.0001pt\">&nbsp;<\/p>\r\n\r\n<p style=\"margin:0in 0in 0.0001pt\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial,sans-serif\">This 6-week longitudinal mentoring course seeks to foster a culture of mentoring by supporting<span style=\"font-family:&quot;ArialMT&quot;,sans-serif\"><span style=\"color:#080808\"> mid-level and senior palliative care investigators in further developing their mentoring skills to successfully draw new investigators into palliative care research<\/span><\/span>. <\/span><\/span><\/p>\r\n\r\n<p style=\"margin:0in 0in 0.0001pt\">&nbsp;<\/p>\r\n\r\n<p style=\"margin:0in 0in 0.0001pt\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial,sans-serif\">Each week, the course will cover mentoring topics including maintaining effective communication, aligning expectations, assessing understanding, addressing equity and inclusion, fostering independence, and promoting professional development.&nbsp; Instruction will occur over videoconference for one hour per week.<\/span><\/span><\/p>\r\n\r\n<p style=\"margin:0in 0in 0.0001pt\">&nbsp;<\/p>\r\n\r\n<p style=\"margin:0in 0in 0.0001pt\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial,sans-serif\">Learn more about the Mentorship Selective <strong><a href=\"https:\/\/palliativecareresearch.org\/research\/investigator-support-information\/mentorship-selective\">here<\/a><\/strong>.<\/span><\/span><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "79f19229-97ab-4374-b750-70a60097eb51"
+        }
+    ]
+}

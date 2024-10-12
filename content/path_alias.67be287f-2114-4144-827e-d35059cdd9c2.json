@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "67be287f-2114-4144-827e-d35059cdd9c2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/6a54dfdd-b831-4c84-8ce4-e44de1d790a0"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/nicoledboyd"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

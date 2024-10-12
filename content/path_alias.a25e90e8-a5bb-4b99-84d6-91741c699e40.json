@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a25e90e8-a5bb-4b99-84d6-91741c699e40"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/e8559ca7-204f-4ac7-9eb5-3b5cadfb22c8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/cashaowan"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

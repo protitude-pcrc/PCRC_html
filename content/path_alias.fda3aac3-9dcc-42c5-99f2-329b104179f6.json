@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "fda3aac3-9dcc-42c5-99f2-329b104179f6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/904dcd6a-cb50-4c2e-a430-e206a18dddc8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/knewport"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

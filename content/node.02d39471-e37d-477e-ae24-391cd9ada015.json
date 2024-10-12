@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "02d39471-e37d-477e-ae24-391cd9ada015"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-26T17:34:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "4f9256af-a749-4859-a639-cdce784ab732"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "A COMMUNITY OF DISCOVERY"
+        }
+    ],
+    "created": [
+        {
+            "value": "2014-08-13T01:26:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-26T17:34:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/community-discovery",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The Palliative Care Research Cooperative Group (PCRC) established in 2010 to develop scientifically-based methods that lead to meaningful evidence for improving quality of life of patients with advanced and\/or potentially life-limiting illnesses, and their caregivers including family members and providers of care.&nbsp; The network creates a community of palliative care providers who can engage in research discovery.<\/p>\r\n\r\n<p><a href=\"\/members\/interested-in-pcrc-membership\/\"><strong>BECOME A MEMBER<\/strong><\/a> Researchers interested in joining the cooperative group and participating in studies.<\/p>\r\n\r\n<p><strong><a href=\"\/studies\/investigators\/\">CONDUCT RESEARCH THROUGH THE PCRC<\/a><\/strong> Learn more about&nbsp;funding opportunities and submitting your proposed research idea.<\/p>\r\n\r\n<p><strong><a href=\"\/corescenters\/\">INFRASTRUCTURE TO SUPPORT INVESTIGATORS<\/a><\/strong> Learn more about the Cores and Centers that interact with each other to facilitate palliative care research. <a href=\"\/corescenters\/idc\/intensives\/\">\u203a Palliative Care Clinical Trials Intensive Course<\/a> <a href=\"\/corescenters\/idc\/idc-webinars\/\"> \u203a Investigator Webinar Series<\/a><\/p>\r\n\r\n<p><strong><a href=\"\/research\/\">ACTIVE CLINICAL STUDIES<\/a><\/strong> Learn more about actively enrolling studies and studies in development.<\/p>\r\n\r\n<p><a href=\"\/sites\/default\/files\/migrated_files\/PCRC-Map-Jan2017.jpg\"><img height=\"448\" src=\"\/sites\/default\/files\/migrated_files\/PCRC-Map-Jan2017.jpg\" width=\"692\" \/><\/a><\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

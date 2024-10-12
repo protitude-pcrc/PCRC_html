@@ -1,0 +1,110 @@
+{
+    "uuid": [
+        {
+            "value": "a17319ec-1673-4182-a120-583350c20a10"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-11-02T19:39:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "New NINR FOA Posted: End-of-Life and Palliative Care Approaches to Advanced Signs and Symptoms"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-11-02T19:32:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-11-02T19:39:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/new-ninr-foa-posted-end-life-and-palliative-care-approaches-advanced-signs-and-symptoms",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>NINR is interested in studies examining the multi-dimensional foundations, experiences and management of advanced signs and symptoms specific to individuals with advanced serious illness within the period of end of life (prognosis of 12 months or less) including, but not limited to:<\/p>\r\n\r\n<ul>\r\n\t<li>Pain<\/li>\r\n\t<li>Fatigue<\/li>\r\n\t<li>Respiratory signs and symptoms, including dyspnea, audible secretions\/congestion, cough, respirations with mandibular movement, hemoptysis, etc.<\/li>\r\n\t<li>Cardiovascular signs and symptoms, including edema, cyanosis, weakness, etc.<\/li>\r\n\t<li>Gastrointestinal or digestive signs symptoms, including anorexia, cachexia, constipation, diarrhea, dysphagia, involuntary bowel movements, nausea, stomatitis, vomiting, etc.&nbsp;<\/li>\r\n\t<li>Urinary signs and symptoms including incontinence, urinary obstruction, decreased urinary output, etc.<\/li>\r\n\t<li>Integumentary symptoms including itching, skin failure, etc.&nbsp;<\/li>\r\n\t<li>Symptoms related to fluid balance including dizziness, dehydration, dry mouth, fever, etc.<\/li>\r\n\t<li>Neurological and behavioral signs and symptoms including agitation, confusion, delirium, hallucination, irritability, myoclonus, seizures, sleep disturbances, terminal restlessness, etc.<\/li>\r\n\t<li>Psychosocial signs and symptoms of anxiety, depression, loneliness, social withdrawal, social isolation, etc.<\/li>\r\n\t<li>Signs associated with dying including cyanosis of extremities, cold extremities, mottling, etc.<\/li>\r\n<\/ul>\r\n\r\n<p>Because of the complex, multi-factorial nature of this issue, multi-disciplinary teams are highly encouraged. Investigators are encouraged to consider using existing palliative care research networks, such as the Palliative Care Research Cooperative Group, to carry out small, multi-site trials when appropriate.<\/p>\r\n\r\n<p>To access the application and additional information, please visit:<\/p>\r\n\r\n<p>R21:&nbsp;<a href=\"https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/PAR-19-044.html\" target=\"_blank\">https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/PAR-19-044.html<\/a><\/p>\r\n\r\n<p>R01:&nbsp;<a href=\"https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/PAR-19-045.html\" target=\"_blank\">https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/PAR-19-045.html<\/a><\/p>\r\n\r\n<p>See this and many more funding opportunities from the NINR and others on our <a href=\"\/node\/542\">extramural funding and training opportunities page<\/a>!<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "R21 and R01 options"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

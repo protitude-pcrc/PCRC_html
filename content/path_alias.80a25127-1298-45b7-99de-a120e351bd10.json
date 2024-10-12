@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "80a25127-1298-45b7-99de-a120e351bd10"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/6e24ec98-8760-4543-be20-fb91f9632676"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/workshop-research-methods-supportive-oncology"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

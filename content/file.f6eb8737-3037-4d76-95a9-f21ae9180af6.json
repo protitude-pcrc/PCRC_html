@@ -1,0 +1,71 @@
+{
+    "uuid": [
+        {
+            "value": "f6eb8737-3037-4d76-95a9-f21ae9180af6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "image",
+            "target_type": "file_type",
+            "target_uuid": "5a44da8e-ed3c-44a3-a323-ce4123599632"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c4c1b62a-869d-454a-b78c-bde33aba2db8"
+        }
+    ],
+    "filename": [
+        {
+            "value": "Extramural-Grant-Flow-1.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/migrated_files\/Extramural-Grant-Flow-1.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 156070
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-01-18T23:10:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-01-18T23:10:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/extramural-grant-flow-1png",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_image_alt_text": [],
+    "field_image_title_text": []
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "123fa7fa-7caf-48af-a06e-20667cf439fc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/b4421845-3e35-4ce6-81f4-dd5fc155e341"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/chithrapng"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

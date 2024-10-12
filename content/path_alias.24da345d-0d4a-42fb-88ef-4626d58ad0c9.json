@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "24da345d-0d4a-42fb-88ef-4626d58ad0c9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/21f9f598-39ba-4957-91dd-0c559e525925"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/slmollman"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

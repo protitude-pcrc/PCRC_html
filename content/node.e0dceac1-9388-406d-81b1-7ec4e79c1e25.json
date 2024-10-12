@@ -1,0 +1,234 @@
+{
+    "uuid": [
+        {
+            "value": "e0dceac1-9388-406d-81b1-7ec4e79c1e25"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-04-20T02:05:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "Choice Sets for Advance Directives"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-05-15T18:30:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-04-20T02:05:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/study\/choice-sets-advance-directives",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "732d4e3e-59db-4695-8c04-20cd8c797bdb"
+        }
+    ],
+    "field_approved_data_requests": [],
+    "field_award_number": [],
+    "field_condition_studied": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "5e1c7a67-3678-492e-ac65-26d896601c8e"
+        }
+    ],
+    "field_csr_summary": [],
+    "field_data_dictionary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "33977dec-2a46-4d89-9c66-066bedf92ddd"
+        }
+    ],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e494a23c-aea6-4f0b-a534-4b948ddfdb07"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "A Randomized Trial of Expanded Choice Sets to Increase Completion of Advance Directives"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "316"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": true
+        }
+    ],
+    "field_nct_link_field": [
+        {
+            "uri": "https:\/\/clinicaltrials.gov\/ct2\/show\/NCT02209038",
+            "title": "NCT02209038",
+            "options": []
+        }
+    ],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "b6bc0498-7338-4940-9886-e62fa81129d3"
+        }
+    ],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        }
+    ],
+    "field_participant_ethnicity_coll": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "350f6f60-c882-44d9-bf86-2f242d671d54"
+        }
+    ],
+    "field_participant_race": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "36faef51-6c51-4ba6-a88c-7f25cc6846bd"
+        }
+    ],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bb33a50f-e9de-47ae-80e4-5167ef2b0d2f"
+        }
+    ],
+    "field_pcrc_study_num": [],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/27510741",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [
+        {
+            "value": "National Heart, Lung, and Blood Institute, the National Institute of Diabetes and Digestive and Kidney Diseases; the Center for Health Incentives and Behavioral Economics, University of Pennsylvania; and the Otto Haas Charitable Trust"
+        }
+    ],
+    "field_study_design": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8efa09b9-e9aa-43b7-bb08-51dcd38fabe3"
+        }
+    ],
+    "field_study_pi": [
+        {
+            "value": "Kate Courtright, MD, MS and Scott Halpern, MD, PhD"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "University of Pennsylvania"
+        }
+    ],
+    "field_study_setting": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "5ccfdb7d-bd8f-4259-b6b6-b51b7e66dfca"
+        }
+    ],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [],
+    "field_summary": [
+        {
+            "value": "<p>There is a large gap between the care seriously ill patients want and the care they receive. Advance directives (ADs) offer an opportunity for patients to express specific end-of-life preferences to avoid unwanted care. As promising as ADs may be for improving the quality of care near the end of life, rates of AD completion remain low and previous efforts to encourage their completion have had limited success.<\/p>\r\n\r\n<p>Principles of behavioral economics, such as the effects of defaults and other framing effects, may offer a novel approach to bridge the gap in end-of-life care. The goal of this study is to test whether the framing effect of expanding choice sets can increase the completion of advance directives. We will conduct a randomized trial among patients with end-stage renal disease (ESRD), as they historically have low uptake of ADs despite a median survival shorter than many cancers.<\/p>\r\n\r\n<p>We aim to determine 1) if expanding the choices for completing different types of ADs will increase completion of any AD, and 2) if expanded choice sets for a decision regarding AD completion influences decisional satisfaction.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [
+        {
+            "value": "<p>Study protocol<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_therapeutic_area": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "250f54f0-e951-470d-b838-51221885f47e"
+        }
+    ],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "016aaa43-cedb-435d-a7d6-d6446d7af039"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "2056a5c5-4459-44ef-86a7-a151e62a55a6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/38011ca3-2ba2-4e2b-bab0-d01112980ead"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/resources\/publication-resources"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

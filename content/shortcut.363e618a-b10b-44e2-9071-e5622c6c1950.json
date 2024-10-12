@@ -1,0 +1,37 @@
+{
+    "uuid": [
+        {
+            "value": "363e618a-b10b-44e2-9071-e5622c6c1950"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "shortcut_set": [
+        {
+            "target_id": "default",
+            "target_type": "shortcut_set",
+            "target_uuid": "7a4b1aa4-019a-486f-9b1e-b39e6ca91ced"
+        }
+    ],
+    "title": [
+        {
+            "value": "Edit Basic page Where Our Members Are Located"
+        }
+    ],
+    "weight": [],
+    "link": [
+        {
+            "uri": "internal:\/node\/481\/edit",
+            "title": null,
+            "options": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ]
+}

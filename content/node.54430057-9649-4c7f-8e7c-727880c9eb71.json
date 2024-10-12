@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "54430057-9649-4c7f-8e7c-727880c9eb71"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-12-22T17:29:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "IMPACT Collaboratory: Request for Applications"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-12-22T16:44:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-12-22T17:29:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/impact-collaboratory-request-applications",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p align=\"center\"><b>Building Skills to Conduct Embedded Pragmatic Clinical Trials for People Living with Dementia and their Care Partners<\/b>&nbsp;&nbsp;<\/p>\r\n\r\n<p align=\"center\">Wednesday, April 7, 2021 from 1:30pm - 4:30pm ET<br \/>\r\nThursday, April 8, 2021 from 10:00am -&nbsp;4:30pm ET<br \/>\r\n<br \/>\r\n<a data-auth=\"NotApplicable\" href=\"https:\/\/secure-web.cisco.com\/1-f8eUPhGktrKMX4_qglHDFAgpS5oya1ef-wCMVxSqaWyPbDZUrEB6DtU0fkws5LNLDn4gr2OPKfWNu7EcngkO5bctbBt7M3miri7s24OTRTCVRNPiAbHKQsNHKvtP8SEbpqCnK4KX6MyP6N8Z1PCYjhWCe0HCkz9vxSJSwZFNsWP6-h3HjWr7Ct9sfeXvf7IM_ZDmkpGZTSKTBXGVv3qGMUTP9PEI6uIg_UHXT6ByrSnQNb1GutmkxDjTKkMdruGKU4l55AXgy9UmNpRp8TJCw\/https%3A%2F%2Fimpactcollaboratory.us18.list-manage.com%2Ftrack%2Fclick%3Fu%3Db39fd7e3d891a68be47c6d4bf%26id%3D8fc9241640%26e%3D184d0bbade\" rel=\"noopener noreferrer\" target=\"_blank\"><b>Applications are now open until January 15, 2021 @ 5:00pm<\/b><\/a><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>Dear Colleague,<br \/>\r\nThe IMPACT Collaboratory will hold its first annual Training Workshop and Retreat,&nbsp;<b><i>\u201cBuilding Skills to Conduct Embedded Pragmatic Clinical Trials (ePCTs) for People Living with Dementia (PLWD) and their Care Partners,\u201d<\/i><\/b>&nbsp;on April 7-8, 2021.<br \/>\r\n<br \/>\r\nWe are inviting applications from early to mid-career researchers who seek to develop competence in designing and conducting ePCTs of interventions to improve care for PLWD&nbsp;and their care partners. We anticipate accepting up to 25 participants to attend the workshop.<br \/>\r\n<br \/>\r\nThis virtual 1.5-day workshop and retreat will provide a foundation in practical aspects of designing and conducting ePCTs in AD\/ADRD through a combination of panel discussions, small group sessions, and networking opportunities with experts in the field. Workshop modules will focus on healthcare systems, implementation science, and study design.<br \/>\r\n<br \/>\r\nParticipants will gain knowledge in ePCT design and method, problem-solve challenges faced in current or planned projects, and network and engage with the larger community of IMPACT investigators. Throughout the program, special attention will be paid to key considerations in design, implementation, and monitoring ePCTs of PLWD and care partners to ensure health equity.<br \/>\r\n<br \/>\r\nSuccessful applicants will be expected to complete selected readings and online training prior to the workshop.&nbsp;Please note that all participants will be expected to attend and participate in the&nbsp;<u>entire<\/u>&nbsp;1.5-day IMPACT Collaboratory Training Workshop and Retreat.<br \/>\r\n<br \/>\r\n<b><i>Please help to publicize this training program and encourage your investigators and colleagues to apply.<\/i><\/b>&nbsp;<\/p>\r\n\r\n<p><b>TO APPLY: &nbsp;<\/b>For more information and to apply please visit:&nbsp;&nbsp;<a data-auth=\"NotApplicable\" href=\"https:\/\/secure-web.cisco.com\/1e-9VAAaHlfYhITT4dn-DCAFZ9aHfb3RgAJeOhajSc_SHXmps16wlNK7eGToATAnm4ctfLypAGBhz16RAVocc4XKSLKgOcIwFyzOAi6d6cuFZK-ehK70o4GBNbwSxoSyfew4yJ4H_ftY9NjW2IHMwUfSG8Zg_bf1xxN1gisGgZcjOZPjjRuYh5Ifum4zCplleq8aZi0XVeE5zvhOnftNUNu_dgsIXTdD3NkSy8ooZLNylPbO5W3td83IL3n6sK7RsugQzJiTrOipEUls0cfWBZg\/https%3A%2F%2Fimpactcollaboratory.us18.list-manage.com%2Ftrack%2Fclick%3Fu%3Db39fd7e3d891a68be47c6d4bf%26id%3Dbef6f00d57%26e%3D184d0bbade\" rel=\"noopener noreferrer\" target=\"_blank\">https:\/\/impactcollaboratory.org\/training-workshop-and-retreat<\/a>&nbsp;<\/p>\r\n\r\n<ul type=\"disc\">\r\n\t<li><b>Deadline:<\/b>&nbsp;Friday, January 15, 2021&nbsp;<\/li>\r\n\t<li><b>Application:<\/b>&nbsp;Please submit your online application and your NIH biosketch by January 15, 2021 through our&nbsp;<a data-auth=\"NotApplicable\" href=\"https:\/\/secure-web.cisco.com\/19dWuRSEHZ03KDRzLikSH9T6B8xcLWiociuk1H02FMESCxdbX8qTVoctD6FfqV4ZbUympq3L0S4pTwvOmuOI7h-0HDf04oP47CS_vLx8w1ozOk8YvddqCTrAB4K-cr_bh2AO9dZlTRvWwUmsN41xR8M4ksEDelqm7KZ4WfrZ7aFOgIVJX7UA7BQWEu9qjKEOsc_hzKrjxs1mH_9TfrW1y-3t6AuWJrbmWvHwQZ3scxo480a3Uf8QIxETEm75MzdaWSGLzbCcmx_lLP2rCVOf1fA\/https%3A%2F%2Fimpactcollaboratory.us18.list-manage.com%2Ftrack%2Fclick%3Fu%3Db39fd7e3d891a68be47c6d4bf%26id%3D30aa8f80e3%26e%3D184d0bbade\" rel=\"noopener noreferrer\" target=\"_blank\">application portal<\/a>.&nbsp;<\/li>\r\n<\/ul>\r\n\r\n<p><b>ELIGIBILITY CRITERIA:<\/b>&nbsp;Applicants should have an MD, PhD, or equivalent research degree and hold a full-time position at an academic or research organization in the United States. &nbsp;Although the primary audience is early-career investigators, mid-career applicants who are seeking to change their career path to pursue research on ePCTs in AD\/ADRD will be considered. Individuals from underrepresented racial and ethnic groups as well as individuals with disabilities are encouraged to apply.<br \/>\r\n<br \/>\r\n<b>SELECTION CRITERIA:<\/b>&nbsp;Applicants will be selected based on their demonstrated commitment to improving the care of people living with dementia and\/or their caregivers through the conduct of ePCTs in health care systems and the potential impact of the workshop on promoting the applicant\u2019s career in this area.<br \/>\r\n<br \/>\r\nIf you have any questions regarding this opportunity, please email&nbsp;<a data-auth=\"NotApplicable\" rel=\"noopener noreferrer\" target=\"_blank\">IMPACTcollaboratory@hsl.harvard.edu<\/a>&nbsp;<\/p>\r\n\r\n<p>Sincerely,<\/p>\r\n\r\n<p><b>Christopher M. Callahan, MD<\/b><br \/>\r\nCore Leader, IMPACT Training Core<br \/>\r\nChief Research and Development Officer, Eskenazi Health<br \/>\r\nProfessor of Medicine, Indiana University<br \/>\r\nCenter Scientist, Indiana University Center for Aging Research<br \/>\r\nInvestigator, Regenstrief Institute&nbsp;<\/p>\r\n\r\n<p><b>Alexia M. Torke, MD, MS<\/b><br \/>\r\nAssociate Core Leader, IMPACT Training Core<br \/>\r\nAssociate Professor, Indiana University<br \/>\r\nCenter Scientist, Indiana University Center for Aging Research<br \/>\r\nInvestigator, Regenstrief Institute&nbsp;&nbsp;<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Attend the IMPACT Annual Training Workshop & Retreat "
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

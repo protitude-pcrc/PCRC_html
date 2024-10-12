@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "4bbbf73f-245f-40a8-b300-126d6349e8b5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-07-06T20:35:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Events & Presentations"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-09-25T21:20:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-07-06T20:35:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/events-presentations",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h3><strong>Attending <a href=\"http:\/\/pallonc.org\/\" target=\"_blank\">Palliative Care in Oncology Symposium?<\/a><\/strong><\/h3>\r\n\r\n<p>If you will be attending the upcoming&nbsp; Symposium, please take time to visit the presentations and posters from PCRC members, see the listing below for times and topics.&nbsp; Did we miss your presentation or poster?&nbsp; Please send any upcoming meetings or presentations for inclusion on the PCRC website and future newsletters to <a href=\"mailto:laura.roe@duke.edu\">laura.roe@duke.edu<\/a>.<\/p>\r\n\r\n<h5><a href=\"http:\/\/pallonc.org\/program\" target=\"_blank\">ORAL PRESENTATIONS<\/a><\/h5>\r\n\r\n<p>Oct 9th 7:45-10 AM - <strong>Identifying Which Patients in the Intensive Care Unit Require a Palliative Care Consult.<\/strong> Margaret Campbell, PhD, RN, FPCN Oct 10th - 10-11:55 AM - <strong>Oral Abstract 224: Depression and anxiety among family caregivers of patients with advanced cancer.<\/strong> First Author: Ryan Nipp<\/p>\r\n\r\n<h5><a href=\"http:\/\/pallonc.org\/poster-sessions\" target=\"_blank\"><strong>POSTER SESSION A<\/strong><\/a> <strong>Friday, October 9, 2015: 12:20 PM\u20131:20 PM and 5:00 PM\u20136:15 PM<\/strong><\/h5>\r\n\r\n<p><strong>Quality of life and mood in patients with advanced cancer: Associations with prognostic understanding and coping style.<\/strong> (Abstract 76) First Author: Ryan Nipp<\/p>\r\n\r\n<p><strong>Financial burden among survivors of childhood cancer: A report from the childhood cancer survivor study.<\/strong> (Abstract 233) First Author: Ryan Nipp<\/p>\r\n\r\n<h5><a href=\"http:\/\/pallonc.org\/poster-sessions\" target=\"_blank\"><strong>POSTER SESSION B<\/strong><\/a> Saturday, October 10, 2015: 7:00 AM\u20137:45 AM and 11:55 AM\u20131:15 PM<\/h5>\r\n\r\n<p><strong>Depression and anxiety among family caregivers of patients with advanced cancer. <\/strong>(Abstract 224) First Author: Ryan Nipp<\/p>\r\n\r\n<p><strong>Palliative care and hospice use among melanoma patients treated with immunotherapy.<\/strong> (Abstract 116) First Author: Ryan Nipp<\/p>\r\n\r\n<p><strong>Interdisciplinary palliative care for patients with lung cancer.<\/strong> (Abstract 130) First Author: Betty Ferrell<\/p>\r\n\r\n<p><strong>Palliative care consultation for patients enrolled in cancer clinical trials.<\/strong> (Abstract 139) First Author: Ryan Nipp<\/p>\r\n\r\n<p><strong>Measuring implementation of early, concurrent palliative care in community settings.<\/strong> (Abstract 145) First Author: Marie Bakitas<\/p>\r\n\r\n<p><strong>Hospitalizations and emergency department use in cancer clinical trial patients.<\/strong> (Abstract 160) First Author: Ryan Nipp<\/p>\r\n\r\n<p><strong>Palliative care research skill development needs: Lessons from the Palliative Care Research Cooperative Group (PCRC).<\/strong> (Abstract 174) First Author: Christine Ritchie<\/p>\r\n\r\n<p><strong>Fatigue in long-term non-Hodgkin lymphoma survivors.<\/strong> (Abstract 239) First Author: Kathryn Hudson<\/p>\r\n\r\n<p><strong>Symptom burden and palliative care for patients with multiple myeloma: Cancer Experience Registry findings.<\/strong> (Abstract 81) First Author: Joanne Buzaglo<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

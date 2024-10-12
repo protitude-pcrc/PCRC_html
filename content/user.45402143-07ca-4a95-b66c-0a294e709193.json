@@ -1,0 +1,84 @@
+{
+    "uid": [
+        {
+            "value": 9583
+        }
+    ],
+    "uuid": [
+        {
+            "value": "45402143-07ca-4a95-b66c-0a294e709193"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [],
+    "name": [
+        {
+            "value": "therealmorty"
+        }
+    ],
+    "mail": [
+        {
+            "value": "therealmorty@rickmorty.cn"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-12-29T11:24:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-12-29T11:24:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "request",
+            "target_type": "user_role",
+            "target_uuid": "372304bc-f32f-4566-8313-c53ef14f1eb1"
+        },
+        {
+            "target_id": "site_admin",
+            "target_type": "user_role",
+            "target_uuid": "5c9a605e-cd2a-4369-9afe-b50d97679930"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/user\/therealmorty",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_affiliation": [],
+    "field_are_you_a_pcrc_member_": [],
+    "field_first_name": [],
+    "field_last_name": [],
+    "user_picture": []
+}

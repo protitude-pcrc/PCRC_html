@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ec789edd-1bc2-4b77-a279-ba78116b96bd"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/6bea31bd-b103-430b-b671-c816229ddae9"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/research\/conduct-your-research-through-pcrc\/pilot-grant-process"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

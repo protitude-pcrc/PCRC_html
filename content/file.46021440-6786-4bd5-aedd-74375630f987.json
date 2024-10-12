@@ -1,0 +1,69 @@
+{
+    "uuid": [
+        {
+            "value": "46021440-6786-4bd5-aedd-74375630f987"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "document",
+            "target_type": "file_type",
+            "target_uuid": "aba37c63-b654-405f-a34e-d829c2ad7580"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "filename": [
+        {
+            "value": "bridgethegapt32.pdf"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/bridgethegapt32.pdf"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/pdf"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 883299
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-04-04T17:04:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-04-04T17:04:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/bridgethegapt32pdf",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ]
+}

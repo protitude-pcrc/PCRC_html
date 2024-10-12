@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "ead5fb5a-5c1a-4bdb-af3d-aa613e0f1e7a"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Podkova&subset=latin-ext#700"
+        }
+    ],
+    "name": [
+        {
+            "value": "Podkova 700 (latin-ext)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Podkova"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "700"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:11:\"Podkova:700\";s:6:\"subset\";s:9:\"latin-ext\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:01:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:01:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "12b0dea5-d190-4fa8-bef6-36049468456b"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "10a98e12-b538-4b56-9c26-6fc5480a093e"
+        }
+    ],
+    "field_tags": []
+}

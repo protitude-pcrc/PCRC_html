@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "781e47ab-70f2-4a8c-b788-7ce555c36f4c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/0ba01010-0ece-43fd-9977-75b07ca8961a"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/research\/pilot-studies"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

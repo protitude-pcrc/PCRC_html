@@ -1,0 +1,84 @@
+{
+    "uid": [
+        {
+            "value": 9582
+        }
+    ],
+    "uuid": [
+        {
+            "value": "08998009-27d2-44a1-b9c6-ddd88c9319f9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [],
+    "name": [
+        {
+            "value": "therealrick"
+        }
+    ],
+    "mail": [
+        {
+            "value": "therealrick@rickmorty.cn"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-12-29T11:24:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-12-29T11:24:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "request",
+            "target_type": "user_role",
+            "target_uuid": "372304bc-f32f-4566-8313-c53ef14f1eb1"
+        },
+        {
+            "target_id": "administrator",
+            "target_type": "user_role",
+            "target_uuid": "73159c81-e29a-4a24-9f9f-4da7ac7ce0be"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/user\/therealrick",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_affiliation": [],
+    "field_are_you_a_pcrc_member_": [],
+    "field_first_name": [],
+    "field_last_name": [],
+    "user_picture": []
+}

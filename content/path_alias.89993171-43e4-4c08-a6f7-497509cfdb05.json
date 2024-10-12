@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "89993171-43e4-4c08-a6f7-497509cfdb05"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/cbe9ca5b-0ddf-4619-a77e-7958313f9219"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/pcrc-hospice-and-palliative-redcap-codebookpdf"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

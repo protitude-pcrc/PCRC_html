@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f2e1c8ab-2bd8-469e-a802-288466cc58db"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/4a8df6d1-0922-4cfc-9437-5c730d61a95d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/2018-beeson-rfa"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

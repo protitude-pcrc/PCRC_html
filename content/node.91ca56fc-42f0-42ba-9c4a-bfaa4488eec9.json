@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "91ca56fc-42f0-42ba-9c4a-bfaa4488eec9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-05-23T15:23:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5f686ebb-b50d-407c-8038-e50304f18bef"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Training in Interprofessional Education for Palliative Care in Oncology"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-02-12T06:25:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-05-23T15:23:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/training-interprofessional-education-palliative-care-oncology",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p class=\"p1\"><span class=\"s1\">The University of Louisville School of Medicine\u2019s <\/span><span class=\"s2\">Interdisciplinary Program for Palliative Care and Chronic Illness<\/span><span class=\"s1\"> has received funding for Training in Interprofessional Education for Palliative Care in<b> <\/b>Oncology<b> <\/b>from the National Cancer Institute to assist in developing interprofessional education curricula.&nbsp; A national training program, <b>iPEX<\/b> (<b>I<\/b>nter<b>P<\/b>rofessional <b>E<\/b>ducation e<b>X<\/b>change), is being launched to train, support and provide resources to selected faculty teams.<\/span><\/p>\r\n\r\n<p class=\"p1\"><span class=\"s1\">We invite you to join a national training program in <b>Interprofessional Education for Supportive Care in Oncology<\/b>. This project, funded by the National Cancer Institute (R25CA203637), has research components and IRB approval.<\/span><\/p>\r\n\r\n<p class=\"p1\"><span class=\"s1\">[notification color=\"blue\"]Only 10 interprofessional teams of 3-5 health science faculty will be selected in 2018. <\/span>Application is now open and will be extended until April 30, 2018 or until enrollment limits are reached.[\/notification]<\/p>\r\n\r\n<p class=\"p1\"><span class=\"s1\">For more information about<\/span><span class=\"s3\"> <b>iPEX<\/b><\/span><span class=\"s1\"><b>, <\/b>the <\/span><span class=\"s3\"><b>I<\/b><\/span><span class=\"s1\">nter<\/span><span class=\"s3\"><b>P<\/b><\/span><span class=\"s1\">rofessional <\/span><span class=\"s3\"><b>E<\/b><\/span><span class=\"s1\">ducation e<\/span><span class=\"s3\"><b>X<\/b><\/span><span class=\"s1\">change: A National Program to Advance Interprofessional Education in Cancer Care, visit:&nbsp; <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=http-3A__iPEXproject.org_&amp;d=DwMGaQ&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=Zm30doRmr39FnJIByEHTLzjAaWv95OH9ZEIN95DFNnI&amp;s=iprT7sw-pDx8TLekYIFVnAq5iUcZ25xaGiQr6sM8jag&amp;e=\"><span class=\"s4\">http:\/\/iPEXproject.org\/<\/span><\/a><\/span><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": " This project, funded by the National Cancer Institute (R25CA203637), has research components and IRB approval."
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "0133e4fb-87df-4b43-871c-204fe1d62f66"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "The Science of Caregiving: Bringing Voices Together"
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-06-20T08:15:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2017-06-20T08:15:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/science-caregiving-bringing-voices-together",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p class=\"p1\"><span class=\"s1\"><b><i>The Science of Caregiving: Bringing Voices Together\r\n<\/i><\/b><\/span><span class=\"s1\">\r\nAugust 7-8, 2017<\/span><span class=\"s2\">\r\n<\/span><span class=\"s1\">Ruth Kirschstein Auditorium, Natcher Building (Building 45)\r\n<\/span><span class=\"s1\">NIH Campus, Bethesda, MD<\/span><\/p>\r\n<p class=\"p1\"><span class=\"s3\"><a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__www.eventbrite.com_e_science-2Dof-2Dcaregiving-2Dbringing-2Dvoices-2Dtogether-2Dtickets-2D30258348535-3Faff-3Dgrantees&amp;d=DwMF-g&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=8gPgnHAgSO9CVz5rS2yoP34WoggcDLtFRH9wn82bj-M&amp;s=l9MoQe0E68Sddnw8rfUJmODzpo2zhlzijSr97udDUvg&amp;e=\">Register now<\/a><\/span><span class=\"s1\"> and add this event to your calendar.<\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\">The National Institute of Nursing Research (NINR) and partners will host a summit that will provide perspectives across the spectrum of caregiving, including the importance of caregiving across the lifespan as well as current and future directions for research to improve the health of patients and caregivers.<\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\">The keynote speaker is Judy Woodruff of PBS NewsHour. In addition, the Directors of Ceremonies for the event are Gail Hunt of the National Alliance for Caregiving on August 7<\/span><span class=\"s4\"><sup>th<\/sup><\/span><span class=\"s1\"> and Dr. Laura Gitlin of Center for Innovative Care in Aging at the Johns Hopkins University School of Nursing on August 8<\/span><span class=\"s4\"><sup>th<\/sup><\/span><span class=\"s1\">. The event will bring together an audience of researchers, advocates, healthcare providers, educators, and others interested in the science of caregiving.<\/span><\/p>\r\n<p class=\"p1\"><\/p>\r\n<p class=\"p1\"><span class=\"s1\"><b>About the Event:<\/b><\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\"><i>This event is free but space is limited and registration is required. <\/i>To request reasonable accommodations, including sign language interpretation, please contact Nathan Brown at 301-594-9262 \/ <a href=\"mailto:nathan.brown2@nih.gov\"><span class=\"s3\">nathan.brown2@nih.gov<\/span><\/a> or the Federal Relay at 1-800-877-8339 before July 24, 2017. \u00a0<\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\">For more information, including the agenda, visit <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=http-3A__www.ninr.nih.gov_caregivingsummit&amp;d=DwMF-g&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=8gPgnHAgSO9CVz5rS2yoP34WoggcDLtFRH9wn82bj-M&amp;s=gQbD4jiqfAj2vfRMwxtlMq9m4s7vM5GN7hHPQMNK52A&amp;e=\"><span class=\"s3\">www.ninr.nih.gov\/caregivingsummit<\/span><\/a> Please e-mail NINR\u2019s Division of Science Policy and Public Liaison at <a href=\"mailto:info@ninr.nih.gov\"><span class=\"s3\">info@ninr.nih.gov<\/span><\/a> with any questions.\u00a0<\/span><\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

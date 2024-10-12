@@ -1,0 +1,69 @@
+{
+    "uuid": [
+        {
+            "value": "c03703a9-e648-4bc2-9424-568e98e90cd2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "document",
+            "target_type": "file_type",
+            "target_uuid": "aba37c63-b654-405f-a34e-d829c2ad7580"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "filename": [
+        {
+            "value": "Study Summary 14-09 Ferrell-protected.pdf"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/csr_summaries\/Study Summary 14-09 Ferrell-protected.pdf"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/pdf"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 495388
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-02-20T21:59:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-02-20T21:59:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/study-summary-14-09-ferrell-protectedpdf",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ]
+}

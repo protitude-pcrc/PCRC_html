@@ -1,0 +1,147 @@
+{
+    "uuid": [
+        {
+            "value": "24b050bc-5433-4fba-aff1-d354bcb8f32a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "request",
+            "target_type": "node_type",
+            "target_uuid": "8262baa8-4bbb-493f-a05e-aae40f8a4fff"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-01-10T17:47:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "Polypharmacy, statin use and 6-month dyspnea trajectories among older adults with serious, life-limiting diseases."
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-05-14T20:09:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-01-10T17:47:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/request\/2018-0004",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_affiliation": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2d048658-b550-4e25-978f-459bb895e54e"
+        }
+    ],
+    "field_data_requested": [
+        {
+            "target_type": "node",
+            "target_uuid": "936912b9-02a7-4299-97f8-6def8cae5068"
+        }
+    ],
+    "field_date_of_approval": [
+        {
+            "value": "2017-05-09"
+        }
+    ],
+    "field_date_of_submission": [
+        {
+            "value": "2017-05-02"
+        }
+    ],
+    "field_pcrc_project_review": [],
+    "field_pi": [
+        {
+            "value": "Kathleen Akgun"
+        }
+    ],
+    "field_project_status": [
+        {
+            "value": "<p>Published.<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p><em><a href=\"https:\/\/pubmed.ncbi.nlm.nih.gov\/31550901\/\">Akg\u00fcn KM, Krishnan S, Feder SL, Tate J, Kutner JS, Crothers K. (2020.)<\/a><\/em><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_reason_deemed_infeasible": [],
+    "field_request_number": [
+        {
+            "value": "2018-0004"
+        }
+    ],
+    "field_request_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ba7bda26-0f55-4e73-8bc3-3cc5408dfd93"
+        }
+    ],
+    "field_research_proposal": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "fe2b5513-2e8f-4bc2-a0f1-5ce1b1f2d03a"
+        }
+    ],
+    "field_research_proposal_abstract": [
+        {
+            "value": "<p>Dyspnea is common amongst patients with serious, life-limiting medical conditions including cardiovascular disease, pulmonary disease and cancer.&nbsp;Polypharmacy is associated with falls, hospitalization and mortality in older persons. Targeting which medications are preferred for discontinuation remains a challenge.&nbsp;Statins are common in&nbsp;older patients and are prescribed to reduce risk for poor cardiovascular outcomes. There are currently no data exploring the potential impact of statins on dyspnea for patients with&nbsp;life limiting disease.<\/p>\r\n\r\n<p>Given the high personal costs for patients and their caregivers, dyspnea is an important target for improving patient-centered care for patients with serious, life-limiting diseases.&nbsp;We propose a trajectory analysis to determine the optimal&nbsp;number of different trajectories for dyspnea in older patients with serious diseases. As an&nbsp;informal validation step, we will then describe hospitalization and mortality outcomes associated&nbsp;with the different groups. Finally, we will determine what impact polypharmacy, in general, and statin use, specifically, have on dyspnea trajectory.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ]
+}

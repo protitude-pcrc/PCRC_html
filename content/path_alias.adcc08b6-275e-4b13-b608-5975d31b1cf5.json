@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "adcc08b6-275e-4b13-b608-5975d31b1cf5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/bb58569e-1f3f-4946-82f0-e9ca47c50678"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/jama-special-communication"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

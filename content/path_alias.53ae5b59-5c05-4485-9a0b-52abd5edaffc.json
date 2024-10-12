@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "53ae5b59-5c05-4485-9a0b-52abd5edaffc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/671d5e54-50b1-4c12-bb7a-2b97abd5ab90"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/uglymag"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

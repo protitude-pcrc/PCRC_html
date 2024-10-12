@@ -1,0 +1,99 @@
+{
+    "uuid": [
+        {
+            "value": "63dbc1a3-a27f-4134-b03f-fdd242eaca01"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-10-31T15:31:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Who We Are"
+        }
+    ],
+    "created": [
+        {
+            "value": "2014-08-12T22:51:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-10-31T15:31:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/who-we-are",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h2>Overview<\/h2><p>The&nbsp;PCRC&nbsp;overarching structure is based on cores and centers that interact with each other.<\/p><ul><li>The&nbsp;PCRC&nbsp;provides replicable infrastructure, processes, tools and methods, including evaluative metrics that support efficient and effective cooperative group function.<\/li><li>PCRC&nbsp;has a unified data infrastructure built on common data standards and data sharing across sites and studies, within the boundaries of regulatory requirements.<\/li><li>PCRC&nbsp;provides multi-site&nbsp;infrastructure with diverse research expertise and site characteristics across numerous different states and settings.<\/li><li>PCRC&nbsp;provides a flexible model that can accommodate new consultants to fill in gaps and answer questions as they arise.<\/li><\/ul><p>Additionally, the&nbsp;PCRC&nbsp;provides Centers and Cores that facilitate cooperative group structure and function and can support investigators in the following ways.<\/p><p>[notification color=\"blue\"]<strong>Please note<\/strong>: the&nbsp;<a href=\"\/who\/scientific\/\">PCRC&nbsp;Scientific Review Committee (SRC)<\/a>&nbsp;will review all recommendations during protocol review.[\/notification]<\/p><h4>Cores<\/h4><p><a href=\"\/node\/502\">Measurement Core<\/a>&nbsp;\u2022&nbsp; <a href=\"\/node\/505\">Data, Informatics and Statistics Core (DISC)<\/a>&nbsp; \u2022 &nbsp;&nbsp;<a href=\"\/node\/506\">Caregiver Research Core<\/a>&nbsp; \u2022&nbsp; <a href=\"\/node\/507\">Clinical Studies Core<\/a><\/p><h4>Centers<\/h4><p><a href=\"\/node\/508\">Project Coordinating Center<\/a>&nbsp; \u2022&nbsp;<a href=\"\/node\/509\">&nbsp;Investigator Development Center<\/a><\/p><p>The&nbsp;PCRC&nbsp;is overseen by the&nbsp;<a href=\"\/who\/steering\/\" title=\"Steering Committee\">Steering Committee<\/a>, a diverse group of palliative care and research experts.<\/p><p>[center][button url=\"mailto:pcrc@ucdenver.edu\" size=\"large\" color=\"orange\"]Contact us![\/button][\/center]<\/p>",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": [
+        {
+            "value": "PCRC provides Centers and Cores that facilitate cooperative group structure and function and can support investigators in the following ways."
+        }
+    ]
+}

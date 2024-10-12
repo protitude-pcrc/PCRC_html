@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7a844f3b-0f12-40dd-be8f-22a39c82eb39"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f8c63271-f1ce-4166-99c5-adfc354b94ef"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/crc-approaching-primary-physician"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

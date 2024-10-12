@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "33f6be5d-63db-4850-b775-7916b3871279"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/bc5ba8b0-1001-43dd-aafd-68e0368e60a4"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-32-september-2018"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d6ff4449-e139-4a69-8b8b-7475ff63df70"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/596708d9-961d-4de8-b6f2-0784b9f36940"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/save-date"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

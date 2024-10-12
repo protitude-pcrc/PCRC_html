@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "0dc6bbf6-f1e6-4194-b6ba-5c4589de0ad5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/dc1961d0-e19b-4b0e-8032-40fc573479a2"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/study\/consumer-engagement-increase-advance-care-planning"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

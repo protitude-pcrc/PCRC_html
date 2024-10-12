@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7d0ae98b-1198-4a1c-98fb-d2c82250526c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/e21d63a8-1ee0-45e2-a6ec-a8e0c6fb39ef"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/barry"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

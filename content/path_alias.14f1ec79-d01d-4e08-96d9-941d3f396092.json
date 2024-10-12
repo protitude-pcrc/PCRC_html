@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "14f1ec79-d01d-4e08-96d9-941d3f396092"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/733ab1cf-84ed-4969-bd6a-c7b92df2b077"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/registration-open"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

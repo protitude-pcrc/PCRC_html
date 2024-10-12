@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1d1f0f04-3551-4807-9ddc-f82dd52de3fc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/05b7be32-964c-47cf-805b-cee4d253486e"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/fanaticshivers"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

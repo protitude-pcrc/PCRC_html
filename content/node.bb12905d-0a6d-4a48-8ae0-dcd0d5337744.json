@@ -1,0 +1,226 @@
+{
+    "uuid": [
+        {
+            "value": "bb12905d-0a6d-4a48-8ae0-dcd0d5337744"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-07-20T15:43:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "title": [
+        {
+            "value": "Refinement of a Prognostic Model for Patients with Metastatic Cancer"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-03-19T16:03:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-07-20T15:43:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/study\/refinement-prognostic-model-patients-metastatic-cancer",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [],
+    "field_approved_data_requests": [],
+    "field_award_number": [],
+    "field_condition_studied": [],
+    "field_csr_summary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "3018db89-e8ff-4b74-bec7-856e9b0aec33"
+        }
+    ],
+    "field_data_dictionary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "f03f2092-c899-4efe-9d95-c5d5ba99fe6a"
+        }
+    ],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e494a23c-aea6-4f0b-a534-4b948ddfdb07"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Factors Influencing Outcomes at the End of Life Among Patients Receiving Palliative Radiation Therapy"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "3913"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": true
+        }
+    ],
+    "field_nct_link_field": [],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "18f87351-ddf6-48ea-98df-e5daa20cb830"
+        }
+    ],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        }
+    ],
+    "field_participant_ethnicity_coll": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9f0a5f93-b890-438b-98ad-b040ae3e46e3"
+        }
+    ],
+    "field_participant_race": [],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bb33a50f-e9de-47ae-80e4-5167ef2b0d2f"
+        }
+    ],
+    "field_pcrc_study_num": [
+        {
+            "value": "16-06"
+        }
+    ],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/doi.org\/10.1016\/j.ijrobp.2018.07.1285",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [],
+    "field_study_design": [],
+    "field_study_pi": [
+        {
+            "value": "Monica Krishnan, MD"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "Dana Faber Cancer Center, Harvard University"
+        }
+    ],
+    "field_study_setting": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "0273e5e5-00f3-4ffe-89c2-4dd69d36e8fc"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4fb30600-1784-41e5-8d7d-2e45bef6acca"
+        }
+    ],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "89b177d7-1afa-4d2b-bb5a-199a38866463"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<h3>Objectives:<\/h3>\r\n\r\n<p><strong>1.&nbsp;<\/strong>To examine factors influencing prognosis in patients receiving palliative radiation therapy, including validating the TEACHH model in a patient population receiving palliative radiation therapy at the DFCI and BWH, including the DFCI at South Shore Hospital, BWH at Milford Regional Medical Center and BWH\/Sturdy Memorial radiation center, and examining other potential risk factors including laboratory values, burden of metastatic disease, changes in performance status, inpatient or outpatient status, specific symptoms, and treatment on a dedicated palliative care service and to determine their prognostic significance for survival.<\/p>\r\n\r\n<p><strong>2.<\/strong> To examine tumor\/symptom control outcomes and toxicities after palliative radiation therapy over a patient\u2019s remaining lifespan.<\/p>\r\n\r\n<h3>Methodology:<\/h3>\r\n\r\n<p>This is a retrospective record review which contains baseline disease information, radiographic information, clinical photographs, and follow-up information (including survival and resolution of symptoms). The associations between various baseline factors and outcomes, including life expectancy, tumor control, symptomatic improvement, will then be assessed.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [
+        {
+            "value": "<p>abstract<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_therapeutic_area": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9f0b313e-b0ad-4af6-94c5-b2cd31413fe1"
+        }
+    ],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4899ab96-a788-4a21-8a17-927137b8ffa9"
+        }
+    ]
+}

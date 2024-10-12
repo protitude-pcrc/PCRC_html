@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "fe7feba2-ab9f-4a1d-b676-8419b1e6ca3c"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Source Sans Pro&subset=vietnamese#600italic"
+        }
+    ],
+    "name": [
+        {
+            "value": "Source Sans Pro 600italic (vietnamese)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Source Sans Pro"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "italic"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "600"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:25:\"Source Sans Pro:600italic\";s:6:\"subset\";s:10:\"vietnamese\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:00:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:00:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "3a52e156-ae57-4a95-a295-e559e21bea2e"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "cdf1899f-717b-43ca-8ecb-e18813b65a79"
+        }
+    ],
+    "field_tags": []
+}

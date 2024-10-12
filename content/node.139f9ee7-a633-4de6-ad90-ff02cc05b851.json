@@ -1,0 +1,91 @@
+{
+    "uuid": [
+        {
+            "value": "139f9ee7-a633-4de6-ad90-ff02cc05b851"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-12-19T21:30:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Membership"
+        }
+    ],
+    "created": [
+        {
+            "value": "2014-08-12T21:11:54+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-12-19T21:30:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/membership",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The PCRC is a highly respected research collaborative and the only one of its kind. Our size allows us to facilitate multi-site studies and networking with fellow palliative care investigators. There are many benefits to joining the PCRC.<\/p>\r\n\r\n<p>Chief among them: unparalleled opportunities to share information, collaborate on studies, and engage in science that advances the field of palliative care.<\/p>\r\n\r\n<p>Other benefits include:<\/p>\r\n\r\n<ul>\r\n\t<li>Member meetings that feature sessions with experts in the field and valuable networking opportunities<\/li>\r\n\t<li>Investigator Development Center that provides access to clinical trials intensives, webinars, training videos, and other resources<\/li>\r\n\t<li>The Clinical Studies and Methodology, Measurement, Data Informatics and Statistics, and Caregivers Cores, which provide methodologic expertise about palliative care study design<\/li>\r\n\t<li>Pilot grants for palliative care studies<\/li>\r\n<\/ul>\r\n\r\n<p>By joining the PCRC, you are joining a group of dedicated professionals committed to developing an evidence base to ensure high quality care and optimal well-being for people with serious illness and their caregivers.<\/p>\r\n\r\n<p>Current members who would like to request a change in PCRC membership level can request that this happen by emailing <a href=\"mailto:pcrc@ucdenver.edu\" target=\"_blank\">pcrc@ucdenver.edu<\/a>.<\/p>\r\n\r\n<p><strong>We are no longer accepting applications for PCRC membership.<\/strong><\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

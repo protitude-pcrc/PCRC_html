@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "833c05d5-41f3-42c2-916c-951972fdb471"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/ed596e3b-77d7-4197-b5c4-27f033f9c12d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/livelycurry"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

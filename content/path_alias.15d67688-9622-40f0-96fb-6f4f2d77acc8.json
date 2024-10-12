@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "15d67688-9622-40f0-96fb-6f4f2d77acc8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/72aaec2c-7c90-41f8-ab82-bfd040068180"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-44-january-2021"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,330 @@
+{
+    "uuid": [
+        {
+            "value": "0b226cf6-1baf-4cf1-bf54-61e899d81640"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-02-22T00:03:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "Reducing End-of-Life Symptoms with Touch (REST)"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-05-10T17:23:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-02-22T00:03:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/study\/reducing-end-life-symptoms-touch-rest",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "faa1514d-0bcf-4b96-99e1-2326164d7415"
+        }
+    ],
+    "field_approved_data_requests": [
+        {
+            "target_type": "node",
+            "target_uuid": "dc42caae-af9d-4807-a20d-7cbf1c2753e4"
+        }
+    ],
+    "field_award_number": [
+        {
+            "value": "R01AT001006-01A2"
+        }
+    ],
+    "field_condition_studied": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "7c6d4ebc-6982-41f9-874d-5134870675fd"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "75d6518c-1f57-4a84-84b5-14617cfdfa31"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4306f56b-e73b-4d50-b93b-58ae06e2d19e"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "860a5754-fda4-4701-99c6-d447c126bfd7"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d3442e2e-2447-4c97-9465-8d531209a792"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6e0383fa-6713-4b4f-ac5b-7b593a132c29"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ce4e1d08-48a7-4ef8-bf5a-123148f64dcf"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "7af4261f-4397-4f37-b980-f57c7df48abf"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e8f471e3-4e4d-42a8-8273-510a9dbc3068"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9375d3ec-ed71-4e58-a40e-3763258a5e6d"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1a9a9841-c6b9-4156-9470-2eb00019aeda"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "936ba324-676c-4751-8a0e-8496f1b1a91a"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "cfdfb8a1-853b-43e1-b1c6-9771fa3c18fc"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "49a9457f-c867-479e-b7f2-2e511d7f5dfc"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbab8b93-9785-4867-a825-70aede1921aa"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "286ed964-696e-40ca-a654-b80224e8911b"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bef50fb1-d788-46eb-98a0-21f4055ff26f"
+        }
+    ],
+    "field_csr_summary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "739116f3-25fe-4646-a3c4-20f9225c0605"
+        }
+    ],
+    "field_data_dictionary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "39fdc20e-e95b-4fd7-8823-4dceb53962c8"
+        }
+    ],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e494a23c-aea6-4f0b-a534-4b948ddfdb07"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Massage therapy versus simple touch to improve pain and mood in patients with advanced cancer: a randomized trial"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "380"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": true
+        }
+    ],
+    "field_nct_link_field": [
+        {
+            "uri": "https:\/\/clinicaltrials.gov\/ct2\/show\/record\/NCT00065195",
+            "title": "NCT00065195",
+            "options": []
+        }
+    ],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "b6bc0498-7338-4940-9886-e62fa81129d3"
+        }
+    ],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "caefce4c-5e94-458b-b838-42ec8e25ae95"
+        }
+    ],
+    "field_participant_ethnicity_coll": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "350f6f60-c882-44d9-bf86-2f242d671d54"
+        }
+    ],
+    "field_participant_race": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "88ac74e1-8f30-4ba6-bbe9-d8a410f35170"
+        }
+    ],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bb33a50f-e9de-47ae-80e4-5167ef2b0d2f"
+        }
+    ],
+    "field_pcrc_study_num": [],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/18794556",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [
+        {
+            "value": "National Center for Complementary and Integrative Health (NCCIH)"
+        }
+    ],
+    "field_study_design": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8efa09b9-e9aa-43b7-bb08-51dcd38fabe3"
+        }
+    ],
+    "field_study_pi": [
+        {
+            "value": "Jean Kutner, MD, MSPH & Marlaine Smith, RN, PhD, AHN-BC, FAAN"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "University of Colorado Denver"
+        }
+    ],
+    "field_study_setting": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "5ccfdb7d-bd8f-4259-b6b6-b51b7e66dfca"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2cbe2575-3af8-43d2-b4af-b144d6034ad8"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4fb30600-1784-41e5-8d7d-2e45bef6acca"
+        }
+    ],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [],
+    "field_summary": [
+        {
+            "value": "<p><strong>BACKGROUND:<\/strong> Small studies of variable quality suggest that massage therapy may relieve pain and other symptoms.<\/p>\r\n\r\n<p><strong>OBJECTIVE:<\/strong> To evaluate the efficacy of massage for decreasing pain and symptom distress and improving quality of life among persons with advanced cancer.<\/p>\r\n\r\n<p><strong>DESIGN:<\/strong> Multisite, randomized clinical trial.<\/p>\r\n\r\n<p><strong>SETTING:<\/strong> Population-based Palliative Care Research Network.<\/p>\r\n\r\n<p><strong>PATIENTS:<\/strong> 380 adults with advanced cancer who were experiencing moderate-to-severe pain; 90% were enrolled in hospice.<\/p>\r\n\r\n<p><strong>INTERVENTION:<\/strong> Six 30-minute massage or simple-touch sessions over 2 weeks.<\/p>\r\n\r\n<p><strong>MEASUREMENTS: <\/strong>Primary outcomes were immediate (Memorial Pain Assessment Card, 0- to 10-point scale) and sustained (Brief Pain Inventory [BPI], 0- to 10-point scale) change in pain. Secondary outcomes were immediate change in mood (Memorial Pain Assessment Card) and 60-second heart and respiratory rates and sustained change in quality of life (McGill Quality of Life Questionnaire, 0- to 10-point scale), symptom distress (Memorial Symptom Assessment Scale, 0- to 4-point scale), and analgesic medication use (parenteral morphine equivalents [mg\/d]). Immediate outcomes were obtained just before and after each treatment session. Sustained outcomes were obtained at baseline and weekly for 3 weeks.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [
+        {
+            "value": "<p>Derived variable definitions<\/p>\r\n\r\n<p>Additional citations:<\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/20597707\">Kutner J, Smith M, Mellis K, Felton S, Yamashita T, Corbin L. Methodological Challenges in Conducting a Multi-Site Randomized Clinical Trial of Massage Therapy in Hospice.&nbsp;<i>Journal of Palliative Medicine<\/i>. 2010;13(6):739-744.<\/a><\/li>\r\n\t<li><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/21923312\" target=\"_blank\">O'Bryant CL, Linnebur SA, Yamashita TE, Kutner JS. Inconsistencies in opioid equianalgesic ratios: clinical and research implications. J Pain Palliat Care Pharmacother. 2008;22(4):282-90.<\/a><\/li>\r\n\t<li><a href=\"Smith MC, Yamashita TE, Bryant LL, Hemphill L, Kutner JS. Providing massage therapy for people with advanced cancer: what to expect. J Altern Complement Med. 2009 Apr;15(4):367-71.\" target=\"_blank\">Smith MC, Yamashita TE, Bryant LL, Hemphill L, Kutner JS. Providing massage therapy for people with advanced cancer: what to expect. J Altern Complement Med. 2009 Apr;15(4):367-71.<\/a><\/li>\r\n\t<li><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/19284251\" target=\"_blank\">Corbin LW, Mellis BK, Beaty BL, Kutner JS. The Use of Complementary and Alternative Medicine Therapies by Patients with Advanced Cancer and Pain in a Hospice Setting: A Multicentered, Descriptive Study.&nbsp;<i>Journal of Palliative Medicine<\/i>. 2009;12(1):7-8.<\/a><\/li>\r\n<\/ul>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_therapeutic_area": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9f0b313e-b0ad-4af6-94c5-b2cd31413fe1"
+        }
+    ],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "016aaa43-cedb-435d-a7d6-d6446d7af039"
+        }
+    ]
+}

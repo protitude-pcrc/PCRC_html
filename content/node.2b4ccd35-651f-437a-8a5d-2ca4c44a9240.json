@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "2b4ccd35-651f-437a-8a5d-2ca4c44a9240"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-08-22T23:28:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Measurement Core"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-05-11T19:19:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-08-22T23:28:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/corescenters\/measurement-core",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h4>Core Leadership:<\/h4>\r\n\r\n<drupal-entity alt=\"Antonia Bennett, PhD\" data-align=\"left\" data-caption=\"Antonia Bennett, PhD\" data-embed-button=\"image_browser\" data-entity-embed-display=\"image:linked_responsive_image\" data-entity-embed-display-settings=\"{&quot;responsive_image_style&quot;:&quot;original&quot;,&quot;image_link&quot;:&quot;&quot;,&quot;link_uri&quot;:&quot;&quot;}\" data-entity-type=\"file\" data-entity-uuid=\"a35482c1-86cd-4f8e-809d-d5eeec66a028\" data-langcode=\"en\"><\/drupal-entity>\r\n\r\n<drupal-entity alt=\"Laura Hanson\" data-align=\"center\" data-caption=\"Laura Hanson, MD\" data-embed-button=\"image_browser\" data-entity-embed-display=\"image:linked_responsive_image\" data-entity-embed-display-settings=\"{&quot;responsive_image_style&quot;:&quot;original&quot;,&quot;image_link&quot;:&quot;&quot;,&quot;link_uri&quot;:&quot;&quot;}\" data-entity-type=\"file\" data-entity-uuid=\"c8bb51ba-3353-4894-9448-71a9f2fb2e4f\" title=\"Laura Hanson\"><\/drupal-entity>\r\n\r\n<p><em>Contact <a href=\"mailto:avbenn@email.unc.edu?subject=PCRC%20Measurement%20Core%20Consultation\">Antonia Bennett<\/a>&nbsp;or <a href=\"mailto:lhanson@med.unc.edu?subject=PCRC%20Measurement%20Core%20Consultation\">Laura Hanson<\/a> for a core consultation.<\/em><\/p>\r\n\r\n<h4>Roles and responsibilities of the Measurement Core:<\/h4>\r\n\r\n<ul>\r\n\t<li>\r\n\t<p>Assist with identifying appropriate survey instruments, especially those for patients and clinicians.<\/p>\r\n\t<\/li>\r\n\t<li>\r\n\t<p>Assist with planning the logistics of survey data collection, including the mode and method of data capture (self or interviewer administered; by paper, tablet, or web; in clinic or at home), the frequency of assessments and reminders, informational handouts, and training of site staff and survey respondents.<\/p>\r\n\t<\/li>\r\n\t<li>\r\n\t<p>Review and provide input on portions of protocol text,&nbsp;consent forms, and IRB applications regarding survey data collection, as appropriate.<\/p>\r\n\t<\/li>\r\n\t<li>\r\n\t<p>Assist with identifying the correct scoring algorithm for survey instruments and provide this to the Data &amp; Statistics Core or to the Study Investigator\u2019s statistician.<\/p>\r\n\t<\/li>\r\n<\/ul>\r\n\r\n<h4>Core Resources:<\/h4>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/airtable.com\/shrDZpNRNjNxGjr1e\" rel=\"noopener\" target=\"_blank\">Palliative Care Measurement Tool Library<\/a><\/li>\r\n\t<li><a href=\"https:\/\/palliativecareresearch.org\/corescenters\/measurement-core\/instrument-systematic-reviews\">Systematic Reviews of Instruments Relevant to Palliative Care<\/a><\/li>\r\n\t<li><a href=\"https:\/\/palliativecareresearch.org\/corescenters\/measurement-core\/implement-patient-reported-outcomes-pros-research-studies\">How to implement Patient Reported Outcomes (PROs) in your research studies<\/a><\/li>\r\n\t<li><a href=\"https:\/\/palliativecareresearch.org\/corescenters\/measurement-core\/measurement-references\">Useful references and resources when designing studies and conducting research that includes PROs<\/a><\/li>\r\n<\/ul>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

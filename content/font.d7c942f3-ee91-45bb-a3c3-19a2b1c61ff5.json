@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "d7c942f3-ee91-45bb-a3c3-19a2b1c61ff5"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Old Standard TT&subset=cyrillic-ext#700"
+        }
+    ],
+    "name": [
+        {
+            "value": "Old Standard TT 700 (cyrillic-ext)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Old Standard TT"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "700"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:19:\"Old Standard TT:700\";s:6:\"subset\";s:12:\"cyrillic-ext\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:01:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:01:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "12b0dea5-d190-4fa8-bef6-36049468456b"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "16e1d3a5-ee65-45c5-b809-f593551984b0"
+        }
+    ],
+    "field_tags": []
+}

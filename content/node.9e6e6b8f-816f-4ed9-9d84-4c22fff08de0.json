@@ -1,0 +1,228 @@
+{
+    "uuid": [
+        {
+            "value": "9e6e6b8f-816f-4ed9-9d84-4c22fff08de0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-04-20T02:32:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "title": [
+        {
+            "value": "Hospice Bereavement Service Delivery to Family Members and Friends With Bereavement-Related Mental Health Symptoms"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-31T19:33:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-04-20T02:32:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/study\/hospice-bereavement-service-delivery-family-members-and-friends-bereavement-related-mental",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "ccb8d69e-6613-4192-bda8-a1a736e16f66"
+        }
+    ],
+    "field_approved_data_requests": [],
+    "field_award_number": [],
+    "field_condition_studied": [],
+    "field_csr_summary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "79eb6226-d29f-4528-9eba-637b27f2875b"
+        }
+    ],
+    "field_data_dictionary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "684f5dec-0660-4730-bdc1-5258e3a7e73a"
+        }
+    ],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e494a23c-aea6-4f0b-a534-4b948ddfdb07"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Understanding Bereavement Services Delivered in Hospice Settings for Family Members with Symptoms of Depression, Anxiety, and Complicated Grief"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "3561"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": false
+        }
+    ],
+    "field_nct_link_field": [],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d7cd26a3-2482-49da-b75d-bdd120b563ae"
+        }
+    ],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "caefce4c-5e94-458b-b838-42ec8e25ae95"
+        }
+    ],
+    "field_participant_ethnicity_coll": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "350f6f60-c882-44d9-bf86-2f242d671d54"
+        }
+    ],
+    "field_participant_race": [],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9bae5dc6-39bb-4eb6-ba24-2add620945de"
+        }
+    ],
+    "field_pcrc_study_num": [
+        {
+            "value": "17-04"
+        }
+    ],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/30428680",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [],
+    "field_study_design": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "daae6b51-dea5-4f17-a71d-6e8474c47e08"
+        }
+    ],
+    "field_study_pi": [
+        {
+            "value": "Angela R. Ghesquiere, PhD, MSW"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "New York Department of Social Services "
+        }
+    ],
+    "field_study_setting": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "5ccfdb7d-bd8f-4259-b6b6-b51b7e66dfca"
+        }
+    ],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "89b177d7-1afa-4d2b-bb5a-199a38866463"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<h4>OBJECTIVES:<\/h4>\r\n\r\n<p>A sizable minority of those who lose a loved one in hospice will experience symptoms of bereavement-related mental health disorders. Though hospices offer services to bereaved informal caregivers (family members or friends) of patients, little is known about services offered or interest in them. Therefore, this study sought to assess services offered by hospice staff and interest expressed by bereaved informal caregivers with symptoms of depression, anxiety, or complicated grief (CG).<\/p>\r\n\r\n<h4>METHODS:<\/h4>\r\n\r\n<p>De-identified electronic bereavement care charts of 3561 informal caregivers who lost someone in a large urban metropolitan hospice from October 1, 2015, to June 30, 2016, were reviewed.<\/p>\r\n\r\n<h4>RESULTS:<\/h4>\r\n\r\n<p>Of bereaved informal caregivers in the sample, 9.4% (n = 333) were positive for symptoms of depression, anxiety, or CG. The symptom-positive family members\/friends were more likely than other family members\/friends to be offered mailings, one-to-one counseling, telephone calls, and reference material. However, interest in most services by symptom-positive caregivers was low, with only 6% interested in one-to-one counseling and 7% interested in outside referral.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [],
+    "field_therapeutic_area": [],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4899ab96-a788-4a21-8a17-927137b8ffa9"
+        }
+    ]
+}

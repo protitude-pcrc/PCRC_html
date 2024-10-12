@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "21f8dd46-095b-429d-ba92-024baa0cd76f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-11-04T18:44:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "title": [
+        {
+            "value": "2022 NIH Rural Health Seminar - Thurs Nov 17 from 12-1:30pm ET "
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-11-04T18:02:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-11-04T18:44:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/2022-nih-rural-health-seminar-thurs-nov-17-12-130pm-et",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><em>Improving Rural Health through Research Dissemination and Implementation<\/em><\/p>\r\n\r\n<p>The 2022 NIH Rural Health Seminar, hosted by the NIH Rural Health Special Interest Group, centers on the intersection of rurality and other factors that impact how research is implemented with rural populations. The event features expert insights into the effects of social determinants of health, culture, race and ethnicity, sexuality and gender, chronic complex conditions, and the lived environments.<\/p>\r\n\r\n<p>Register for the virtual event <a href=\"https:\/\/nih.zoomgov.com\/webinar\/register\/WN_iY-B5kCQSNSZCWGyS5jLwg\" rel=\"noopener\" target=\"_blank\"><strong>HERE<\/strong><\/a>.<\/p>\r\n\r\n<p>When: <strong>Thursday, November 17, 2022, from 12-1:30 pm ET<\/strong><\/p>\r\n\r\n<p>For more information about this event, click <a href=\"https:\/\/nimhd.nih.gov\/news-events\/conferences-events\/rural-health.html\" rel=\"noopener\" target=\"_blank\"><strong>HERE<\/strong><\/a>.<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "2022 NIH Rural Health Seminar: Improving Rural Health through Research Dissemination and Implementation"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

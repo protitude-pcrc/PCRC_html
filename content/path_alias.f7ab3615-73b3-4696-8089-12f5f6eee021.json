@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f7ab3615-73b3-4696-8089-12f5f6eee021"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3299371d-f990-4921-8b60-8d11c3909b54"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/research\/investigator-support-information\/clinical-trials-intensives"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

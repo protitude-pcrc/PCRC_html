@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e3401763-bcbc-49b2-903c-46859e970b48"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/803e7462-c1ed-497c-b624-365ee0d37a98"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-42-august-2020"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a79afdc5-8ece-419a-8cc9-df6c941e4545"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/58c4dcc2-9fe6-459a-836a-3af48bec35d8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-31-july-2018"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

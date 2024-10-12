@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c4eb85a6-cd47-4ca2-9d08-e9eeb9f637f9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/140bdbec-200f-4c99-a83d-30e79204d974"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/cheryl"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

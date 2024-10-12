@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "f80c9a44-2f28-4405-b79a-f244c5a3b53f"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Cormorant Garamond&subset=vietnamese#700"
+        }
+    ],
+    "name": [
+        {
+            "value": "Cormorant Garamond 700 (vietnamese)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Cormorant Garamond"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "700"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:22:\"Cormorant Garamond:700\";s:6:\"subset\";s:10:\"vietnamese\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:02:25+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:02:25+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "12b0dea5-d190-4fa8-bef6-36049468456b"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "cdf1899f-717b-43ca-8ecb-e18813b65a79"
+        }
+    ],
+    "field_tags": []
+}

@@ -1,0 +1,91 @@
+{
+    "uid": [
+        {
+            "value": 1911
+        }
+    ],
+    "uuid": [
+        {
+            "value": "f324269e-49c1-44d2-9d8c-a117b3ec3f70"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "pasqualegl"
+        }
+    ],
+    "mail": [
+        {
+            "value": "user+1911@localhost.localdomain"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-11-03T12:30:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-11-03T12:30:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "request",
+            "target_type": "user_role",
+            "target_uuid": "372304bc-f32f-4566-8313-c53ef14f1eb1"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/user\/pasqualegl",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_affiliation": [],
+    "field_are_you_a_pcrc_member_": [],
+    "field_first_name": [
+        {
+            "value": "Aliquam antehabeo dignissim eum fere jumentum secundum tego verto vindico"
+        }
+    ],
+    "field_last_name": [
+        {
+            "value": "Abdo dignissim facilisi fere nutus olim. Abico dolore elit inhibeo pagus suscipit. Diam iusto iustum neo probo sed sino. Abbas caecus defui eligo nisl pala pertineo probo saepius. Ibidem interdico mos oppeto pecus vel."
+        }
+    ],
+    "user_picture": []
+}

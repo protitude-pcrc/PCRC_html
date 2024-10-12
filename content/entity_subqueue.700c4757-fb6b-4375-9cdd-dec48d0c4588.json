@@ -1,0 +1,112 @@
+{
+    "uuid": [
+        {
+            "value": "700c4757-fb6b-4375-9cdd-dec48d0c4588"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "queue": [
+        {
+            "target_id": "operations",
+            "target_type": "entity_queue",
+            "target_uuid": "11fe337f-5f70-48ce-bd6e-f51e7272068a"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2018-04-30T19:29:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "4f9256af-a749-4859-a639-cdce784ab732"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "4f9256af-a749-4859-a639-cdce784ab732"
+        }
+    ],
+    "title": [
+        {
+            "value": "Operations"
+        }
+    ],
+    "items": [
+        {
+            "target_type": "node",
+            "target_uuid": "71b8c5df-c858-4c5d-90c6-ce25dfe1ba32"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "95eb9f7e-cb90-44ea-a884-dee1a0e905c9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "3a91129f-6724-4fd8-b1ff-336515f4c081"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "6e56b744-58c4-4ae7-8df3-51b80ef66d70"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "942a907b-8814-43dd-a80e-ea3a92066889"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "ee1e6751-7a7d-425d-9151-0f4dac6a59fd"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "588edc1d-a6f7-472b-9a18-10e8c89bdb51"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "d3f38d1f-5123-4640-b7b7-2d432c5a7ffe"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "8ca9a280-ea3c-4fba-90c1-d49ff2176bf2"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "12b8ee6b-1318-4bd3-8423-94c165caa0c2"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-30T19:29:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-04-14T14:00:14+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ]
+}

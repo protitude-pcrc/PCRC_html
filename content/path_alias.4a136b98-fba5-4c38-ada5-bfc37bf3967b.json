@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "4a136b98-fba5-4c38-ada5-bfc37bf3967b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/d787ff08-863c-4279-a6a0-55ee50a71301"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/redcap-datadictionarypdf"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

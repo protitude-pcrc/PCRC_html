@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "bb6da57a-e175-445c-bbc4-bc1cd3b0f17e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/0799be64-93c3-44aa-9429-49fe89c0743e"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/funding-opportunities"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

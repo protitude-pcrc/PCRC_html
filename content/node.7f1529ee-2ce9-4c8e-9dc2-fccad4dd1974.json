@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "7f1529ee-2ce9-4c8e-9dc2-fccad4dd1974"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Palliative Care and Aging Research Training (T32)"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-11-25T05:11:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2015-11-25T05:11:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/palliative-care-and-aging-research-training-t32",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "Dr. Jean Kutner directs this <a href=\"http:\/\/www.ucdenver.edu\/academics\/colleges\/medicalschool\/departments\/medicine\/GIM\/education\/Pages\/Palliative-Care-and-Aging-Research-Training-T32.aspx\" target=\"_blank\"><strong>Institutional NRSA (T32) <\/strong><\/a>focused on training investigators in research relevant to older adults with serious illness.\u00a0 The goal of this T32 is to prepare trainee candidates for careers as palliative care researchers.\r\n\r\n<strong>We are now accepting applications for a\u00a0position\u00a0beginning\u00a0January 2017.<\/strong>\r\n\r\nIt is recommended that potential applicants contact Dr. Kutner (<a href=\"mailto:jean.kutner@ucdenver.edu\">jean.kutner@ucdenver.edu<\/a>) prior to submitting an application.\r\n\r\n<b>Goals and Objectives Curriculum<\/b>\r\n\r\nAll T32-funded trainees will be postdoctoral physician scientists or PhD scientists who have indicated substantial interests in learning translational or clinical research that is relevant to aging and palliative care.\u00a0 Upon completion of the program, the trainees will be expected to have mastered basic technical aspects of research and to have progressed to an independent stage of developing their own ideas and projects.",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

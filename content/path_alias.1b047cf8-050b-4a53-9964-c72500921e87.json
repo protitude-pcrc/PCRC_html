@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1b047cf8-050b-4a53-9964-c72500921e87"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/aaeb8430-7c09-4f3c-9d36-bd52feadb991"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/ifeinberg2"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "6c9e846c-2c33-4c49-830e-4ec1d0b3a6f6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "May 2016 Clinical Trials Intensive - Applications Closed"
+        }
+    ],
+    "created": [
+        {
+            "value": "2016-02-04T20:56:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2016-02-04T20:56:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/may-2016-clinical-trials-intensive-applications-closed",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "Two Intensives are planned for 2016:\u00a0 The first was held January 11-13, 2016.\r\nThe second is <strong>May 3-5, 2016<\/strong>.\u00a0 Applications for the May Intensive application process is closed.\u00a0 Please check for future opportunities!\r\n\r\n<strong>When:<\/strong> May 3-5, 2016 (Noon on 5\/3 until noon on 5\/5)\r\n<strong>Where:<\/strong> Denver, Colorado - hotel located near airport\r\n\r\nClick here for more information on the <a href=\"http:\/\/palliativecareresearch.org\/corescenters\/idc\/\" target=\"_blank\">Investigator Development Center<\/a> and Intensives.",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "79f19229-97ab-4374-b750-70a60097eb51"
+        }
+    ]
+}

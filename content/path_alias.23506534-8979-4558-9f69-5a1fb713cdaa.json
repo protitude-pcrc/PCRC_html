@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "23506534-8979-4558-9f69-5a1fb713cdaa"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/d8634547-5994-4c4a-b347-369a18b73853"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/funding-opportunity-announcement-pcrc-2019-pilots"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

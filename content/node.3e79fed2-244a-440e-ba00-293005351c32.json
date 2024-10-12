@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "3e79fed2-244a-440e-ba00-293005351c32"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-11-02T19:51:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "Clinical Practice Guidelines for Palliative Care, 4th Edition Released"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-11-02T19:45:25+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-11-02T19:51:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/clinical-practice-guidelines-palliative-care-4th-edition-released",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><i>Clinical Practice Guidelines for Quality Palliative Care, 4th edition,<\/i>&nbsp;released Oct 31, 2018, create a blueprint for excellence by establishing a comprehensive foundation for gold-standard palliative care for all people living with serious illness, regardless of their diagnosis, prognosis, age or setting.<\/p>\r\n\r\n<p>The guidelines expand on the eight domains of palliative care in the 3rd edition and include clinical and organizational strategies, screening and assessment elements, practice examples, tools and resources.<\/p>\r\n\r\n<p>To read more and download your copy click below:<\/p>\r\n\r\n<p>[button size=\"large\" color=\"green\" target=\"_blank\" url=\"https:\/\/www.nationalcoalitionhpc.org\/ncp\/\"]National Coalition for Hospice and Palliative Care[\/button]<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "New National Guidelines Seek to Improve Access to Palliative Care for People Living with Serious Illness "
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

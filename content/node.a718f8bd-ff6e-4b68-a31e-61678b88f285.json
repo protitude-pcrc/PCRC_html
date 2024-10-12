@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "a718f8bd-ff6e-4b68-a31e-61678b88f285"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-01-03T19:18:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "title": [
+        {
+            "value": "NIH launching new HEAL Initiative Coordinating Center for National Pain Scientists"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-01-03T19:01:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-01-03T19:18:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/nih-launching-new-heal-initiative-coordinating-center-national-pain-scientists",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>An introductory webinar is scheduled for <strong>Thursday, January 5 at 10am PT\/ 1pm ET.<\/strong> Attendees can register <a href=\"https:\/\/nam02.safelinks.protection.outlook.com\/?url=https%3A%2F%2Fneurovations.zoom.us%2Fwebinar%2Fregister%2FWN_h7I3_mvoQSGq47BtaDStPQ&amp;data=05%7C01%7Cjean.kutner%40cuanschutz.edu%7C05e98c8c5904414993b308daedb139eb%7C563337caa517421aaae01aa5b414fd7f%7C0%7C0%7C638083642687010262%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=H3oWhsxL%2B4X70e6CofkDo32FoEJiuyCfXQ1oiq%2BpYWM%3D&amp;reserved=0\" rel=\"noopener\" target=\"_blank\"><strong>HERE<\/strong><\/a>.<\/p>\r\n\r\n<p>The Helping to End Addiction Long-term* Initiative, or NIH HEAL Initiative* is excited to announce an online networking and collaboration platform for pain researchers: the <strong>PURPOSE Network.<\/strong><\/p>\r\n\r\n<p>The PURPOSE (Positively Uniting Researchers of Pain to Opine, Synthesize, and Engage) Network will:<\/p>\r\n\r\n<ul>\r\n\t<li>Provide a centralized community for research trainees and researchers across the continuum of basic, translational, and clinical research,<\/li>\r\n\t<li>Offer ongoing webinars and training opportunities,<\/li>\r\n\t<li>Deliver weekly network digests via email,<\/li>\r\n\t<li>Enable multidisciplinary collaborations when developing grant applications, and<\/li>\r\n\t<li>Aggregate information around pain research, funding opportunities, and the HEAL Initiative<\/li>\r\n<\/ul>\r\n\r\n<p>This network will be the central facilitator for integrating training and mentoring across a network of mentors and early-stage investigators funded by NIH (e.g., NIH trainees, NIH fellows, and Career Development Awardees). It will connect NIH-funded pain researchers with each other to advance the innovation, relevance, and practical application of pain management research, as well as increase communication among pain management researchers across all pain disciplines.<\/p>\r\n\r\n<p>The NIH encourages all early-stage investigators and NIH mentors to participate in the PURPOSE Network and attend the annual meeting in <strong>National Harbor, MD from May 11-13, 2023.<\/strong><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "NIH launching new HEAL Initiative Coordinating Center for National Pain Scientists: Introductory Webinar Thurs Jan 5 at 10am PT\/ 1pm ET"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

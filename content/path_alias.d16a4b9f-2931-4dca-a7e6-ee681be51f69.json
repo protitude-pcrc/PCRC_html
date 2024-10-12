@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d16a4b9f-2931-4dca-a7e6-ee681be51f69"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/aa8ca4b4-ad26-4662-a5b1-5a9e36985690"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/pdf-iconpng"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

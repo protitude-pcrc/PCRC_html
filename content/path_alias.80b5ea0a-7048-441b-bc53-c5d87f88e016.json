@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "80b5ea0a-7048-441b-bc53-c5d87f88e016"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/ab0675bb-6b13-4132-8bde-e36debe5f165"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/research\/investigator-support-information"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

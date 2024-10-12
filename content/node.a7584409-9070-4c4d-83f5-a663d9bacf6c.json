@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "a7584409-9070-4c4d-83f5-a663d9bacf6c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Abstracts for 2017 ASCO Annual Meeting due February 7th!"
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-01-30T07:52:54+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2017-01-30T07:52:54+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/abstracts-2017-asco-annual-meeting-due-february-7th",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p class=\"p1\"><span class=\"s1\"><b>The abstract submission deadline for ASCO's 2017 Annual Meeting \u00a0is Tuesday, February 7, at 11:59 PM (EST).<\/b> You can submit up to two regular abstracts and an unlimited number of Trials in Progress abstracts as first author. Authors will be asked to select the topic category that best fits the topic of their research.<\/span><\/p>\r\nVisit <a href=\"https:\/\/asco.confex.com\/asco\/2017\/cfp.cgi?cmpid=nm_am_abst_em_t_all_01-24-17_am&amp;et_cid=38862906&amp;et_rid=934833998&amp;linkid=submit+an+abstract\" target=\"_blank\"><span class=\"s2\"><b>am.asco.org\/abstracts<\/b><\/span><\/a> for more\u00a0information.",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

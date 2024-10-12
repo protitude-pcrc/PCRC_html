@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "bdb1e0aa-dd24-4c4f-b754-1b5855055ade"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/aa2f4751-f7cf-4376-b726-6a8080ed3e27"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/corescenters\/investigator-development-center-idc"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

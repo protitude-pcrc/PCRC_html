@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a2056f7d-91fd-4432-9084-65c8ac5d4623"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/a6132281-4fa7-4a50-a8b3-189a7669d40d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/membership\/member-meetings"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "35c9f962-4eb9-45a7-9869-c345e14fa829"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/taxonomy\/term\/359"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news-type\/uncategorized"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

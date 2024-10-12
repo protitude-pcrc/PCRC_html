@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f4bc8df6-d5a4-4edd-8954-5c7b9530888f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/ae1231fa-4550-43b5-98df-4f9e3b5f4987"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/commondataelementspng"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "uuid": [
+        {
+            "value": "ee1e6751-7a7d-425d-9151-0f4dac6a59fd"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "directory",
+            "target_type": "node_type",
+            "target_uuid": "79e51216-81f7-458b-8bed-a5a563ac74ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-13T13:24:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5f686ebb-b50d-407c-8038-e50304f18bef"
+        }
+    ],
+    "title": [
+        {
+            "value": "Carey Candrian"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-05-30T06:15:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-13T13:24:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "body": [],
+    "feeds_item": [],
+    "field_area_of_focus": [],
+    "field_directory_image": [
+        {
+            "alt": "Carey Candrian",
+            "title": "",
+            "width": 600,
+            "height": 600,
+            "target_type": "file",
+            "target_uuid": "7af04c5e-bf6b-45da-bc2a-9984337e950c"
+        }
+    ],
+    "field_email": [
+        {
+            "value": "Carey.Candrian@cuanschutz.edu"
+        }
+    ],
+    "field_list_assignment": [],
+    "field_membership_title": [],
+    "field_name": [
+        {
+            "title": "",
+            "given": "Carey",
+            "middle": "",
+            "family": "Candrian",
+            "generational": "",
+            "credentials": "PhD"
+        }
+    ],
+    "field_organization": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "decc977a-16a5-4c6a-b874-01fcfe20cd8a"
+        }
+    ],
+    "field_publication_title": [],
+    "field_scientific_title": []
+}

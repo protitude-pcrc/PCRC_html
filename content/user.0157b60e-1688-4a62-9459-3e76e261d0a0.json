@@ -1,0 +1,84 @@
+{
+    "uid": [
+        {
+            "value": 9584
+        }
+    ],
+    "uuid": [
+        {
+            "value": "0157b60e-1688-4a62-9459-3e76e261d0a0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [],
+    "name": [
+        {
+            "value": "therealbeth"
+        }
+    ],
+    "mail": [
+        {
+            "value": "therealbeth@rickmorty.cn"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-12-29T11:24:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-12-29T11:24:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "request",
+            "target_type": "user_role",
+            "target_uuid": "372304bc-f32f-4566-8313-c53ef14f1eb1"
+        },
+        {
+            "target_id": "content_editor",
+            "target_type": "user_role",
+            "target_uuid": "c86720d9-08d2-4173-8ac3-0d58b4ec2de5"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/user\/therealbeth",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_affiliation": [],
+    "field_are_you_a_pcrc_member_": [],
+    "field_first_name": [],
+    "field_last_name": [],
+    "user_picture": []
+}

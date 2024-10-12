@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1f8e8f52-8619-43ff-9b74-9cfeba7e0d4c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/658986bd-beba-42e1-9b16-bd809b5e5900"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/darcec"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

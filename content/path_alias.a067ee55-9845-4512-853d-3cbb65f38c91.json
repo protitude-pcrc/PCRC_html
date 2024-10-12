@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a067ee55-9845-4512-853d-3cbb65f38c91"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f0d4182a-eee2-4f7f-85af-f9f94a404697"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/request\/2021-0001"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

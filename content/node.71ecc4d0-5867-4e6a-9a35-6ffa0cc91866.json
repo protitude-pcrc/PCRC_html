@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "71ecc4d0-5867-4e6a-9a35-6ffa0cc91866"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-01-19T17:16:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "NIH Science of Behavior Change (SOBC) Capstone Conference"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-01-19T17:10:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-01-19T17:16:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/nih-science-behavior-change-sobc-capstone-conference",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h2>NIH Science of Behavior Change (SOBC) Capstone Conference<\/h2>\r\n\r\n<p><br \/>\r\nJoin the NIH\u2019s Science of Behavior Change (SOBC) Capstone Conference,&nbsp;<em>Ten Years of the Science of Behavior Change Common Fund Program: Celebrating Accomplishments and Looking to the Future<\/em>, on the afternoons&nbsp;(Eastern)&nbsp;of&nbsp;<strong>February 22-23, 2021<\/strong>.&nbsp;<br \/>\r\n<br \/>\r\nThe goal of the&nbsp;<a data-auth=\"NotApplicable\" href=\"https:\/\/commonfund.nih.gov\/behaviorchange\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"https:\/\/lnks.gd\/l\/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMjAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMTAxMTIuMzMxNjIzNTEiLCJ1cmwiOiJodHRwczovL2NvbW1vbmZ1bmQubmloLmdvdi9iZWhhdmlvcmNoYW5nZSJ9.ulBX5E7IEIe2CromXEiZ3ihceNnwQ0f98FcK2G_jvG0\/s\/7\">NIH Science of Behavior Change (SOBC) Common Fund Program<\/a>&nbsp;is to advance behavior change research through a focus on mechanisms of change and the integration of basic research with applied\/interventional research. The capstone conference will highlight innovative examples of behavior change research consistent with SOBC principles, from use-inspired basic research to mechanisms-focused intervention science. Renowned national and international experts will share their research findings and visions for the future of the science of behavior change. The capstone conference will be virtual, open to the public, recorded, archived, and proceedings summarized in a publicly accessible report.&nbsp;<br \/>\r\n<br \/>\r\n<strong>Registration is now open<\/strong>. Visit the&nbsp;<a data-auth=\"NotApplicable\" href=\"https:\/\/lnks.gd\/l\/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMjEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMTAxMTIuMzMxNjIzNTEiLCJ1cmwiOiJodHRwczovL2NvbW1vbmZ1bmQubmloLmdvdi9zb2JjLWNhcHN0b25lbWVldGluZyJ9.w300yF2z4E04fzJRgWeHMNG1839B_zyhVSx26zRrxiQ\/s\/711037758\/br\/92967936990-l\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"https:\/\/lnks.gd\/l\/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMjEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMTAxMTIuMzMxNjIzNTEiLCJ1cmwiOiJodHRwczovL2NvbW1vbmZ1bmQubmloLmdvdi9zb2JjLWNhcHN0b25lbWVldGluZyJ9.w300yF2z4E04fzJRgWeHMNG1839B_zyhVSx26zR\">meeting website<\/a>&nbsp;for more information including a&nbsp;<a data-auth=\"NotApplicable\" href=\"https:\/\/lnks.gd\/l\/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMjIsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMTAxMTIuMzMxNjIzNTEiLCJ1cmwiOiJodHRwczovL2NvbW1vbmZ1bmQubmloLmdvdi9zb2JjLWNhcHN0b25lbWVldGluZy9yZWdpc3RyYXRpb24ifQ.2cQ-hBBhvAkvoA2CKNUQDt_Fewnqukc5YccEtQ2T_Uo\/s\/711037758\/br\/92967936990-l\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"https:\/\/lnks.gd\/l\/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMjIsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMTAxMTIuMzMxNjIzNTEiLCJ1cmwiOiJodHRwczovL2NvbW1vbmZ1bmQubmloLmdvdi9zb2JjLWNhcHN0b25lbWVldGluZy9yZWdpc3RyYXRpb24ifQ.2cQ-hBBhvAkvoA2CKNUQD\">link to register<\/a><a href=\"https:\/\/commonfund.nih.gov\/sobc-capstonemeeting\/registration\">.<\/a>&nbsp;<br \/>\r\n<br \/>\r\n<strong><a data-auth=\"NotApplicable\" href=\"https:\/\/commonfund.nih.gov\/sobc-capstonemeeting\/registration\" rel=\"noopener noreferrer\" target=\"_blank\">Register Now<\/a><\/strong><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

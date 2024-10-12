@@ -1,0 +1,69 @@
+{
+    "uuid": [
+        {
+            "value": "d7d32710-bdc6-469d-966c-69281e1e38da"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "document",
+            "target_type": "file_type",
+            "target_uuid": "aba37c63-b654-405f-a34e-d829c2ad7580"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "filename": [
+        {
+            "value": "Forst_Deidentified_DataDictionary.pdf"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/dictionaries\/Forst_Deidentified_DataDictionary.pdf"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/pdf"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 207257
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-04-21T13:41:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-04-21T14:05:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/forstdeidentifieddatadictionarypdf",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ]
+}

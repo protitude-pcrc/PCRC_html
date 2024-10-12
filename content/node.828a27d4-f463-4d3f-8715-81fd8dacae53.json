@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "828a27d4-f463-4d3f-8715-81fd8dacae53"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "New Member Orientation- June 10th"
+        }
+    ],
+    "created": [
+        {
+            "value": "2016-05-10T04:14:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2016-05-10T04:14:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/new-member-orientation-june-10th",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<strong>What:<\/strong>\u00a0\u00a0 PCRC New Member Orientation Webinar\r\n\r\n<strong>When:<\/strong>\u00a0 Friday, June 10th, 2016, 2:00-3:00pm Eastern Daylight Time\r\n\r\n<strong>Step 1:<\/strong>\u00a0 Click this link on your computer: <a href=\"https:\/\/webmeeting.ucsf.edu\/orion\/joinmeeting.do?ED=WePyIdX-ZWHzbY77zRq3kg==\" target=\"_blank\">https:\/\/webmeeting.ucsf.edu\/orion\/joinmeeting.do?ED=WePyIdX-ZWHzbY77zRq3kg==<\/a>\r\n\r\n<strong>Step 2:\u00a0<\/strong> Connect to the audio portion of the meeting.\u00a0 Either:\r\n\u00b7\u00a0\u00a0\u00a0\u00a0 Let the system call your phone (you will receive prompts once you have clicked on the link above and joined the meeting)\r\n\u00b7\u00a0\u00a0\u00a0\u00a0 Call in directly, using this phone number: +1 415-514-1000; Access Code: 993 729 099\r\n\r\n<span style=\"text-decoration: underline;\"><strong>IMPORTANT NOTE:<\/strong><\/span> You must have the WebEx Meeting plugin downloaded to your computer in order for WebEx to work. The first time you start or join a meeting, you will be prompted to download the plugin to your computer or you may choose to run WebEx as a temporary application. We strongly encourage you to test WebEx before the webinar.\u00a0 To download the plugin or to confirm that you're able to successfully join, click here:\u00a0 <a href=\"http:\/\/www.webex.com\/test-meeting.html\" target=\"_blank\">http:\/\/www.webex.com\/test-meeting.html<\/a>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

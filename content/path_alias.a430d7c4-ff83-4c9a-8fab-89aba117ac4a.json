@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a430d7c4-ff83-4c9a-8fab-89aba117ac4a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/d312ac43-6078-4a4b-a3f0-4b3ca51fd770"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-2-april-2012"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

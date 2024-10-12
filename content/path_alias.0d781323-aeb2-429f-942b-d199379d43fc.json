@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "0d781323-aeb2-429f-942b-d199379d43fc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/50dc3d76-3482-4220-869c-4e4cb03129d6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/study\/advanced-care-planning"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

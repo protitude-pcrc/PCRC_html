@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "df290959-93da-45a0-8bf9-4331ffe743ca"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-04-01T23:28:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "New NIA opportunities for emerging scientists: AREA and REAP programs"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-04-01T23:18:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-04-01T23:28:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/new-nia-opportunities-emerging-scientists-area-and-reap-programs",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The National Institute on Aging (NIA) sets a high priority on expanding the number of researchers focused on aging-related diseases and other health concerns. To help develop our next generation of scientists, we are participating in the NIH Research Enhancement (R15) Award program. It has two components: the Academic Research Enhancement Award (AREA) for Undergraduate-Focused Institutions, and the Research Enhancement Award Program (REAP) for Health Professional Schools and Graduate Schools, with two funding opportunity announcements (FOAs) for each.&nbsp;<\/p>\r\n\r\n<p>Learn more about the four new NIA-supported R15 AREA FOAs:<\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/par-18-714.html\">Academic Research Enhancement Award for Undergraduate-Focused Institutions (R15 \u2013 Clinical Trial Not Allowed)<\/a><\/li>\r\n\t<li><a href=\"https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/PAR-19-133.html\">Academic Research Enhancement Award for Undergraduate-Focused Institutions (R15 - Clinical Trial Required)<\/a><\/li>\r\n\t<li><a href=\"https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/PAR-19-134.html\">Research Enhancement Award Program (REAP) for Health Professional Schools and Graduate Schools (R15 Clinical Trial Not Allowed)<\/a><\/li>\r\n\t<li><a href=\"https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/PAR-19-135.html\">Research Enhancement Award Program (REAP) for Health Professional Schools and Graduate Schools (R15 Clinical Trial Required)<\/a><\/li>\r\n<\/ul>\r\n\r\n<p>For more information, visit:&nbsp;<a href=\"https:\/\/www.nia.nih.gov\/research\/blog\/2019\/03\/new-opportunities-emerging-scientists-area-and-reap-programs\" target=\"_blank\">https:\/\/www.nia.nih.gov\/research\/blog\/2019\/03\/new-opportunities-emerging-scientists-area-and-reap-programs<\/a><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

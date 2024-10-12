@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "734cd669-73af-4b36-859b-a2e89da54a99"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:35:27+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Operations"
+        }
+    ],
+    "created": [
+        {
+            "value": "2014-12-04T23:03:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2014-12-04T23:03:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/operations-0",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<table class=\"grid listing\" style=\"color: #000000;\" width=\"600px\">\r\n<thead>\r\n<tr bgcolor=\"#0481B2\">\r\n<th>\r\n<h6><span style=\"color: #ffffff;\"><strong>area<\/strong><\/span><\/h6>\r\n<\/th>\r\n<th>\r\n<h6><span style=\"color: #ffffff;\"><strong>who<\/strong><\/span><\/h6>\r\n<\/th>\r\n<\/tr>\r\n<\/thead>\r\n<tbody>\r\n<tr>\r\n<td width=\"400px\">Group Leadership\/Grants\/Membership\/Committees<\/td>\r\n<td width=\"200px\"><strong><a href=\"\/sites\/default\/files\/migrated_files\/amy_abernethy-thumb-e1435678213202.jpg\"><img class=\" wp-image-445 alignleft\" src=\"\/sites\/default\/files\/migrated_files\/amy_abernethy-thumb-150x150.jpg\" alt=\"Amy Abernethy, MD\" width=\"50\" height=\"50\" \/><\/a><a href=\"mailto:\/\/amy.abernethy@duke.edu\">Amy Abernethy\r\n<\/a><\/strong><a href=\"mailto:\/\/amy.abernethy@duke.edu\">amy.abernethy@duke.edu<\/a><\/td>\r\n<\/tr>\r\n<tr bgcolor=\"#F2F9FB\">\r\n<td>Group Leadership\/Grants\/Membership\/Committees<\/td>\r\n<td><strong><a href=\"\/sites\/default\/files\/migrated_files\/Jean-Kutner-thumb.jpg\"><img class=\"alignleft wp-image-444\" src=\"\/sites\/default\/files\/migrated_files\/Jean-Kutner-thumb-150x150.jpg\" alt=\"Jean Kutner, MD\" width=\"50\" height=\"50\" \/><\/a><a href=\"mailto:\/\/jean.kutner@ucdenver.edu\">Jean Kutner<\/a>\r\n<\/strong><a href=\"mailto:\/\/jean.kutner@ucdenver.edu\">jean.kutner@ucdenver.edu<strong>\r\n<\/strong><\/a><\/td>\r\n<\/tr>\r\n<tr>\r\n<td>Trial Management\/Data Collection &amp; Quality\/Training-Site Development<\/td>\r\n<td><a href=\"mailto:\/\/rachael.bennett@ucdenver.edu\"><strong>\u00a0Rachael Bennett\r\n<\/strong>rachael.bennett@ucdenver.edu<strong>\r\n<\/strong><\/a><\/td>\r\n<\/tr>\r\n<tr bgcolor=\"#F2F9FB\">\r\n<td>\u00a0Data Management\/Statistical Trial Specific Issues<\/td>\r\n<td><strong><a href=\"\/sites\/default\/files\/migrated_files\/Jud-Blatchford-thumb.jpg\"><img class=\"alignleft wp-image-690\" src=\"\/sites\/default\/files\/migrated_files\/Jud-Blatchford-thumb-150x150.jpg\" alt=\"Jud Blatchford\" width=\"50\" height=\"50\" \/><\/a><a href=\"mailto:Patrick.Blatchford@ucdenver.edu\">Jud Blatchford<\/a>\r\n<\/strong><a href=\"mailto:Patrick.Blatchford@ucdenver.edu\">patrick.blatchford@ucdenver.edu<strong>\r\n<\/strong><\/a><\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\u00a0Protocol Development\/Site Development<\/td>\r\n<td><strong><a href=\"\/sites\/default\/files\/migrated_files\/careyPCRC-e1435678838666.jpg\"><img class=\"alignleft wp-image-692\" src=\"\/sites\/default\/files\/migrated_files\/careyPCRC-e1435678838666-150x150.jpg\" alt=\"Carey Candrian\" width=\"50\" height=\"50\" \/><\/a><a href=\"mailto:\/\/CAREY.CANDRIAN@ucdenver.edu\">Carey Candrian<\/a>\r\n<\/strong><a href=\"mailto:\/\/CAREY.CANDRIAN@ucdenver.edu\">CAREY.CANDRIAN@ucdenver.edu<strong>\r\n<\/strong><\/a><\/td>\r\n<\/tr>\r\n<tr bgcolor=\"#F2F9FB\">\r\n<td>Data Management\/Statistical Analyses Policies<\/td>\r\n<td><strong><a href=\"\/sites\/default\/files\/migrated_files\/Diane-Fairclough-thumb.jpg\"><img class=\"alignleft wp-image-447\" src=\"\/sites\/default\/files\/migrated_files\/Diane-Fairclough-thumb-150x150.jpg\" alt=\"Diane Fairclough\" width=\"50\" height=\"50\" \/><\/a><a href=\"mailto:\/\/diane.fairclough@ucdenver.edu\">Diane Fairclough<\/a>\r\n<\/strong><a href=\"mailto:\/\/diane.fairclough@ucdenver.edu\">diane.fairclough@ucdenver.edu<strong>\r\n<\/strong><\/a><\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\u00a0Administrative\/Regulatory-Legal\/General Group Issues<\/td>\r\n<td><strong><a href=\"\/sites\/default\/files\/migrated_files\/Molly-Gavigan-e1435680044412.jpg\"><img class=\"alignleft wp-image-696\" src=\"\/sites\/default\/files\/migrated_files\/Molly-Gavigan-e1435680044412.jpg\" alt=\"Molly Gavigan\" width=\"50\" height=\"50\" \/><\/a><a href=\"mailto:\/\/molly.gavigan@dm.duke.edu\">Molly Gavigan<\/a>\r\n<\/strong><a href=\"mailto:\/\/molly.gavigan@dm.duke.edu\">molly.gavigan@dm.duke.edu<strong>\r\n<\/strong><\/a><\/td>\r\n<\/tr>\r\n<tr bgcolor=\"#F2F9FB\">\r\n<td>\u00a0Communication [Website, Newsletter, etc.] \/Meetings &amp;logistical coordination\/Membership Inquiry<\/td>\r\n<td><strong><a href=\"\/sites\/default\/files\/migrated_files\/Jordan-Lodato-thumb.jpg\"><img class=\"alignleft wp-image-448\" src=\"\/sites\/default\/files\/migrated_files\/Jordan-Lodato-thumb-150x150.jpg\" alt=\"Jordan Lodato\" width=\"50\" height=\"50\" \/><\/a><a href=\"mailto:\/\/jordan.lodato@duke.edu\">Jordan Lodato<\/a>\r\n<\/strong><a href=\"mailto:\/\/jordan.lodato@duke.edu\">jordan.lodato@duke.edu<\/a><\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\u00a0New Research Trial ideals\/Scientific Review<\/td>\r\n<td><strong><a href=\"\/sites\/default\/files\/migrated_files\/christine-ritchie.jpg\"><img class=\"alignleft wp-image-459\" src=\"\/sites\/default\/files\/migrated_files\/christine-ritchie-150x150.jpg\" alt=\"Christine Ritchie\" width=\"50\" height=\"50\" \/><\/a><a href=\"mailto:\/\/Christine.Ritchie@ucsf.edu\">Christine Ritchie<\/a>\r\n<\/strong><a href=\"mailto:\/\/Christine.Ritchie@ucsf.edu\">Christine.Ritchie@ucsf.edu\u00a0<\/a>\r\n<div><\/div><\/td>\r\n<\/tr>\r\n<tr bgcolor=\"#F2F9FB\">\r\n<td>\u00a0Budget\/Contracts<\/td>\r\n<td><strong><a href=\"\/sites\/default\/files\/migrated_files\/Lynnette-Thacker.jpg\"><img class=\"alignleft wp-image-697\" src=\"\/sites\/default\/files\/migrated_files\/Lynnette-Thacker.jpg\" alt=\"Lynnette Thacker\" width=\"47\" height=\"50\" \/><\/a><a href=\"mailto:\/\/lynnette.thacker@dm.duke.edu\">Lynnette Thacker<\/a>\r\n<\/strong><a href=\"mailto:\/\/lynnette.thacker@dm.duke.edu\">lynnette.thacker@dm.duke.edu<strong>\r\n<\/strong><\/a><\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

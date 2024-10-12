@@ -1,0 +1,71 @@
+{
+    "uuid": [
+        {
+            "value": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "news_types",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "6d215aaa-3963-453e-8360-218af67c2384"
+        }
+    ],
+    "revision_created": [],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "name": [
+        {
+            "value": "Announcements"
+        }
+    ],
+    "description": [
+        {
+            "value": "<p class=\"xx\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\"><b>Emergency Awards: Community-engaged COVID-19 Testing Interventions among Underserved and Vulnerable Populations \u2013 RADx-UP Phase II (U01 Clinical Trial Optional)<\/b> <a href=\"https:\/\/secure-web.cisco.com\/10GtLH_lp45-_SPaTTTZ6CXX9gINXkAs2nRLn-Wx6A-vYlgK4iZpQDkJKsHnIFqbxZ_u-7Gu3Inm1xEpkdOV0EyOL2FzuwatWGmAXFUjoVVhUDKoGOnDSuBiWb6QqkB0xVy-WCwIWYa97BB-fa4iz-u0fSunTv42kBnjgvdF0GDsjy0hZd7Sye9JB8MxojrWUnfSK2omln63FtpoGAYFzx2JAAAPtNllHKL0TV4wkb1Hx8PB5jnUJ6V5hJog7vcHy\/https%3A%2F%2Fgrants.nih.gov%2Fgrants%2Fguide%2Frfa-files%2FRFA-OD-21-008.html\" style=\"color:#0563c1; text-decoration:underline\">RFA-OD-21-008<\/a> <\/span><\/span><\/p>\r\n\r\n<p class=\"xx\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\">Application due date: July 07, 2021<\/span><\/span><\/p>\r\n\r\n<p class=\"xx\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\">&nbsp;<\/span><\/span><\/p>\r\n\r\n<p class=\"xx\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\"><b>Emergency Award: RADx-UP - Social, Ethical, and Behavioral Implications (SEBI) Research on Disparities in COVID-19 Testing among Underserved and Vulnerable Populations (U01 Clinical Trials Optional)<\/b> <a href=\"https:\/\/secure-web.cisco.com\/1vTDOs-wYY4xhf7h8W2OaPyuy7b4wSYzPq5mWPlI-OYwLy69NWf0kIN4ATeXB4p85FpVHd_XUeQbHwgZwXoAoDL0ewLOQtBPSZdz71aaNQpx5g5qC6_KDVvyV2yP-i-l0smoRLPe1h6z_b-YBTZEmbCP7OILG0acA0lE5ThuErcdoFIp08hhq1UhsWjNzYsriSfu7Yzu9Ar9YrZLhE43_Q7P-uAsdDEmk7kXMhSIVkLa6qaO2-7WRlaORpSEl7Aym\/https%3A%2F%2Fgrants.nih.gov%2Fgrants%2Fguide%2Frfa-files%2FRFA-OD-21-009.html\" style=\"color:#0563c1; text-decoration:underline\">RFA-OD-21-009<\/a> <\/span><\/span><\/p>\r\n\r\n<p class=\"xx\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\">Application due date: July 07, 2021<\/span><\/span><\/p>\r\n\r\n<p class=\"xx\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\">&nbsp;<\/span><\/span><\/p>\r\n\r\n<p class=\"xx\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\"><b>Notice of Special Interest (NOSI): Emergency Competitive Revisions for Community-engaged COVID-19 Testing Interventions among Underserved and Vulnerable Populations \u2013 RADx-UP Phase II (Emergency Supplement - Clinical Trial Optional)<\/b> <a href=\"https:\/\/secure-web.cisco.com\/16aqSfQbxo-WT7QgbpWFe77NemO8oJnh4lRrRo56f0G7Yizay6qclxYcydLMb7C7Zlw0Kg_t1yjUf3GXygAEii4nB2Co-4-yMztO0nOz2EjXP8KdFFATZuktQSCAAMQswdvM_-2Je8Z8qKmCVR-pqhjWNMg3_cyjw30XRrjyEHAIMtMJICXHFN6i95xgZdvuiKkPG6qS_2-jDAEWV0-9fiwTKe0UXMpVL10d9q0dpTNc2_LyumeoHsroHnZoTl2VM\/https%3A%2F%2Fgrants.nih.gov%2Fgrants%2Fguide%2Fnotice-files%2FNOT-OD-21-103.html\" style=\"color:#0563c1; text-decoration:underline\">NOT-OD-21-103<\/a> <\/span><\/span><\/p>\r\n\r\n<p class=\"xx\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\">Application due date: May 24, 2021<\/span><\/span><\/p>\r\n\r\n<p class=\"xx\" style=\"margin-left:48px\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\">Please note that for the <span style=\"color:#333333\">competitive competing revision award under this NOSI, the parent award on which the revision application is based must be an <b>active award (including those in a no-cost-extension period)<\/b> managed by one of the participating institutes or centers.<\/span><\/span><\/span><\/p>\r\n\r\n<p class=\"xx\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\"><i><span style=\"color:#333333\">If you are interested in this competitive revision, please contact me as soon as possible. <\/span><\/i><\/span><\/span><\/p>\r\n\r\n<p class=\"xx\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\">&nbsp;<\/span><\/span><\/p>\r\n\r\n<p class=\"xx\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\">Other currently active funding opportunities related to COVID-19 can be found at <a href=\"https:\/\/secure-web.cisco.com\/1twvHAxUZF4qS2oadBSyJSgTTYzj-PUl_5-1C8LJBkwlfBOek106GbQK77yeyNO-f9K6wKc5lVuy8D3KuAwymmRL055ZWsa6oHpm7f793jHA-bpRo6UFIkJ7ToBJ-jpGf5wZ2nMGgm0yJumqT3ZPxrPjwpKyMkNQeFtzUzh2-xxe4uo9_CDVOX1PvB_M2zl3rPjLMxagw4O5OzCNZA5ySCX-BRx1qNtXpsbJGJjYx5WZraQVJCUOnwU6HtuIs1yfK\/https%3A%2F%2Fgrants.nih.gov%2Fgrants%2Fguide%2FCOVID-Related.cfm%23active\" style=\"color:#0563c1; text-decoration:underline\">https:\/\/grants.nih.gov\/grants\/guide\/COVID-Related.cfm#active<\/a><\/span><\/span><\/p>\r\n\r\n<p class=\"xx\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\">&nbsp;<\/span><\/span><\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "parent": [
+        {
+            "target_id": null
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-04-21T19:28:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news-type\/announcements",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ]
+}

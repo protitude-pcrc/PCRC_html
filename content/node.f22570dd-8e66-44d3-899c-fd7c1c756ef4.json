@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "f22570dd-8e66-44d3-899c-fd7c1c756ef4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-04-26T20:46:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Frequently Asked Questions"
+        }
+    ],
+    "created": [
+        {
+            "value": "2014-08-12T21:04:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-04-26T20:46:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/about\/frequently-asked-questions",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>[toggle]<\/p>\r\n\r\n<p>[toggle-item title=\"What is the PCRC?\"]<\/p>\r\n\r\n<p>The PCRC is the first research cooperative in the United States focused specifically on advancing the science of palliative and end\u2010of\u00ad\u2010life research through rigorous, multi\u00ad\u2010site, evidence\u00ad\u2010based research.<\/p>\r\n\r\n<p>[\/toggle-item]<\/p>\r\n\r\n<p>[toggle-item title=\"What is a research cooperative?\"]<\/p>\r\n\r\n<p>A cooperative group is a compelling approach to research. It offers a means to complete, in a timely way, complex studies that otherwise would not or could not be undertaken. It encourages the use of standardized outcome measures, enhances recruitment, and maximizes generalizability of study results. By pooling resources and expertise across sites, it exploits economies of scale and leverages sites\u2019 varied research capacities.<\/p>\r\n\r\n<p>This is especially relevant in palliative care where the majority of care is provided in community-based venues without the substantial research infrastructure or research expertise present in academic medical centers.<\/p>\r\n\r\n<p>[\/toggle-item]<\/p>\r\n\r\n<p>[toggle-item title=\"Why should I join the PCRC?\"]<\/p>\r\n\r\n<p>There are many reasons to join the PCRC. You will benefit from:<\/p>\r\n\r\n<ul>\r\n\t<li>Mentoring<\/li>\r\n\t<li>Pilot grant funding<\/li>\r\n\t<li>Support from our Research Cores and Centers<\/li>\r\n\t<li>Educational resources<\/li>\r\n\t<li>In-person Investigator meetings<\/li>\r\n\t<li>Clinical Trials and Intensives and Webinars<\/li>\r\n\t<li>Measurement libraries<\/li>\r\n\t<li>Access to the qualitative and quantitative&nbsp;PCRC De-identified Data Repositories&nbsp;for secondary data analyses<\/li>\r\n<\/ul>\r\n\r\n<p>[\/toggle-item]<\/p>\r\n\r\n<p>[toggle-item title=\"How do I become a member?\"]<\/p>\r\n\r\n<p>Unfortunately we are not currently accepting new member applications.<\/p>\r\n\r\n<p>[\/toggle-item]<\/p>\r\n\r\n<p>[toggle-item title=\"How long has the PCRC been in existence?\"]<\/p>\r\n\r\n<p>The PCRC was established in 2010 with foundational funding by a cooperative agreement from the National Institute of Nursing Research (NINR) in 2011 (NINR UC4NR012584).&nbsp; Continuation funding was awarded by the NINR in 2013 and 2018, respectively (NINR U24NR014637 and U2CNR014637).&nbsp;&nbsp;<\/p>\r\n\r\n<p>[\/toggle-item]<\/p>\r\n\r\n<p>[toggle-item title=\"How many people and institutions are involved?\"]<\/p>\r\n\r\n<p>The PCRC has over 600&nbsp;members from over 200&nbsp;locations. For a current listing of our members and their institutions visit our <a href=\"https:\/\/palliativecareresearch.org\/index.php\/members\/roster\">Member Roster<\/a>.<\/p>\r\n\r\n<p>[\/toggle-item]<\/p>\r\n\r\n<p>[toggle-item title=\"Who leads the PCRC?\"]<\/p>\r\n\r\n<p>The Executive Committee coordinates the conduct of the PCRC in close collaboration with and approval by the <a href=\"\/who\/steering\">Steering Committee.<\/a> PCRC Operations leadership information can be found <a href=\"\/operations\">here<\/a>.<\/p>\r\n\r\n<p>[\/toggle-item]<\/p>\r\n\r\n<p><a id=\"anc2\"><\/a> <a id=\"anc5\"><\/a> <a id=\"anc6\"><\/a> <a id=\"anc8\"><\/a><\/p>\r\n\r\n<p>[toggle-item title=\"What is the PCRC's organizational structure?\"]<\/p>\r\n\r\n<p>The original charter identifying executive leadership and committees is expanding due to the U24 continuation funding. The figure showcases the PCRC's interrelated design of centers, cores, and committees. <a href=\"\/sites\/default\/files\/migrated_files\/PCRC-Structure_July2015.pdf\"><img alt=\"PCRC-Structure_July2015\" height=\"1667\" src=\"\/sites\/default\/files\/migrated_files\/PCRC-Structure_July2015.png\" width=\"2500\" \/><\/a> <a id=\"anc9\"><\/a><\/p>\r\n\r\n<p>[\/toggle-item]<\/p>\r\n\r\n<p>[toggle-item title=\"What types of research projects does the PCRC anticipate including in their portfolio?\"]<\/p>\r\n\r\n<p>The PCRC is a multi-\u00addisciplinary group that includes nurses, physicians, social workers, statisticians, health economists, health policy scientists, and other health professionals.&nbsp; Our diversity enables us to consider all types of research such as randomized controlled trials, industry trials, qualitative research, and retrospective and prospective chart reviews.<\/p>\r\n\r\n<p>[\/toggle-item]<\/p>\r\n\r\n<p>[\/toggle]<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

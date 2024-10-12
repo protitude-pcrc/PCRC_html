@@ -1,0 +1,52 @@
+{
+    "uuid": [
+        {
+            "value": "3eeb949d-a071-439b-b9b4-ce29fd009ac7"
+        }
+    ],
+    "hash": [
+        {
+            "value": "GmL1qUnruJTMRsvrQU2ToBA0vZcHaC-cThWtizgv0G4"
+        }
+    ],
+    "type": [
+        {
+            "value": "redirect"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "redirect_source": [
+        {
+            "path": "resources\/publications\/nih-national-library-medicine-resources",
+            "query": []
+        }
+    ],
+    "redirect_redirect": [
+        {
+            "uri": "internal:\/node\/2160",
+            "title": null,
+            "options": []
+        }
+    ],
+    "language": [
+        {
+            "value": "en"
+        }
+    ],
+    "status_code": [
+        {
+            "value": 301
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-11-23T19:06:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

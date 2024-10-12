@@ -1,0 +1,71 @@
+{
+    "uuid": [
+        {
+            "value": "d5ed7a35-3dff-4aad-90e8-935e0c40fc94"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "image",
+            "target_type": "file_type",
+            "target_uuid": "5a44da8e-ed3c-44a3-a323-ce4123599632"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5f686ebb-b50d-407c-8038-e50304f18bef"
+        }
+    ],
+    "filename": [
+        {
+            "value": "profile-sarah-garrigues-600x600-053018_0.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/directory\/profile-sarah-garrigues-600x600-053018_0.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 94447
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-05-30T06:04:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-05-30T06:04:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/profile-sarah-garrigues-600x600-0530180jpg",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_image_alt_text": [],
+    "field_image_title_text": []
+}

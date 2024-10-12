@@ -1,0 +1,69 @@
+{
+    "uuid": [
+        {
+            "value": "3959d89f-1c9f-4cf6-a281-0ef56af69ece"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "document",
+            "target_type": "file_type",
+            "target_uuid": "aba37c63-b654-405f-a34e-d829c2ad7580"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "filename": [
+        {
+            "value": "RDOSSubstantiationCRF_annotated.pdf"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/annotated-crfs\/RDOSSubstantiationCRF_annotated.pdf"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/pdf"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 123797
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-05-15T18:16:25+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-05-15T18:16:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/rdossubstantiationcrfannotatedpdf",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "06e935ab-1d11-44e6-a248-00545ce702ee"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Alegreya Sans SC&subset=cyrillic#500italic"
+        }
+    ],
+    "name": [
+        {
+            "value": "Alegreya Sans SC 500italic (cyrillic)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Alegreya Sans SC"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "italic"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "500"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:26:\"Alegreya Sans SC:500italic\";s:6:\"subset\";s:8:\"cyrillic\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:02:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:02:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "3a52e156-ae57-4a95-a295-e559e21bea2e"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4f81a706-9350-4724-8080-6e119e1f58a4"
+        }
+    ],
+    "field_tags": []
+}

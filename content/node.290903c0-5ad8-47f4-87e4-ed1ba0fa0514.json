@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "290903c0-5ad8-47f4-87e4-ed1ba0fa0514"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-07-06T20:31:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Summary of PCRC Members"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-08-24T16:52:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-07-06T20:31:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/summary-pcrc-members",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The PCRC has 184 members located at 81 organizations (also referred to as sites).&nbsp; The map below shows a representation of the geographic distribution of our member organizations.&nbsp; Reporting from members is voluntary, data shared here is representative of what members have provided.<a href=\"\/sites\/default\/files\/migrated_files\/homemap-March2016.png\" target=\"_blank\"><img alt=\"\" height=\"174\" src=\"\/sites\/default\/files\/migrated_files\/PCRC-homemap-March2016-300x174.png\" width=\"300\" \/><\/a><\/p>\r\n\r\n<blockquote>47% of the PCRC sites have reported a minority group as \u226520% of their population.&nbsp; The table represents the number of sites.<\/blockquote>\r\n\r\n<p>Minority listed as \u2265 20%# sites<\/p>\r\n\r\n<p>Black22<\/p>\r\n\r\n<p>Asian3<\/p>\r\n\r\n<p>Hispanic3<\/p>\r\n\r\n<p>Our membership encompasses a wide diversity of affiliations, associated schools and federal funding.&nbsp; Our organizations list the following affiliations:&nbsp; 70% Academic, 30% Community, with a number of Veterans Affairs institutions.<\/p>\r\n\r\n<ul>\r\n\t<li>44% list CTSA funding<\/li>\r\n\t<li>52% of organizations list Schools of Public Health<\/li>\r\n\t<li>56% of organizations list Schools of Nursing<\/li>\r\n\t<li>36% of organizations are NCI-designated Cancer Centers<\/li>\r\n<\/ul>\r\n\r\n<blockquote>100% of the PCRC sites have a <strong>dedicated Palliative Care Service <\/strong>including:<\/blockquote>\r\n\r\n<ul>\r\n\t<li>95% consult service<\/li>\r\n\t<li>77% out-patient clinic<\/li>\r\n\t<li>48% dedicated in-patient beds<\/li>\r\n<\/ul>\r\n\r\n<p>67% of PCRC sites have Hospice Services including:<\/p>\r\n\r\n<ul>\r\n\t<li>91% with dedicated in-patient facilities\/beds<\/li>\r\n\t<li>88% residential\/home services<\/li>\r\n<\/ul>\r\n\r\n<p>Our Members have a <strong><em>broad research \/ clinical focus<\/em><\/strong> and our Sites offer a <em><strong>diverse research population potential<\/strong><\/em>. &nbsp;<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

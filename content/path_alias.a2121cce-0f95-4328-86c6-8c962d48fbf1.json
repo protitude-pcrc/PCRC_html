@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a2121cce-0f95-4328-86c6-8c962d48fbf1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3b79e3e0-8cfb-4e0c-baf6-b1c9bbea49e5"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/study\/advance-care-planning-parkinsons-disease"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

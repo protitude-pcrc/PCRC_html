@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "a97089ea-2b6c-4c1c-ab42-4e701b467718"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-08-28T18:45:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "2018 National Symposium for Academic Palliative Care Education and Research"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-08-27T15:01:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-08-28T18:45:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/2018-national-symposium-academic-palliative-care-education-and-research",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The <b>2018 National Symposium for Academic Palliative Care Education and Research<\/b> will take place October 11-12, 2018 in San Diego, CA. This meeting will host academicians, clinicians, and students from across the country and world working to advance palliative care. A truly multi-disciplinary event, professions represented include nursing, social work, psychology, speech language pathology, medicine, ethics, chaplaincy, and more. Share your research, find new pedagogical, and\/or clinical advances, and network with colleagues.&nbsp;This year\u2019s theme is <i>Quality in Palliative Care: Fusing Education, Research and Practice<\/i>. <b>For more information, visit: <u><a href=\"https:\/\/csupalliativecare.org\/symposium\/\" target=\"_blank\">csupalliativecare.org\/symposium\/<\/a>.<\/u><\/b><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "October 11-12, 2018 in San Diego, CA"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

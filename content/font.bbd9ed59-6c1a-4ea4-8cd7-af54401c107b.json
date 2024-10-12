@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "bbd9ed59-6c1a-4ea4-8cd7-af54401c107b"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Heebo&subset=hebrew#900"
+        }
+    ],
+    "name": [
+        {
+            "value": "Heebo 900 (hebrew)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Heebo"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "900"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:9:\"Heebo:900\";s:6:\"subset\";s:6:\"hebrew\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:02:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:02:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "3a52e156-ae57-4a95-a295-e559e21bea2e"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "35ced2d9-8b23-4062-9aa5-0e54c51a5044"
+        }
+    ],
+    "field_tags": []
+}

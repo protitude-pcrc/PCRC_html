@@ -1,0 +1,99 @@
+{
+    "uuid": [
+        {
+            "value": "4c97b6d2-d603-4383-86b1-92a65bd82817"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-06-17T18:55:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Mission and Vision"
+        }
+    ],
+    "created": [
+        {
+            "value": "2014-08-12T20:44:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-06-17T18:55:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/about\/mission-and-vision",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><strong>Mission<\/strong><\/p>\r\n\r\n<p>The PCRC's mission is to support the conduct of high quality, effective palliative care clinical research by:<\/p>\r\n\r\n<ul>\r\n\t<li>Supporting investigators at all levels of experience in the conduct of clinical studies<\/li>\r\n\t<li>Conducting nationally representative, multi-institutional studies that include diverse populations;<\/li>\r\n\t<li>Leveraging standardized data elements and a de-identified palliative care study data repository that amplifies the impact of any single study;<\/li>\r\n\t<li>Providing methodologic resources, participant access\/recruitment, and the expertise of PCRC investigators from multiple disciplines.<\/li>\r\n<\/ul>\r\n\r\n<p>To achieve this mission, the PCRC\u2019s three-pronged strategy focuses on: (1) developing palliative care research capacity; (2) supporting the conduct, analysis, and dissemination of high-quality research in palliative care; and, (3) training and mentoring next \/ future investigators committed to advancing palliative care research.<\/p>\r\n\r\n<h4>Vision<\/h4>\r\n\r\n<p>Excellent palliative care relies on best evidence and a scientific underpinning.<\/p>\r\n\r\n<p>The PCRC exists to lead, catalyze, and empower a community of investigators who are developing an evidence base to ensure high-quality care and optimal well-being for persons with serious illness and their caregivers.<\/p>\r\n\r\n<h4>Values<\/h4>\r\n\r\n<p>The PCRC core values include:<\/p>\r\n\r\n<ul>\r\n\t<li>Community: connecting and strengthening investigators from multiple disciplines and perspectives<\/li>\r\n\t<li>Excellence: ensuring scientific rigor<\/li>\r\n\t<li>Impact: research that makes a difference for persons with serious illness and their caregivers<\/li>\r\n\t<li>Longevity: creating an enduring and agile research infrastructure<\/li>\r\n<\/ul>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": [
+        {
+            "value": "Supporting the conduct of high quality, effective palliative care clinical research"
+        }
+    ]
+}

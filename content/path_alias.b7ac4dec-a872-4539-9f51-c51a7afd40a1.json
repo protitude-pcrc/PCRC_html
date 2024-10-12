@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b7ac4dec-a872-4539-9f51-c51a7afd40a1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/c1a53b38-315f-4e18-972c-1c7f00b5115e"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/cropped-icon-01png"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

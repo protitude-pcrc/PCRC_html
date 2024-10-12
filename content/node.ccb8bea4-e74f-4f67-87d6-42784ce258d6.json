@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "ccb8bea4-e74f-4f67-87d6-42784ce258d6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-09-27T21:09:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "NIH Workshop Webcast Recording: Single IRBs"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-09-27T20:53:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-09-27T21:09:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/nih-workshop-webcast-recording-single-irbs",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>On September 12, 2018, NIH held a Workshop on Single IRB (sIRB) Resource and Infrastructure Development. &nbsp;The workshop focused on successful strategies and lessons learned for modifying and enhancing institutional IRB infrastructure for single IRB review of multi-site studies.<\/p>\r\n\r\n<p>Use the buttons below to view the agenda,&nbsp;watch the recording, or access additional information including presenter biographies, sIRB&nbsp;policies and resources, and links to watch individual sessions from the workshop.<\/p>\r\n\r\n<center>[button url=\"https:\/\/osp.od.nih.gov\/wp-content\/uploads\/sIRB_Agenda.pdf\" size=\"medium\" color=\"blue\" target=\"_blank\"]View Agenda[\/button]<\/center>\r\n\r\n<center>[button url=\"https:\/\/videocast.nih.gov\/summary.asp?Live=28533&amp;bhcp=1\" size=\"medium\" color=\"green\" target=\"_blank\"]Watch Recording[\/button]<\/center>\r\n\r\n<center>\r\n<center>[button url=\"https:\/\/osp.od.nih.gov\/event\/single-irb-review-workshop\/\" size=\"medium\" color=\"orange\" target=\"_blank\"]More Info[\/button]<\/center>\r\n<\/center>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Single IRB Review for Multi-Site Research Resource and Infrastructure Development Workshop"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

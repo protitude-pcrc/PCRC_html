@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e2b3b934-bff2-4684-b25f-b99697e42914"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/91f2fd4a-f062-44eb-b605-90ca1a4cd51a"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/tim-luckett"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

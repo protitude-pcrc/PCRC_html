@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "062068b1-ec17-47f4-8c3d-70c23ac5bf00"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-04-12T01:20:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Submit an Abstract or Be an Abstract Reviewer for AAHPM Annual Assembly"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-04-12T01:15:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-04-12T01:20:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/submit-abstract-or-be-abstract-reviewer-aahpm-annual-assembly",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p class=\"paragraph-one\" style=\"margin:0in 0in 0.0001pt; text-align:start; -webkit-text-stroke-width:0px\"><span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;, serif\"><span style=\"caret-color:#000000\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-variant-caps:normal\"><span style=\"font-weight:normal\"><span style=\"letter-spacing:normal\"><span style=\"orphans:auto\"><span style=\"text-transform:none\"><span style=\"white-space:normal\"><span style=\"widows:auto\"><span style=\"word-spacing:0px\"><span style=\"-webkit-text-size-adjust:auto\"><span style=\"background-color:#ffffff\"><span style=\"text-decoration:none\"><span style=\"line-height:18pt\"><span style=\"font-family:Helvetica, sans-serif\"><span style=\"color:black\">The Annual Assembly Planning Committee invites you to submit a proposal for the 2020 Annual Assembly in San Diego, CA, March 18-21, 2020.&nbsp;<strong style=\"color: rgb(0, 112, 155); text-decoration: underline;\"><span style=\"font-family:Helvetica, sans-serif\"><span style=\"color:#00709b\"><span style=\"font-weight:normal\"><a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=http-3A__amc-2Daahpm.informz.net_z_cjUucD9taT03MzcwMzEyJnA9MSZ1PTgxOTMwMjA2NyZsaT01NjgwMjE5MQ_index.html&amp;d=DwMGaQ&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=CuoWUgwlLHdP627q-Xn0dMrO7JDAvHMRqiyE-KC9vD4&amp;s=UidR5rpLRYOIBpTQEqQ4ceBMCr7fb3oHUeCBcu9L1Cg&amp;e=\" style=\"color:#00709b; text-decoration:underline\" target=\"_blank\">Submit your abstract<\/a><\/span><\/span><\/span><\/strong>&nbsp;for concurrent sessions, preconference workshops, SIG or Forum endorsed sessions, and the Interactive Educational Exchange (IEE).<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p class=\"paragraph-one\" style=\"margin:0in 0in 0.0001pt; text-align:start; -webkit-text-stroke-width:0px\"><span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;, serif\"><span style=\"caret-color:#000000\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-variant-caps:normal\"><span style=\"font-weight:normal\"><span style=\"letter-spacing:normal\"><span style=\"orphans:auto\"><span style=\"text-transform:none\"><span style=\"white-space:normal\"><span style=\"widows:auto\"><span style=\"word-spacing:0px\"><span style=\"-webkit-text-size-adjust:auto\"><span style=\"background-color:#ffffff\"><span style=\"text-decoration:none\"><span style=\"line-height:18pt\">&nbsp;&nbsp;<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<h4 style=\"margin:0in 0in 0.0001pt; text-align:start; -webkit-text-stroke-width:0px\"><span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;, serif\"><span style=\"caret-color:#000000\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-variant-caps:normal\"><span style=\"letter-spacing:normal\"><span style=\"orphans:auto\"><span style=\"text-transform:none\"><span style=\"white-space:normal\"><span style=\"widows:auto\"><span style=\"word-spacing:0px\"><span style=\"-webkit-text-size-adjust:auto\"><span style=\"background-color:#ffffff\"><span style=\"text-decoration:none\"><span style=\"line-height:19.5pt\"><span style=\"font-size:15pt\"><span style=\"font-family:Helvetica, sans-serif\"><span style=\"color:#21315f\">Submission Guidelines<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/h4>\r\n\r\n<ul style=\"margin-bottom:0in; caret-color:#000000; color:#000000; font-family:-webkit-standard; font-style:normal; font-variant-caps:normal; font-weight:normal; letter-spacing:normal; orphans:auto; text-align:start; text-transform:none; white-space:normal; widows:auto; word-spacing:0px; -webkit-text-size-adjust:auto; -webkit-text-stroke-width:0px; background-color:#ffffff; text-decoration:none\" type=\"disc\">\r\n\t<li style=\"margin:0in 0in 0.0001pt; font-size:12pt; font-family:&quot;Times New Roman&quot;, serif; color:black; line-height:18pt\"><span style=\"font-family:Helvetica, sans-serif\">Submissions open today and close May 1 at Noon Pacific Time.<\/span><\/li>\r\n\t<li style=\"margin:0in 0in 0.0001pt; font-size:12pt; font-family:&quot;Times New Roman&quot;, serif; color:black; line-height:18pt\"><span style=\"font-family:Helvetica, sans-serif\">All abstracts must be submitted online. Hardcopies will not be accepted.<\/span><\/li>\r\n\t<li style=\"margin:0in 0in 0.0001pt; font-size:12pt; font-family:&quot;Times New Roman&quot;, serif; color:black; line-height:18pt\"><span style=\"font-family:Helvetica, sans-serif\">All authors are required to disclose potential conflicts of interest prior to submitting the abstract.<\/span><\/li>\r\n\t<li style=\"margin:0in 0in 0.0001pt; font-size:12pt; font-family:&quot;Times New Roman&quot;, serif; color:black; line-height:18pt\"><span style=\"font-family:Helvetica, sans-serif\">Title must be descriptive and attract attendee interest.<\/span><\/li>\r\n\t<li style=\"margin:0in 0in 0.0001pt; font-size:12pt; font-family:&quot;Times New Roman&quot;, serif; color:black; line-height:18pt\"><span style=\"font-family:Helvetica, sans-serif\">Measureable behavioral objectives should enable you to know how well learners have acquired skills and knowledge. Do not use verbs that cannot be measured such as know, understand, and learn.<\/span><\/li>\r\n\t<li style=\"margin:0in 0in 0.0001pt; font-size:12pt; font-family:&quot;Times New Roman&quot;, serif; color:black; line-height:18pt\"><span style=\"font-family:Helvetica, sans-serif\">Abstract should be 300 words that describes the content and is of publishable quality.<\/span><\/li>\r\n\t<li style=\"margin:0in 0in 0.0001pt; font-size:12pt; font-family:&quot;Times New Roman&quot;, serif; color:black; line-height:18pt\"><span style=\"font-family:Helvetica, sans-serif\">Incomplete proposals will not be considered for inclusion in the 2020 Annual Assembly.<\/span><\/li>\r\n<\/ul>\r\n\r\n<p class=\"paragraph-one\" style=\"margin:0in 0in 0.0001pt; text-align:start; -webkit-text-stroke-width:0px\">&nbsp;<\/p>\r\n\r\n<p class=\"paragraph-one\" style=\"margin:0in 0in 0.0001pt; text-align:start; -webkit-text-stroke-width:0px\"><span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;, serif\"><span style=\"caret-color:#000000\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-variant-caps:normal\"><span style=\"font-weight:normal\"><span style=\"letter-spacing:normal\"><span style=\"orphans:auto\"><span style=\"text-transform:none\"><span style=\"white-space:normal\"><span style=\"widows:auto\"><span style=\"word-spacing:0px\"><span style=\"-webkit-text-size-adjust:auto\"><span style=\"background-color:#ffffff\"><span style=\"text-decoration:none\"><span style=\"line-height:18pt\"><span style=\"font-family:Helvetica, sans-serif\"><span style=\"color:black\">Please visit&nbsp;<a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=http-3A__amc-2Daahpm.informz.net_z_cjUucD9taT03MzcwMzEyJnA9MSZ1PTgxOTMwMjA2NyZsaT01NjgwMjE5Mg_index.html&amp;d=DwMGaQ&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=CuoWUgwlLHdP627q-Xn0dMrO7JDAvHMRqiyE-KC9vD4&amp;s=oA341Ygi1IkD-hgfUzn93UksgW_8C_n2HdR4FwLN9QE&amp;e=\" style=\"color:#00709b; text-decoration:underline\" target=\"_blank\"><strong><span style=\"font-family:Helvetica, sans-serif\"><span style=\"color:#00709b\"><span style=\"font-weight:normal\">annualassembly.org<\/span><\/span><\/span><\/strong><\/a>&nbsp;to begin a submission or for more information.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

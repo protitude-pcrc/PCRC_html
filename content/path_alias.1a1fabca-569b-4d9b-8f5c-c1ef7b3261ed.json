@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1a1fabca-569b-4d9b-8f5c-c1ef7b3261ed"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/a342218d-7e9d-44b1-b4c7-b01ab4d655bf"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/siskb"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a402a244-f2e4-4b95-ada4-efd80b1eb640"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3a9c7cc4-2faa-4530-941a-f349ccafe339"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/researchamerica-highlights-pcrc"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

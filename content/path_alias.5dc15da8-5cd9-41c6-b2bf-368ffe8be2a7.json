@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "5dc15da8-5cd9-41c6-b2bf-368ffe8be2a7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/965e15a6-b9f9-4632-aa0a-4b44ae20e281"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/wmsrap"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

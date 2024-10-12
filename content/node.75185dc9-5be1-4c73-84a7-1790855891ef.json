@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "75185dc9-5be1-4c73-84a7-1790855891ef"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-05-23T15:28:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5f686ebb-b50d-407c-8038-e50304f18bef"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "EOL and PC Health Literacy R01\/R21: Improving Outcomes in Serious, Advanced Illness"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-01-09T08:09:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-05-23T15:28:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/eol-and-pc-health-literacy-r01r21-improving-outcomes-serious-advanced-illness",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><span>Types of studies may include innovative methods or approaches such as qualitative, mixed methods, observational, quasi-experimental, and experimental with focus on individual- and family-centered outcomes. It is strongly encouraged that the investigative teams be interdisciplinary and include nurse scientists and early stage investigators.<\/span><\/p>\r\n\r\n<p><span>Investigators are also encouraged to consider using existing palliative care research networks, such as the <strong>Palliative Care Research Cooperative Group<\/strong>, to carry out small, multi-site trials when appropriate.<\/span><\/p>\r\n\r\n<p>For more information, visit:<\/p>\r\n\r\n<p><span><a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__grants.nih.gov_grants_guide_pa-2Dfiles_PA-2D18-2D498.html&amp;d=DwMFAg&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=DpfrjJvnOVHpE7Ot39t6f1qEZC9zYmJKbx_ADH15ZKM&amp;m=YNWHpDbpeUs8Zvs6Po-6w0xx9jK-WXn9ClqALI5KSzI&amp;s=yMjdb6bSgsgEludPZnSQHnUSrtyZHAbeFct3B72PN-Y&amp;e=\">https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/PA-18-498.html<\/a><\/span><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

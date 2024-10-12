@@ -1,0 +1,216 @@
+{
+    "uuid": [
+        {
+            "value": "a16d7ade-06be-4e96-baab-deedda179fbe"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-09-21T17:56:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "title": [
+        {
+            "value": "Pilot Testing a Virtual Reality Protocol for Improving Pain and Pain-Related Distress in Patients with Advanced Stage Colorectal Cancer "
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-09-21T17:53:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-09-21T17:56:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/study\/pilot-testing-virtual-reality-protocol-improving-pain-and-pain-related-distress-patients",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [],
+    "field_approved_data_requests": [],
+    "field_award_number": [],
+    "field_condition_studied": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "860a5754-fda4-4701-99c6-d447c126bfd7"
+        }
+    ],
+    "field_csr_summary": [],
+    "field_data_dictionary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "0beae63d-457d-474d-bc22-e41d38c87bfe"
+        }
+    ],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e494a23c-aea6-4f0b-a534-4b948ddfdb07"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Virtual reality for improving pain and painrelated symptoms in patients with advanced stage colorectal cancer: A pilot trial to test feasibility and acceptability"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "20 "
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": false
+        }
+    ],
+    "field_nct_link_field": [],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d7cd26a3-2482-49da-b75d-bdd120b563ae"
+        }
+    ],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        }
+    ],
+    "field_participant_ethnicity_coll": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "350f6f60-c882-44d9-bf86-2f242d671d54"
+        }
+    ],
+    "field_participant_race": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "88ac74e1-8f30-4ba6-bbe9-d8a410f35170"
+        }
+    ],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bb33a50f-e9de-47ae-80e4-5167ef2b0d2f"
+        }
+    ],
+    "field_pcrc_study_num": [
+        {
+            "value": "19-03"
+        }
+    ],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/doi.org\/10.1017\/S1478951521002017",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [],
+    "field_study_design": [],
+    "field_study_pi": [
+        {
+            "value": "Sarah A. Kelleher, Ph.D."
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "Duke University Medical Center"
+        }
+    ],
+    "field_study_setting": [],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "89b177d7-1afa-4d2b-bb5a-199a38866463"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p><strong>Objective.<\/strong> Virtual reality (VR) has the potential to improve pain and pain-related symptoms.<\/p>\r\n\r\n<p>We examined the feasibility, acceptability, safety, and impact of a 30-min virtual underwater\/<\/p>\r\n\r\n<p>sea environment (VR Blue) for reducing pain and pain-related symptoms in advanced colorectal<\/p>\r\n\r\n<p>cancer patients. A qualitative exit interview was conducted to understand preferences,<\/p>\r\n\r\n<p>thoughts, and feelings about the VR session.<\/p>\r\n\r\n<p><strong>Method<\/strong>. Participants (N = 20) had stage IV colorectal cancer and moderate-to-severe pain.<\/p>\r\n\r\n<p>Participants completed a 30-min VR Blue session that visually and aurally immersed them<\/p>\r\n\r\n<p>in virtual ocean scenarios. Feasibility was assessed by accrual (N = 20), protocol adherence<\/p>\r\n\r\n<p>(\u226580% completing VR Blue), and completed data (\u226580% assessment completion).<\/p>\r\n\r\n<p>Acceptability was determined by patients reporting \u226580% intervention satisfaction. Safety<\/p>\r\n\r\n<p>was determined by \u226580% of patients completing the session without self-reported side effects.<\/p>\r\n\r\n<p>Measures of pain, tension, relaxation, stress, anxiety, and mood were collected before, during,<\/p>\r\n\r\n<p>and after the VR Blue session. A semi-structured qualitative interview was conducted after VR<\/p>\r\n\r\n<p>Blue to assess participants\u2019 VR experiences.<\/p>\r\n\r\n<p><strong>Results.<\/strong> All participants (100%) completed the VR Blue session. There was 100% data collection<\/p>\r\n\r\n<p>at the pre- and post-assessments. Satisfaction with VR Blue was high M= 3.3 (SD = 0.4)<\/p>\r\n\r\n<p>(83%). No significant side effects were reported. Pain decreased by 59% (Pre-M= 3 [1]; Post-<\/p>\r\n\r\n<p>M= 1 [1]). Tension decreased by 74% (Pre-M= 30 [24]; Post-M= 8 [13]). Relaxation<\/p>\r\n\r\n<p>improved by 38% (Pre-M= 62 [21]); Post-M= 86 [17]). Stress decreased by 68% (Pre-M=<\/p>\r\n\r\n<p>24 [24]; Post-M= 8 [14]). Anxiety decreased by 65% (Pre-M= 20 [23]; Post-M= 7 [13]).<\/p>\r\n\r\n<p>Mood improved by 70% (Pre-M= 13 [16]; Post-M= 4 [11]). Qualitative data suggested a positive<\/p>\r\n\r\n<p>response to the VR Blue protocol.<\/p>\r\n\r\n<p><strong>Significance of results.<\/strong> This work supports the feasibility, acceptability, and safety of VR Blue<\/p>\r\n\r\n<p>for advanced colorectal cancer patients. Participants showed significant pre-post improvement<\/p>\r\n\r\n<p>in pain and pain-related symptoms hinting to the potential feasibility of VR interventions in<\/p>\r\n\r\n<p>this population. Larger, randomized trials with a control condition are needed to examine the<\/p>\r\n\r\n<p>efficacy of VR-based interventions for patients with advanced colorectal cancer and pain.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [
+        {
+            "value": "<p>https:\/\/academic.oup.com\/abm\/article\/56\/Supplement_1\/S1\/6572209<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_therapeutic_area": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9f0b313e-b0ad-4af6-94c5-b2cd31413fe1"
+        }
+    ],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4d3f370c-c53a-4fa5-b976-8e7d7eab9dc9"
+        }
+    ]
+}

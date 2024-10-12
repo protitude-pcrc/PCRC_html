@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "2555bf12-8359-45d6-96b9-c37e60e32dc9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7ad0bf1b-15d7-442e-ab64-fdce644e56c2"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news-publications\/funding-acknowledgement"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

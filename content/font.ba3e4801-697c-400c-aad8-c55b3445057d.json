@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "ba3e4801-697c-400c-aad8-c55b3445057d"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Sevillana&subset=latin#regular"
+        }
+    ],
+    "name": [
+        {
+            "value": "Sevillana regular (latin)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Sevillana"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "normal"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:17:\"Sevillana:regular\";s:6:\"subset\";s:5:\"latin\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:01:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:01:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2f636896-a5a0-4bdf-8074-2ca54f732f28"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c83d4743-2724-408c-9f92-1bbec189df18"
+        }
+    ],
+    "field_tags": []
+}

@@ -1,0 +1,122 @@
+{
+    "uuid": [
+        {
+            "value": "d3f38d1f-5123-4640-b7b7-2d432c5a7ffe"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "directory",
+            "target_type": "node_type",
+            "target_uuid": "79e51216-81f7-458b-8bed-a5a563ac74ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-04-14T14:05:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "Danielle Kline"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-04-14T13:54:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-04-14T14:05:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "body": [],
+    "feeds_item": [],
+    "field_area_of_focus": [
+        {
+            "value": "Grant Manager"
+        }
+    ],
+    "field_directory_image": [
+        {
+            "alt": "Danielle Kline",
+            "title": "",
+            "width": 151,
+            "height": 204,
+            "target_type": "file",
+            "target_uuid": "24a6151a-f4c7-4cb3-b051-4bf202a5020d"
+        }
+    ],
+    "field_email": [],
+    "field_list_assignment": [],
+    "field_membership_title": [],
+    "field_name": [
+        {
+            "title": "",
+            "given": "Danielle",
+            "middle": "",
+            "family": "Kline",
+            "generational": "",
+            "credentials": "MS"
+        }
+    ],
+    "field_organization": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "decc977a-16a5-4c6a-b874-01fcfe20cd8a"
+        }
+    ],
+    "field_publication_title": [],
+    "field_scientific_title": []
+}

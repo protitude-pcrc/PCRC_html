@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "9241b2d9-7afa-41ef-a50a-8f24d223cef3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/8855c42f-eed9-4991-ab0a-cd6cc736d644"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/bookpng"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

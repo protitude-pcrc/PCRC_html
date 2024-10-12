@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "c3f7a4e1-0f6a-42e4-baa2-d5cff925142f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-01-16T22:17:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "2021 PCRC Pilots: Call For Letters of Interest"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-01-16T21:54:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-01-16T22:17:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/2021-pcrc-pilots-call-letters-interest",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p style=\"text-align:start\">The PCRC Investigator Development Center's 2021 Pilot Award call for letters of interest (LOI) is open and accepting LOIs from eligible&nbsp;investigators to apply. &nbsp;Please&nbsp;note that the letter of interest is&nbsp;<strong>due February 2, 2021 on or before&nbsp;8 pm ET.&nbsp;<\/strong>&nbsp;Full requirements and further details can be found in the Funding Opportunity Announcement here:&nbsp;<a href=\"https:\/\/palliativecareresearch.org\/funding-opportunities\/pilot-funding-opportunities\">https:\/\/palliativecareresearch.org\/funding-opportunities\/pilot-funding-opportunities.<\/a><br \/>\r\n&nbsp;<br \/>\r\n&nbsp;<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Due Date: Feb 2, 2021"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

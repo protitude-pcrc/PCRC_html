@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "4375d34b-02c7-4878-bd31-7f98b3d9809c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "New NINR R01 announced for PCRC based studies due in February"
+        }
+    ],
+    "created": [
+        {
+            "value": "2014-03-09T00:07:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2014-03-09T00:07:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/new-ninr-r01-announced-pcrc-based-studies-due-february",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<strong>RFA-NR-14-003 <\/strong>\r\n<strong>Read more to submit your request for research funding. Act Now!<\/strong>\r\n\r\nThe PCRC is happy to share with you this brand new RFA that is specific to R01\u2019s proposed for conduct in the PCRC. We hope that a number of you will submit your research for funding through this opportunity. Note the short time frame, with LOI due 2\/20\/2014 and proposals due 3\/20\/14.\r\n\r\n<a href=\"http:\/\/grants.nih.gov\/grants\/guide\/rfa-files\/RFA-NR-14-003.html\" target=\"_blank\">NIH - RFA Grant Application<\/a> - visit this link for details around the application requirements and timing.\r\n\r\n<a href=\"\/sites\/default\/files\/migrated_files\/PCRC_RFA_REV011014-.pdf\">Download the PCRC RFA Summary<\/a>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6dd63752-6c14-4b63-b4b3-629fa676ba6e"
+        }
+    ]
+}

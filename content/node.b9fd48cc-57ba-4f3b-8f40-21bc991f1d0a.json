@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "b9fd48cc-57ba-4f3b-8f40-21bc991f1d0a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-03-19T15:38:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c4c1b62a-869d-454a-b78c-bde33aba2db8"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c4c1b62a-869d-454a-b78c-bde33aba2db8"
+        }
+    ],
+    "title": [
+        {
+            "value": "New NIH Administrative Supplement for Research on Bioethical Issues"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-03-19T15:36:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-03-19T15:38:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/new-nih-administrative-supplement-research-bioethical-issues",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p style=\"margin:0in 0in 0.0001pt; margin-right:0in; margin-left:0in\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\"><b><span style=\"font-size:15.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\"><span style=\"color:#203864\">NIH Seeks to Fund Research on Ethical Considerations Related to Biomedical Research<\/span><\/span><\/span><\/b><u5:p><\/u5:p><\/span><\/span><\/p>\r\n\r\n<p style=\"margin:0in 0in 0.0001pt; margin-right:0in; margin-left:0in\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\">&nbsp;<u5:p><\/u5:p><\/span><\/span><\/p>\r\n\r\n<p style=\"margin:0in 0in 0.0001pt; margin-right:0in; margin-left:0in\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">The National Institutes of Health (NIH) announced a <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__grants.nih.gov_grants_guide_pa-2Dfiles_PA-2D19-2D217.html&amp;d=DwMFAg&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=x1E0NaJ1Vm_uk1wHbhhDoXgxcpmj10WMv6X5d3zDU1U&amp;s=xlj2LNCt7U_RhmNZCoa-OXdeWY-SeXPDki6ykjsawhc&amp;e=\" style=\"color:blue; text-decoration:underline\">Funding Opportunity Announcement<\/a> (FOA) for administrative supplements to <span style=\"background:white\"><span style=\"color:#333333\">support research on bioethical issues to inform future policy directions.<\/span><\/span><span style=\"letter-spacing:.15pt\"> Consideration of ethical issues associated with biomedical research is intrinsic to the responsible conduct of science and the translation of scientific and technological advances into practice. The investment in and the integration of bioethics-related research and policy demonstrates NIH\u2019s commitment to safeguarding the integrity of the research that it conducts and supports.&nbsp; <\/span><\/span><\/span><u5:p><\/u5:p><\/span><\/span><\/p>\r\n\r\n<p style=\"margin:0in; margin-bottom:.0001pt; margin-right:0in; margin-left:0in\"><span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Applications will be accepted until <b>May 13, 2019<\/b>, and a<span style=\"letter-spacing:.15pt\">ll organizations administering an eligible parent award may apply for a supplement under this announcement. Interested applicants may supplement parent awards focused on bioethics or add a component related to bioethics to a parent award in which bioethics was not the focus.<\/span>&nbsp;<span style=\"letter-spacing:.15pt\">Issues addressed are expected to fall within the scope of research and policy activities of the NIH but may be beyond the focus of any one Institute or Center. In addition to overarching areas of interest, individual Institutes and Centers have indicated specific areas of research interest within the announcement. <\/span>Complete Information, including how to apply can be found <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__grants.nih.gov_grants_guide_pa-2Dfiles_PA-2D19-2D217.html&amp;d=DwMFAg&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=x1E0NaJ1Vm_uk1wHbhhDoXgxcpmj10WMv6X5d3zDU1U&amp;s=xlj2LNCt7U_RhmNZCoa-OXdeWY-SeXPDki6ykjsawhc&amp;e=\" style=\"color:blue; text-decoration:underline\">here<\/a>. <\/span><u5:p><\/u5:p><\/span><\/span><\/p>\r\n\r\n<p style=\"margin:0in 0in 0.0001pt; margin-right:0in; margin-left:0in\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">For more background on this FOA, please see Dr. Carrie Wolinetz\u2019 recent <i>Under the Poliscope<\/i> blog: <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__osp.od.nih.gov_2019_01_29_investing-2Dbioethics-2Dresearch-2Dadvance-2Dscience-2Dpolicy_&amp;d=DwMFAg&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=x1E0NaJ1Vm_uk1wHbhhDoXgxcpmj10WMv6X5d3zDU1U&amp;s=s2AMJ6RRpc38WDEBw-FkGlZP-EbqmjNb9eNEFT4pFr8&amp;e=\" style=\"color:blue; text-decoration:underline\">Investing in Bioethics Research to Inform Science Policy<\/a><\/span><\/span><u5:p><\/u5:p><\/span><\/span><\/p>\r\n\r\n<p style=\"margin:0in 0in 0.0001pt; margin-right:0in; margin-left:0in\"><span style=\"font-family: Arial, sans-serif; font-size: 12pt;\">Questions about the FOA may be directed to the <\/span><a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__grants.nih.gov_grants_guide_pa-2Dfiles_PA-2D19-2D217.html-23-5FSection-5FVII.-5FAgency&amp;d=DwMFAg&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=x1E0NaJ1Vm_uk1wHbhhDoXgxcpmj10WMv6X5d3zDU1U&amp;s=dPeP-ZD_zSfmPy82XjxHTdHm3r3Oc3ZVUpzWy1PG2bA&amp;e=\" style=\"font-family: Arial, sans-serif; font-size: 12pt; color: blue;\">agency contacts<\/a><span style=\"font-family: Arial, sans-serif; font-size: 12pt;\">.<\/span><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

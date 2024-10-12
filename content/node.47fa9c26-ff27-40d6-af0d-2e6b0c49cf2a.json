@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "47fa9c26-ff27-40d6-af0d-2e6b0c49cf2a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-06-14T18:25:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5f686ebb-b50d-407c-8038-e50304f18bef"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Now Accepting Applications: Training Institute for Dissemination and Implementation Research in Health (TIDIRH)"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-05-18T14:45:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-06-14T18:25:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/now-accepting-applications-training-institute-dissemination-and-implementation-research-health",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>OBSSR in coordination with a number of NIH Institutes and Centers and the U.S. Department of Veterans Affairs, are hosting the Training Institute for Dissemination and Implementation Research in Health (TIDIRH) to provide participants with a thorough grounding in conducting dissemination and implementation (D&amp;I) research in health <b>across all areas of health and health care<\/b>.<\/p>\r\n\r\n<p>In 2018, the institute will utilize a combination of a 4-month online course (six modules with related assignments) between August 13 and November 30 , 2018, and a 2-day in-person training to be held December 6-7, 2018, in Bethesda, MD. Faculty and guest lecturers will consist of leading experts in theory, implementation, and evaluation approaches to D&amp;I; creating partnerships and multilevel, transdisciplinary research teams; research design, methods, and analyses appropriate for D&amp;I; and conducting research at different and multiple levels of intervention (e.g., clinical, community, policy).<\/p>\r\n\r\n<p>Participants will be expected to return to their home institutions prepared to share what they have learned at the institute to help further the field of D&amp;I research (e.g., giving talks, leading seminars, forming new collaborations, mentoring, submitting D&amp;I grant proposals, etc.).<\/p>\r\n\r\n<p>[notification color=\"blue\"]Applications are due on June 12, 2018 12:00 p.m. ET.&nbsp;[\/notification]<\/p>\r\n\r\n<p>[button url=\"https:\/\/www.scgcorp.com\/tidirh2018\/index.html\" size=\"\" color=\"green\" target=\"_blank\"]Apply Now[\/button]<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "In 2018, the institute will utilize a combination of a 4-month online course (six modules with related assignments) between August 13 and November 30 , 2018, and a 2-day in-person training to be held December 6-7, 2018, in Bethesda, MD"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

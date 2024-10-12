@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "daaade25-91c8-4fbb-95a3-99f5401f50c3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f9f727a7-a38b-4a89-8e4d-48dc379fe4b0"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-19-may-2016"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

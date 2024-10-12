@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "b7477d69-8f3e-445d-bb5b-91c0581329f9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-11-19T15:20:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "Notice of Special Interest (NOSI): FON \/ FOA # NOT-NR-20-007"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-11-19T15:08:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-11-19T15:20:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/notice-special-interest-nosi-fon-foa-not-nr-20-007",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The purpose of this Notice is to indicate NINR's participation in&nbsp;<a href=\"https:\/\/grants.nih.gov\/grants\/guide\/notice-files\/NOT-HL-20-737.html\"><u>NOT-HL-20-737<\/u><\/a>&nbsp;\"Notice of Special Interest (NOSI): Palliative Care in Heart, Lung, Blood, and Sleep Diseases.\"<\/p>\r\n\r\n<p>NINR will accept R01 applications on palliative care research in heart, lung, blood, and sleep (HLBS) diseases. NINR supports research across adult and pediatric populations with a focus on the clinical and biobehavioral aspects of acute or chronic advanced heart, vascular, lung and blood diseases, conditions and sleep. NINR has a principal focus on research in symptom management and incorporation of palliative, supportive, and end-of-life care interventions, strategies and outcomes for HLBS patients and family-caregivers across the lifespan, care settings and diverse populations. The Institute has a long-standing interest in end-of-life and palliative care clinical studies of advanced HLBS conditions and disease and supports research that will significantly increase an understanding of the palliative management and interventions for these populations.<\/p>\r\n\r\n<p>More information can be found here:&nbsp;<a data-auth=\"NotApplicable\" href=\"https:\/\/grants.nih.gov\/grants\/guide\/notice-files\/NOT-NR-20-007.html\" id=\"LPlnk679900\" rel=\"noopener noreferrer\" target=\"_blank\">https:\/\/grants.nih.gov\/grants\/guide\/notice-files\/NOT-NR-20-007.html<\/a><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Palliative Care in Heart, Lung, Blood, and Sleep Diseases"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

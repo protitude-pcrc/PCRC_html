@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "2d31da19-e687-45f9-820f-77974275bbe7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-12-01T19:14:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "PCRC and Journal of Pain and Symptom Management Collaboration"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-12-01T19:12:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-12-01T19:14:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/pcrc-and-journal-pain-and-symptom-management-collaboration",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p style=\"text-align:justify\"><span style=\"font-size:medium\"><span style=\"font-family:&quot;Times New Roman&quot;, serif\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial, sans-serif\">The PCRC has formed an exciting collaboration with the Journal of Pain and Symptom Management (JPSM). PCRC members, Laura C. Hanson, MD, MPH and Tamara Somers, PhD, are Co-Editors for JPSM\u2019s new section on Methodological Reviews for Hospice and Palliative Care Research. Dr. Hanson is a Professor of Professor of Geriatric Medicine and Medical Director of Palliative Care at the University of North Carolina. She is a founding member of the Palliative Care Research Cooperative (PCRC) group and currently leads the PCRC Measurement Core. Dr. Somers is an Associate Professor in the Department of Psychiatry and Behavioral Sciences at Duke University School of Medicine. Dr. Somers serves as the PCRC\u2019s Clinical Studies\/Methodology Core Co-Leader. <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:medium\"><span style=\"font-family:&quot;Times New Roman&quot;, serif\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial, sans-serif\">This section of JPSM is focusing on manuscripts addressing original research and important methodological issues related to hospice and palliative care research. Examples of topics of interest include, but are not limited to: measurement methods for important outcomes, study recruitment and retention strategies, research design, research innovations, meaningful stakeholder engagement, and analytic methods. <span style=\"color:black\">The maximum length is 3500 words (not including Abstract or references); a narrative Abstract is required (250 words).&nbsp; Text should be divided into sections; suggested headings are Abstract, Introduction, Methods, Results, Discussion, Disclosures and Acknowledgments, and References.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:medium\"><span style=\"font-family:&quot;Times New Roman&quot;, serif\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial, sans-serif\"><span style=\"color:black\">There are two ways for PCRC members to get involved with this PCRC-JPSM collaboration. <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:medium\"><span style=\"font-family:&quot;Times New Roman&quot;, serif\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><b><span style=\"font-size:11pt\"><span style=\"font-family:Arial, sans-serif\"><span style=\"color:#0070c0\">First, we encourage PCRC members to submit their work <\/span><\/span><\/span><\/b><span style=\"font-size:11pt\"><span style=\"font-family:Arial, sans-serif\"><span style=\"color:black\">in this area to this special section of JPSM. Please feel free to email Dr. Hanson or Dr. Somers that you are submitting your work so we can ensure it gets triaged to this new section. <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:medium\"><span style=\"font-family:&quot;Times New Roman&quot;, serif\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><b><span style=\"font-size:11pt\"><span style=\"font-family:Arial, sans-serif\"><span style=\"color:#0070c0\">Second, we are recruiting a group of select journal reviewers from the PCRC membership.<\/span><\/span><\/span><\/b> <span style=\"font-size:11pt\"><span style=\"font-family:Arial, sans-serif\"><span style=\"color:black\">This is a great opportunity to contribute to hospice and palliative care research and to learn by reviewing new cutting-edge work by leaders in the field. Please <\/span><\/span><\/span><span style=\"font-size:11pt\"><span style=\"font-family:Arial, sans-serif\"><span style=\"color:black\">reach out to Dr. Hanson or Dr. Somers if you would be interested in serving in this role for the PCRC. Of particular interest, JPSM plans to create a mentored reviewer program that will pair more experienced reviewers with less experienced reviewers to develop a group of reviewers with expertise in evaluating new scientific work. This is a great way to develop your skills in evaluating scientific work.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:medium\"><span style=\"font-family:&quot;Times New Roman&quot;, serif\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial, sans-serif\"><span style=\"color:black\">Please direct questions to Drs. Hanson and\/or Somers at: <a href=\"mailto:laura_hanson@med.unc.edu\" style=\"color:#954f72; text-decoration:underline\">laura_hanson@med.unc.edu<\/a> and <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><span style=\"font-size:medium\"><span style=\"font-family:&quot;Times New Roman&quot;, serif\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial, sans-serif\"><span style=\"color:black\"><a href=\"mailto:tamara.somers@duke.edu\" style=\"color:#954f72; text-decoration:underline\">tamara.somers@duke.edu<\/a>. <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Opportunities for PCRC members"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

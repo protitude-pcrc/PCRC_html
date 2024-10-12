@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a84c0aba-3941-4447-b822-5bbb9234ab20"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/2016f32f-0b63-4b8b-8258-71962035e1d7"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/foa-new-pilot-funding-opportunity"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

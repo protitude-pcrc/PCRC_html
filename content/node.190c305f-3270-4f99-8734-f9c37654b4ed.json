@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "190c305f-3270-4f99-8734-f9c37654b4ed"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Care Management Summit 2014: Achieving Excellence"
+        }
+    ],
+    "created": [
+        {
+            "value": "2014-02-17T08:00:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2014-02-17T08:00:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/care-management-summit-2014-achieving-excellence",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<strong>Binghamton University presents the Care Management Summit 2014: <\/strong>\r\n<strong>Achieving Excellence<\/strong>\r\n<strong>Thursday and Friday, May 22\u201323, 2014<\/strong>\r\n\r\nThe College of Community and Public Affairs (CCPA) at Binghamton University invites you to attend a professional networking summit that offers TRANSDISCIPLINARY CONVERSATIONS and ACTIVE LEARNING . . .\r\n\r\nFor more information and to register, visit <a href=\"http:\/\/www2.binghamton.edu\/ccpa\/care-management-summit\/\" target=\"_blank\">http:\/\/www2.binghamton.edu\/ccpa\/care-management-summit\/<\/a>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6dd63752-6c14-4b63-b4b3-629fa676ba6e"
+        }
+    ]
+}

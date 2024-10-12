@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "82155282-a309-451a-af93-06a7ad562200"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/eed0be35-4980-4999-ac90-26befe98c9a8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/research\/investigator-support-information\/collaborating-pcrc"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

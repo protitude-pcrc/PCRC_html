@@ -1,0 +1,135 @@
+{
+    "uuid": [
+        {
+            "value": "b588aa3c-1208-415b-9b8e-102cbd2236a1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "directory",
+            "target_type": "node_type",
+            "target_uuid": "79e51216-81f7-458b-8bed-a5a563ac74ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-09-09T20:45:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "ea51790b-3f51-4230-8332-0ade273c9f9b"
+        }
+    ],
+    "title": [
+        {
+            "value": "Meg Campbell"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-20T16:35:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-09-09T20:45:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "body": [],
+    "feeds_item": [],
+    "field_area_of_focus": [],
+    "field_directory_image": [
+        {
+            "alt": "Meg Campbell",
+            "title": "",
+            "width": 263,
+            "height": 366,
+            "target_type": "file",
+            "target_uuid": "c36100f3-502d-431a-b8a1-a3736220eb02"
+        }
+    ],
+    "field_email": [
+        {
+            "value": "m.campbell@wayne.edu"
+        }
+    ],
+    "field_list_assignment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a8fb19e0-8715-4d2c-bd30-3533a3efed75"
+        }
+    ],
+    "field_membership_title": [],
+    "field_name": [
+        {
+            "title": "",
+            "given": "Meg",
+            "middle": "",
+            "family": "Campbell",
+            "generational": "",
+            "credentials": "PhD, RN, FPCN"
+        }
+    ],
+    "field_organization": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "b3b2081b-783d-4d16-a12f-c7685de3ee97"
+        }
+    ],
+    "field_publication_title": [
+        {
+            "value": "Chair"
+        }
+    ],
+    "field_scientific_title": []
+}

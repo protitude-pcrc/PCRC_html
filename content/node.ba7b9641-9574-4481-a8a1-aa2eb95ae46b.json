@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "ba7b9641-9574-4481-a8a1-aa2eb95ae46b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Funding Opportunity: Support for Analysis of Secondary Data from the PCRC Data Repository"
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-04-22T03:29:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2017-04-22T03:29:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/funding-opportunity-support-analysis-secondary-data-pcrc-data-repository",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<strong>\r\nApplications due by May 2, 2017<\/strong>\r\n\r\nCall for proposals for secondary analysis of data that currently exist in the <a href=\"http:\/\/palliativecareresearch.org\/corescenters\/disc\/pcrc-data-repository\/\" target=\"_blank\" rel=\"noopener noreferrer\">PCRC Data Repository<\/a>. The PCRC will grant two $50,000 awards to conduct a secondary analysis of repository data. Applications are due <strong>May 2, 2017 by 11:59 PM Mountain Time.<\/strong>\u00a0 We strongly encourage you to look at the studies briefly described below, their data dictionaries (linked below) and to search the literature for papers that have been published from these studies previously. The PCRC Executive Committee and Data Informatics and Statistics Core (DISC) leadership will review the applications.\u00a0 Notification of awards will be made by <strong>May 10, 2017<\/strong>.\r\n\r\n<strong>Instructions for applicants:<\/strong>\r\n<ul>\r\n \t<li>Please fill out the online form:\u00a0<a href=\"https:\/\/redcap.ucdenver.edu\/surveys\/?s=PNPKCRTCYL\" target=\"_blank\" rel=\"noopener noreferrer\">https:\/\/redcap.ucdenver.edu\/surveys\/?s=PNPKCRTCYL<\/a><\/li>\r\n \t<li>Include a two-page summary of your research plan, aims, which data set you propose to use, budget and timeline (which can be uploaded with the electronic form linked above).<\/li>\r\n<\/ul>\r\n&nbsp;\r\n\r\n<strong>Data that currently exist in the <a href=\"http:\/\/palliativecareresearch.org\/corescenters\/disc\/pcrc-data-repository\/\" target=\"_blank\" rel=\"noopener noreferrer\">PCRC data repository<\/a> for analysis include:<\/strong>\r\n\r\n<a href=\"https:\/\/pcrc.box.com\/v\/secondaryData-Statin\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>\u00a0<\/strong><strong>Statin Discontinuation<\/strong><\/a>\r\n<ul>\r\n \t<li>Multisite randomized trial of continuing versus discontinuing statins<\/li>\r\n \t<li><strong>Primary objective: <\/strong>to determine, among patients with life-limiting illness, if there is a difference in the proportion who die within 60 days after enrollment between patients for whom statins are discontinued versus patients who are maintained on the medication<\/li>\r\n \t<li><strong>Secondary objectives: <\/strong>overall survival, important CVD events, QOL, symptoms, performance status (Karnofsky), polypharmacy, satisfaction with care, costs<\/li>\r\n \t<li>Total N: 381, 15 study sites<\/li>\r\n<\/ul>\r\n<a href=\"https:\/\/pcrc.box.com\/v\/SecondaryAnalysis-BSC\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Best Supportive Care<\/strong><\/a>\r\n<ul>\r\n \t<li>Implementation of consensus-based standards for best supportive care in a clinical trial: a pilot study<\/li>\r\n \t<li><strong>Primary objective<\/strong>: using clinician behavior intervention checklist (BSC), test the feasibility of thorough documentation of BSC delivery<\/li>\r\n \t<li><strong>Secondary:<\/strong> estimate variance in the BSC checklist completion; assess provider satisfaction with BSC; evaluate differences in patient experience before and after introduction of the BSC checklist<\/li>\r\n \t<li><strong>Total N:<\/strong> 41 patients and 23 providers, 4 study sites<\/li>\r\n<\/ul>\r\n<a href=\"https:\/\/pcrc.box.com\/v\/SecondaryData-REST\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Reducing End-of-Life Symptoms with Touch (REST<\/strong><strong>)<\/strong><\/a>\r\n<ul>\r\n \t<li>Massage therapy versus simple touch to improve pain and mood in patients with advanced cancer: a randomized trial<\/li>\r\n \t<li><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/18794556\">Ann Intern Med.<\/a>\u00a02008 Sep 16;149(6):369-79.<\/li>\r\n \t<li>To evaluate the efficacy of massage for decreasing pain and symptom distress and improving quality of life among persons with advanced cancer<\/li>\r\n \t<li>Repeated measures, six 30-minute massage or simple-touch sessions over 2 weeks<\/li>\r\n \t<li>380 adults with advanced cancer who were experiencing moderate-to-severe pain; 90% were enrolled in hospice<\/li>\r\n \t<li>Total N: 380 patients, 15 hospice study sites\r\n<a href=\"https:\/\/pcrc.box.com\/s\/v8kka0s08f46q5zuzfuassmoiwu0a9fs\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"s1\">\r\n\r\n\r\n\r\nPlease click here for Frequently Asked Questions about this funding announcement.<\/span><\/a><\/li>\r\n<\/ul>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

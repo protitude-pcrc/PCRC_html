@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e24715ef-7e28-4770-99c2-4f8289fb9902"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/901d5271-4f69-4a44-8a5c-25eada23d3a4"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-9-september-2014"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

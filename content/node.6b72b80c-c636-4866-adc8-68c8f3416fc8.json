@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "6b72b80c-c636-4866-adc8-68c8f3416fc8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-01T19:19:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Conduct Your Research Through the PCRC"
+        }
+    ],
+    "created": [
+        {
+            "value": "2014-08-12T22:19:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-01T19:19:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/research\/conduct-your-research-through-pcrc",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The PCRC\u2019s overarching goals are to: (1) advance the evidence base underlying, and thus the quality of, palliative care and end-of-life (PCEOL) care; and (2) improve the science of cooperative group research. The PCRC provides expertise and accountability for building research capacity to develop scientifically-based methods and generate persuasive evidence to promote quality of life for patients with advanced, serious and\/or potentially life-limiting illnesses, and their caregivers including family members and other loved ones.<\/p>\r\n\r\n<p>There are two grant avenues for conducting research with the PCRC:<\/p>\r\n\r\n<ol>\r\n\t<li><strong><a href=\"\/research\/conduct-your-research-through-pcrc\/extramural-grant-process\">extramural grants<\/a> and<\/strong><\/li>\r\n\t<li><a href=\"\/research\/conduct-your-research-through-pcrc\/pilot-grant-process\"><strong>pilot research funding through the PCRC (Intramural)<\/strong> <\/a><\/li>\r\n<\/ol>\r\n\r\n<p>Investigators can access some, or all, of the following PCRC resources depending on study design. Clarifying which resources will be utilized is part of the<a href=\"https:\/\/pcrc.box.com\/s\/mr4d415b6e787y1kxmn99z5csvbploao\"> protocol development<\/a> and <a href=\"\/research\/investigator-support-information\/collaborating-pcrc\">PCRC collaboration process<\/a>, which walks investigators through a variety of ways to collaborate with the PCRC: Scientific Review of a proposed project, requesting a letter of support, and PCRC collaboration with an upcoming grant.<\/p>\r\n\r\n<p>If you have a proposed research idea or activity that would potentially align well with the goals of the PCRC and benefit from PCRC infrastructure and member sites, please submit a <a href=\"https:\/\/airtable.com\/shrrIvoSF1jNxAgNi\">request for scientific review<\/a>. &nbsp;The <a href=\"\/who\/scientific\">PCRC Scientific Review Committee (SRC)<\/a>&nbsp;will review and provide feedback.<\/p>\r\n\r\n<p>For questions or guidance with our pilot program, please contact Carey Candrian, PhD @ <a href=\"mailto:carey.candrian@cuanschutz.edu\" target=\"_blank\">carey.candrian@cuanschutz.edu<\/a>, (303) 724-7892. &nbsp;For questions about Scientific Committee Review, please contact Rachael Kendrick, MA @ <a href=\"mailto:rachael.kendrick@cuanschutz.edu\">rachael.kendrick@cuanschutz.edu<\/a>.<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

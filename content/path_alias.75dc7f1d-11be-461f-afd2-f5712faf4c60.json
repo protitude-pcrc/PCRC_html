@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "75dc7f1d-11be-461f-afd2-f5712faf4c60"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/290903c0-5ad8-47f4-87e4-ed1ba0fa0514"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/summary-pcrc-members"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "uuid": [
+        {
+            "value": "59723328-a38f-47f0-bb24-8f98fd73a43e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "image",
+            "target_type": "file_type",
+            "target_uuid": "5a44da8e-ed3c-44a3-a323-ce4123599632"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "72ced091-2192-420f-9129-89cb2ac33830"
+        }
+    ],
+    "filename": [
+        {
+            "value": "main_image_star-forming_region_carina_nircam_final-5mb.jpeg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/main_image_star-forming_region_carina_nircam_final-5mb.jpeg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 5310371
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-26T16:46:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-26T16:46:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/mainimagestar-formingregioncarinanircamfinal-5mbjpeg",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_image_alt_text": [],
+    "field_image_title_text": []
+}

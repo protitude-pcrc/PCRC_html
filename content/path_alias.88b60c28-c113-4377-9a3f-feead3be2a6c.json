@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "88b60c28-c113-4377-9a3f-feead3be2a6c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/2db061d0-239d-494c-b981-09aa73f08c2a"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/resources\/documents-links-partners"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

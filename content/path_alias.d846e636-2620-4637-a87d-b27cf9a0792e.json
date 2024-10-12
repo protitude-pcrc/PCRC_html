@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d846e636-2620-4637-a87d-b27cf9a0792e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/79bbeb9f-29c1-41a6-92a6-b92d47b3e0b3"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/providerorganizationaldatadictionarycodebook-ercpdf"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

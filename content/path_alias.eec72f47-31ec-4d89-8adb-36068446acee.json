@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "eec72f47-31ec-4d89-8adb-36068446acee"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/3e17e417-5888-44ac-8a68-4a430503bfdb"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/acoulouruscedu"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

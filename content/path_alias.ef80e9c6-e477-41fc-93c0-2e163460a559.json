@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ef80e9c6-e477-41fc-93c0-2e163460a559"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/ec5a261b-9b32-469a-92c5-0737fd4d301f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/jlshaw"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

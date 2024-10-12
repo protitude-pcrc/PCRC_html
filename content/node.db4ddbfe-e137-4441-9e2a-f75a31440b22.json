@@ -1,0 +1,178 @@
+{
+    "uuid": [
+        {
+            "value": "db4ddbfe-e137-4441-9e2a-f75a31440b22"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-01-18T18:25:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "title": [
+        {
+            "value": "Unplanned Admission to the ICU: A Qualitative Study Examining Family Member Experiences"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-01-18T18:21:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-01-18T18:25:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/study\/unplanned-admission-icu-qualitative-study-examining-family-member-experiences",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [],
+    "field_approved_data_requests": [],
+    "field_award_number": [],
+    "field_condition_studied": [],
+    "field_csr_summary": [],
+    "field_data_dictionary": [],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4bd58710-be8a-492f-aeaa-ea503498514e"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Unplanned Admission to the ICU: A Qualitative Study Examining Family Member Experiences"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "17"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": false
+        }
+    ],
+    "field_nct_link_field": [],
+    "field_number_of_study_sites": [],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        }
+    ],
+    "field_participant_ethnicity_coll": [],
+    "field_participant_race": [],
+    "field_participant_sex": [],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9bae5dc6-39bb-4eb6-ba24-2add620945de"
+        }
+    ],
+    "field_pcrc_study_num": [
+        {
+            "value": "14-06"
+        }
+    ],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/pubmed.ncbi.nlm.nih.gov\/32502593\/",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [],
+    "field_study_design": [],
+    "field_study_pi": [
+        {
+            "value": "Ann L Jennerich"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "University of Washington"
+        }
+    ],
+    "field_study_setting": [],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "89b177d7-1afa-4d2b-bb5a-199a38866463"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p><strong>Background:&nbsp;<\/strong>Transfers to the ICU from acute care are common, and it is essential to understand how family members of critically ill patients experience these transitions of care.<\/p>\r\n\r\n<p><strong>Research question:&nbsp;<\/strong>Can we enhance our understanding of family members' experiences during hospital stays complicated by a patient's unplanned admission to the ICU?<\/p>\r\n\r\n<p><strong>Study design and methods:&nbsp;<\/strong>Qualitative interviews were conducted with family members of patients were transferred from acute care to the ICU at a level I trauma center in Seattle, WA (n = 17). To organize data, we used thematic analysis, coupled with a validated conceptual model of clinician-surrogate communication.<\/p>\r\n\r\n<p><strong>Results:&nbsp;<\/strong>Drawing from a validated conceptual model, we used two domains to frame our coding: \"information processing\" and \"relationship building.\" Within information processing, we coded information disclosure, sensemaking, and expectations; within relationship building, we coded emotional support, trust, and consensus and conflict. Family members wanted timely, accurate information about the patient's condition both during and after transfer. An unplanned ICU admission was a stressful event for family members, who looked to clinicians for emotional support. Developing trust was challenging, because family members struggled to feel like integrated members of the medical team when patients transitioned from one setting to another.<\/p>\r\n\r\n<p><strong>Interpretation:&nbsp;<\/strong>Family of patients who experience an unplanned ICU admission want high-quality communication both during and after a patient's transfer to the ICU. This communication should help family members make sense of the situation, address unmet expectations, and provide emotional support. In addition, interventions that foster family-clinician trust can help family members feel like integrated members of the care team as they face the challenge of navigating multiple different environments within the hospital.<\/p>\r\n\r\n<p><strong>Request Data Access at&nbsp;<\/strong><a href=\"https:\/\/doi.org\/10.5064\/F6GXXBVD\" target=\"_blank\">https:\/\/doi.org\/10.5064\/F6GXXBVD<\/a><\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [],
+    "field_therapeutic_area": [],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4d3f370c-c53a-4fa5-b976-8e7d7eab9dc9"
+        }
+    ]
+}

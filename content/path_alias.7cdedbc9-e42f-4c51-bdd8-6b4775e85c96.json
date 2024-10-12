@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7cdedbc9-e42f-4c51-bdd8-6b4775e85c96"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/eddf0f1d-94cb-4cde-b95e-a74f2d301a9c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/measurement-core-cloned"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

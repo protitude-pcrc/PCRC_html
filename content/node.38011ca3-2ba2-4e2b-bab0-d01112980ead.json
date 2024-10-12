@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "38011ca3-2ba2-4e2b-bab0-d01112980ead"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-11-23T22:33:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "title": [
+        {
+            "value": "Publication Resources"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-11-23T18:31:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-11-23T22:33:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/resources\/publication-resources",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><strong><a href=\"https:\/\/publicaccess.nih.gov\/submit_process.htm\" rel=\"noopener\" target=\"_blank\">Submission Methods to PubMed Central (PMC) for compliance with NIH Public Access Policy<\/a><\/strong><\/p>\r\n\r\n<p><strong><a href=\"https:\/\/publicaccess.nih.gov\/include-pmcid-citations.htm\" rel=\"noopener\" target=\"_blank\">Including PMC reference number (PMCID) in Citations<\/a><\/strong><\/p>\r\n\r\n<p><strong><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/books\/NBK53595\/#mybibliography.Managing_Compliance_to_th\" rel=\"noopener\" target=\"_blank\">Managing Compliance to the NIH Public Access Policy<\/a><\/strong><\/p>\r\n\r\n<p><strong><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/books\/NBK53595\/#mybibliography.Associating_Funding_to_yo\" rel=\"noopener\" target=\"_blank\">Associating Funding to your Publications<\/a><\/strong><\/p>\r\n\r\n<p><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC7106990\/\" rel=\"noopener\" target=\"_blank\"><strong>Navigating NIH Public Access Policy for Peer-Reviewed Manuscripts - Why and How to get a PMCID Number<\/strong><\/a><\/p>\r\n\r\n<hr \/>\r\n<h4><strong>NIH Public Access Policy<\/strong><\/h4>\r\n\r\n<p><strong><a href=\"https:\/\/publicaccess.nih.gov\/\" rel=\"noopener\" target=\"_blank\">When and How to Comply<\/a><\/strong><\/p>\r\n\r\n<ol>\r\n\t<li><a href=\"https:\/\/publicaccess.nih.gov\/address-copyright.htm\" rel=\"noopener\" target=\"_blank\"><strong>Preparing a Manuscript:<\/strong> Address Copyright<\/a><\/li>\r\n\t<li><a href=\"https:\/\/publicaccess.nih.gov\/submit_process.htm\" rel=\"noopener\" target=\"_blank\"><strong>Accepted for Publication:<\/strong> Post to PubMed Central and track in My NCBI<\/a><\/li>\r\n\t<li><a href=\"https:\/\/publicaccess.nih.gov\/include-pmcid-citations.htm\" rel=\"noopener\" target=\"_blank\"><strong>Reporting to NIH:<\/strong> Include PMCID in citations<\/a><\/li>\r\n<\/ol>\r\n\r\n<hr \/>\r\n<h4><strong>NIH Manuscript Submission System (NIHMS)<\/strong><\/h4>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/www.nihms.nih.gov\/login\/?next=\/submission\/\" rel=\"noopener\" target=\"_blank\">NIHMS Process<\/a><\/li>\r\n\t<li><a href=\"https:\/\/www.nihms.nih.gov\/help\/tutorials\/\" rel=\"noopener\" target=\"_blank\">NIHMS Tutorials<\/a><\/li>\r\n\t<li><a href=\"https:\/\/youtu.be\/UwIrhRTj8-M\" rel=\"noopener\" target=\"_blank\">NIHMS: Deposit and Initial Approval (National Library of Medicine)<\/a><\/li>\r\n<\/ul>\r\n\r\n<hr \/>\r\n<h4><strong><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/\" rel=\"noopener\" target=\"_blank\">The National Center for Biotechnology Information (NCBI)<\/a><\/strong><\/h4>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/www.nlm.nih.gov\/ncbi\/workshops\/2022-11_Report-NIH-Funded-Publications\/MyNCBIwhat2know.html\" rel=\"noopener\" target=\"_blank\">What is NCBI and what does it have to do with compliance?<\/a><\/li>\r\n\t<li><a href=\"https:\/\/www.nlm.nih.gov\/ncbi\/workshops\/2022-11_Report-NIH-Funded-Publications\/MyNCBIwhat2do.html\" rel=\"noopener\" target=\"_blank\">Case studies guiding how to Add Citations and Add an Award to a Citation<\/a><\/li>\r\n\t<li><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/books\/NBK3831\/?report=reader\" rel=\"noopener\" target=\"_blank\">NCBI Help Manual<\/a><\/li>\r\n<\/ul>\r\n\r\n<hr \/>\r\n<h4><strong><a href=\"https:\/\/www.era.nih.gov\/\" rel=\"noopener\" target=\"_blank\">NIH eRA Commons<\/a><\/strong><\/h4>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/www.era.nih.gov\/help-tutorials\/rppr\/overview.htm\" rel=\"noopener\" target=\"_blank\">Research Performance Progress Reports (RPPR): Overview<\/a><\/li>\r\n\t<li><a href=\"http:\/\/grants.nih.gov\/grants\/rppr\/rppr_instruction_guide.pdf\" rel=\"noopener\" target=\"_blank\">RPPR Instructional Guide<\/a><\/li>\r\n\t<li><a href=\"https:\/\/www.era.nih.gov\/help-tutorials\/era-commons\/features-fixes.htm\" rel=\"noopener\" target=\"_blank\">eRA Commons Features &amp; Fixes<\/a><\/li>\r\n<\/ul>\r\n\r\n<ol>\r\n<\/ol>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

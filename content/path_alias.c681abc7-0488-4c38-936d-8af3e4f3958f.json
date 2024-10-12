@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c681abc7-0488-4c38-936d-8af3e4f3958f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/cef317ec-2e91-4e52-80a3-ce977cf4f7b2"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-39-november-2019"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

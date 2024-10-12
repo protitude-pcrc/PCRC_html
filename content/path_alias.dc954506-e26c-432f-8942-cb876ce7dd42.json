@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "dc954506-e26c-432f-8942-cb876ce7dd42"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/ac6103bf-403f-4f15-9ff3-a4dd23394ebd"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/pcdmcompileddatadictionarypdf"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

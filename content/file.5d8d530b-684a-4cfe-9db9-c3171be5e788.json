@@ -1,0 +1,69 @@
+{
+    "uuid": [
+        {
+            "value": "5d8d530b-684a-4cfe-9db9-c3171be5e788"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "document",
+            "target_type": "file_type",
+            "target_uuid": "aba37c63-b654-405f-a34e-d829c2ad7580"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "filename": [
+        {
+            "value": "081318pilot1504codebook.pdf"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/annotated-crfs\/081318pilot1504codebook.pdf"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/pdf"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 254292
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-08-15T23:36:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-08-15T23:44:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/081318pilot1504codebookpdf",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ]
+}

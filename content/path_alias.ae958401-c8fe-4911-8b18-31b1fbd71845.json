@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ae958401-c8fe-4911-8b18-31b1fbd71845"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7bd3ecf1-219a-4ad7-959d-df24dd1dfb82"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/informed-consent-process"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

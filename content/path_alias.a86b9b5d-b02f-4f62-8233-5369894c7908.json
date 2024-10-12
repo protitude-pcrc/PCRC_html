@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a86b9b5d-b02f-4f62-8233-5369894c7908"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/taxonomy\/term\/354"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news-type\/funding"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

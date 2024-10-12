@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "dd3ed680-a0d6-4357-8026-665f23501b45"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/da72a6ee-a7fc-4e07-984b-2fc0e30d229c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/comeriuedu"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

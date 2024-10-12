@@ -1,0 +1,99 @@
+{
+    "uuid": [
+        {
+            "value": "e6116942-f8ed-4095-ac04-914f17cc7cb5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-05-12T21:35:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "PCRC Charter"
+        }
+    ],
+    "created": [
+        {
+            "value": "2014-08-12T20:48:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-05-12T21:35:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/about\/pcrc-charter",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The PCRC Charter outlines basic elements of the cooperative group structure and function. Its focus is on establishing clear organizational structure and processes to ensure efficiency of operation and ability to meet research objectives.<\/p>\r\n\r\n<p>Its purposes are to (1) serve as a reference document that lends clarity, simplicity, and definition to a complex organization, (2) articulate critical features of the PCRC as an enduring organization, and (3) govern key areas of decision-making.<\/p>\r\n\r\n<p>For a complete copy of the Charter, download the PDF file below.<\/p>\r\n\r\n<p>[button url=\"https:\/\/pcrc.box.com\/s\/6v2eqworrqeiagcyvti314n01pqf4xsu\" size=\"\" color=\"orange\" target=\"_blank\"]PCRC Charter V3.1 - ratified Mar 2020[\/button]<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": [
+        {
+            "value": "We focus on establishing clear organizational structure and processes to ensure efficiency of operation and ability to meet research objectives."
+        }
+    ]
+}

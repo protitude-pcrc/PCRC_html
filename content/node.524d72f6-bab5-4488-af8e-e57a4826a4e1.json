@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "524d72f6-bab5-4488-af8e-e57a4826a4e1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:27+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "PCRC Data Repository Expansion Grant Awards"
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-05-23T04:56:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2017-05-23T04:56:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/pcrc-data-repository-expansion-grant-awards",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "The PCRC is pleased to announce two sets of awards.\r\n\r\n<strong>Congratulations to the award winners of the PCRC grants to support the secondary analysis of existing data in the PCRC Data Repository.\u00a0<\/strong> The award winners are:\r\n<ul>\r\n \t<li><strong>Kathleen M. Akgu\u0308n, MD, MS,<\/strong> Yale School of Medicine, \u201cPolypharmacy, statin use and 6-month dyspnea trajectories among older adults with serious, life-limiting diseases\u201d<\/li>\r\n \t<li><strong>Angela Ghesquiere, PhD, MSW,<\/strong> Hunter College, City University of New York, \u201cExploring Psychological Symptoms as Moderators of Treatment Outcomes in the REST Study\u201d<\/li>\r\n \t<li><strong>Yael Schenker, MD, MAS,<\/strong> University of Pittsburgh Montefiore Hospital, \u201cAssociations between polypharmacy, symptom burden, and quality of life in patients with advanced, life-limiting illness\u201d<\/li>\r\n<\/ul>\r\nThe PCRC is thrilled to support these investigators and learn of the findings from their secondary data analyses!\r\n\r\nThe PCRC also is expanding the PCRC Data Repository to include data from completed end-of-life and palliative care (EOLPC) studies that may have been conducted outside of the PCRC and without PCRC support. In late April, the PCRC published a funding announcement to support the data repository expansion initiative, and we are excited to announce that the PCRC Data Repository will be expanded to include study data from 11 EOLPC research projects! Once incorporated into the PCRC Data Repository, these data will be available to investigators for secondary data analyses. Please see the table below with information about the studies.\r\n<table style=\"width: 607px;\">\r\n<tbody>\r\n<tr>\r\n<td style=\"width: 559px; text-align: center;\" colspan=\"3\"><strong>Datasets to be included in PCRC Data Repository: Award Winners<\/strong><\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"width: 145px;\"><strong>Principle\u00a0Investigator<\/strong><\/td>\r\n<td style=\"width: 152px;\"><strong>Institution<\/strong><\/td>\r\n<td style=\"width: 262px;\"><strong>Study Title\u00a0<\/strong><\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"width: 145px;\">Benzi Kluger, MD, MS<\/td>\r\n<td style=\"width: 152px;\">University of Colorado<\/td>\r\n<td style=\"width: 262px;\">Does Outpatient Palliative Care Improve Patient-Centered Outcomes in Parkinson's Disease<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"width: 145px;\">Margaret L. Campbell PhD, RN, FPCN<\/td>\r\n<td style=\"width: 152px;\">Wayne State University<\/td>\r\n<td style=\"width: 262px;\">Is death rattle a phenomenon that requires medical treatment?<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"width: 145px;\">Margaret L. Campbell PhD, RN, FPCN<\/td>\r\n<td style=\"width: 152px;\">Wayne State University<\/td>\r\n<td style=\"width: 262px;\">Rater intensity psychometrics for the Respiratory Distress Observation Scale<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"width: 145px;\">Margaret L. Campbell PhD, RN, FPCN<\/td>\r\n<td style=\"width: 152px;\">Wayne State University<\/td>\r\n<td style=\"width: 262px;\">Intensity cutpoints substantiation of the Respiratory Distress Observation Scale<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"width: 145px;\">Matthew R Baldwin, MD, MS<\/td>\r\n<td style=\"width: 152px;\">Columbia University<\/td>\r\n<td style=\"width: 262px;\">Frailty and Outcomes in Critical Illness Survivors-I (FOCIS-I)<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"width: 145px;\">Katherine R. Courtright, MD, MS<\/td>\r\n<td style=\"width: 152px;\">University of Pennsylvania<\/td>\r\n<td style=\"width: 262px;\">Choice Sets for Advance Directives<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"width: 145px;\">Stacy Fischer, MD<\/td>\r\n<td style=\"width: 152px;\">University of Colorado<\/td>\r\n<td style=\"width: 262px;\">Apoyo con Carino: (Support Through Caring) Improving Palliative Care Outcomes for Latinos with Advanced Cancer<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"width: 145px;\">Amber E. Barnato, MD, MPH, MS<\/td>\r\n<td style=\"width: 152px;\">University of Pittsburgh<\/td>\r\n<td style=\"width: 262px;\">Consumer Engagement<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"width: 145px;\">Amber E. Barnato, MD, MPH, MS<\/td>\r\n<td style=\"width: 152px;\">University of Pittsburgh<\/td>\r\n<td style=\"width: 262px;\">Organizational and Provider Norms of Life-sustaining Treatment Decision Making<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"width: 145px;\">Amber E. Barnato, MD, MPH, MS<\/td>\r\n<td style=\"width: 152px;\">University of Pittsburgh<\/td>\r\n<td style=\"width: 262px;\">Surrogate's Heightened Emotions and Life support Decisions (SHEALD)<\/td>\r\n<\/tr>\r\n<tr>\r\n<td style=\"width: 145px;\">David Bekelman, MD, MPH<\/td>\r\n<td style=\"width: 152px;\">VA Eastern Colorado Health Care System<\/td>\r\n<td style=\"width: 262px;\">Collaborative Care to Alleviate Symptoms and Adjust to Illness in Heart Failure: Randomized Clinical Trial<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>\r\nThe investigator and his\/her analyst have been invited to attend a half-day workshop in Denver on Tuesday, June 13, 2017 to learn best practices for reproducible research and how to prepare data for inclusion in the repository. The training will be led by the current and former PCRC Data Informatics and Statistics Core (DISC) Directors, Dr. Katie Colborn and Dr. Diane Fairclough, respectively.\u00a0 This workshop will be recorded (using Zoom), which can then be made available to other investigators wishing to utilize this valuable resource.\u00a0 Stay tuned!\r\n\r\nWe encourage you to consider including any study data you may have for which you think additional secondary data analysis could be conducted and support those who need access to these datasets for preliminary data and\/or grant proposal preparation.\u00a0 Thank you in advance for considering adding your work to and conducting secondary analyses using the PCRC\u2019s growing data repository!\r\n\r\nFor information about how to request data from the PCRC Data Repository or add study data to the PCRC Data Repository, please click <a href=\"http:\/\/palliativecareresearch.org\/corescenters\/disc\/pcrc-data-repository\/\">here<\/a>.\u00a0 ",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

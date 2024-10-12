@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "50c4ac74-2daf-4f5f-b72d-74888ea3eceb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/2c9ad00b-f0cf-4937-b8be-eb19bd3f80a3"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/corescenters\/data-informatics-and-statistics-core-disc"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

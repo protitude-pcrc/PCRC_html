@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "1fd005bc-009c-4a2a-92f1-4b95cce9d159"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-07-27T19:29:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "caa44f80-d71c-40b0-a8b9-0e61db26763c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Where Our Members Are Located"
+        }
+    ],
+    "created": [
+        {
+            "value": "2014-08-12T20:46:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-07-27T19:29:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/about\/where-our-members-are-located",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>&nbsp;<\/p>\r\n\r\n<drupal-entity alt=\"PCRC Membership Map\" data-align=\"center\" data-embed-button=\"image_browser\" data-entity-embed-display=\"image:linked_responsive_image\" data-entity-embed-display-settings=\"{&quot;responsive_image_style&quot;:&quot;wide&quot;,&quot;image_link&quot;:&quot;&quot;,&quot;link_uri&quot;:&quot;&quot;}\" data-entity-type=\"file\" data-entity-uuid=\"8ca4f432-6002-43db-8123-1222a33736d0\"><\/drupal-entity>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>If you are interested in learning more about joining the PCRC, complete the <a href=\"https:\/\/airtable.com\/shrdLsURHRJ2Pddqm\">New Member Application<\/a>.<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

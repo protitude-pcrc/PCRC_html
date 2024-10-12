@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "edaa0ff6-f3c6-4e94-b761-a4e93b970280"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/d2dcf928-90cb-4e87-ae0a-9b5f201013e6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/mkbuss"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

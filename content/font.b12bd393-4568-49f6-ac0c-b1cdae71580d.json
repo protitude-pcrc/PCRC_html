@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "b12bd393-4568-49f6-ac0c-b1cdae71580d"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Caudex&subset=greek-ext#regular"
+        }
+    ],
+    "name": [
+        {
+            "value": "Caudex regular (greek-ext)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Caudex"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "normal"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:14:\"Caudex:regular\";s:6:\"subset\";s:9:\"greek-ext\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:02:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:02:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "12b0dea5-d190-4fa8-bef6-36049468456b"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4bc2d2bc-b086-4cfa-aa03-92c030ca7c37"
+        }
+    ],
+    "field_tags": []
+}

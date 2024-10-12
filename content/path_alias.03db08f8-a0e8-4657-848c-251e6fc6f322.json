@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "03db08f8-a0e8-4657-848c-251e6fc6f322"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/d41ebd3e-9eeb-4be7-a0a9-c7a19f4c7919"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/choco50"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

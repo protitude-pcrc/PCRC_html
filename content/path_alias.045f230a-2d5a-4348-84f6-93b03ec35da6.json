@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "045f230a-2d5a-4348-84f6-93b03ec35da6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/e6750558-3ec9-4c81-b61f-74ba5499e0c9"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-3-november-2012"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

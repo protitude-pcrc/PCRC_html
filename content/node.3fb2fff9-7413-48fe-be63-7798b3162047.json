@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "3fb2fff9-7413-48fe-be63-7798b3162047"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-07-07T17:52:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "Qualitative and Mixed-Methods Library"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-03-14T23:30:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-07-07T17:52:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/corescenters\/data-informatics-statistics-core-disc\/qualitative-and-mixed-methods-library",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The PCRC DISC offers a PCRC Qualitative and Mixed-Methods&nbsp;Library. The library includes qualitative, mixed-, and multi-method studies conducted in the United States between 2012 to July 2018. The library contains the following fields (author, journal, article title, year of publication, study aims, population focus, setting, study design, institutional affiliation, and the email address of the corresponding author). The library was generated to assess qualitative, mixed- and multi-methods studies\u2019 space for the PCRC Qualitative Data Repository under construction but can also assist investigators in identifying potential collaborators based on specific phenomenon, setting, and qualitative methods.&nbsp;<\/p>\r\n\r\n<p>To request a copy of the Qualitative and Mixed-Methods&nbsp;Library, please click the button to fill out the request form below. Once the form has been submitted, a link to the library will be emailed to you within five minutes.<\/p>\r\n\r\n<center>[button size=\"large\" url=\"https:\/\/airtable.com\/shrkwnRShB4r85pfG\" color=\"green\" target=\"_blank\"]Library Request Form[\/button]<\/center>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>Please direct any questions about the PCRC Qualitative and Mixed-Methods&nbsp;Library to the DISC Co-Lead, <a href=\"mailto:salimahm@nursing.upenn.edu;pcrc@ucdenver.edu?subject=PCRC%20Qual%20and%20Mixed-Methods%20Library\" target=\"_blank\">Salimah Meghani<\/a>.<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

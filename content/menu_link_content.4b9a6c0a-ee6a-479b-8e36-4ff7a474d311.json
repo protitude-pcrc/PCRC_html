@@ -1,0 +1,90 @@
+{
+    "uuid": [
+        {
+            "value": "4b9a6c0a-ee6a-479b-8e36-4ff7a474d311"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "value": "menu_link_content"
+        }
+    ],
+    "revision_created": [],
+    "revision_user": [],
+    "revision_log_message": [],
+    "enabled": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "PCRC DiDR Data Repository"
+        }
+    ],
+    "description": [],
+    "menu_name": [
+        {
+            "value": "main"
+        }
+    ],
+    "link": [
+        {
+            "uri": "entity:node\/2d415a77-0e82-43e2-98bb-9151bf6077f4",
+            "title": "",
+            "options": {
+                "attributes": {
+                    "class": [
+                        ""
+                    ]
+                }
+            }
+        }
+    ],
+    "external": [
+        {
+            "value": false
+        }
+    ],
+    "rediscover": [
+        {
+            "value": false
+        }
+    ],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "expanded": [
+        {
+            "value": false
+        }
+    ],
+    "parent": [
+        {
+            "value": "menu_link_content:27cb2ea6-384c-4dcf-808c-f259751cdd6b"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-07-07T17:58:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "uuid": [
+        {
+            "value": "7c62b9c3-99cf-4443-b0c4-d6bb84f19cfc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "document",
+            "target_type": "file_type",
+            "target_uuid": "aba37c63-b654-405f-a34e-d829c2ad7580"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "filename": [
+        {
+            "value": "Reed_PCRC_StatinRequest.pdf"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/proposals\/Reed_PCRC_StatinRequest.pdf"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/pdf"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 279412
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-05-14T20:08:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-05-14T20:08:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/reedpcrcstatinrequestpdf",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ]
+}

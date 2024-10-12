@@ -1,0 +1,52 @@
+{
+    "uuid": [
+        {
+            "value": "110255e6-632a-4d04-9309-cd9e2e446acc"
+        }
+    ],
+    "hash": [
+        {
+            "value": "NqOLimljPGbQa7wbrntp4xQVQZZM0yUFCdd97LDxi8M"
+        }
+    ],
+    "type": [
+        {
+            "value": "redirect"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "redirect_source": [
+        {
+            "path": "resources\/documents-links-partner-resources",
+            "query": []
+        }
+    ],
+    "redirect_redirect": [
+        {
+            "uri": "internal:\/node\/495",
+            "title": null,
+            "options": []
+        }
+    ],
+    "language": [
+        {
+            "value": "en"
+        }
+    ],
+    "status_code": [
+        {
+            "value": 301
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-09-11T21:34:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

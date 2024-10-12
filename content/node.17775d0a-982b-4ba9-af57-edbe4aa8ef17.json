@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "17775d0a-982b-4ba9-af57-edbe4aa8ef17"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "FOA: Call for proposals for data to be included in the PCRC de-identified Data Repository"
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-04-22T03:42:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2017-04-22T03:42:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/foa-call-proposals-data-be-included-pcrc-de-identified-data-repository",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<strong>FUNDING OPPORTUNITY ANNOUNCEMENT:\u00a0<\/strong><strong>Call for proposals for data to be included in the <a href=\"http:\/\/palliativecareresearch.org\/corescenters\/disc\/pcrc-data-repository\/\" target=\"_blank\" rel=\"noopener noreferrer\">PCRC de-identified Data Repository<\/a><\/strong>\r\n\r\n<strong>Do you have data from a completed palliative care and\/or end-of-life study that has unanswered questions?\u00a0 Do you (or your prot\u00e9g\u00e9s) wish that you could access existing data to conduct secondary analyses?\u00a0 This opportunity is for you!<\/strong>\r\n\r\n<strong>Resources are available through the PCRC to support inclusion of de-identified data in the <a href=\"http:\/\/palliativecareresearch.org\/corescenters\/disc\/pcrc-data-repository\/\" target=\"_blank\" rel=\"noopener noreferrer\">PCRC de-identified Data Repository<\/a><\/strong><strong>.<\/strong>\r\n\r\nPlease use this link to apply:\u00a0 <a href=\"https:\/\/redcap.ucdenver.edu\/surveys\/?s=E3CLHPYTRW\">https:\/\/redcap.ucdenver.edu\/surveys\/?s=E3CLHPYTRW<\/a>\r\n\r\nApplications are due <strong>May 04, 2017<\/strong>.\u00a0 Notifications of approval will be made by <strong>May 09, 2017<\/strong>.\r\n\r\n<strong>Award:<\/strong> $2500 to prepare existing data set for inclusion in PCRC Repository and travel costs for PI and analyst to travel to Denver for \u00bd day training on Tuesday, June 13, 2017.\r\n\r\nThe PCRC is seeking applications for investigators to include their study data from palliative care and end-of-life studies in the <a href=\"http:\/\/palliativecareresearch.org\/corescenters\/disc\/pcrc-data-repository\/\" target=\"_blank\" rel=\"noopener noreferrer\">PCRC de-identified Data Repository<\/a>. We are especially interested in palliative care or end-of-life clinical trials or large observational studies. Ideally these studies are those that have been listed on clinicaltrials.gov, were IRB approved, have resulted in publication(s) in respected peer-reviewed journals and collected sufficient information to allow for secondary analyses. In order to include data in the repository, we will need to comply with your institution\u2019s data use policies and procedures.\u00a0\u00a0 Depending on your institution, this may include obtaining official authorization to share the data with the <a href=\"http:\/\/palliativecareresearch.org\/corescenters\/disc\/pcrc-data-repository\/\" target=\"_blank\" rel=\"noopener noreferrer\">PCRC Data Repository<\/a>.\r\n\r\n<em>(Note: we cannot include Medicare\/Medicaid claims data in the PCRC data repository.)<\/em>\r\n\r\nIf your study is chosen, you and your data analyst will be invited to attend a \u00bd day workshop in Denver on <strong>Tuesday, June 13, 2017<\/strong> to learn best practices for reproducible research and how to prepare your data for inclusion in the repository. Travel costs for you and your analyst will be covered by the PCRC. We will also award each recipient $2500 to offset costs associated with preparing the data before sending them to the repository.\r\n\r\n<a href=\"https:\/\/pcrc.box.com\/s\/v8kka0s08f46q5zuzfuassmoiwu0a9fs\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"s1\">Please click here for Frequently Asked Questions about this funding announcement.<\/span><\/a>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

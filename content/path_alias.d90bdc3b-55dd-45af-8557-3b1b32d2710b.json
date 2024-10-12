@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d90bdc3b-55dd-45af-8557-3b1b32d2710b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/d0e69c7e-64e6-4597-a546-26bd0d1ff186"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/venturabuns"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

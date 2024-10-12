@@ -1,0 +1,246 @@
+{
+    "uuid": [
+        {
+            "value": "5925e705-11e6-453a-b76f-28fa836e5f50"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-05-03T19:22:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "title": [
+        {
+            "value": "Barriers to Hospice and Palliative Care Utilization"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-03-17T22:31:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-05-03T19:22:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/study\/barriers-hospice-and-palliative-care-utilization",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "42e4651f-9413-4282-aace-cbd28a0f4a39"
+        }
+    ],
+    "field_approved_data_requests": [],
+    "field_award_number": [],
+    "field_condition_studied": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1a9a9841-c6b9-4156-9470-2eb00019aeda"
+        }
+    ],
+    "field_csr_summary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "b9da1ae8-0453-41af-8ad3-a790d566c238"
+        }
+    ],
+    "field_data_dictionary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "cbe9ca5b-0ddf-4619-a77e-7958313f9219"
+        }
+    ],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a801317c-42e4-4a02-af5c-078b6ddadb0f"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Barriers to Hospice and Palliative Care Utilization Among Adolescent and Young Adult Cancer Patients Living in Poverty"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "287"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": true
+        }
+    ],
+    "field_nct_link_field": [],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4f231d80-83c7-45f6-affe-6a582e037a21"
+        }
+    ],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "833f058a-fcb8-46a6-88ff-1d3ecff63bb2"
+        }
+    ],
+    "field_participant_ethnicity_coll": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "350f6f60-c882-44d9-bf86-2f242d671d54"
+        }
+    ],
+    "field_participant_race": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "88ac74e1-8f30-4ba6-bbe9-d8a410f35170"
+        }
+    ],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9bae5dc6-39bb-4eb6-ba24-2add620945de"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bb33a50f-e9de-47ae-80e4-5167ef2b0d2f"
+        }
+    ],
+    "field_pcrc_study_num": [
+        {
+            "value": "16-10"
+        }
+    ],
+    "field_primary_citation": [],
+    "field_sponsor": [],
+    "field_study_design": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8afd07a0-58a3-4743-8946-461e4165bb67"
+        }
+    ],
+    "field_study_pi": [
+        {
+            "value": "Jennifer Mack, MD MPH"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "Dana-Farber Cancer Institute"
+        }
+    ],
+    "field_study_setting": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2cbe2575-3af8-43d2-b4af-b144d6034ad8"
+        }
+    ],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d8112c55-df67-4b13-8ec6-fb43a0ba8e31"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<h3><strong>Objectives:<\/strong><\/h3>\r\n\r\n<p><strong>Aim 1:<\/strong> To examine the extent and determinants of socioeconomic disparities in use of hospice and palliative care among AYA patients at the EOL. We will (a) develop a cohort of 250 AYA decedents from 2013-2016 at 3 Palliative Care Research Cooperative Group (PCRC) sites; (b) evaluate use of hospice and palliative care and location of death using medical records; and (c) examine relationships between socioeconomic status, race\/ethnicity, urban\/rural neighborhood, hospice accessibility, and EOL care. The goal of this aim is to evaluate whether AYA patients in poverty have unique needs that can be targeted with strategic interventions, and which AYAs are most at risk.<\/p>\r\n\r\n<p><strong>Aim 2:<\/strong> To explore caregiver experiences and decision-making about location of EOL care and<br \/>\r\ninvolvement of hospice and palliative care. We will (a) identify surviving family caregivers of our cohort\u2019s AYA decedents and (b) conduct 30 semi-structured interviews to evaluate decision-making about use of palliative care and hospice and about location of death, including barriers to hospice\/palliative care use and home death. The goal of this aim is to understand mechanisms for disparities amenable to intervention.<\/p>\r\n\r\n<p><strong>Aim 3:<\/strong> To evaluate quality of care near death among AYA patients as a function of socioeconomic status and hospice and palliative care use. We will use a questionnaire-based interview among 100 family caregivers to evaluate quality of care near death as a function of hospice and palliative care use. The goal of this aim is to evaluate care models that offer high quality EOL care for poor AYAs, for development in a future intervention.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [
+        {
+            "value": "<p><strong>Request access to the qualitative data at&nbsp;<\/strong><a href=\"https:\/\/doi.org\/10.5064\/F6LBYMQO\" target=\"_blank\">https:\/\/doi.org\/10.5064\/F6LBYMQO<\/a>.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_therapeutic_area": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9f0b313e-b0ad-4af6-94c5-b2cd31413fe1"
+        }
+    ],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8dc925b0-06b7-4440-ac2b-424a6cc2821b"
+        }
+    ]
+}

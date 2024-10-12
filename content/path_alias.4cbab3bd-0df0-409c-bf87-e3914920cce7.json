@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "4cbab3bd-0df0-409c-bf87-e3914920cce7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/0ee9c358-2bf0-4301-b62d-4c17e749da4f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-10-november-2014"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

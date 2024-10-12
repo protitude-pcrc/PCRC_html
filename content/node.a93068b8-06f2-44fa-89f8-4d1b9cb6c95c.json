@@ -1,0 +1,228 @@
+{
+    "uuid": [
+        {
+            "value": "a93068b8-06f2-44fa-89f8-4d1b9cb6c95c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-02-19T19:55:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "Surrogate Storytelling"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-05-15T21:29:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-02-19T19:55:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/study\/surrogate-storytelling",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "36a23ef4-4773-4eb0-bd2b-7ae7f9da4eeb"
+        }
+    ],
+    "field_approved_data_requests": [],
+    "field_award_number": [],
+    "field_condition_studied": [],
+    "field_csr_summary": [],
+    "field_data_dictionary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "15dcc456-44c1-4fba-8d4e-7f429f9f5f94"
+        }
+    ],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a801317c-42e4-4a02-af5c-078b6ddadb0f"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "The Surrogate Project (Surrogate Storytelling)"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "32"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": true
+        }
+    ],
+    "field_nct_link_field": [
+        {
+            "uri": "https:\/\/clinicaltrials.gov\/ct2\/show\/NCT01902784",
+            "title": "NCT01902784",
+            "options": []
+        }
+    ],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "18f87351-ddf6-48ea-98df-e5daa20cb830"
+        }
+    ],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        }
+    ],
+    "field_participant_ethnicity_coll": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "350f6f60-c882-44d9-bf86-2f242d671d54"
+        }
+    ],
+    "field_participant_race": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "88ac74e1-8f30-4ba6-bbe9-d8a410f35170"
+        }
+    ],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9bae5dc6-39bb-4eb6-ba24-2add620945de"
+        }
+    ],
+    "field_pcrc_study_num": [],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/27618273",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [
+        {
+            "value": "NPCRC and NIH"
+        }
+    ],
+    "field_study_design": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8efa09b9-e9aa-43b7-bb08-51dcd38fabe3"
+        }
+    ],
+    "field_study_pi": [
+        {
+            "value": "Amber Barnato, MD, MPH, MS"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "Dartmouth College"
+        }
+    ],
+    "field_study_setting": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4fb30600-1784-41e5-8d7d-2e45bef6acca"
+        }
+    ],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [],
+    "field_summary": [
+        {
+            "value": "<p>This is a phase II controlled trial (RCT) of a \"storytelling\" intervention compared to no treatment among surrogates who have participated in a decision to limit life-sustaining treatment in the ICU for an incapacitated loved one.<\/p>\r\n\r\n<p>Subjects will be sequentially assigned to \"storytelling\" (a facilitated elicitation of the experience 2-4 weeks after bereavement) or no treatment with follow up \"monitoring of well-being\".<\/p>\r\n\r\n<p>Subjects will receive print bereavement brochures at 1 week, and undergo telephone symptom assessment at 2-weeks, 3-months, and 6-months after bereavement.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [
+        {
+            "value": "<p>IRB Protocol<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_therapeutic_area": [],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "fbd491b5-cd5e-4bef-9b16-793bee9672cc"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "46a27b44-2b4a-418a-86fd-0136f5c427b6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1b5249f5-1427-4aac-b6f9-5fe29486cea3"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/funding-opportunities\/2022-pilot-funding-announcement"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

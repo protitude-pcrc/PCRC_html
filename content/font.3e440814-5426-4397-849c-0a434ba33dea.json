@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "3e440814-5426-4397-849c-0a434ba33dea"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Hind Guntur&subset=telugu#600"
+        }
+    ],
+    "name": [
+        {
+            "value": "Hind Guntur 600 (telugu)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Hind Guntur"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "600"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:15:\"Hind Guntur:600\";s:6:\"subset\";s:6:\"telugu\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:02:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:02:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "3a52e156-ae57-4a95-a295-e559e21bea2e"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a859294f-ee6c-4c95-90af-99b6680399ba"
+        }
+    ],
+    "field_tags": []
+}

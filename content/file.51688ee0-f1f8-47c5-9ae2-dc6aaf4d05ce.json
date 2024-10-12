@@ -1,0 +1,69 @@
+{
+    "uuid": [
+        {
+            "value": "51688ee0-f1f8-47c5-9ae2-dc6aaf4d05ce"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "document",
+            "target_type": "file_type",
+            "target_uuid": "aba37c63-b654-405f-a34e-d829c2ad7580"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "filename": [
+        {
+            "value": "FS_ICU_24_08-05-2014_annotated.pdf"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/annotated-crfs\/FS_ICU_24_08-05-2014_annotated.pdf"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/pdf"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 302217
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-04-06T18:15:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-04-06T18:25:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/fsicu2408-05-2014annotatedpdf",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ]
+}

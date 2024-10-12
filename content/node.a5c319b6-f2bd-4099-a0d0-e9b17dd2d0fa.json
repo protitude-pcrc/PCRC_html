@@ -1,0 +1,110 @@
+{
+    "uuid": [
+        {
+            "value": "a5c319b6-f2bd-4099-a0d0-e9b17dd2d0fa"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-10-11T17:37:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "Applications Now Open for 2019 PCRC Clinical Trials Intensives"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-10-11T17:18:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-10-11T17:37:38+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/applications-now-open-2019-pcrc-clinical-trials-intensives",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Palliative Care Intensives in Clinical Trials are three-day intensives that seek to provide a foundation in practical aspects involving the conduct of randomized clinical trials in palliative care.&nbsp; They are designed for early career researchers or other mid-career researchers and health professionals interested in developing competence in the planning, design, and execution of randomized clinical trials.<\/p>\r\n\r\n<p><strong><u>When<\/u>:<\/strong> January 15-17, 2019 (Noon on 1\/15 until noon on 1\/17)<\/p>\r\n\r\n<p><u><strong>Where<\/strong><\/u><strong>:<\/strong> San Francisco, California: San Mateo Marriott \u2013 1770 South Amphlett Blvd, San Mateo, CA<\/p>\r\n\r\n<p><u><strong>Cost<\/strong><\/u><strong>:<\/strong> The cost of the program is supported by the PCRC: hotel reservations will be coordinated and paid for by the PCRC.&nbsp; Attendees will receive up to $700 to cover remaining travel-related expenses (airfare, meals, and ground transportation). &nbsp;Expenses will be reimbursed after program completion. &nbsp;Expenses in excess of this amount or unallowable by NIH or UCSF policy must be covered by the attendee.<\/p>\r\n\r\n<p><strong><u>To apply<\/u>:&nbsp;<\/strong>Deadline: <strong>Sunday, November 15, 2018, 11:59pm PT<\/strong><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<center>[button url=\"\/node\/543\" size=\"large\" color=\"blue\" target=\"_blank\"]Apply now for the 2019 Palliative Care Clinical Trial Intensives![\/button]<\/center>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Palliative Care Clinical Trials Intensives Jan 15-17, 2019"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "79f19229-97ab-4374-b750-70a60097eb51"
+        }
+    ]
+}

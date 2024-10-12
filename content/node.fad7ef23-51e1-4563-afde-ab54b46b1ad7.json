@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "fad7ef23-51e1-4563-afde-ab54b46b1ad7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-04-02T00:17:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Palliative Care Post-Doctoral Research Fellowship Programs"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-04-02T00:04:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-04-02T00:17:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/palliative-care-post-doctoral-research-fellowship-programs",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><a href=\"https:\/\/duke.app.box.com\/file\/431926889295\" target=\"_blank\">Specialized research training programs throughout the US focus on preparing potential candidates in careers in Palliative Care Research.&nbsp;<\/a><\/p>\r\n\r\n<p>These nationally known programs are currently available and accepting applications for fellowship trainees.&nbsp;<\/p>\r\n\r\n<p>Fellows participate in research and research training as well as receive mentorship to advance their program of research. Training programs will be individualized for each participant and focus on the participant\u2019s research interests.&nbsp;<\/p>\r\n\r\n<p>Training programs include:&nbsp;<\/p>\r\n\r\n<ul>\r\n\t<li>Mentorship with Experienced Investigators&nbsp;<\/li>\r\n\t<li>Interdisciplinary Research Training &amp; Experience&nbsp;<\/li>\r\n\t<li>Professional Development Opportunities&nbsp;<\/li>\r\n\t<li>Research Seminars, Journal Clubs and Works in Progress Sessions&nbsp;<\/li>\r\n<\/ul>\r\n\r\n<p>Each training program offers trainees the opportunities to participate in active faculty research with internationally known researchers. <a href=\"https:\/\/pcrc.box.com\/s\/2ewx7v642vorhrqpgmm6ugliiqpvg9xr\" target=\"_blank\">Click here for specifics on numerous training programs across the United States.<\/a><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

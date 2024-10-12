@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "ba6026e0-8fbf-4688-b649-9a526e7bd0b2"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Fira Sans&subset=greek-ext#800italic"
+        }
+    ],
+    "name": [
+        {
+            "value": "Fira Sans 800italic (greek-ext)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Fira Sans"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "italic"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "800"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:19:\"Fira Sans:800italic\";s:6:\"subset\";s:9:\"greek-ext\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:02:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:02:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "3a52e156-ae57-4a95-a295-e559e21bea2e"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4bc2d2bc-b086-4cfa-aa03-92c030ca7c37"
+        }
+    ],
+    "field_tags": []
+}

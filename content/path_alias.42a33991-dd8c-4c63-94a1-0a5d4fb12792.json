@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "42a33991-dd8c-4c63-94a1-0a5d4fb12792"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/e24020d7-1ba8-4608-86fd-9f669c18c67d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/iphonecosmic"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

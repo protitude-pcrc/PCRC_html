@@ -1,0 +1,69 @@
+{
+    "uuid": [
+        {
+            "value": "36d492c5-b121-4c48-9f36-66cec867156b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "document",
+            "target_type": "file_type",
+            "target_uuid": "aba37c63-b654-405f-a34e-d829c2ad7580"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "02e9cc23-e344-42b4-80e2-71c06a85af94"
+        }
+    ],
+    "filename": [
+        {
+            "value": "Study Proposal for PCRC Review-Murali.docx"
+        }
+    ],
+    "uri": [
+        {
+            "value": "private:\/\/webform\/request_data_form\/16\/Study Proposal for PCRC Review-Murali.docx"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 20718
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-06-04T18:15:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-06-04T18:15:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/study-proposal-pcrc-review-muralidocx",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ]
+}

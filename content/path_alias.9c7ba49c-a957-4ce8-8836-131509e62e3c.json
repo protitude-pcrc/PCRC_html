@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "9c7ba49c-a957-4ce8-8836-131509e62e3c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/6f54716a-41ee-4a38-9957-51dd8e9e126d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/icon-01png"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

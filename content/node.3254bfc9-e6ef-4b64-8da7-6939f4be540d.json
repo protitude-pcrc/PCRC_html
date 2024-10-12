@@ -1,0 +1,219 @@
+{
+    "uuid": [
+        {
+            "value": "3254bfc9-e6ef-4b64-8da7-6939f4be540d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-07-20T15:42:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "title": [
+        {
+            "value": "Testing PCforMe: a Web-Based Tool to Prepare Patients for Palliative Care"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-03-24T17:20:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-07-20T15:42:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/study\/testing-pcforme-web-based-tool-prepare-patients-palliative-care",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "29d36154-0dee-456d-ac1c-2066cef513d1"
+        }
+    ],
+    "field_approved_data_requests": [],
+    "field_award_number": [],
+    "field_condition_studied": [],
+    "field_csr_summary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "e56a5b92-ce77-4600-89c6-ce767baa7e51"
+        }
+    ],
+    "field_data_dictionary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "7123d07b-99b4-4eca-847b-b7b7f35576ec"
+        }
+    ],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e494a23c-aea6-4f0b-a534-4b948ddfdb07"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Testing PCforMe: a Web-Based Tool to Prepare Patients for Palliative Care"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "80"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": false
+        }
+    ],
+    "field_nct_link_field": [],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d7cd26a3-2482-49da-b75d-bdd120b563ae"
+        }
+    ],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        }
+    ],
+    "field_participant_ethnicity_coll": [],
+    "field_participant_race": [],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bb33a50f-e9de-47ae-80e4-5167ef2b0d2f"
+        }
+    ],
+    "field_pcrc_study_num": [
+        {
+            "value": "15-05"
+        }
+    ],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/pubmed.ncbi.nlm.nih.gov\/31163259\/",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [],
+    "field_study_design": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8efa09b9-e9aa-43b7-bb08-51dcd38fabe3"
+        }
+    ],
+    "field_study_pi": [
+        {
+            "value": "Arif Kamal MD, MBA, MHS"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "Duke University"
+        }
+    ],
+    "field_study_setting": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "5ccfdb7d-bd8f-4259-b6b6-b51b7e66dfca"
+        }
+    ],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "89b177d7-1afa-4d2b-bb5a-199a38866463"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<h3>Objectives:<\/h3>\r\n\r\n<p>The primary objective of this study was to test the usability of PCforMe, a web-based preparation and engagement tool about palliative care, during a pre-visit pilot trial in outpatient palliative care at the Duke Cancer Institute Palliative Care Clinic. Secondary objectives were to measure change in palliative care knowledge, and impact on perceived efficacy for the patient-physician interaction to prepare effect sizes calculations for a future multi-center trial.&nbsp;<\/p>\r\n\r\n<h3>Methodology:<\/h3>\r\n\r\n<p>A pragmatic, sequential, randomized pilot trial was conducted to evaluate the usability of PCforMe as a tool to prepare subjects scheduled for an initial (new) outpatient palliative care consultation in the Duke Cancer Institute Palliative Care Clinic were consented. Accrued up to 40 subjects into each of two arms.&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [],
+    "field_therapeutic_area": [],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "fbfde82e-fe88-4af6-9020-923c25b3405b"
+        }
+    ]
+}

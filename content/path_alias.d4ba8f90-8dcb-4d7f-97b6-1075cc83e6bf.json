@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d4ba8f90-8dcb-4d7f-97b6-1075cc83e6bf"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/aa1b6762-44d2-45e8-aa4a-de32c8f766ad"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/ethan-basch-uncjpeg"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

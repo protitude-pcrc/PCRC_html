@@ -1,0 +1,110 @@
+{
+    "uuid": [
+        {
+            "value": "6eed85f7-1d39-49db-bd5a-88754496815c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-12-04T22:51:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "NINR Webinar on new OEPCR FOAs"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-11-21T19:06:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-12-04T22:51:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/ninr-webinar-new-oepcr-foas",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>On November 29<sup>th<\/sup> NINR\u2019s Office of End of Life and Palliative Care will host an informational webinar on the new funding opportunity announcements:<\/p>\r\n\r\n<ul>\r\n\t<li>Strategies to Provide Culturally Tailored Palliative and End-of-Life Care for Seriously Ill American Indian and Alaska Native Individuals (R01 Clinical Trial Optional) <a href=\"https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/PAR-19-057.html\" target=\"_blank\">PAR-19-057<\/a><\/li>\r\n\t<li>Strategies to Provide Culturally Tailored Palliative and End-of-Life Care for Seriously Ill American Indian and Alaska Native Individuals (R21 Clinical Trial Optional) <a href=\"https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/PAR-19-058.html\" target=\"_blank\">PAR-19-058<\/a><\/li>\r\n\t<li>End-of-Life and Palliative Care Approaches to Advanced Signs and Symptoms (R01 Clinical Trial Optional) <a href=\"https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/PAR-19-045.html\" target=\"_blank\">PAR-19-045<\/a><\/li>\r\n\t<li>End-of-Life and Palliative Care Approaches to Advanced Signs and Symptoms (R21 Clinical Trial Optional) <a href=\"https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/PAR-19-044.html\" target=\"_blank\">PAR-19-044<\/a><\/li>\r\n<\/ul>\r\n\r\n<p>See more NINR FOAs and other funding opportunities on our <a href=\"\/node\/542\" target=\"_blank\">extramural funding and training opportunities page<\/a>!<\/p>\r\n\r\n<p>Information on how to join the meeting is provided below:<\/p>\r\n\r\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\">\r\n\t<thead>\r\n\t\t<tr>\r\n\t\t\t<th colspan=\"2\" scope=\"col\">\r\n\t\t\t<p>New NINR OEPCR FOAs<\/p>\r\n\t\t\t<\/th>\r\n\t\t<\/tr>\r\n\t<\/thead>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<p>When:<span style=\"display: none;\">&nbsp;<\/span><span style=\"display: none;\">&nbsp;<\/span><\/p>\r\n\t\t\t<\/td>\r\n\t\t\t<td>\r\n\t\t\t<p>Thursday , November 29, 2018<\/p>\r\n\r\n\t\t\t<p>1:00 - 2:00 pm&nbsp;Eastern Standard Time<\/p>\r\n\r\n\t\t\t<p><a href=\"https:\/\/nih.webex.com\/nih\/j.php?MTID=mbd4d9256d2ae161fa30cb9ebeee02528\" target=\"_blank\">Add to Calendar<\/a><\/p>\r\n\t\t\t<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<p>How:<\/p>\r\n\t\t\t<\/td>\r\n\t\t\t<td>\r\n\t\t\t<p>Meeting number (access code): 623 701 934<\/p>\r\n\r\n\t\t\t<p>Meeting password: NINRFOAS<\/p>\r\n\r\n\t\t\t<p>When it's time, click to&nbsp;<a href=\"https:\/\/nih.webex.com\/nih\/j.php?MTID=m7562425ba58bc9cec67a66dfdb386339\" target=\"_blank\">join the meeting<\/a><\/p>\r\n\r\n\t\t\t<p>Or call in toll free (US\/Canada):&nbsp;<a href=\"tel:%2B1-650-479-3208,,*01*623701934%23%23*01*\" target=\"_blank\">1-650-479-3208<\/a><\/p>\r\n\r\n\t\t\t<p><a href=\"https:\/\/nih.webex.com\/nih\/globalcallin.php?serviceType=MC&amp;ED=738213962&amp;tollFree=0\" target=\"_blank\">Global call-in numbers<\/a><\/p>\r\n\t\t\t<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td colspan=\"2\">\r\n\t\t\t<p><a href=\"https:\/\/collaborationhelp.cisco.com\/article\/WBX000029055\" target=\"_blank\">Can't join the meeting?<\/a><\/p>\r\n\t\t\t<\/td>\r\n\t\t<\/tr>\r\n\t<\/tbody>\r\n<\/table>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "November 29, 1pm EST"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "bc03af19-8247-4a32-80e7-9169696ab2d0"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Bungee Shade&subset=vietnamese#regular"
+        }
+    ],
+    "name": [
+        {
+            "value": "Bungee Shade regular (vietnamese)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Bungee Shade"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "normal"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:20:\"Bungee Shade:regular\";s:6:\"subset\";s:10:\"vietnamese\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:02:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:02:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2f636896-a5a0-4bdf-8074-2ca54f732f28"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "cdf1899f-717b-43ca-8ecb-e18813b65a79"
+        }
+    ],
+    "field_tags": []
+}

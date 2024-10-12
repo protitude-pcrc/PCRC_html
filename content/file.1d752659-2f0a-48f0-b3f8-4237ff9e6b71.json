@@ -1,0 +1,71 @@
+{
+    "uuid": [
+        {
+            "value": "1d752659-2f0a-48f0-b3f8-4237ff9e6b71"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "image",
+            "target_type": "file_type",
+            "target_uuid": "5a44da8e-ed3c-44a3-a323-ce4123599632"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "caa44f80-d71c-40b0-a8b9-0e61db26763c"
+        }
+    ],
+    "filename": [
+        {
+            "value": "SRC arrow flow 2021.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/SRC arrow flow 2021.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 37030
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-07-27T19:34:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-07-27T20:15:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/src-arrow-flow-2021png",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_image_alt_text": [],
+    "field_image_title_text": []
+}

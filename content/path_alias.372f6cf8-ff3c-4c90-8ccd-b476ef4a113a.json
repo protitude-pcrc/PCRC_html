@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "372f6cf8-ff3c-4c90-8ccd-b476ef4a113a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3254bfc9-e6ef-4b64-8da7-6939f4be540d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/study\/testing-pcforme-web-based-tool-prepare-patients-palliative-care"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

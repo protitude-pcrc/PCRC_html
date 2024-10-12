@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "8003ae24-f635-4520-b6c3-4d7458f037c0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-04-29T18:10:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c4c1b62a-869d-454a-b78c-bde33aba2db8"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c4c1b62a-869d-454a-b78c-bde33aba2db8"
+        }
+    ],
+    "title": [
+        {
+            "value": "PCRC's Heart Failure Special Interest Group to host a Work-in-Progress meeting"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-04-29T16:16:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-04-29T18:10:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/pcrcs-heart-failure-special-interest-group-host-work-progress-meeting",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Join the <u><a href=\"https:\/\/groups.google.com\/forum\/#!forum\/pcrc-sigs-hf\"><strong>Heart Failure Special Interest Group<\/strong><\/a><\/u> to participate in the May 9th&nbsp;Work-in-Progress webinar featuring <strong>Drs.&nbsp;<\/strong><b>Macy Stockdill <\/b>and <b>Gwen Bernacki<\/b>.<\/p>\r\n\r\n<p>The PCRC's <u><a href=\"node\/1594\" target=\"_blank\">Special Interest Groups<\/a><\/u>&nbsp;(SIGs) link PCRC investigators who are interested in collaborating around palliative care research topics.&nbsp;<\/p>\r\n\r\n<p>We currently offer SIGs for the following palliative care topics:<\/p>\r\n\r\n<ul>\r\n\t<li>Early Career Investigators<\/li>\r\n\t<li>Renal Disease<\/li>\r\n\t<li>Heart Failure<\/li>\r\n\t<li>Digital Health<\/li>\r\n<\/ul>\r\n\r\n<p>PCRC members can sign up for SIGs of interest <u><a href=\"https:\/\/groups.google.com\/forum\/#!forumsearch\/pcrc$20special$20interest$20group\" target=\"_blank\"><strong>here<\/strong><\/a><\/u>.&nbsp;<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Work-in-Progress webinar: Thursday, May 9th"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

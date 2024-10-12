@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e321ee1a-9e7e-4059-a0db-e185dea48f46"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/ec5ba3f8-f3a1-4f4a-b424-216e3ea4ef5b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/corescenters\/clinical-studiesmethodology-core\/palliative-care-clinical-studies-digital-library"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

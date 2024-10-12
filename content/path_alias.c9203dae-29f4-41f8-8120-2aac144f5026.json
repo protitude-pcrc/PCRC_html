@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c9203dae-29f4-41f8-8120-2aac144f5026"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1fb6f7c1-fe2d-4bd0-9e44-4953f08a5989"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-48-january-2022"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

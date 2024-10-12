@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c724b53f-ad51-458d-8898-fcaf343d7cca"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b297ece3-2ef3-42a4-8a99-26ee79829648"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/nih-hosting-two-part-webinar-implementing-nih-data-management-and-sharing-policy"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

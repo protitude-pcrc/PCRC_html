@@ -1,0 +1,69 @@
+{
+    "uuid": [
+        {
+            "value": "c6b3031b-ac9e-49c0-9e9f-af54a920dec0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "document",
+            "target_type": "file_type",
+            "target_uuid": "aba37c63-b654-405f-a34e-d829c2ad7580"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "filename": [
+        {
+            "value": "Plumb Vilardaga_DISC Data Repository - Study Summary.docx"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/csr_summaries\/Plumb Vilardaga_DISC Data Repository - Study Summary.docx"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 376280
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-18T14:54:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-18T14:58:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/plumb-vilardagadisc-data-repository-study-summarydocx",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ]
+}

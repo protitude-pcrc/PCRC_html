@@ -1,0 +1,100 @@
+{
+    "uid": [
+        {
+            "value": 9562
+        }
+    ],
+    "uuid": [
+        {
+            "value": "ee63b04b-c669-441d-bb7d-61abd2fab17d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "LisaD01"
+        }
+    ],
+    "mail": [
+        {
+            "value": "user+9562@localhost.localdomain"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-02-08T22:11:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-02-08T22:11:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "request",
+            "target_type": "user_role",
+            "target_uuid": "372304bc-f32f-4566-8313-c53ef14f1eb1"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/user\/lisad01",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_affiliation": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9add2dc7-c891-404e-b951-67a7f5b1fa6d"
+        }
+    ],
+    "field_are_you_a_pcrc_member_": [
+        {
+            "value": "yes"
+        }
+    ],
+    "field_first_name": [
+        {
+            "value": "Aliquam antehabeo dignissim eum fere jumentum secundum tego verto vindico"
+        }
+    ],
+    "field_last_name": [
+        {
+            "value": "Abdo dignissim facilisi fere nutus olim. Abico dolore elit inhibeo pagus suscipit. Diam iusto iustum neo probo sed sino. Abbas caecus defui eligo nisl pala pertineo probo saepius. Ibidem interdico mos oppeto pecus vel."
+        }
+    ],
+    "user_picture": []
+}

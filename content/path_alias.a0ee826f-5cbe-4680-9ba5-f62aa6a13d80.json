@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a0ee826f-5cbe-4680-9ba5-f62aa6a13d80"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/84583f2d-47dc-40e5-be14-94957fee8a92"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/research\/investigator-support-information\/collaborating-pcrc\/grant-submission"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

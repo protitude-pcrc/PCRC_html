@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "4f4cd413-656e-4fc9-b53b-42066311a9b2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-12-22T19:41:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "PCORI Seeks Public Comments for Proposed Research Agenda"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-12-22T19:36:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-12-22T19:41:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/pcori-seeks-public-comments-proposed-research-agenda",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>PCORI has launched the public comment period on its proposed Research Agenda, which will provide the framework for PCORI\u2019s future funding of comparative clinical effectiveness research and other research initiatives. It stems from the five&nbsp;National Priorities for Health&nbsp;adopted by PCORI\u2019s Board of Governors in October.<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>The&nbsp;<a data-auth=\"NotApplicable\" data-linkindex=\"0\" href=\"https:\/\/r20.rs6.net\/tn.jsp?f=001JLRyMg1GB_--b1vbZ9aolPPTdjIZWVu7aE4qfLtVa5B5P1HOtp_7MzjZ486ozG4-S1HQ-XcebIUvp8AVwCAAEs6AIO8jVtyr5xhXoaBEU1g6DiJZnmrjbjDjF16Bj5Cf7bVNgOhU8NCBYK7Fl80Izg==&amp;c=oFOkjC4Yo6aGZqaMxbwip6yDV6jFWENllJdKoim6IXWUtTbJetVKXQ==&amp;ch=f3g2jC6hHPS1cyYQRu5bxhv2LZu9xMfrHsXr2Vb-Pe05LHq4G6SD3g==\" rel=\"noopener noreferrer\" target=\"_blank\">proposed Research Agenda<\/a>&nbsp;states PCORI will fund research in the following six areas of focus:<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<ul>\r\n\t<li>Research that fills patient- and stakeholder-prioritized evidence gaps and is representative of diverse patient populations and settings<\/li>\r\n\t<li>Research that aims to achieve health equity and eliminate health and healthcare disparities<\/li>\r\n\t<li>Research that builds the evidence base for emerging interventions by leveraging the full range of data resources and partnership<\/li>\r\n\t<li>Research that examines the diverse burdens and clinical and economic impacts important to patients and other stakeholders<\/li>\r\n\t<li>Research that focuses on health promotion and illness prevention by addressing health drivers that occur where people live, work, learn, and play<\/li>\r\n\t<li>Research that integrates implementation science and that advances approaches for communicating evidence so the public can access, understand, and act on research findings<\/li>\r\n<\/ul>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>More details on the types of projects that could be included in each area of focus are available on&nbsp;<a data-auth=\"NotApplicable\" data-linkindex=\"1\" href=\"https:\/\/r20.rs6.net\/tn.jsp?f=001JLRyMg1GB_--b1vbZ9aolPPTdjIZWVu7aE4qfLtVa5B5P1HOtp_7MzjZ486ozG4-S1HQ-XcebIUvp8AVwCAAEs6AIO8jVtyr5xhXoaBEU1g6DiJZnmrjbjDjF16Bj5Cf7bVNgOhU8NCBYK7Fl80Izg==&amp;c=oFOkjC4Yo6aGZqaMxbwip6yDV6jFWENllJdKoim6IXWUtTbJetVKXQ==&amp;ch=f3g2jC6hHPS1cyYQRu5bxhv2LZu9xMfrHsXr2Vb-Pe05LHq4G6SD3g==\" rel=\"noopener noreferrer\" target=\"_blank\">PCORI\u2019s website<\/a>.<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>Comments from a variety of perspectives, including yours, are vital for ensuring our Research Agenda will help us meet the needs of all healthcare decision makers. The public comment period is open through January 31, 2022. Read more about the proposed Research Agenda and how to submit comments or input on&nbsp;<a data-auth=\"NotApplicable\" data-linkindex=\"2\" href=\"https:\/\/r20.rs6.net\/tn.jsp?f=001JLRyMg1GB_--b1vbZ9aolPPTdjIZWVu7aE4qfLtVa5B5P1HOtp_7MzjZ486ozG4-5eJpRFVa5P2TF8xUjnlicAFL7d8ki5qzZnA5WHPAj8A-VafrDFcwE8ECk94oM7ukGQ-irMoI9G0V9iXiV3l7NxdGTEgItMKcSqPtsYB5lFWu3VC9Zzdi_mYsdJNT_Zc6qIuEF2O1CaxKoXnmf1_lqVTY5wcJe5B-2qPrM--h-ug=&amp;c=oFOkjC4Yo6aGZqaMxbwip6yDV6jFWENllJdKoim6IXWUtTbJetVKXQ==&amp;ch=f3g2jC6hHPS1cyYQRu5bxhv2LZu9xMfrHsXr2Vb-Pe05LHq4G6SD3g==\" rel=\"noopener noreferrer\" target=\"_blank\">PCORI\u2019s website<\/a>.<\/p>\r\n\r\n<p>\ufeff<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Make sure the voices of palliative care researchers are heard"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

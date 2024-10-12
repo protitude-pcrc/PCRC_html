@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "2086372e-d790-4dbf-8fe9-46ff0b43ebd2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-09-15T19:33:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "title": [
+        {
+            "value": "IMPACT Collaboratory Training Workshop Jan 25-26th, 2023"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-09-15T18:54:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-09-15T19:33:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/impact-collaboratory-training-workshop-jan-25-26th-2023",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h4><em><b>Building Skills to Conduct Embedded Pragmatic Clinical Trials (ePCTs) among People Living with Dementia (PLWD) and their Care Partners<\/b><\/em><\/h4>\r\n\r\n<h5><strong>Wednesday January 25th, 2023 11am-3:30pm ET <\/strong><\/h5>\r\n\r\n<h5><strong>Thursday January 26th, 2023 11am-5pm ET<\/strong><\/h5>\r\n\r\n<h6>Application deadline:<strong> October 21, 2022<\/strong><\/h6>\r\n\r\n<p>[button url=\"https:\/\/app.smartsheet.com\/b\/form\/3673a354f6604ab3903077174aa9a091\" size=\"\" color=\"blue\" target=\"_blank\"]Apply Here![\/button]<\/p>\r\n\r\n<p>This 1.5-day virtual workshop features <u>all new material<\/u> to build a foundation in practical aspects of designing and conducting ePCTs in Alzheimer\u2019s disease (AD) and AD-related dementias (ADRD). The workshop will include a combination of activities including: panel discussions, small group sessions, and networking opportunities with experts in the field.&nbsp;<br \/>\r\n&nbsp;<\/p>\r\n\r\n<p>Early to mid-stage researchers wanting to develop competence in designing and conducting ePCTs of non-pharmacological interventions embedded in health care systems for PLWD and care partners are encouraged to apply.<br \/>\r\nUpon completion of the workshop, participants will be able to:<\/p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-size:12pt\">Transmit knowledge about designing and conducting ePCTs among PLWD and care partners in health care systems that integrates considerations related to identifying PLWD and ascertaining pragmatic outcomes<\/span><\/li>\r\n\t<li><span style=\"font-size:12pt\">Problem-solve common challenges in designing and conducting ePCTs for PLWD and care partners<\/span><\/li>\r\n<\/ul>\r\n\r\n<p><span style=\"font-size:12pt\">Apply the acquired knowledge to move their current and future research in ePCTs forward, including applying for competitive funding.<\/span><\/p>\r\n\r\n<p><span style=\"font-size:12pt\"><b>Eligibility Criteria:<\/b><\/span><\/p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-size:12pt\">Applicants should have an MD, PhD, or equivalent research degree<\/span><\/li>\r\n\t<li><span style=\"font-size:12pt\">Hold a full-time position at an academic or research organization in the United States &nbsp;<\/span><\/li>\r\n\t<li><span style=\"font-size:12pt\">Early-stage investigators pursuing careers conducting ePCTs in AD\/ADRD<\/span><\/li>\r\n\t<li><span style=\"font-size:12pt\">Mid-career investigators seeking to pursue research on ePCTs in AD\/ADRD<\/span><\/li>\r\n<\/ul>\r\n\r\n<p><i><span style=\"font-size:12.0pt\">Individuals from underrepresented racial and ethnic groups as well as individuals with disabilities are encouraged to apply.<\/span><\/i><\/p>\r\n\r\n<p><i><span style=\"font-size:12.0pt\"><strong>Questions?<\/strong> <\/span><\/i><span style=\"font-size:12.0pt\">Contact&nbsp;Elaine Bergman, IMPACT Communications Lead at&nbsp;<\/span><a href=\"mailto:elainebergman@hsl.harvard.edu\" style=\"color:#0563c1; text-decoration:underline\">elainebergman@hsl.harvard.edu<\/a><\/p>\r\n\r\n<p><span style=\"font-size:12.0pt\">For more information and to apply now, visit <a href=\"https:\/\/bit.ly\/3BIwDvr\" rel=\"noopener\" target=\"_blank\">HERE<\/a><\/span><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "The NIA IMPACT Collaboratory's 3rd Annual Training Workshop Jan 25-26th, 2023"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

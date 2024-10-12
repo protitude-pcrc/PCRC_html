@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1f0100c3-322c-498a-b2f5-82320dffe3b3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b8871033-2785-4681-ada3-2f673797ba48"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-34-january-2019"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

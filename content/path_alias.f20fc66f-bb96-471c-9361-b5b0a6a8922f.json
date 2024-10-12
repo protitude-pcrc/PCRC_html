@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f20fc66f-bb96-471c-9361-b5b0a6a8922f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/9f031c55-b0cd-4b7b-9e6e-e8300e3d809a"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-11-january-2015"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

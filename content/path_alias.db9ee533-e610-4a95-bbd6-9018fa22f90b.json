@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "db9ee533-e610-4a95-bbd6-9018fa22f90b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/a6947630-813e-46fb-a270-12fc30e18715"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/roguejapanese"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

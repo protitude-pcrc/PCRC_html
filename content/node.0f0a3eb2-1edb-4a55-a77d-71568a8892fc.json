@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "0f0a3eb2-1edb-4a55-a77d-71568a8892fc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-12-08T17:38:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "title": [
+        {
+            "value": "Call for manuscript submissions: Cancers Special Issue - Deadline: Aug 1, 2023"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-12-08T17:17:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-12-08T17:38:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/call-manuscript-submissions-cancers-special-issue-deadline-aug-1-2023",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The journal&nbsp;<em>Cancers<\/em>&nbsp;is inviting manuscript submissions to a special issue entitled&nbsp;<strong>\"New Insights and Future Directions in Palliative Care across the Cancer Continuum\"<\/strong>.<\/p>\r\n\r\n<p><em>Cancers<\/em>&nbsp;(ISSN 2072-6694) is an Open Access Journal by MDPI with an impact factor of 6.575 and is supported by an international editorial board consisting of a distinguished team of cancer researchers from major institutions around the world.<\/p>\r\n\r\n<p>The final deadline for submissions is&nbsp;<strong>August 1, 2023<\/strong>. Papers will be published on an ongoing basis.<\/p>\r\n\r\n<p>To access the call for submissions, click <a href=\"https:\/\/www.mdpi.com\/journal\/cancers\/special_issues\/58Q866WPU3\" rel=\"noopener\" target=\"_blank\"><strong>HERE<\/strong><\/a><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Invitation to Submit to Cancers | Special Issue : New Insights and Future Directions in Palliative Care across the Cancer Continuum"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

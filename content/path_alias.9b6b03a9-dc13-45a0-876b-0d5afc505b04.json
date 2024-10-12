@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "9b6b03a9-dc13-45a0-876b-0d5afc505b04"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/ee5d1c98-310f-480a-97d7-790afcb040c9"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/2020-pcrc-pilot-award-program"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

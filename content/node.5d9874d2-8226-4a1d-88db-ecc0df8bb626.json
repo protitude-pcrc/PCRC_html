@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "5d9874d2-8226-4a1d-88db-ecc0df8bb626"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-02-16T21:30:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "NINR 2021 National Nursing Research Roundtable"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-02-16T21:26:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-02-16T21:30:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/ninr-2021-national-nursing-research-roundtable",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Join the National Institute of Nursing Research (NINR) and the Western Institute of Nursing (WIN) on March 4-5 for the 2021 National Nursing Research Roundtable (NNRR).<\/p>\r\n\r\n<p>The virtual meeting, titled&nbsp;<strong>\u201cNursing Research of the Future: Using Clinical Big Data to Explore Health Inequities and Social Determinants of Health,\u201d<\/strong>&nbsp;will bring together individuals representing member organizations \u2014 nurse scientists, practitioners, and educators to learn about recent research findings aimed at strengthening nursing practice and improving client outcomes.<\/p>\r\n\r\n<p>For more information please use this link:&nbsp;&nbsp;<a href=\"https:\/\/www.ninr.nih.gov\/newsandinformation\/events\/nnrr2021\">https:\/\/www.ninr.nih.gov\/newsandinformation\/events\/nnrr2021<\/a><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "NINR 2021 National Nursing Research Roundtable"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "5a659c2a-937e-4c5c-beac-c0199063b93e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1fd005bc-009c-4a2a-92f1-4b95cce9d159"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/about\/where-our-members-are-located"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

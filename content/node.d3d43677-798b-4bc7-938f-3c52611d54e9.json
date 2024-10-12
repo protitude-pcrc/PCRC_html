@@ -1,0 +1,91 @@
+{
+    "uuid": [
+        {
+            "value": "d3d43677-798b-4bc7-938f-3c52611d54e9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-07-06T16:15:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "NINR R21 FAQs"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-09-04T04:33:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-07-06T16:15:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/ninr-r21-faqs",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><strong>Frequently Asked Questions related to the FOA Exploratory Multi-\u00ad\u2010site Palliative Care Research Utilizing the PCRC: PAR-15-337 <\/strong><\/p>\r\n\r\n<p><strong><em>I<\/em><\/strong><strong><em> am interested in applying for the FOA, what do I need to do? <\/em><\/strong>First, we recommend you contact the NINR Program Officer, Dr. Karen Kehl (karen.kehl@nih.gov) to discuss your topic. After your discussion with her, she will connect you with the PCRC to submit a PCRC Letter of Intent (LOI) for review.<\/p>\r\n\r\n<p><strong><em>W<\/em><\/strong><strong><em>hat is the purpose of the PCRC Letter of Intent (LOI)? <\/em><\/strong>There are several purposes of the PCRC LOI review process: 1)&nbsp;&nbsp;&nbsp; Informs the PCRC\u2019s letter of support for your grant proposal, enhancing the ability of the PCRC to demonstrate in its LOI the extent of collaboration with the PCRC. 2)&nbsp;&nbsp;&nbsp; Provides an opportunity for scientific feedback from experts in the field. 3)&nbsp;&nbsp;&nbsp; Assures feasibility of your study within the PCRC infrastructure. 4)&nbsp;&nbsp;&nbsp; Identifies PCRC resources that may be of potential benefit for your study.<\/p>\r\n\r\n<p><strong><em>W<\/em><\/strong><strong><em>hat would be most helpful to assist the PCRC creating the strongest letter of support for my grant? <\/em><\/strong>The more information that you can provide about your proposed project the better. Ideally, the PCRC will receive a draft version of your full grant proposal to inform the PCRC Letter of Support.<\/p>\r\n\r\n<p><strong><em>W<\/em><\/strong><strong><em>hat tips do you have for me as principal investigator? <\/em><\/strong>Please make sure that you pay careful attention to the details of the FOA, particularly: 1)&nbsp;&nbsp;&nbsp; How your proposed project addressed gaps in the science regarding diversity in end of life and palliative care. 2)&nbsp;&nbsp;&nbsp; The requirement of having an interdisciplinary research team that includes a nurse scientist. 3)&nbsp;&nbsp;&nbsp; How this study will lead to future multi-\u00ad\u2010site research focused on end of life and palliative care science.<\/p>\r\n\r\n<p><strong><em>W<\/em><\/strong><strong><em>hat is the relationship between the PCRC Scientific Review and the NIH Scientific Review? <\/em><\/strong>The PCRC review is completely independent of NIH\u2019s scientific review.<\/p>\r\n\r\n<p><strong><em>How long will<\/em><\/strong><strong><em> the PCRC review take? &nbsp; <\/em><\/strong>The PCRC is reviewing LOIs on a rolling basis. Please allow 21 days for review and feedback.<\/p>\r\n\r\n<p><strong><em>W<\/em><\/strong><strong><em>hile my LOI is being reviewed by the PCRC and I am awaiting feedback, should I go ahead and work on my full application for NINR? <\/em><\/strong>Yes, please continue to work on your full application while your LOI is undergoing PCRC review. The PCRC will be in contact with you during the review period with feedback, information on site selection and budgetary planning details.<\/p>\r\n\r\n<p><strong><em>The FOA states that the Principal Investigators are responsible for identifying a primary site. Does this site need to be a PCRC site? <\/em><\/strong>No, the primary site does not need to be a PCRC site. Per the FOA, it is recommended that investigators choose one primary study site and collaborate with the PCRC to select additional site(s) to meet the investigators\u2019 goals for population diversity, including, but not limited to ethnic, cultural, linguistic, or geographic diversity.<\/p>\r\n\r\n<p><strong><em>How does the PCRC help me identify sites?<\/em><\/strong>Because your LOI has provided the PCRC with a general idea of what will be needed from study sites, including your sample population, the PCRC will facilitate contact between you and PCRC sites that are likely to be a good fit for your proposal. The PCRC will work directly with you to assure that relevant sites are identified. If you are interested in getting a general idea of the current PCRC sites, this information is available on the PCRC website: <a href=\"http:\/\/palliativecareresearch.org\/members\/org-\u00ad\u2010leads\/\">http:\/\/palliativecareresearch.org\/members\/org-\u00ad\u2010leads\/<\/a><\/p>\r\n\r\n<p><strong><em>What happens after I select the sites for my project?<\/em><\/strong>After you have selected your study sites, and they agree to supply you with a Letter of Support for your grant, you must provide the names of: the sites, Site PI(s), and the Site Grants Manager to PCRC Operations (molly.gavigan@duke.edu) to facilitate finalizing the components of the PCRC grant support information that will be provided to you.<\/p>\r\n\r\n<p><strong><em>How should I budget for site-\u00ad\u2010based participant enrollment?<\/em><\/strong>The PCRC will work with you to calculate site-\u00ad\u2010based participant payments based on the complexity of your study.<\/p>\r\n\r\n<p><strong><em>Do I need to budget for use of PCRC Core resources?<\/em><\/strong>Brief consultation with PCRC Cores (i.e., Caregiver, Measurement, Clinical Studies, Data Informatics and Statistics) in preparation for your grant proposal submission is supported by the PCRC infrastructure grant (U24). If you wish to utilize any of the PCRC Core resources more extensively in conduct of your study, then you will need to include this in your grant budget. The PCRC is happy to work with you regarding use of PCRC Cores in conduct of your study.<\/p>\r\n\r\n<p><strong><em>Will part of the budget go to PCRC operations?<\/em><\/strong>Yes, a small portion of the budget goes to the PCRC Project Coordinating Center (PCC) in order to support study operations and coordination (e.g. site management and training, site payments, standardization of study procedures across sites, data quality assurance, etc.).<\/p>\r\n\r\n<p><strong><em>How do I find out about PCRC Core Data Elements?<\/em><\/strong>Please go to the PCRC website (<a href=\"http:\/\/palliativecareresearch.org\/corescenters\/disc\/data\/)\">http:\/\/palliativecareresearch.org\/corescenters\/disc\/data\/).<\/a> For additional information, contact Antonia Bennett from the PCRC Measurement Core (<a href=\"http:\/\/palliativecareresearch.org\/corescenters\/measurement-core\/\">http:\/\/palliativecareresearch.org\/corescenters\/measurement-\u00ad\u2010<\/a> core\/ )<\/p>\r\n\r\n<p><strong>You may download a copy of these FAQs for your reference here:<\/strong> &nbsp;<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

@@ -1,0 +1,110 @@
+{
+    "uuid": [
+        {
+            "value": "f416faa1-7b95-4766-bdea-21002bbe9e1e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-02-14T20:01:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "PCRC Webinar Series: Statistical Considerations in Randomized Control Trial (RCT) Design"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-02-06T18:19:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-02-14T20:01:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/pcrc-webinar-series-statistical-considerations-randomized-control-trial-rct-design",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<center>\r\n<h2>The PCRC Investigator Development Center (IDC) Webinar Series presents:<\/h2>\r\n\r\n<h3>\"Statistical Considerations in Randomized Control Trial (RCT) Design\"<\/h3>\r\n<\/center>\r\n\r\n<p><strong>Host: <\/strong>Gregory Samsa, PhD will be leading the February webinar, titled: <strong>Statistical Considerations in Randomized Control Trial (RCT) Design.&nbsp;<\/strong>Dr. Samsa is an Associate Professor of Biostatistics and Bioinformatics and Assistant Professor in Medicine at Duke University.<\/p>\r\n\r\n<p><strong>When:<\/strong> Wednesday, February 13<sup><span style=\"font-size: 12.5px;\">th<\/span><\/sup>, 2019 at 4:00pm Eastern Time<\/p>\r\n\r\n<p><strong>Registration Required:<\/strong> Click below to register!<\/p>\r\n\r\n<center>[button url=\"https:\/\/ucsf.zoom.us\/webinar\/register\/f2d30e16adf2c2af4ac87b605f06faf5\" color =\"blue\" size=\"large\" target=\"_blank\"]Register Now![\/button]<\/center>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<center>[button url=\"\/research\/investigator-support-information\/idc-webinar-series\" color=\"orange\" target=\"_blank\"]View Previously Presented and Recorded Webinars[\/button]<\/center>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Wednesday, February 13th, 4:00pm ET"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "79f19229-97ab-4374-b750-70a60097eb51"
+        }
+    ]
+}

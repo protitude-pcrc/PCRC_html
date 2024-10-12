@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "12a41675-6fed-4b73-9ad7-12a5b364647d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-09-23T17:39:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "NIH Notice of Special Interest (NOSI): Advancing the Science of Geriatric Palliative Care"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-09-23T17:33:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-09-23T17:39:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/nih-notice-special-interest-nosi-advancing-science-geriatric-palliative-care",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><b>Notice of Special Interest (NOSI): Advancing the Science of Geriatric Palliative Care<\/b><\/p>\r\n\r\n<p><u>Sponsor Name<\/u>: National Institutes of Health\/DHHS<\/p>\r\n\r\n<p>Funding Opportunity Number:&nbsp;NOT-AG-20-041<\/p>\r\n\r\n<p>Deadline Dates:&nbsp;This notice applies to due dates on or after October 5, 2020 and subsequent receipt dates through September 8, 2023.&nbsp;<\/p>\r\n\r\n<p><b>Program Objectives<\/b><\/p>\r\n\r\n<p>This Notice of Special Interest (NOSI) encourages research grant applications focused on palliative care in geriatric populations. This NOSI covers studies in a variety of settings including hospitals (and specific sites within hospitals including specialty medical or surgical wards, intensive care units, and emergency departments), post-acute care settings, outpatient clinics and doctors' offices, patients' homes and other residential settings, long-term care facilities, hospices, and other healthcare or community settings. This NOSI encourages both prospective studies and analyses of existing datasets, health and medical records, claims data, or other sources. Leveraging ongoing cohorts, intervention studies, networks, data and specimen repositories, and other existing research resources and infrastructure is encouraged. Study designs may include observational approaches, quasi-experimental designs, and interventional studies.<\/p>\r\n\r\n<p>\ufeff<b>Scope<\/b><\/p>\r\n\r\n<p>This Notice of Special Interest (NOSI) encourages research grant applications focused on palliative care in geriatric populations. This NOSI covers studies in a variety of settings including hospitals (and specific sites within hospitals including specialty medical or surgical wards, intensive care units, and emergency departments), post-acute care settings, outpatient clinics and doctors' offices, patients' homes and other residential settings, long-term care facilities, hospices, and other healthcare or community settings. This NOSI encourages both prospective studies and analyses of existing datasets, health and medical records, claims data, or other sources. Leveraging ongoing cohorts, intervention studies, networks, data and specimen repositories, and other existing research resources and infrastructure is encouraged. Study designs may include observational approaches, quasi-experimental designs, and interventional studies.<\/p>\r\n\r\n<p>For more information:&nbsp;<a href=\"https:\/\/grants.nih.gov\/grants\/guide\/notice-files\/NOT-AG-20-041.html\">https:\/\/grants.nih.gov\/grants\/guide\/notice-files\/NOT-AG-20-041.html<\/a><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Funding Opportunity"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

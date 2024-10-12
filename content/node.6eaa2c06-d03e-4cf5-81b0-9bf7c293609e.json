@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "6eaa2c06-d03e-4cf5-81b0-9bf7c293609e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-06-14T17:48:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5f686ebb-b50d-407c-8038-e50304f18bef"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "The Nursing and Related Clinical Sciences (NRCS) study section is changing!"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-05-23T13:30:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-06-14T17:48:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/nursing-and-related-clinical-sciences-nrcs-study-section-changing",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Over the past few years, we have handled the large number of applications by reviewing some of the applications in an overflow standing special emphasis panel (ZRG1 NRCS-V 08).&nbsp; We are happy to announce that we have established a second study section, and will begin running two separate study sections beginning with the June and July 2018 application deadlines.<\/p>\r\n\r\n<p>NRCS will review applications focused on the clinical management of patients in varied institutional and specialty care settings including patients residing at home but receiving active treatment, and families served by certified hospice care. The new study section, <em>Clinical Management of Patients in Community-based settings (CMPC)<\/em> will review applications where the patients or their caregivers are engaged in self-management in the home or are cared for in primary\/community care settings. Each study section will have its own membership roster with expertise for the specific study section represented.<\/p>\r\n\r\n<h4>Where will my application be reviewed?<\/h4>\r\n\r\n<p>Applications are assigned to a study section based on the science proposed.<\/p>\r\n\r\n<p>The (new) <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__public.csr.nih.gov_StudySections_IntegratedReviewGroups_HDMIRG_NRCS_Pages_default.aspx&amp;d=DwMGaQ&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=3H3wSz_YLPzSkTZiQ6dZ8vNoqJHY38p-140synielEM&amp;s=oApDlqxmmMKQkFcHuKflYC8lWz4b-8GiusFhuXytdhY&amp;e=\" target=\"_blank\">Nursing and Related Clinical Sciences (NRCS)<\/a> study section will review applications addressing the clinical management of patients. Studies should have clear patient care implications or be closely associated with clinical practice. The focus of applications is on treatment that occurs in varied institutional and specialty care settings, including but not limited to hospital, nursing home, rehabilitation or long-term care facilities, ambulatory chemotherapy or infusion centers or ambulatory surgery centers, as well as patients living at home who are coping with symptoms associated with active treatment or hospice care.<\/p>\r\n\r\n<p>Examples of patient-care oriented disciplines that may be reviewed in the study section include, but are not limited to nursing, medicine, pharmacy, palliative care and rehabilitative therapies. Applications that use animal models or aim to explain the underlying pathophysiology of disease are excluded.<\/p>\r\n\r\n<p>The<b> <\/b><a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__public.csr.nih.gov_StudySections_IntegratedReviewGroups_HDMIRG_CMPC_Pages_default.aspx&amp;d=DwMGaQ&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=3H3wSz_YLPzSkTZiQ6dZ8vNoqJHY38p-140synielEM&amp;s=LnypkIx0bjURhlyeaRHuBS4KJeLMuv81yz9TOBK_YhU&amp;e=\" target=\"_blank\">Clinical Management of Patients in Community-based settings (CMPC)<\/a> study section will review applications addressing the clinical management of patients in community, primary care and home-based settings.&nbsp; Areas of emphasis include support for patient self-management of chronic conditions, improving quality of life for patients and caregivers of the chronically ill, survivorship care after treatment, and home care for patients with chronic or episodic illness.<\/p>\r\n\r\n<p>Applications may include disciplines such as nursing, medicine, social work, pharmacy, health psychology, and rehabilitative therapies. Applications that use animal models, large population-based datasets, or aim to explain the underlying pathophysiology of disease are excluded.<\/p>\r\n\r\n<h4>When will this start?<\/h4>\r\n\r\n<p>Applications submitted for the June and July 2018 receipt dates (to be reviewed in September and October) and thereafter will be assigned to either NRCS or CMPC.&nbsp;<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "The number of grant applications submitted to NIH and reviewed by the Nursing and Related Clinical Sciences (NRCS) study section has significantly increased beyond the capacity of a single study section."
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "250b70de-e5ea-47cf-bad2-86f02776e43c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/5ca20fae-47bd-446f-b387-09738c096ceb"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/nohpng"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

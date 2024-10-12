@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "3ad198bb-84a9-431d-9c53-dbe7edeac446"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/68d19b8d-d7bd-4f74-9586-0b99a49c0ff6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/person2png"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

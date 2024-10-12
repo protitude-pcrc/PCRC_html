@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f747c62f-bb7f-4757-97f1-0a46d58b0cd8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/aed0b063-b30c-4e1b-a3b9-639437931440"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/nih-notice-intent-publish-foa-heal-initiative"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

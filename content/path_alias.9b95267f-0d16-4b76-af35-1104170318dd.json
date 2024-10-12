@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "9b95267f-0d16-4b76-af35-1104170318dd"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f4a76620-80ea-4185-84c1-0b36de9845a1"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-29-february-2018"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

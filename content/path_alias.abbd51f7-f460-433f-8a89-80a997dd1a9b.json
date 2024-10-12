@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "abbd51f7-f460-433f-8a89-80a997dd1a9b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/6b92185a-d1c6-488c-bfca-81e8e6969e32"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/pcrc-special-interest-groups"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

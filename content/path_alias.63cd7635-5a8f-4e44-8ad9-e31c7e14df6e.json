@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "63cd7635-5a8f-4e44-8ad9-e31c7e14df6e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b5e37ca5-c18f-43aa-9d86-e93693b6b35f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-22-december-2016"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

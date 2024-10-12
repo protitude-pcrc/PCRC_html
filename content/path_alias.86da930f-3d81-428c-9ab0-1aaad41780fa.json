@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "86da930f-3d81-428c-9ab0-1aaad41780fa"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/362ef7d7-f329-4f59-8fd8-cb9900ef7e36"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/rreyes"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

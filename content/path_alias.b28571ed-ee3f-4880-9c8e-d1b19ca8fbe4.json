@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b28571ed-ee3f-4880-9c8e-d1b19ca8fbe4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/f8d0a44c-8068-49b5-9b89-9c6254b77fcc"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/dgrossoehme"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

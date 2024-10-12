@@ -1,0 +1,91 @@
+{
+    "uid": [
+        {
+            "value": 294
+        }
+    ],
+    "uuid": [
+        {
+            "value": "e8b360f3-559e-46e6-ba89-24c3bf1017c9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "kevin.reynen"
+        }
+    ],
+    "mail": [
+        {
+            "value": "user+294@localhost.localdomain"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-05-31T18:12:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-08-08T22:27:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/user\/kevinreynen",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_affiliation": [
+        []
+    ],
+    "field_are_you_a_pcrc_member_": [
+        {
+            "value": "no"
+        }
+    ],
+    "field_first_name": [
+        {
+            "value": "Aliquam antehabeo dignissim eum fere jumentum secundum tego verto vindico"
+        }
+    ],
+    "field_last_name": [
+        {
+            "value": "Abdo dignissim facilisi fere nutus olim. Abico dolore elit inhibeo pagus suscipit. Diam iusto iustum neo probo sed sino. Abbas caecus defui eligo nisl pala pertineo probo saepius. Ibidem interdico mos oppeto pecus vel."
+        }
+    ],
+    "user_picture": []
+}

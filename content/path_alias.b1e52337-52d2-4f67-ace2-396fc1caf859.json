@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b1e52337-52d2-4f67-ace2-396fc1caf859"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/6c9e846c-2c33-4c49-830e-4ec1d0b3a6f6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/may-2016-clinical-trials-intensive-applications-closed"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

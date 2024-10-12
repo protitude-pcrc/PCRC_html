@@ -1,0 +1,221 @@
+{
+    "uuid": [
+        {
+            "value": "88f8b0ec-42c9-4331-8ae8-cf594309b9cb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-09T14:08:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "title": [
+        {
+            "value": "Understanding The Perspectives Of Palliative Care And Advance Care Planning In Patients With Pulmonary Arterial Hypertension And The Physicians Caring For Them"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-09T14:03:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-09T14:08:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/study\/understanding-perspectives-palliative-care-and-advance-care-planning-patients-pulmonary",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [],
+    "field_approved_data_requests": [],
+    "field_award_number": [],
+    "field_condition_studied": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "803a3554-cc4c-4711-994d-88eabf42517d"
+        }
+    ],
+    "field_csr_summary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "ccf90d3d-0e3d-4c4b-8f0b-04962a64498b"
+        }
+    ],
+    "field_data_dictionary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "cce1c79b-e14d-465c-af5d-a43acea4db5d"
+        }
+    ],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a801317c-42e4-4a02-af5c-078b6ddadb0f"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Understanding The Perspectives Of Palliative Care And Advance Care Planning In Patients With Pulmonary Arterial Hypertension And The Physicians Caring For Them"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "30"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": false
+        }
+    ],
+    "field_nct_link_field": [],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d7cd26a3-2482-49da-b75d-bdd120b563ae"
+        }
+    ],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        }
+    ],
+    "field_participant_ethnicity_coll": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9f0a5f93-b890-438b-98ad-b040ae3e46e3"
+        }
+    ],
+    "field_participant_race": [],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "33bd24d1-a052-426d-b433-ee5c51a93ff7"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bb33a50f-e9de-47ae-80e4-5167ef2b0d2f"
+        }
+    ],
+    "field_pcrc_study_num": [
+        {
+            "value": "16-08"
+        }
+    ],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/pubmed.ncbi.nlm.nih.gov\/36521765\/",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [],
+    "field_study_design": [],
+    "field_study_pi": [
+        {
+            "value": "Crystal E. Brown"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "University of Washington"
+        }
+    ],
+    "field_study_setting": [],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "89b177d7-1afa-4d2b-bb5a-199a38866463"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<h4>Objective:&nbsp;<\/h4>\r\n\r\n<p><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">Use qualitative research methods to understand patient- and physician-perceived barriers and facilitators to implementation of palliative care and advance care planning for patients with PAH.<\/span><\/span><\/p>\r\n\r\n<h3><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">Methodology:&nbsp;<\/span><\/span><\/h3>\r\n\r\n<p><span style=\"font-size:12pt\"><span style=\"font-family:Cambria,serif\"><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">Prior to each patient interview, I will ask each participant to complete a short questionnaire about barriers and facilitators to advance care planning and end-of-life discussions.&nbsp; This questionnaire was developed by my mentors to examine barriers and facilitators to discussing advance care planning in patients with serious illnesses such as AIDS, cancer, and COPD.&nbsp; They found that, although barriers and facilitators to communication about end-of-life care were highly individual, many patients reported wanting to discuss end-of-life care with their physicians and, even those who did not, acknowledged the value of such discussions.&nbsp; In an additional qualitative study of patients with advanced cancer or COPD, patients provided insights into how these barriers and facilitators could be addressed to enhance communication about end-of-life care.<\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span style=\"font-size:12pt\"><span style=\"font-family:Cambria,serif\"><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">Semi-structured interviews are an appropriate method for identifying, describing and understanding experiences that have not been previously reported.&nbsp; This method allows interview participants to express their opinions on sensitive issues such as end-of-life preferences and advance care planning.&nbsp; For Aim 1, I will focus on patient perspectives on the following: a) symptom burden; b) understanding of palliative care, including what constitutes palliative care and when is it helpful or appropriate; c) attitudes towards and experiences with advance care planning; and d) barriers or concerns to receiving palliative care, including any patient-perceived disparities associated with socio-economic status, health literacy, and medical decision making about medical therapies, including lung transplantation.&nbsp; For Specific Aim 2, I will focus on physician perspectives on the implementation of palliative care and advance care planning for patients with PAH including:&nbsp; a) understanding palliative care and perceived timing of appropriateness of referral and implementation; b) attitudes toward and experiences with advance care planning; c) barriers or concerns to initiating palliative care; and d) perspectives on differences in palliative care for patients of different socioeconomic status and race\/ethnicity.&nbsp; <\/span><\/span><\/span><\/span><\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [],
+    "field_therapeutic_area": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c423d9a8-677d-45f4-981e-143fb7f7106a"
+        }
+    ],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4d3f370c-c53a-4fa5-b976-8e7d7eab9dc9"
+        }
+    ]
+}

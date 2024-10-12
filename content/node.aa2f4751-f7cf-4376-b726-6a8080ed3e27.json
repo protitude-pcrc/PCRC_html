@@ -1,0 +1,99 @@
+{
+    "uuid": [
+        {
+            "value": "aa2f4751-f7cf-4376-b726-6a8080ed3e27"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-04-26T16:38:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Investigator Development Center (IDC)"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-06-26T18:55:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-04-26T16:38:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/corescenters\/investigator-development-center-idc",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h3>Center Leadership:<\/h3>\r\n\r\n<drupal-entity alt=\"Christine Ritchie\" data-embed-button=\"image_browser\" data-entity-embed-display=\"image:linked_responsive_image\" data-entity-embed-display-settings=\"{&quot;responsive_image_style&quot;:&quot;original&quot;,&quot;image_link&quot;:&quot;&quot;,&quot;link_uri&quot;:&quot;&quot;}\" data-entity-type=\"file\" data-entity-uuid=\"1b7a448f-7f7b-4416-b23b-17fa43a9ce21\" data-langcode=\"en\"><\/drupal-entity>\r\n\r\n<p><em><a href=\"mailto:CSRITCHIE@mgh.harvard.edu\" target=\"_blank\">Christine Ritchie, MD, MSPH<\/a><\/em><\/p>\r\n\r\n<p>The PCRC Investigator Development Center (IDC) focuses on offering practical guidance and strategies to investigators on their career and study development through the use of mentorship, training, didactics, and palliative care research intensives.<\/p>\r\n\r\n<p>[toggle]<\/p>\r\n\r\n<p>[toggle-item title = \"Webinar Series\"]<\/p>\r\n\r\n<p>The Investigator Development Center&nbsp;offers a monthly webinar series focused on key palliative care research topics. Click below to see the schedule of upcoming webinars and to watch or download slides from previous webinars.<\/p>\r\n\r\n<p>[button url=\"\/node\/527\" size=\"\" color=\"blue\"]View Webinars[\/button]<\/p>\r\n\r\n<p>[\/toggle-item]<\/p>\r\n\r\n<p>[toggle-item title = \"Palliative Care Mentorship Training Course\"]<\/p>\r\n\r\n<p>The&nbsp;Mentorship Selective is a six-week&nbsp;longitudinal training course that seeks&nbsp;to foster a culture of mentoring by supporting mid-level and senior palliative care investigators in further developing their mentoring skills to successfully draw new investigators into palliative care research.<\/p>\r\n\r\n<p>Instruction covers mentoring topics including maintaining effective communication, aligning expectations, assessing understanding, addressing equity and inclusion, fostering independence, and promoting professional development.&nbsp;Click below to learn more about the course.<\/p>\r\n\r\n<p>[button url=\"\/research\/investigator-support-information\/mentorship-selective\" size=\"\" color=\"orange\"]View More Detail[\/button]<\/p>\r\n\r\n<p>[\/toggle-item]<\/p>\r\n\r\n<p>[toggle-item title = \"Palliative Care Intensives in Clinical Trials\"]<\/p>\r\n\r\n<p>Clinical Trials Intensive trainings provide a foundation in practical aspects involving the conduct of randomized clinical trials in palliative care.&nbsp; They are designed for early career researchers or other mid-career researchers and health professionals interested in developing competence in the planning, design, and execution of randomized clinical trials.<\/p>\r\n\r\n<p>Instruction&nbsp;includes a combination of focused lectures, demonstrations, individual and group consultations with experts in the field, and small group work. Click below to learn more about the curriculum.<\/p>\r\n\r\n<p>[button url=\"\/node\/543\" size=\"\" color=\"green\"]View More Detail[\/button]<\/p>\r\n\r\n<p>[\/toggle-item]<\/p>\r\n\r\n<p>[toggle-item title = \"<span><span>Special Interest Groups<\/span><\/span>\"]<\/p>\r\n\r\n<p>The Investigator Development Center offers Special Interest Groups (SIGs) to link PCRC investigators who are interested in collaborating around palliative care research topics. The goal is to connect researchers with similar interests to create communities for collaborating and networking, problem-solving, and sharing resources.<\/p>\r\n\r\n<p>We currently offer SIGs for the following palliative care topics:<\/p>\r\n\r\n<ul>\r\n\t<li>Early Career Investigators<\/li>\r\n\t<li>Renal Disease<\/li>\r\n\t<li>Heart Failure<\/li>\r\n\t<li>Digital Health<\/li>\r\n\t<li>Chronic Pain and Serious Illness<\/li>\r\n\t<li>Health Equity and Anti-Racism<\/li>\r\n\t<li>Spirituality and Religion<\/li>\r\n\t<li>Liver Disease<\/li>\r\n\t<li>Implementation Science<\/li>\r\n<\/ul>\r\n\r\n<p>PCRC members can sign up for SIGs of interest.&nbsp; We host the SIGs via Google groups.<\/p>\r\n\r\n<p>[button url=\"\/node\/1594\" size=\"\" color=\"blue\"]View More Detail[\/button]<\/p>\r\n\r\n<p>[\/toggle-item]<\/p>\r\n\r\n<p>[toggle-item title = \"<span><span>Additional Resources<\/span><\/span>\"]<\/p>\r\n\r\n<p>The Investigator Development Center offers a number of other PCRC resources and links to outside resources to support palliative care investigators.&nbsp;&nbsp;<\/p>\r\n\r\n<p><strong>Resources for Conducting&nbsp;Research<\/strong><\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/v\/PCRC-Protocol-Instructions\" target=\"_blank\">PCRC Protocol Guidelines<\/a><\/li>\r\n\t<li><a href=\"node\/496\">Training Videos<\/a>&nbsp;on recruiting research participants and obtaining consent<\/li>\r\n\t<li><a href=\"\/sites\/default\/files\/migrated_files\/PCRC_CRChandbookV1_Distributed.docx\" target=\"_blank\">Clinical Research Coordinator (CRC) Handbook<\/a><\/li>\r\n<\/ul>\r\n\r\n<p><strong>Resources for Grant Development<\/strong><\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/publicaccess.nih.gov\/\" target=\"_blank\">Complying with the NIH Open Access Policy<\/a> (making a publication PubMed Central (PMC)-compliant)<\/li>\r\n\t<li><a href=\"\/sites\/default\/files\/migrated_files\/PCRC_Grant_Resource_for_Protection_of_Human_Subjects1.pdf\" target=\"_blank\">PCRC Grant Resource for Protection of Human Subjects<\/a><\/li>\r\n<\/ul>\r\n\r\n<p>[\/toggle-item]<\/p>\r\n\r\n<p>[\/toggle]<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": [
+        {
+            "value": "Focusing on offering practical guidance and strategies to investigators on their career and study development."
+        }
+    ]
+}

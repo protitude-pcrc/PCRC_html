@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "6b92185a-d1c6-488c-bfca-81e8e6969e32"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "PCRC Special Interest Groups"
+        }
+    ],
+    "created": [
+        {
+            "value": "2016-04-26T23:13:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2016-04-26T23:13:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/pcrc-special-interest-groups",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "The Investigator Development Center is organizing Special Interest Groups (SIGs) to link PCRC investigators who are interested in collaborating around palliative care research topics. The goal is to connect researchers with similar interests to create communities for collaborating and networking, problem-solving, and sharing resources.\u00a0 Sign up for the current SIGs <a href=\"https:\/\/groups.google.com\/forum\/#!forumsearch\/pcrc$20special$20interest$20group\" target=\"_blank\"><strong>here<\/strong><\/a>. \r\nTo express interest in the creation of a new SIG, PCRC members can click <a href=\"https:\/\/ucsf.co1.qualtrics.com\/jfe\/form\/SV_0IieChQox7CGGSV\" target=\"_blank\"><strong>here<\/strong><\/a> to weigh in on topics.\u00a0  ",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

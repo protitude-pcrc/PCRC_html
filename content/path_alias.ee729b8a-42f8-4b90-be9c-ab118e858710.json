@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ee729b8a-42f8-4b90-be9c-ab118e858710"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/5885739d-2ade-4d24-9552-f0e18b092649"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/alexandria"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

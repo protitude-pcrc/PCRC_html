@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "f1af0086-3ca4-4c8e-b559-e968642a75b1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-10-21T19:33:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "NCI: Future of Cancer Health Economics"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-10-21T19:23:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-10-21T19:33:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/nci-future-cancer-health-economics",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Register at <a href=\"cancercontrol.cancer.gov\">Cancercontrol.cancer.gov<\/a><\/p>\r\n\r\n<p class=\"MsoBodyText\" style=\"text-align:start; margin-right:19px; margin-bottom:8px; margin-left:27px\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial, sans-serif\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"color:#333333\"><span style=\"letter-spacing:1pt\">Cancer, in addition to impacts on morbidity, mortality, and quality of life, has substantialeconomic consequences. The medical care costs for cancer in the U.S. were $183 billion in 2015 and are projected to increase to $246 billion in 2030. Other cancer-related costs across the care continuum may be less well understood. Additional information is needed on factors affecting patient, health care system, and societal costs for cancer prevention, screening, treatment, and survivorship. However, multiple factors may limit cancer health economics research.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p class=\"MsoBodyText\" style=\"text-align:start; margin-right:41px; margin-bottom:8px; margin-left:27px\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial, sans-serif\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"color:#333333\"><span style=\"letter-spacing:1pt\">The Division of Cancer Control and Population Science (DCCPS) of the National Cancer <\/span><\/span><span style=\"color:#333333\"><span style=\"letter-spacing:1pt\">Institute is interested in learning more about gaps and unmet needs for performing health economics research focused on cancer; barriers and challenges to conducting cancer health economics research; and potential activities to support and enhance this field.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p class=\"MsoBodyText\" style=\"text-align:start; margin-right:19px; margin-bottom:8px; margin-left:27px\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial, sans-serif\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"color:#333333\"><span style=\"letter-spacing:1pt\">As part of HEROiC, the Interagency Consortium to Promote Health Economics Research on Cancer (<\/span><\/span><span style=\"letter-spacing:1pt\"><a href=\"https:\/\/healthcaredelivery.cancer.gov\/heroic\/\"><span style=\"color:#2e6fa8\">https:\/\/healthcaredelivery.cancer.gov\/heroic\/<\/span><\/a><span style=\"color:#333333\">), and in collaboration with scientists at the Centers for Disease Control and Prevention and the American Cancer Society, DCCPS will host a virtual conference on The Future of Cancer Health Economics Research on December 2- 3, 2020. This conference will include presentations on challenges conducting cancer health <\/span><span style=\"color:#333333\">economics research and broad, participatory discussions on activities help support and enhance the development of this field. The conference will be free, and open to the public. Conference presentations will be recorded and available to the public for later viewing. We highly encourage you to register and participate in this conference. Please feel free to share this announcement with your colleagues. For questions regarding this virtual conference, please email<\/span> <a href=\"mailto:NCIcancerecon@nih.gov\"><span style=\"color:#0562c1\">NCIcancerecon@nih.gov<\/span><span style=\"color:#333333\"><span style=\"text-decoration:none\">.<\/span><\/span><\/a><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Virtual Conference Dec 2-3, 2020"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

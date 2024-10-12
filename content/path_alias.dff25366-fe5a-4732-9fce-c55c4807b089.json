@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "dff25366-fe5a-4732-9fce-c55c4807b089"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/06d86dc9-714a-4695-8c7b-c731abab8f8b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/nih-update-clinical-trial-funding-opportunity-announcement-policy"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

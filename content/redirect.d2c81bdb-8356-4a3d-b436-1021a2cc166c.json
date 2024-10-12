@@ -1,0 +1,52 @@
+{
+    "uuid": [
+        {
+            "value": "d2c81bdb-8356-4a3d-b436-1021a2cc166c"
+        }
+    ],
+    "hash": [
+        {
+            "value": "KRhghMeuG22QsVVXLD1XRpIrW9NrcwPVhhHI2AROgvs"
+        }
+    ],
+    "type": [
+        {
+            "value": "redirect"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "redirect_source": [
+        {
+            "path": "news\/new-postdoctoral-research-training-opportunity-t32-mghhms",
+            "query": []
+        }
+    ],
+    "redirect_redirect": [
+        {
+            "uri": "internal:\/node\/2167",
+            "title": null,
+            "options": []
+        }
+    ],
+    "language": [
+        {
+            "value": "en"
+        }
+    ],
+    "status_code": [
+        {
+            "value": 301
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-04-04T17:19:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "525aa96c-34ef-440f-a42e-6fbac77d0254"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-04-01T23:12:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Notice of Availability of Administrative Supplements for the INCLUDE (Investigation of Co-occurring Conditions across the Lifespan to Understand Down syndromE) Project"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-04-01T23:01:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-04-01T23:12:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/notice-availability-administrative-supplements-include-investigation-co-occurring-conditions",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The National Institutes of Health Office of the Director announces the opportunity for investigators with relevant active NIH-supported research project grants from the participating Institutes listed above to submit administrative supplement applications for funded projects to meet new NIH Down syndrome research objectives related to the NIH INvestigation of Co-occurring conditions across the Lifespan to Understand Down syndromE (INCLUDE) Project (https:\/\/www.nih.gov\/include-project). This notice is soliciting administrative supplements for the following mechanisms ONLY: Resource-Related Research Projects (R24), Research Program Projects and Centers (P01, P30, P50) cooperative agreements (U10, U19, U24, U54, UG1, UG3, UL1) Resource-Related Research Multi-Component Projects and Centers Cooperative Agreements (U2C), and training programs (T32).<\/p>\r\n\r\n<p>For more information, visit:&nbsp;<a href=\"https:\/\/grants.nih.gov\/grants\/guide\/notice-files\/NOT-OD-19-087.html\" target=\"_blank\">https:\/\/grants.nih.gov\/grants\/guide\/notice-files\/NOT-OD-19-087.html<\/a><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

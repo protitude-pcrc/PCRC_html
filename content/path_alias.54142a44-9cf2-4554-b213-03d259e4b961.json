@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "54142a44-9cf2-4554-b213-03d259e4b961"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/93bebd9c-3c0a-403f-a187-e22ff4b730c9"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/bonitagerm"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

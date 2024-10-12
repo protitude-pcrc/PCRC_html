@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "6ace3af2-832b-4503-931e-7edb09b290b3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-04-26T16:29:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Instrument Systematic Reviews"
+        }
+    ],
+    "created": [
+        {
+            "value": "2016-03-22T15:58:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-04-26T16:29:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/corescenters\/measurement-core\/instrument-systematic-reviews",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h4>SYSTEMATIC REVIEWS OF INSTRUMENTS RELEVANT TO PALLIATIVE CARE<\/h4>\r\n\r\n<p>Use this <strong><a href=\"https:\/\/pcrc.box.com\/s\/y8koa9cqvoiz7s99kwhyy9l7wwjw2o4e\" rel=\"noopener\" target=\"_blank\">link<\/a><\/strong>&nbsp;to&nbsp;download reference list of current published systematic reviews of domain-specific and disease-specific instruments relevant to palliative care.<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

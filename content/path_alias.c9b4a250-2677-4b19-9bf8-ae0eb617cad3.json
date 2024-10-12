@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c9b4a250-2677-4b19-9bf8-ae0eb617cad3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/ba7b9641-9574-4481-a8a1-aa2eb95ae46b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/funding-opportunity-support-analysis-secondary-data-pcrc-data-repository"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

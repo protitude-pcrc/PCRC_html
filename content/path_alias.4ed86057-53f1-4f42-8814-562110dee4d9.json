@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "4ed86057-53f1-4f42-8814-562110dee4d9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/4235b960-1288-4180-bcfa-059330954340"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/npcrc-rfas"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

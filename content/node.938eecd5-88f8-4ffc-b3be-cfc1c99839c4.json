@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "938eecd5-88f8-4ffc-b3be-cfc1c99839c4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-12-09T21:11:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "title": [
+        {
+            "value": "FREE Items for Frontline Direct Care Workers: COVID-19 Vaccination Messaging"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-12-09T19:58:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-12-09T21:11:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/free-items-frontline-direct-care-workers-covid-19-vaccination-messaging",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h4><strong>Attention PCRC Members:<\/strong><\/h4>\r\n\r\n<p><strong>We want to send you FREE STUFF<\/strong>&nbsp;to share with your frontline direct care workers, especially in home health, palliative care, and hospice to encourage COVID-19 vaccinations.&nbsp; These items are generously funded by a supplemental award to the PCRC (3U2CNR014637-09S1) and dissemination of these items is a funded aim of this award.<\/p>\r\n\r\n<p>We partnered with home health aides and hospice administrators to create messages that resonated with them related to COVID-19 vaccinations.&nbsp; Here is a link to request two documents 1) Communication Toolkit that has items available for ordering and branding, and 2) a COVID Swag insert to encourage showing off your items on social media:&nbsp;<strong><a href=\"https:\/\/airtable.com\/shr6VL3PYhaFURLa1\" rel=\"noopener\" target=\"_blank\">https:\/\/airtable.com\/shr6VL3PYhaFURLa1<\/a><\/strong><\/p>\r\n\r\n<p>Please contact Hillary Lum, <a href=\"mailto:hillary.lum@cuanschutz.edu\" rel=\"noopener\" target=\"_blank\">hillary.lum@cuanschutz.edu<\/a>, and we will send you&nbsp;<strong>ballpoint pens, notepads, and buttons with key messages about COVID-19 vaccines&nbsp;<\/strong>that you can give to home health teams, nursing home staff that you interact with, and others.&nbsp; These swag items are NOT branded with a specific company.&nbsp; To date, we've given away more than 2000 items and have another 2000+ to share.&nbsp; Please reach out to Stacy Fischer, Matt DeCamp, or Hillary Lum if you have any questions (please contact them thru <a href=\"mailto:pcrc@ucdenver.edu\" rel=\"noopener\" target=\"_blank\">pcrc@ucdenver.edu<\/a>).<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "FREE Items for Frontline Direct Care Workers: COVID-19 Vaccination Messaging: Provided by PCRC Supplemental Award"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

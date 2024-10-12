@@ -1,0 +1,257 @@
+{
+    "uuid": [
+        {
+            "value": "e31f3c11-e324-4349-95b8-2dba66618436"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-05-03T19:20:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "Anticoagulation Therapy on Discharge to Hospice Care"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-05-14T21:12:25+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-05-03T19:20:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/study\/anticoagulation-therapy-discharge-hospice-care",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "49e9fbdc-f251-4fd2-90e3-d62d184a267d"
+        }
+    ],
+    "field_approved_data_requests": [],
+    "field_award_number": [
+        {
+            "value": "U24NR014637 & UL1TR000128"
+        }
+    ],
+    "field_condition_studied": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "86510b2c-0278-4f34-bbe9-671a1fd3f874"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "7e7abd56-2c01-48af-a934-58bd4937c1a3"
+        }
+    ],
+    "field_csr_summary": [],
+    "field_data_dictionary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "544b8d0c-6f59-46d6-aa1c-588f02ea9b06"
+        }
+    ],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a801317c-42e4-4a02-af5c-078b6ddadb0f"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Anticoagulation Therapy on Discharge to Hospice Care"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "1141"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": false
+        }
+    ],
+    "field_nct_link_field": [],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d7cd26a3-2482-49da-b75d-bdd120b563ae"
+        }
+    ],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        }
+    ],
+    "field_participant_ethnicity_coll": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "350f6f60-c882-44d9-bf86-2f242d671d54"
+        }
+    ],
+    "field_participant_race": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "88ac74e1-8f30-4ba6-bbe9-d8a410f35170"
+        }
+    ],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bb33a50f-e9de-47ae-80e4-5167ef2b0d2f"
+        }
+    ],
+    "field_pcrc_study_num": [
+        {
+            "value": "14-05"
+        }
+    ],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/28581881",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [
+        {
+            "value": "PCRC & OHSU Clinical and Translational Research Institute"
+        }
+    ],
+    "field_study_design": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "daae6b51-dea5-4f17-a71d-6e8474c47e08"
+        }
+    ],
+    "field_study_pi": [
+        {
+            "value": "Jon Furuno, PhD"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "Oregon Health & Science University"
+        }
+    ],
+    "field_study_setting": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2cbe2575-3af8-43d2-b4af-b144d6034ad8"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "0273e5e5-00f3-4ffe-89c2-4dd69d36e8fc"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "0f2452e4-c974-4039-82c0-d1744b0443df"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4fb30600-1784-41e5-8d7d-2e45bef6acca"
+        }
+    ],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "89b177d7-1afa-4d2b-bb5a-199a38866463"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p><strong>Background:<\/strong> There are no guidelines for antithrombotic therapy on admission to hospice care. Antithrombotic therapy may offer some benefit in these patients, but is also associated with well-described risks.<\/p>\r\n\r\n<p><strong>Objective:<\/strong> We quantified the frequency and characteristics of patients prescribed antithrombotic therapy on discharge from acute care to hospice care.<\/p>\r\n\r\n<p><strong>Design:<\/strong> Retrospective cohort study.<\/p>\r\n\r\n<p><strong>Settings\/Subjects:<\/strong> Adult (age&gt;=21 years) patients discharged from acute care to hospice care between January 1, 2010 and June 30, 2014.<\/p>\r\n\r\n<p><strong>Measures:<\/strong> Our primary outcome of interest was receiving an outpatient prescription for antithrombotic therapy on discharge to hospice care.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [
+        {
+            "value": "<p>Dataset creation and analysis code, protocol<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p><strong>Qualitative portion available by request at&nbsp;<\/strong><a href=\"https:\/\/doi.org\/10.5064\/F69JKYSS\" target=\"_blank\">https:\/\/doi.org\/10.5064\/F69JKYSS<\/a>.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_therapeutic_area": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "5a63a88c-7232-4892-bb34-63e7ddc7e662"
+        }
+    ],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4899ab96-a788-4a21-8a17-927137b8ffa9"
+        }
+    ]
+}

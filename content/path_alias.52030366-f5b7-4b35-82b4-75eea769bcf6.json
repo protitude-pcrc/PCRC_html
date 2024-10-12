@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "52030366-f5b7-4b35-82b4-75eea769bcf6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/2a62f30b-7731-4829-ace0-2c40cb84fd3f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/smaiko"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

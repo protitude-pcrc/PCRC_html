@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "04cd528c-8473-44a9-86fb-73e8a92593d7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/ada72de9-d949-4b64-b017-229e7e4b85b0"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/study\/qdact-pc-feasibility"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

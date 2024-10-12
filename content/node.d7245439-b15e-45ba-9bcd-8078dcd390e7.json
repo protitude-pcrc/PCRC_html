@@ -1,0 +1,99 @@
+{
+    "uuid": [
+        {
+            "value": "d7245439-b15e-45ba-9bcd-8078dcd390e7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-05-10T19:21:27+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "About Us"
+        }
+    ],
+    "created": [
+        {
+            "value": "2014-08-12T20:43:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-05-10T19:21:27+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/about-us",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The Palliative Care Research Cooperative Group (PCRC) was established through multiple years of cross-institutional discussion and networking. In January 2010 the PCRC kick-off retreat was held in Denver, Colorado. It was here where the core principles were defined by 25 participants representing a broad range of disciplines in academic medicine, community-based hospice and palliative care, federal agencies, diverse research and clinical interests, private and public institutions.<\/p>\r\n\r\n<ol>\r\n\t<li>Develop efficient palliative care <strong>research capacity<\/strong> nationally.\r\n\r\n\t<ul>\r\n\t\t<li>Infrastructure<\/li>\r\n\t\t<li>Data systems and procedures<\/li>\r\n\t\t<li>Metrics<\/li>\r\n\t<\/ul>\r\n\t<\/li>\r\n\t<li>Support the conduct, analysis, and dissemination of <strong>high-quality research<\/strong> in palliative care.<\/li>\r\n\t<li>Train and mentor <strong>new, existing, and future clinician-scientists<\/strong> committed to advancing palliative care research.<\/li>\r\n<\/ol>\r\n\r\n<p>The PCRC continues its <a href=\"\/node\/480\">mission<\/a> and vision through new members and expanding disciplines. For a more detailed summary&nbsp;of the PCRC and sites, <a href=\"https:\/\/pcrc.box.com\/s\/atweyc67qze1cwiic7rax0hy8zeiy6vy\">please download this detailed PDF<\/a><\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": [
+        {
+            "value": "The PCRC continues its mission and vision through new members and expanding disciplines."
+        }
+    ]
+}

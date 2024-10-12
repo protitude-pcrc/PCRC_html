@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "45c74115-be88-4549-8c96-5152f5044464"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-07-23T21:23:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "History of the PCRC"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-07-27T05:20:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-07-23T21:23:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/about\/history-pcrc",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<drupal-entity alt=\"PCRC Timeline\" data-align=\"center\" data-embed-button=\"image_browser\" data-entity-embed-display=\"image:linked_responsive_image\" data-entity-embed-display-settings=\"{&quot;responsive_image_style&quot;:&quot;wide&quot;,&quot;image_link&quot;:&quot;&quot;,&quot;link_uri&quot;:&quot;&quot;}\" data-entity-type=\"file\" data-entity-uuid=\"085c444c-84cb-489a-967a-d6accd1117a9\"><\/drupal-entity>\r\n\r\n<p>From 2005\u20132010, a group of senior palliative care investigators, methodologists, and clinicians discussed how best to advance the evidence base in palliative care, with an eye toward developing a coordinated national research effort. Informal conversations culminated in a 1\u00bd-day meeting of researchers interested in participating in the formation of a palliative care cooperative group.<\/p>\r\n\r\n<p>Possessing expertise in patient-reported outcomes, biostatistics, practice-based research networks, social work, nursing, and psychology, participants represented diverse clinical organizations, the NIH, existing cooperative groups, and international palliative care research networks.<\/p>\r\n\r\n<p>All participants funded most of their own travel expenses; those unable to physically attend participated via teleconference. The meeting was held on the University of Colorado Denver Anschutz Medical Campus, January 16\u201317, 2010. Its purposes were to: (1) define the structure and function of a national interdisciplinary cooperative group in palliative care research and (2) delineate an action plan for developing capacity for collaborative comparative effectiveness research in palliative care.<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

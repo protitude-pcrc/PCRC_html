@@ -1,0 +1,96 @@
+{
+    "uid": [
+        {
+            "value": 222
+        }
+    ],
+    "uuid": [
+        {
+            "value": "7a772ab1-40f5-4e7a-b421-c376df5c859d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "mike.diplock"
+        }
+    ],
+    "mail": [
+        {
+            "value": "user+222@localhost.localdomain"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "America\/New_York"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-05-15T07:33:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-05-16T11:37:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "request",
+            "target_type": "user_role",
+            "target_uuid": "372304bc-f32f-4566-8313-c53ef14f1eb1"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/user\/mikediplock",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_affiliation": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2b2bab5f-c50d-4308-bf03-663594fc0bca"
+        }
+    ],
+    "field_are_you_a_pcrc_member_": [],
+    "field_first_name": [
+        {
+            "value": "Aliquam antehabeo dignissim eum fere jumentum secundum tego verto vindico"
+        }
+    ],
+    "field_last_name": [
+        {
+            "value": "Abdo dignissim facilisi fere nutus olim. Abico dolore elit inhibeo pagus suscipit. Diam iusto iustum neo probo sed sino. Abbas caecus defui eligo nisl pala pertineo probo saepius. Ibidem interdico mos oppeto pecus vel."
+        }
+    ],
+    "user_picture": []
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a690b2f0-33a2-40b7-9508-6682e61fed02"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/a9dd002a-bd93-4805-8d44-0e457a7322e9"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/harrikw1"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

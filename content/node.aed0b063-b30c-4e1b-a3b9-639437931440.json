@@ -1,0 +1,110 @@
+{
+    "uuid": [
+        {
+            "value": "aed0b063-b30c-4e1b-a3b9-639437931440"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-25T16:36:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "title": [
+        {
+            "value": "NIH Notice of Intent to Publish FOA for HEAL Initiative"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-13T16:43:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-25T16:36:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/nih-notice-intent-publish-foa-heal-initiative",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The NIH HEAL (Helping to End Addiction Long-term) Initiative intends to promote a new initiative by publishing a FOA soliciting applications for UG3\/UH3 phased cooperative research to accelerate implementation of effective, non-opioid interventions for chronic pain management in rural and remote populations.<\/p>\r\n\r\n<p>The overall goal of this initiative is to support the implementation of effective clinical practices and procedures that may lead to prevention or improved management of chronic pain in rural and\/or remote populations, along with a reduction in unnecessary opioid prescribing and\/or use.&nbsp;<\/p>\r\n\r\n<p>Estimated Publication Date of FOA: <strong>August 15, 2022<\/strong><\/p>\r\n\r\n<p>First Estimated Application Due Date: <strong>November 15, 2022<\/strong><\/p>\r\n\r\n<p>Earliest Estimated Award\/Start Date: <strong>July 1, 2023<\/strong><\/p>\r\n\r\n<p>Interested investigators can contact Karen Kehl, PhD, RN, FPCN (Program Officer) at&nbsp;<a href=\"mailto:karen.kehl@nih.gov\">karen.kehl@nih.gov<\/a><\/p>\r\n\r\n<p>To read the full Notice, click <a href=\"https:\/\/grants.nih.gov\/grants\/guide\/notice-files\/NOT-NR-22-015.html\" target=\"_blank\">HERE<\/a><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "NIH Notice of Intent to Publish FOA for HEAL Initiative: Prevention and Management of Chronic Pain in Rural Populations (UG3\/UH3, Clinical Trials Required)"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

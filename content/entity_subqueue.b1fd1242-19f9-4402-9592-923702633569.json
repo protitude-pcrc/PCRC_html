@@ -1,0 +1,116 @@
+{
+    "uuid": [
+        {
+            "value": "b1fd1242-19f9-4402-9592-923702633569"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "queue": [
+        {
+            "target_id": "steering_committee",
+            "target_type": "entity_queue",
+            "target_uuid": "a6087644-645f-4f50-be01-f9ec3a474c03"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2018-04-30T19:25:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "4f9256af-a749-4859-a639-cdce784ab732"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "4f9256af-a749-4859-a639-cdce784ab732"
+        }
+    ],
+    "title": [
+        {
+            "value": "Steering Committee"
+        }
+    ],
+    "items": [
+        {
+            "target_type": "node",
+            "target_uuid": "71b8c5df-c858-4c5d-90c6-ce25dfe1ba32"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "95eb9f7e-cb90-44ea-a884-dee1a0e905c9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "3a91129f-6724-4fd8-b1ff-336515f4c081"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "0d039434-6727-40e9-944c-6fbd0965315a"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "3a279691-ec66-471e-9b85-334fbc9fea1d"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "74dd8e33-5816-45ba-aa56-ac8d80f82d54"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "94720b01-933c-4bbf-beff-13d879d7ad30"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "9b118284-71c3-40a5-b05c-0dbc6aa67249"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "3e836e46-0740-4ed1-9342-1d03b40a1f14"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "865a5d51-38f4-4e9d-b06f-4e362c95fb11"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "2669af2f-9190-4b48-af16-cb10b4876133"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-30T19:25:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-04-05T16:56:27+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ]
+}

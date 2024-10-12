@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "cde8ae39-ef40-4013-993d-de44fb713a59"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-06-23T16:23:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "PCRC Projects"
+        }
+    ],
+    "created": [
+        {
+            "value": "2014-08-12T22:13:54+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-06-23T16:23:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/research\/pcrc-projects",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<table width=\"100%\">\r\n\t<tbody>\r\n\t<\/tbody>\r\n\t<caption>PCRC Projects<\/caption>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<th style=\"width: 105px;\">PI(s)<\/th>\r\n\t\t\t<th style=\"width: 490px;\">Study Title<\/th>\r\n\t\t\t<th>Type<\/th>\r\n\t\t\t<th>Status<\/th>\r\n\t\t\t<th style=\"width: 218.174px;\">Funding<\/th>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 105px;\">Johnston<\/td>\r\n\t\t\t<td style=\"width: 490px;\">I TITRATE PC: An Implementation based Community Health Worker Intervention to address Disparities in Palliative Care<\/td>\r\n\t\t\t<td>Intervention<\/td>\r\n\t\t\t<td>Pre-implementation<\/td>\r\n\t\t\t<td style=\"width: 218.174px;\">NIMHD<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 105px;\">Ritchie, Kutner, &amp; Pollak<\/td>\r\n\t\t\t<td style=\"width: 490px;\">Diversifying and Strengthening Dementia Palliative Care Clinical Trials<\/td>\r\n\t\t\t<td>Independent\/Training<\/td>\r\n\t\t\t<td>Active<\/td>\r\n\t\t\t<td style=\"width: 218.174px;\">NIA<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 105px;\">El-Jawahri<\/td>\r\n\t\t\t<td style=\"width: 490px;\">Specialty versus Oncology Delivered Palliative Care for Patients with Acute Myeloid Leukemia (SCOPE PC)<\/td>\r\n\t\t\t<td>RCT<\/td>\r\n\t\t\t<td>Active<\/td>\r\n\t\t\t<td style=\"width: 218.174px;\">PCORI<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 105px;\">Johnston<\/td>\r\n\t\t\t<td style=\"width: 490px;\">Dissemination and Implementation of a Community Health Worker Intervention for Disparities in Palliative Care: (DeCIDE PC)<\/td>\r\n\t\t\t<td>Intervention<\/td>\r\n\t\t\t<td>Active<\/td>\r\n\t\t\t<td style=\"width: 218.174px;\">NCI R01<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 105px;\">Merlin &amp; Ritchie<\/td>\r\n\t\t\t<td style=\"width: 490px;\">Opioid Prescribing for Pain in Individuals with Advanced Cancer: benefits, harms, and stakeholder perspectives<\/td>\r\n\t\t\t<td>Intervention Development<\/td>\r\n\t\t\t<td>Active<\/td>\r\n\t\t\t<td style=\"width: 218.174px;\">NINR R01<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 105px;\">DeCamp<\/td>\r\n\t\t\t<td style=\"width: 490px;\">A mixed-methods study of the nature, extent and consequences of artificial intelligence (AI) for individualized treatment planning in end-of-life and palliative care (EOLPC)<\/td>\r\n\t\t\t<td>Mixed-methods<\/td>\r\n\t\t\t<td>Not Active<\/td>\r\n\t\t\t<td style=\"width: 218.174px;\">NINR R01<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 105px;\">Hua<\/td>\r\n\t\t\t<td style=\"width: 490px;\">Determinants of Palliative Care Effectiveness for Patients with Metastatic Cancer<\/td>\r\n\t\t\t<td>RCT<\/td>\r\n\t\t\t<td>Active<\/td>\r\n\t\t\t<td style=\"width: 218.174px;\">NCI<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 105px;\">Hanson<\/td>\r\n\t\t\t<td style=\"width: 490px;\">Palliative Care for Persons with Late-Stage Alzheimers and Related Dementias and Their Caregivers: A Randomized Clinical Trial<\/td>\r\n\t\t\t<td>RCT<\/td>\r\n\t\t\t<td>Active<\/td>\r\n\t\t\t<td style=\"width: 218.174px;\">NIA<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 105px;\">Schwarze<\/td>\r\n\t\t\t<td style=\"width: 490px;\">A RCT of a Communication Tool to Improve Access to Palliative Care for Patients with ESRD<\/td>\r\n\t\t\t<td>RCT<\/td>\r\n\t\t\t<td>Active<\/td>\r\n\t\t\t<td style=\"width: 218.174px;\">NIA<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 105px;\">Kutner &amp; DeCamp<\/td>\r\n\t\t\t<td style=\"width: 490px;\">Engaging patients, family members, and caregivers in end-of-life and palliative care research (EOLPC): Addressing the bioethical challenges<\/td>\r\n\t\t\t<td>U2C Administrative Supplement<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td style=\"width: 218.174px;\">NINR<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 105px;\">Schwarze<\/td>\r\n\t\t\t<td style=\"width: 490px;\">Best Case\/Worst Case: A Multi-site Randomized Clinical Trial of Scenario Planning for Older Adults with End-Stage Kidney Disease<\/td>\r\n\t\t\t<td>Administrative R56<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td style=\"width: 218.174px;\">NIA<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 105px;\">Aslakson<\/td>\r\n\t\t\t<td style=\"width: 490px;\">A Multi-Center Randomized Controlled Trial of Perioperative Palliative Care Surrounding Cancer Surgery for Patients and their Family Members (the PERIOP-PC trial)<\/td>\r\n\t\t\t<td>Multi-site RCT<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td style=\"width: 218.174px;\">PCORI<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 105px;\">Temel &amp; Greer<\/td>\r\n\t\t\t<td style=\"width: 490px;\">Comparative Effectiveness of Early Integrated Telehealth versus In-Person Palliative Care for Patients with Advanced Lung Cancer (REACH PC)<\/td>\r\n\t\t\t<td>Multi-site RCT<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td style=\"width: 218.174px;\">PCORI<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 105px;\">Fischer<\/td>\r\n\t\t\t<td style=\"width: 490px;\">Engaging Community Hospice Partners to Address Social, Ethical &amp; Behavioral Barriers to COVID-19 Vaccination for Home Health Aides<\/td>\r\n\t\t\t<td>U2C Administrative Supplement<\/td>\r\n\t\t\t<td>Active<\/td>\r\n\t\t\t<td style=\"width: 218.174px;\">NINR<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 105px;\">Ellington<\/td>\r\n\t\t\t<td style=\"width: 490px;\">Cancer caregiver interactions with the hospice team: Implications for end of life and bereavement outcomes<\/td>\r\n\t\t\t<td>Multi-site, multi-method prospective longitudinal design<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td style=\"width: 218.174px;\">NINR R01<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 105px;\">Mack<\/td>\r\n\t\t\t<td style=\"width: 490px;\">Barriers to Hospice and PC Utilization among Adolescent &amp; Young Adult Cancer Patients Living in Poverty<\/td>\r\n\t\t\t<td>Retrospective observational design; qualitative interviews of FCG; questionnaire based interviews<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td style=\"width: 218.174px;\">NINR R21<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 105px;\">Cleary<\/td>\r\n\t\t\t<td style=\"width: 490px;\">Patient-related Barriers to Pain Management: Revisiting the Pain Barriers Questionnaire<\/td>\r\n\t\t\t<td>Multi-site descriptive correlation study<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td style=\"width: 218.174px;\">Investigator-initiated study<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 105px;\">Johnson<\/td>\r\n\t\t\t<td style=\"width: 490px;\">QDACT-PCRC<\/td>\r\n\t\t\t<td>Quality<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td style=\"width: 218.174px;\">AHRQ<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 105px;\">Porter &amp; Keefe<\/td>\r\n\t\t\t<td style=\"width: 490px;\">Caregiver Assisted Pain-Management<\/td>\r\n\t\t\t<td>RCT<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td style=\"width: 218.174px;\">NINR R01<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 105px;\">Akard<\/td>\r\n\t\t\t<td style=\"width: 490px;\">Pediatric Social Support<\/td>\r\n\t\t\t<td>Intervention<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td style=\"width: 218.174px;\">NINR R01<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 105px;\">Ferrell<\/td>\r\n\t\t\t<td style=\"width: 490px;\">Caregiver Support for Patients with Lung Cancer<\/td>\r\n\t\t\t<td>Intervention<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td style=\"width: 218.174px;\">NINR R01<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 105px;\">LeBlanc<\/td>\r\n\t\t\t<td style=\"width: 490px;\">Pharmacovigilance<\/td>\r\n\t\t\t<td>Quality<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td style=\"width: 218.174px;\">UC GIM &amp; UCSF*<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 105px;\">Zafar<\/td>\r\n\t\t\t<td style=\"width: 490px;\">Best Supportive Care<\/td>\r\n\t\t\t<td>Implementation<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td style=\"width: 218.174px;\">American Cancer Society (ACS)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 105px;\">Kamal<\/td>\r\n\t\t\t<td style=\"width: 490px;\">QDACT Feasibility Testing<\/td>\r\n\t\t\t<td>Feasibility<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td style=\"width: 218.174px;\">AHRQ<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 105px;\">Shaw<\/td>\r\n\t\t\t<td style=\"width: 490px;\">Developing an End-of-Life Care Communication Intervention at Two Native Sites<\/td>\r\n\t\t\t<td>Mixed methods, prospective, interventional, randomized design<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td style=\"width: 218.174px;\">NINR R21<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 105px;\">Abernethy &amp; Kutner<\/td>\r\n\t\t\t<td style=\"width: 490px;\">Statin Discontinuation<\/td>\r\n\t\t\t<td>RCT<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td style=\"width: 218.174px;\">National Institute of Nursing Research (NINR UC4 &amp; U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td colspan=\"5\" style=\"width: 1249.17px;\">* University of Colorado\u2019s Division of General Internal Medicine and University of California San Francisco\u2019s Division of Geriatrics<\/td>\r\n\t\t<\/tr>\r\n\t<\/tbody>\r\n<\/table>\r\n\r\n<p>[button url=\"\/node\/504\" size=\"\" color=\"green\" target=\"\"]View PCRC Pilot Studies[\/button]<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

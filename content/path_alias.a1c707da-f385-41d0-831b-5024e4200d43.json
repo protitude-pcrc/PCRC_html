@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a1c707da-f385-41d0-831b-5024e4200d43"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/bd600602-07f8-4c74-97b0-7e99572d72c4"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/scarydishes"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

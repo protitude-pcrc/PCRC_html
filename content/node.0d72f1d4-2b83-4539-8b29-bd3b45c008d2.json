@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "0d72f1d4-2b83-4539-8b29-bd3b45c008d2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-07-26T19:51:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Project Coordinating Center"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-06-26T18:32:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-07-26T19:51:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/corescenters\/project-coordinating-center",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h4>Project Coordinating Center (PCC) Leadership:<\/h4>\r\n\r\n<drupal-entity alt=\"Kutner\" data-align=\"left\" data-caption=\"Jean Kutner, MD, MSPH\" data-embed-button=\"image_browser\" data-entity-embed-display=\"image:linked_responsive_image\" data-entity-embed-display-settings=\"{&quot;responsive_image_style&quot;:&quot;original&quot;,&quot;image_link&quot;:&quot;&quot;,&quot;link_uri&quot;:&quot;&quot;}\" data-entity-type=\"file\" data-entity-uuid=\"f4267608-d12f-4a55-9c7b-f920b313b028\"><\/drupal-entity>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p><em>Contact <a href=\"mailto:pcrc@ucdenver.edu?subject=PCC%20Consultation%20Request\">the PCRC<\/a> for a consultation.<\/em><\/p>\r\n\r\n<p>In the pre-award phase, the PCC supports investigators through all steps of the study design and to develop the protocol.&nbsp; We are here to encourage and ensure studies are successful and able to provide needed research to the palliative care community.<\/p>\r\n\r\n<p>Additionally, following grant funding, and if specified in the project&nbsp;budget, the PCC offers additional support around:<\/p>\r\n\r\n<ul>\r\n\t<li>Site level training and education<\/li>\r\n\t<li>Additional Study Site PI \/ site identification, in cases of attrition&nbsp;<\/li>\r\n\t<li>Assistance with enrolling study participants<\/li>\r\n\t<li>Coordinating regulatory documents and communication<\/li>\r\n\t<li>Ongoing support and assistance with meeting milestones and\/or overcoming study hurdles<\/li>\r\n<\/ul>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

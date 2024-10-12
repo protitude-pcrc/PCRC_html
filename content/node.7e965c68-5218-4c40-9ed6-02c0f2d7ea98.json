@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "7e965c68-5218-4c40-9ed6-02c0f2d7ea98"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "National Cancer Institute Moonshot Initiative"
+        }
+    ],
+    "created": [
+        {
+            "value": "2016-04-21T15:22:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2016-04-21T15:22:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/national-cancer-institute-moonshot-initiative",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "Vice President Biden\u2019s recent announcement of a National Cancer Moonshot Initiative has brought renewed attention to the experiences of those living with cancer and their caregivers.\u00a0 Though many have touted this as a \u201ccancer cure\u201d initiative, we in the palliative care research community understand that the experience of cancer, independent of the outcome, is a life-changing event, and should also be an areas of focus for research.\u00a0 This requires additional investments in palliative care research, above the 1% funding from federal agencies.\r\n\r\nThe National Cancer Institute recently opened for public comment an online forum for stakeholders across research and lay communities to suggest \u201cresearch ideas for consideration,\u201d found here:\r\n\r\n<a href=\"https:\/\/cancerresearchideas.cancer.gov\/a\/index\" target=\"_blank\">https:\/\/cancerresearchideas.cancer.gov\/a\/index<\/a>\r\n\r\nPCRC members, please consider suggesting your own research ideas.\u00a0 Hopefully, vigorous participation in this forum from our research communities will emphasize to decision makers that this research is needed, ideas for studies are plentiful, and a workforce of inspired researchers is available.",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

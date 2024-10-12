@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "0aa64a39-fa82-4527-b3ca-758ab849b1c8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/7f949cdc-7cb1-450b-966b-e0c22b29c495"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/collaborating-stepspdf"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

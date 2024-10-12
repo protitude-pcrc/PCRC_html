@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "4d8ce3fa-bbef-4cc5-8924-a5204819c46c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-04-04T23:49:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "title": [
+        {
+            "value": "New Postdoctoral Research Training Opportunity (T32) MGH\/HMS: Application due April 15 "
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-04-04T16:54:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-04-04T23:49:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/new-postdoctoral-research-training-opportunity-t32-mghhms-application-due-april-15",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>We are thrilled to announce the funding of the T32 Training Grant from the National Institute of Aging entitled \"Bridging the Science-to-Service Gap in Aging Care: Prevention, Optimization and Living Well with Persistent or Serious Illness (<strong>Bridging-The-Gap<\/strong>) a collaborative training between the Department of Internal Medicine and the Department of Psychiatry at Massachusetts General Hospital (MGH) and Harvard Medical School (HMS), led by <strong>Christine Ritchie MD, MSPH<\/strong>, and <strong>Ana-Maria Vranceanu PhD<\/strong>.<\/p>\r\n\r\n<p><strong>Applications are due by April 15th for funding to start July 1, 2023.<\/strong><\/p>\r\n\r\n<p>This postdoctoral fellowship program will address the pressing need for strengthening and diversifying the pipeline for well-trained clinician investigators through the development testing and implementation of clinical and behavioral prevention interventions across the continuum from health to illness across all care settings (hospital, nursing homes) and in the community for older individuals or those with persistent or serious illness, and their care partners.<br \/>\r\n<br \/>\r\nThe program will also provide the many trainees interested and committed to clinical and behavioral research with the opportunity for interdisciplinary training that cuts across both departments and includes additional relevant disciplines such as neurology, nursing, rehabilitation sciences, and social work.<br \/>\r\n<br \/>\r\nTrainees will receive specialized didactic training that covers methods across the NIH stage model, trial design and community-engaged research across primary, secondary, and tertiary prevention, biostatistics, clinical trial management, scientific writing, health disparities and social determinants of health, leadership skills, and career planning, in preparation for career development awards or other independent applications to be submitted by the end of the fellowship period. Trainees will develop mentored clinical research projects using the NIH stage model and receive experiential training through their mentors\u2019 NIH-funded clinical trials.<br \/>\r\n<br \/>\r\nPlease reach out to Christine and Ana-Maria at <strong><a href=\"mailto:mghbridgethegap@mgb.org\" rel=\"noopener\" target=\"_blank\">mghbridgethegap@mgb.org<\/a><\/strong> for any questions. Potential candidates can directly apply using this link:&nbsp;<a href=\"https:\/\/redcap.partners.org\/redcap\/surveys\/?s=P97AXCACDXMRTRKC\" rel=\"noopener\" target=\"_blank\">https:\/\/redcap.partners.org\/redcap\/surveys\/?s=P97AXCACDXMRTRKC<\/a>&nbsp;&nbsp;or by using the QR code in the flyer found below or by clicking&nbsp;<strong><a href=\"https:\/\/acrobat.adobe.com\/link\/track?uri=urn:aaid:scds:US:a812dcc1-5942-3a13-9bcc-425459e07ff0\" rel=\"noopener\" target=\"_blank\">HERE<\/a>.<\/strong><\/p>\r\n\r\n<drupal-entity data-embed-button=\"file_browser\" data-entity-embed-display=\"file:file_default\" data-entity-embed-display-settings=\"{&quot;use_description_as_link_text&quot;:1,&quot;description&quot;:&quot;Bridge-The-Gap T32 flyer&quot;}\" data-entity-type=\"file\" data-entity-uuid=\"46021440-6786-4bd5-aedd-74375630f987\" data-langcode=\"en\"><\/drupal-entity>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "T32 Training Grant Award from NIA: Bridge-The-Gap: Bridging the Science-to-Service Gap: Prevention, Optimization and Living Well with Persistent or Serious Illness"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

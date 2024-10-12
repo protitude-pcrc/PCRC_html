@@ -1,0 +1,110 @@
+{
+    "uuid": [
+        {
+            "value": "167c83c4-3b36-480d-85cc-26abd4b0b189"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-01-17T17:09:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "Weill Cornell Medicine Post-Doctoral Training Program in Behavioral Geriatrics (T32)"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-01-17T17:05:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-01-17T17:09:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/weill-cornell-medicine-post-doctoral-training-program-behavioral-geriatrics-t32",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>This 2-year Postdoctoral Training Program in Behavioral Geriatrics develops independent investigators capable of conducting patient-oriented research to improve the quality of life and quality of care of older adults. The&nbsp; Program is co-led by Cary Reid, MD, PhD, Director of the Translational Research Institute on Pain in Later Life and Holly G. Prigerson, PhD, Director of the Center for Research on End-of-Life Care both based in the Department of Medicine, Division of Geriatrics and Palliative Medicine at Weill Cornell Medicine. Applications are accepted from both MD and PhD postdoctoral trainees (2\/year) seeking careers at the intersection of biomedical and innovative social\/behavioral approaches to improve care and care outcomes in older adults.<\/p>\r\n\r\n<p>Application are due&nbsp;February 1<sup>st<\/sup> of desired start year.&nbsp;Candidates will be selected on a rolling basis each year until each of the two new slots per year are filled.<\/p>\r\n\r\n<p>Please see the links below for more information:<\/p>\r\n\r\n<ul>\r\n\t<li>\r\n\t<drupal-entity data-embed-button=\"file_browser\" data-entity-embed-display=\"file:file_default\" data-entity-embed-display-settings=\"{&quot;use_description_as_link_text&quot;:1,&quot;description&quot;:&quot;Behavioral Geriatrics T32 Flyer&quot;}\" data-entity-type=\"file\" data-entity-uuid=\"f59b11d0-7309-4030-afec-7660fd875480\"><\/drupal-entity>\r\n\t<\/li>\r\n\t<li><a href=\"https:\/\/medicine.weill.cornell.edu\/divisions-programs\/geriatrics-palliative-medicine\/education\/training-program-behavioral-geriatrics\" target=\"_blank\">T32 Program Information<\/a><\/li>\r\n\t<li><a href=\"https:\/\/tripll.org\/\" target=\"_blank\">Translational Research Institute for Pain in Later Life (TRIPLL)<\/a><\/li>\r\n\t<li><a href=\"https:\/\/endoflife.weill.cornell.edu\/\" target=\"_blank\">Weill Cornell Medical Center for Research on End-of-Life Care<\/a><\/li>\r\n<\/ul>\r\n\r\n<p>See this and opportunities like it on our <a href=\"\/node\/542\">Extramural Funding and Training Opportunities Page<\/a>!<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "February 1st Application Deadline"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

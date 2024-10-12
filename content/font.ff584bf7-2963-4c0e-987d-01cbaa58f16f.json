@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "ff584bf7-2963-4c0e-987d-01cbaa58f16f"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Cormorant Unicase&subset=cyrillic-ext#700"
+        }
+    ],
+    "name": [
+        {
+            "value": "Cormorant Unicase 700 (cyrillic-ext)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Cormorant Unicase"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "700"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:21:\"Cormorant Unicase:700\";s:6:\"subset\";s:12:\"cyrillic-ext\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:02:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:02:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "12b0dea5-d190-4fa8-bef6-36049468456b"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "16e1d3a5-ee65-45c5-b809-f593551984b0"
+        }
+    ],
+    "field_tags": []
+}

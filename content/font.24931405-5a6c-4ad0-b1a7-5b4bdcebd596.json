@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "24931405-5a6c-4ad0-b1a7-5b4bdcebd596"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Alegreya Sans&subset=greek#500"
+        }
+    ],
+    "name": [
+        {
+            "value": "Alegreya Sans 500 (greek)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Alegreya Sans"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "500"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:17:\"Alegreya Sans:500\";s:6:\"subset\";s:5:\"greek\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:02:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:02:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "3a52e156-ae57-4a95-a295-e559e21bea2e"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a7781569-c6b5-413d-b8f4-c62ac6b03a36"
+        }
+    ],
+    "field_tags": []
+}

@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "af950fd5-6e2a-4219-bade-16d3691797f8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "PCORI PFA- PCRC Partnership Opportunity"
+        }
+    ],
+    "created": [
+        {
+            "value": "2016-06-20T16:24:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2016-06-20T16:24:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/pcori-pfa-pcrc-partnership-opportunity",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h1>Community-based Palliative Care Delivery for Adult Patients with Advanced Illnesses and their Caregivers<\/h1>\r\nRecently, PCORI issued a notice of upcoming funding announcement titled, \u201cCommunity-based Palliative Care Delivery for Adult Patients with Advanced Illnesses and their Caregivers:\u201d <a href=\"http:\/\/www.pcori.org\/funding-opportunities\/announcement\/community-based-palliative-care-delivery-adult-patients-advanced\" target=\"_blank\">http:\/\/www.pcori.org\/funding-opportunities\/announcement\/community-based-palliative-care-delivery-adult-patients-advanced<\/a>. This is a unique and exciting opportunity for palliative care researchers like you, and for our ever-growing field!\r\n\r\nFor PCORI, the goal of the proposed targeted PFA is to generate evidence to:\r\n<ul>\r\n \t<li>Support care planning over time that is consistent with the goals and preferences of patients with advanced illnesses and their caregivers, and<\/li>\r\n \t<li>Support the delivery of coordinated, community-based palliative care that effectively implements those care plans.<\/li>\r\n<\/ul>\r\nFurther, PCORI\u2019s multi-stakeholder meeting (82 attendees) identified advance care planning (ACP) and community-based models of palliative care as important priority areas for comparative effectiveness research (CER). PCORI\u2019s Board of Governors Meeting slides specifically mentions the existence of several federally funded networks and consortia that are available for conducting large scale, multi-site palliative care trials. Your PCRC is one of these networks!\r\n\r\nThe PCRC does indeed have experience and expertise with multi-site research and the PCRC would be delighted to talk with you about the possibility of partnering with you on your proposed study.\r\n\r\nThere is no formal relationship between the PCRC and PCORI, nor any requirements to use the PCRC for this particular funding opportunity. However, as you know, meaningful comparative effectiveness trials require effective multi-site infrastructure and multi-site resources. So please know that the PCRC is ready and enthusiastic to connect with you about this funding mechanism.\r\n\r\nThe PCRC:\r\n<ul>\r\n \t<li>Offers a number of resources for designing and conducting multi-site research: http:\/\/palliativecareresearch.org\/corescenters\/, and<\/li>\r\n \t<li>Has 229 members: http:\/\/palliativecareresearch.org\/members\/roster at 93 organizations across the US: http:\/\/palliativecareresearch.org\/members\/interested-in-pcrc-membership\/summary-of-pcrc-members\/<\/li>\r\n<\/ul>\r\nIf you are planning to apply to PCORI and would like to collaborate with the PCRC, please send a letter of intent (LOI) (also due September 14).\u00a0 Please note, this is an addition to PCORI\u2019s LOI. The PCRC LOI form can be found here: <a href=\"https:\/\/pcrc.app.box.com\/v\/loi-0116\">https:\/\/pcrc.app.box.com\/v\/loi-0116<\/a>. The LOI helps the PCRC Scientific Review understand and evaluate the science and feasibility of your project within PCRC infrastructure, which is independent of PCORI\u2019s scientific review.\r\n\r\nWe hope many of you consider this exciting funding opportunity. You count on the PCRC for guidance and collaboration!",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

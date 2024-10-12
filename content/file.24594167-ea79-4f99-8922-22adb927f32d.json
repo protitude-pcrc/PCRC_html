@@ -1,0 +1,69 @@
+{
+    "uuid": [
+        {
+            "value": "24594167-ea79-4f99-8922-22adb927f32d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "document",
+            "target_type": "file_type",
+            "target_uuid": "aba37c63-b654-405f-a34e-d829c2ad7580"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "filename": [
+        {
+            "value": "Sept2014-PCRC-Newsletter_Issue-9.pdf"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/migrated_files\/Sept2014-PCRC-Newsletter_Issue-9.pdf"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/pdf"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 375083
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2014-09-16T21:43:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2014-09-16T21:43:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/sept2014-pcrc-newsletterissue-9pdf",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ]
+}

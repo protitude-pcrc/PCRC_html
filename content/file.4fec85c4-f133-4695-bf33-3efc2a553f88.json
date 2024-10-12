@@ -1,0 +1,71 @@
+{
+    "uuid": [
+        {
+            "value": "4fec85c4-f133-4695-bf33-3efc2a553f88"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "image",
+            "target_type": "file_type",
+            "target_uuid": "5a44da8e-ed3c-44a3-a323-ce4123599632"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "filename": [
+        {
+            "value": "pcrc_org_structure_2020.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/pcrc_org_structure_2020.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 165804
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-03-24T17:38:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-03-24T17:41:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/pcrcorgstructure2020.png",
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "field_image_alt_text": [],
+    "field_image_title_text": []
+}

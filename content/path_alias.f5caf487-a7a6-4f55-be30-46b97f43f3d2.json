@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f5caf487-a7a6-4f55-be30-46b97f43f3d2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f21849a1-ed33-4c37-8817-aadacf0a31c5"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/research\/investigator-support-information\/letter-support"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

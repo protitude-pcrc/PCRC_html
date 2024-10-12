@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e07fd6af-b3a7-45f0-8ea3-2eebf78e9f7b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/2af7502e-4264-444e-844b-42f2d96db678"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/training-programs"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

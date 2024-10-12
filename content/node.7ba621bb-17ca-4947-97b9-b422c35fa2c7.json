@@ -1,0 +1,239 @@
+{
+    "uuid": [
+        {
+            "value": "7ba621bb-17ca-4947-97b9-b422c35fa2c7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-03-02T21:15:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "title": [
+        {
+            "value": "The Impact of Age on Early Palliative Care for Patients with Advanced Cancer"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-03-02T20:40:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-03-02T21:15:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/study\/impact-age-early-palliative-care-patients-advanced-cancer",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [],
+    "field_approved_data_requests": [],
+    "field_award_number": [],
+    "field_condition_studied": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ce4e1d08-48a7-4ef8-bf5a-123148f64dcf"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1a9a9841-c6b9-4156-9470-2eb00019aeda"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1886af44-46fc-4543-bd1a-b81e2ffd4ec8"
+        }
+    ],
+    "field_csr_summary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "a8023e1e-fac3-4e6b-991a-11f9e0111c19"
+        }
+    ],
+    "field_data_dictionary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "faacd552-aa50-486d-8ba5-0f8deb18ecf4"
+        }
+    ],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e494a23c-aea6-4f0b-a534-4b948ddfdb07"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "The Impact of Age on Early Palliative Care for Patients with Advanced Lung and Non- Colorectal Gastrointestinal Malignancies"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "350"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": false
+        }
+    ],
+    "field_nct_link_field": [],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d7cd26a3-2482-49da-b75d-bdd120b563ae"
+        }
+    ],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        }
+    ],
+    "field_participant_ethnicity_coll": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "350f6f60-c882-44d9-bf86-2f242d671d54"
+        }
+    ],
+    "field_participant_race": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "88ac74e1-8f30-4ba6-bbe9-d8a410f35170"
+        }
+    ],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bb33a50f-e9de-47ae-80e4-5167ef2b0d2f"
+        }
+    ],
+    "field_pcrc_study_num": [
+        {
+            "value": "15-02"
+        }
+    ],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/journals.sagepub.com\/doi\/10.1177\/0269216317751893",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [],
+    "field_study_design": [],
+    "field_study_pi": [
+        {
+            "value": "Ryan Nipp, MD, MPH"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "Massachusetts General Hospital"
+        }
+    ],
+    "field_study_setting": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "0273e5e5-00f3-4ffe-89c2-4dd69d36e8fc"
+        }
+    ],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "89b177d7-1afa-4d2b-bb5a-199a38866463"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p style=\"margin-bottom:11px\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><b><span style=\"font-size:12.0pt\"><span style=\"line-height:107%\">Background:<\/span><\/span><\/b><span style=\"font-size:12.0pt\"><span style=\"line-height:107%\"> Early palliative care interventions enhance patient outcomes, including quality of life, mood, and coping, but it remains unclear whether certain subgroups of patients are more likely to benefit from early palliative care. We explored whether age and sex moderate the improved outcomes seen with early palliative care.<\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"margin-bottom:11px\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><b><span style=\"font-size:12.0pt\"><span style=\"line-height:107%\">Methods:<\/span><\/span><\/b><span style=\"font-size:12.0pt\"><span style=\"line-height:107%\"> We performed a secondary analysis of data from a randomized trial of 350 patients with advanced lung and non-colorectal gastrointestinal cancer. Patients received an early palliative care intervention integrated with oncology care or usual oncology care alone. We used linear regression to determine if age (older or younger than 65) and sex moderated the effects of the intervention on quality of life (Functional Assessment of Cancer Therapy\u2013General (FACT-G)), depression symptoms (Patient Health Questionnaire 9 (PHQ-9)), and coping (Brief COPE) within lung and gastrointestinal subgroups.<\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"margin-bottom:11px\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><b><span style=\"font-size:12.0pt\"><span style=\"line-height:107%\">Results:<\/span><\/span><\/b><span style=\"font-size:12.0pt\"><span style=\"line-height:107%\"> At 24 weeks, younger patients with lung cancer receiving early palliative care reported increased use of active coping (B = 1.74; p = 0.02) and decreased use of avoidant coping (B = \u20130.97; p = 0.02), but the effects of early palliative care on these outcomes were not significant for older patients. Male patients with lung cancer assigned to early palliative care reported better quality of life (FACT-G: B = 9.31; p = 0.01) and lower depression scores (PHQ-9: B = \u20132.82; p = 0.02), but the effects of early palliative care on these outcomes were not significant for female patients. At 24 weeks, we found no age or sex moderation effects within the gastrointestinal cancer subgroup.<\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"margin-bottom:11px\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><b><span style=\"font-size:12.0pt\"><span style=\"line-height:107%\">Conclusion:<\/span><\/span><\/b><span style=\"font-size:12.0pt\"><span style=\"line-height:107%\"> Age and sex moderate the effects of early palliative care for patients with advanced lung cancer. Early palliative care may need to be tailored to individuals\u2019 unique sociodemographic and clinical characteristics.<\/span><\/span><\/span><\/span><\/span><\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [],
+    "field_therapeutic_area": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9f0b313e-b0ad-4af6-94c5-b2cd31413fe1"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4d413f31-8357-424a-afa9-99302a9de06b"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c423d9a8-677d-45f4-981e-143fb7f7106a"
+        }
+    ],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "016aaa43-cedb-435d-a7d6-d6446d7af039"
+        }
+    ]
+}

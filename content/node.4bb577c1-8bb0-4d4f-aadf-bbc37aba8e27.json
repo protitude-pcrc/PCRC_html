@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "4bb577c1-8bb0-4d4f-aadf-bbc37aba8e27"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-09-30T13:58:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "Notice of Special Interest (NOSI): Palliative Care in Heart, Lung, Blood, and Sleep Diseases"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-09-30T13:56:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-09-30T13:58:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/notice-special-interest-nosi-palliative-care-heart-lung-blood-and-sleep-diseases",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Deadline Dates: This notice applies to due dates on or after October 5, 2020 and subsequent receipt dates through July&nbsp;5, 2023.&nbsp;<\/p>\r\n\r\n<p><b>Program Objectives<\/b><\/p>\r\n\r\n<p>Providing care that is consistent with a patient\u2019s values, preferences, and goals is a cornerstone of palliative care, an interdisciplinary patient-centered approach that aims to improve quality of life for persons with advanced illness and their families. Palliative care focuses on several objectives including relief of symptoms and suffering, communication of prognosis and treatment options in the context of patients\u2019 goals, and coordination of care within and across healthcare settings. Palliative care is not synonymous with hospice or&nbsp;end-of-life care. Rather, palliative care addresses the spectrum of care for serious illness from diagnosis through terminal stages of diseases. Moreover, palliative care does not necessarily entail withholding or curbing treatment. Relief of symptoms, enhancing quality of life, and many other specific aspects of goal-concordant&nbsp;care may, in fact, involve optimal medical or surgical treatment of diseases. The expected outcome of integrating palliative care into the management of the patient\u2019s disease is a better quality of life, a realistic understanding of risks and benefits of treatment and interventions, and medical treatment decisions that align with the patient\u2019s goals, preferences, and values.<\/p>\r\n\r\n<p>Many heart, lung, blood, and sleep (HLBS) diseases, including heart failure, chronic obstructive pulmonary disease (COPD), pulmonary fibrosis, pulmonary hypertension, cystic fibrosis, myelodysplastic syndromes, and aplastic anemia are life-limiting, non-curable illnesses. These and other HLBS diseases may benefit from care focused on improvement of symptoms and quality of life, in addition to care focused on slowing or halting progression of diseases. Integration of palliative care into cardiology, pulmonary, hematology, and critical care practice is recommended by multiple professional societies. Additionally, symptoms of HLBS diseases such as cough, shortness of breath, and fatigue may be especially burdensome, even in diseases that are not life-limiting. Research to improve burdensome symptoms has the potential to greatly improve the quality of life for all patients with HLBS diseases, not just those with life-limiting disease.<\/p>\r\n\r\n<p>\ufeff<strong>Scope<\/strong><\/p>\r\n\r\n<p>This Notice of Special Interest (NOSI) encourages research grant applications focused on palliative care in patients with HLBS diseases across the lifespan. Collaboration between HLBS and palliative care researchers is encouraged. Palliative care research studies, including ancillary studies to ongoing clinical research studies, are encouraged.<\/p>\r\n\r\n<p>Topics of interest are summarized below. Applicants are encouraged to contact the Scientific\/Research contact listed below to ensure that proposed aims are consistent with the mission of NHLBI.<\/p>\r\n\r\n<p>The NHLBI is interested in studies that focus on how to better integrate and implement palliative care into the management of patients with HLBS diseases.<\/p>\r\n\r\n<p>Questions that could be addressed in response to this NOSI could include, but are not limited to, the following:<\/p>\r\n\r\n<p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How can patients with HLBS disease and families at high risk of having unmet palliative care needs be identified?<\/p>\r\n\r\n<p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What components of palliative care are most important for improving HLBS patient and family outcomes, and what are the most effective ways to implement these components?<\/p>\r\n\r\n<p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How can palliative care be integrated early in the course of disease for patients with COPD, heart failure, and other chronic cardiopulmonary diseases, and does early integration improve patient outcomes and quality of life?<\/p>\r\n\r\n<p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How can common burdensome symptoms in cardiorespiratory diseases, such as cough and shortness of breath, be better addressed?<\/p>\r\n\r\n<p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How can shared decision making, advanced care planning, and communication about goals of care (including code status and use of instruments such as POLST forms) be improved and implemented in the management of patients with pulmonary fibrosis, heart failure, and other chronic cardiopulmonary diseases?<\/p>\r\n\r\n<p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What care models of intensive care unit (ICU) based palliative care are most effective for acute respiratory failure and acute decompensated heart failure patients and their families, and how is this influenced by the ICU structure and\/or culture?<\/p>\r\n\r\n<p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How can high-quality palliative care be delivered by general cardiologists, heart failure specialists, primary care physicians, nurses, social workers, and other clinicians integrated within the heart failure team?<\/p>\r\n\r\n<p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How can high-quality palliative care be delivered by nurses, hematologists, social workers, and clinicians integrated within teams specializing in the care of individuals with sickle cell disease and improve the lives of patients and families?<\/p>\r\n\r\n<p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How can palliative care approaches for patients with inherited bone marrow failure diseases or myelodysplastic syndromes, including the delivery and surveillance of chronic transfusions, be improved to meet the needs of patients and their caregivers?<\/p>\r\n\r\n<p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Can the management of chronic HLBS diseases be improved by increasing patient-physician communication using mobile apps?<\/p>\r\n\r\n<p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How can palliative care be used most effectively to improve the quality of life for patients experiencing chronic incurable blood diseases, chronic graft versus host disease, or other morbidities post-hematopoietic stem cell transplant?<\/p>\r\n\r\n<p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How can difficulty clearing airway secretions and aspiration risk be best managed in infants, children, and adults with terminal illnesses?<\/p>\r\n\r\n<p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How can sleep disturbances during treatment or at the end of life be improved?<\/p>\r\n\r\n<p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Can routine screening of unmet palliative care needs in cystic fibrosis patients optimize the provision of palliative care and improve quality of life?<\/p>\r\n\r\n<p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What are the innovative strategies that can address barriers to care and help facilitate sustained delivery of evidence-based palliative care for patients with HLBS diseases?<\/p>\r\n\r\n<p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What is the optimal timing for palliative care consultation in planning long term goals for patients with life threatening HLBS diseases and their families?<\/p>\r\n\r\n<p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How can palliative care options best be incorporated into clinical decision support, shared decision making, and discussions between patients, families, and clinicians? What patient decision aids and\/or tools can be used to facilitate enhanced patient reported outcomes?<\/p>\r\n\r\n<p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How is palliative care best integrated into the care of individuals receiving transplantation therapies for heart, lung, and blood diseases (e.g., heart transplant, lung transplant, bone marrow transplant, hematopoietic stem cell transplant)?<\/p>\r\n\r\n<p>Note: NHLBI will only accept applications in response to PA-20-183 and PA-20-185. For PA-20-183, only mechanistic clinical trials will be accepted in accordance with&nbsp;<a data-auth=\"NotApplicable\" href=\"https:\/\/grants.nih.gov\/grants\/guide\/notice-files\/NOT-HL-19-690.html\" rel=\"noopener noreferrer\" target=\"_blank\">NOT-HL-19-690<\/a>. Applicants wishing to propose non-mechanistic clinical trials may consider applying to one of the NHLBI clinical trial mechanisms described at&nbsp;<a data-auth=\"NotApplicable\" href=\"https:\/\/www.nhlbi.nih.gov\/grants-and-training\/clinical-trial-development-continuum\" rel=\"noopener noreferrer\" target=\"_blank\">https:\/\/www.nhlbi.nih.gov\/grants-and-training\/clinical-trial-development-continuum<\/a>.\ufeff<\/p>\r\n\r\n<p><b>Eligibility Requirements<\/b><\/p>\r\n\r\n<p>\ufeffSubmit applications for this initiative using one of the following funding opportunity announcements (FOAs) or any reissues of these announcement through the expiration date of this notice.<\/p>\r\n\r\n<p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a data-auth=\"NotApplicable\" href=\"https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/PA-20-183.html\" rel=\"noopener noreferrer\" target=\"_blank\">PA-20-183<\/a>&nbsp;- NIH Research Project Grant (Parent R01 Clinical Trial Required)<\/p>\r\n\r\n<p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a data-auth=\"NotApplicable\" href=\"https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/pa-20-185.html\" rel=\"noopener noreferrer\" target=\"_blank\">PA-20-185<\/a>&nbsp;- NIH Research Project Grant (Parent R01 Clinical Trial Not Allowed)<\/p>\r\n\r\n<p>All instructions in the&nbsp;<a data-auth=\"NotApplicable\" href=\"https:\/\/grants.nih.gov\/grants\/how-to-apply-application-guide.html\" rel=\"noopener noreferrer\" target=\"_blank\">SF424 (R&amp;R) Application Guide<\/a>&nbsp;and the funding opportunity announcement used for submission must be followed, with the following additions:<\/p>\r\n\r\n<p>\u00b7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For funding consideration, applicants must include \u201cNOT-HL-20-737\u201d (without quotation marks) in the Agency Routing Identifier field (box 4B) of the SF424 R&amp;R form. Applications without this information in box 4B will not be considered for this initiative.<\/p>\r\n\r\n<p>Applications nonresponsive to terms of this NOSI will&nbsp;not be considered for the NOSI initiative.\ufeff<\/p>\r\n\r\n<p>Reference: NIH Guide, Week Ending September 11, 2020. (kww)\ufeff<\/p>\r\n\r\n<p><b>Sponsor Contact Information<\/b><\/p>\r\n\r\n<p>Lora Reineck, MD, MS&nbsp;<br \/>\r\nDivision of Lung Diseases<br \/>\r\nBuilding 31<br \/>\r\n31 Center Drive<br \/>\r\nBethesda, US-MD 20892<br \/>\r\nUnited States<br \/>\r\nPhone: 301-435-0222&nbsp;<br \/>\r\nE-Mail:&nbsp;<a data-auth=\"NotApplicable\" href=\"mailto:lora.reineck@nih.gov\" rel=\"noopener noreferrer\" target=\"_blank\">lora.reineck@nih.gov<\/a>&nbsp;<br \/>\r\nProgram URL:&nbsp;<a data-auth=\"NotApplicable\" href=\"https:\/\/grants.nih.gov\/grants\/guide\/notice-files\/NOT-HL-20-737.html\" rel=\"noopener noreferrer\" target=\"_blank\">https:\/\/grants.nih.gov\/grants\/guide\/notice-files\/NOT-HL-20-737.html<\/a><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Funding Opportunity Number: NOT-HL-20-737"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

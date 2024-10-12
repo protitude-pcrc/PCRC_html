@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a3b252ae-6651-499c-9355-c083cf8a80ed"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/4f9256af-a749-4859-a639-cdce784ab732"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/archetype5"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

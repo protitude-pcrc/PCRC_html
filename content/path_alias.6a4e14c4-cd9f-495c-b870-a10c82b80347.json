@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "6a4e14c4-cd9f-495c-b870-a10c82b80347"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/e60978ef-56af-44e7-8766-38c5c3d03e82"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/lemonfence"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

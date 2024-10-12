@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a9cd67b4-b424-4770-8a16-ae2587edd212"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/8cf84f93-f0f8-4df6-8362-1dfc65de9e57"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/ahrq-announces-funding-opportunity-developing-measures-shared-decision-making"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

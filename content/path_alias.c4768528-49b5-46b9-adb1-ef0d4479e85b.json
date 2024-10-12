@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c4768528-49b5-46b9-adb1-ef0d4479e85b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/af322073-244a-4931-a1a6-6d8d07933a05"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/new-icmje-requirements"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

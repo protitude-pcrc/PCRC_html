@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "b8236021-67eb-4f63-972d-9ce86c34f0c6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "NOI to Publish a Funding Opportunity Announcement"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-07-13T20:03:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2015-07-13T20:03:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/noi-publish-funding-opportunity-announcement",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<span style=\"color: #0481b2;\"><strong><a href=\"http:\/\/grants.nih.gov\/grants\/guide\/notice-files\/NOT-NR-15-003.html\" target=\"_blank\">Notice of Intent (NOI) to Publish a Funding Opportunity Announcement for the Exploratory Multi-site Palliative Care Research in Diverse Populations Utilizing the Palliative Care Research Cooperative (PCRC) Group (R21)<\/a><\/strong><\/span>\r\n\r\nWe are pleased to share the news that the NIH Notice of Intent (NOI) to Publish a Funding Opportunity Announcement for the Exploratory Multi-site Palliative Care Research in Diverse Populations Utilizing the Palliative Care Research Cooperative (PCRC) Group (R21) has been released: <a href=\"http:\/\/grants.nih.gov\/grants\/guide\/notice-files\/NOT-NR-15-003.html\" target=\"_blank\">http:\/\/grants.nih.gov\/grants\/guide\/notice-files\/NOT-NR-15-003.html<\/a>.\u00a0 The FOA is expected to be published in September 2015 with an expected application due date in November 2015.\r\n\r\nInterested investigators should first contact the NINR program officer for this NOI.<strong> Please note that a required <a href=\"http:\/\/palliativecareresearch.org\/research\/investigators\/loi\/\" target=\"_blank\">PCRC Letter of Intent (LOI)<\/a> in response to this funding opportunity will need to be submitted as a first step for collaborating with the PCRC.<\/strong> Stay tuned for updates regarding the PCRC LOI deadline. If you have PCRC questions related to this funding opportunity, please contact <a href=\"mailto:carey.candrian@ucdenver.edu\" target=\"_blank\">carey.candrian@ucdenver.edu<\/a>.\r\n\r\nThere will be an informational webinar on July 28th in the morning and we will share additional details as they become available.",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

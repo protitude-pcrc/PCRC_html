@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a19f142f-df44-443f-8b46-c740594b00bb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/e121a7c5-91b0-482f-a2bb-add435169d63"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/research\/investigator-support-information\/idc-webinar-series"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

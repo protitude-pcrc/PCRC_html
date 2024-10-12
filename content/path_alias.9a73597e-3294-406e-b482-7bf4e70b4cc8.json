@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "9a73597e-3294-406e-b482-7bf4e70b4cc8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/387f2284-4ca5-4795-b7e8-62cbb83790ea"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/collectorcompany"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

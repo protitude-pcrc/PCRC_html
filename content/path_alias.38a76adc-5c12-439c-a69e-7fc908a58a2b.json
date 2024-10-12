@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "38a76adc-5c12-439c-a69e-7fc908a58a2b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/f17553bb-0afc-475e-8205-001fdd9761dd"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/lsedig"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

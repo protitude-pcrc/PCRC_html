@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "bf95521c-921c-45d8-acd1-df0c3fc0a8da"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7326476d-6308-4edf-bfcf-751372b6205f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/potential-participant-recruitment"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

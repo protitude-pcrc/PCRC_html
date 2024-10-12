@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "dcbcca74-fb4b-42c8-83c9-854ba58df388"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Rasa&subset=gujarati#600"
+        }
+    ],
+    "name": [
+        {
+            "value": "Rasa 600 (gujarati)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Rasa"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "600"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:8:\"Rasa:600\";s:6:\"subset\";s:8:\"gujarati\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:01:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:01:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "12b0dea5-d190-4fa8-bef6-36049468456b"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d4473324-ddd6-464a-a960-bc183f891419"
+        }
+    ],
+    "field_tags": []
+}

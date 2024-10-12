@@ -1,0 +1,236 @@
+{
+    "uuid": [
+        {
+            "value": "d8dde6ce-168a-48e9-a60c-0d8cb4a6e8d9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-05-19T17:01:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "title": [
+        {
+            "value": "Psychological Intervention for Caregivers of Patients with Malignant GIiomas"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-04-21T13:41:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-05-19T17:01:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/study\/psychological-intervention-caregivers-patients-malignant-giiomas",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "fc77d1db-b1f6-43f7-b56d-0efb590edbbf"
+        }
+    ],
+    "field_approved_data_requests": [],
+    "field_award_number": [],
+    "field_condition_studied": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "75d6518c-1f57-4a84-84b5-14617cfdfa31"
+        }
+    ],
+    "field_csr_summary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "4f05093e-8850-4d7f-85ae-f650ee5f1cdf"
+        }
+    ],
+    "field_data_dictionary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "d7d32710-bdc6-469d-966c-69281e1e38da"
+        }
+    ],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a801317c-42e4-4a02-af5c-078b6ddadb0f"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Psychological Intervention for Caregivers of Patients with Malignant GIiomas"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "10"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": false
+        }
+    ],
+    "field_nct_link_field": [],
+    "field_number_of_study_sites": [],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        }
+    ],
+    "field_participant_ethnicity_coll": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "350f6f60-c882-44d9-bf86-2f242d671d54"
+        }
+    ],
+    "field_participant_race": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "88ac74e1-8f30-4ba6-bbe9-d8a410f35170"
+        }
+    ],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9bae5dc6-39bb-4eb6-ba24-2add620945de"
+        }
+    ],
+    "field_pcrc_study_num": [
+        {
+            "value": "18-03"
+        }
+    ],
+    "field_primary_citation": [],
+    "field_sponsor": [],
+    "field_study_design": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "daae6b51-dea5-4f17-a71d-6e8474c47e08"
+        }
+    ],
+    "field_study_pi": [
+        {
+            "value": "Deborah A. Forst, MD"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "Massachusetts General Hospital "
+        }
+    ],
+    "field_study_setting": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "5ccfdb7d-bd8f-4259-b6b6-b51b7e66dfca"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "0273e5e5-00f3-4ffe-89c2-4dd69d36e8fc"
+        }
+    ],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "89b177d7-1afa-4d2b-bb5a-199a38866463"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p><strong>Objective:<\/strong>&nbsp;To refine a caregiver-directed intervention and study protocol based on acceptibility feedback from an open pilot study with exit interviews.<\/p>\r\n\r\n<p><strong>Methodology:&nbsp;<\/strong>A pilot study of NeuroCARE, our psychological intervention for caregivers of patients with malignant gliomas, was conducted. NeuroCARE involves six weekly or bi-weekly individual sessions with a study interventionist. Self-report data from caregiver participants both pre- and post-intervention was collected, and qualitative exit interviews were conducted to gather feedback and assess intervention acceptability. Information about patient diagnoses was extracted from the medical record. Caregivers were identified by patients, clinicians, or study staff.&nbsp;<\/p>\r\n\r\n<p><strong>Intervention:<\/strong>&nbsp;The findings from the longitudinal and qualitative studies and a thorough review of the literature were used to identify the necessary components of our caregiver intervention, NeuroCARE. The preliminary content includes three essential components: 1) a psychoeducational component focusing on coping strategies, mindfulness, and facilitating acceptance while living with uncertainty; and 3) a self-care component to promote caregiver health and well-being. The pyschological intervention consists of six individual sessions, 45-50 minutes each. Sessions were conducted&nbsp;via phone or video conference using HIPAA-complaint video platform provided by MGH TeleHealth to minimize participant burden and facilitate adherence. A social worker or psychologist in the MGH Cancer Center specifically trained on the intervention content delivered the intervention to a participant. The study team created the Intervention Manual for our Psychological Intervention for Caregivers of Patients with Malignant Gliomas, which was used as the basis for the intervention.&nbsp;<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [],
+    "field_therapeutic_area": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9f0b313e-b0ad-4af6-94c5-b2cd31413fe1"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "3a37ff90-723c-4328-b3cd-55fafaba4c2c"
+        }
+    ],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4d3f370c-c53a-4fa5-b976-8e7d7eab9dc9"
+        }
+    ]
+}

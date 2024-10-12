@@ -1,0 +1,234 @@
+{
+    "uuid": [
+        {
+            "value": "2d389fce-70d5-43f1-a748-4bdd97bff5a7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-07-20T15:44:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "title": [
+        {
+            "value": "Goals of Care "
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-07-16T17:56:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-07-20T15:44:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/study\/goals-care",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "a1860bf9-df81-46b8-9ed1-552ac756127c"
+        }
+    ],
+    "field_approved_data_requests": [],
+    "field_award_number": [],
+    "field_condition_studied": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "10071f1a-36f3-4612-a86a-d5794e2aac29"
+        }
+    ],
+    "field_csr_summary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "df3da238-6057-4d1b-84e2-2a3d7d63148e"
+        }
+    ],
+    "field_data_dictionary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "7f228732-6a3c-4ede-a660-b50ebb39433d"
+        }
+    ],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e494a23c-aea6-4f0b-a534-4b948ddfdb07"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Goals of Care: A Nursing Home Trial of Decision Support for Advanced Dementia"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "604"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": true
+        }
+    ],
+    "field_nct_link_field": [],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "61d157dc-3e71-421f-9651-b7bb08826194"
+        }
+    ],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "caefce4c-5e94-458b-b838-42ec8e25ae95"
+        }
+    ],
+    "field_participant_ethnicity_coll": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "350f6f60-c882-44d9-bf86-2f242d671d54"
+        }
+    ],
+    "field_participant_race": [],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9bae5dc6-39bb-4eb6-ba24-2add620945de"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bb33a50f-e9de-47ae-80e4-5167ef2b0d2f"
+        }
+    ],
+    "field_pcrc_study_num": [],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/jamanetwork.com\/journals\/jamainternalmedicine\/fullarticle\/2587643",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [],
+    "field_study_design": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8efa09b9-e9aa-43b7-bb08-51dcd38fabe3"
+        }
+    ],
+    "field_study_pi": [
+        {
+            "value": "Laura C. Hanson, MD, MPH"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "University of North Carolina at Chapel Hill "
+        }
+    ],
+    "field_study_setting": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "0f2452e4-c974-4039-82c0-d1744b0443df"
+        }
+    ],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [],
+    "field_summary": [
+        {
+            "value": "<h3>Objectives:<\/h3>\r\n\r\n<p><span style=\"font-size:12pt\"><span style=\"font-family:Cambria,serif\"><b><u><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">Aim 1<\/span><\/span><\/u><\/b><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">.&nbsp; To test the effect of the Goals of Care decision support intervention compared to an attention control on the <u>quality of communication and decision-making<\/u>, defined at 3 months follow-up as a) quality of communication; b) surrogate \u2013 health care provider concordance on goals of care; and c) surrogate report of treatment consistent with <i>the resident\u2019s<\/i> wishes.<\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span style=\"font-size:12pt\"><span style=\"font-family:Cambria,serif\"><b><u><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">Aim 2<\/span><\/span><\/u><\/b><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">.&nbsp; To test the effect of the intervention on <u>quality of palliative care<\/u> for residents with advanced dementia, defined at 6 months follow-up as a) number of palliative care domains addressed for the resident in the care plan; b) symptom management; and c) surrogate satisfaction with care for advanced dementia.&nbsp; <\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span style=\"font-size:12pt\"><span style=\"font-family:Cambria,serif\"><b><u><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">Aim 3<\/span><\/span><\/u><\/b><b><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">.<\/span><\/span><\/b><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">&nbsp; To test the effect of the intervention on <u>quality of dying<\/u> for residents with advanced dementia, measured after death as a) surrogate \u2013 health care provider concordance on goals of care, and b) resident comfort in dying. <\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"margin-top: 3px;\"><span style=\"font-size:13pt\"><span style=\"line-height:106%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"color:#365f91\"><span style=\"font-weight:normal\"><span style=\"font-size:11.0pt\"><span style=\"line-height:106%\">This research provides the first empiric test of the goals of care framework for dementia.&nbsp; It extends decision support research to surrogates, who make most decisions for patients with serious and incurable illness. To permit dissemination, the intervention design is pragmatic and well integrated with nursing home <span style=\"letter-spacing:.15pt\">interdisciplinary care.&nbsp;<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [
+        {
+            "value": "<h4>Additional Publications:<\/h4>\r\n\r\n<ul>\r\n\t<li style=\"margin-left: 8px;\">\r\n\t<p><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"background:white\"><span style=\"color:#212121\">Chisholm L, Zimmerman S, Rosemond C, et al. Nursing home staff perspectives on adoption of an innovation in&nbsp;goals of care communication.&nbsp;<i>Geriatr Nurs<\/i>. 2018;39(2):157\u2010161. <a href=\"doi:10.1016\/j.gerinurse.2017.08.001\">doi:10.1016\/j.gerinurse.2017.08.001<\/a><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"margin-left: 8px;\">\r\n\t<p><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"background:white\"><span style=\"color:#212121\">Ernecoff NC, Lin FC, Wessell KL, Hanson LC. Quality of Life with Late-Stage Dementia: Exploring Opportunities to Intervene.&nbsp;<i>J Am Geriatr Soc<\/i>. 2019;67(6):1189\u20101196. <a href=\" https:\/\/doi.org\/10.1111\/jgs.15794\">doi:10.1111\/jgs.15794<\/a><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"margin-left: 8px;\">\r\n\t<p><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"background:white\"><span style=\"color:#212121\">Ernecoff NC, Zimmerman S, Mitchell SL, et al. Concordance between Goals of Care and Treatment Decisions for Persons with Dementia.&nbsp;<i>J Palliat Med<\/i>. 2018;21(10):1442\u20101447. <a href=\"https:\/\/doi.org\/10.1089\/jpm.2018.0103\">doi:10.1089\/jpm.2018.0103<\/a><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"margin-left: 8px;\">\r\n\t<p><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"background:white\"><span style=\"color:#212121\">Hanson LC, Song MK, Zimmerman S, et al. Fidelity to a behavioral intervention to improve goals of care decisions for nursing home residents with advanced dementia.&nbsp;<i>Clin Trials<\/i>. 2016;13(6):599\u2010604. <a href=\"https:\/\/doi.org\/10.1177%2F1740774516650863\">doi:10.1177\/1740774516650863<\/a><\/span><\/span><\/span><\/span><\/span><a href=\"https:\/\/doi.org\/10.1177%2F1740774516650863\">&nbsp;<\/a>&nbsp;<\/p>\r\n\t<\/li>\r\n\t<li style=\"margin-left: 8px;\">\r\n\t<p><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"background:white\"><span style=\"color:#212121\">Hanson LC, Zimmerman S, Song MK, et al. Effect of the Goals of Care Intervention for Advanced Dementia: A Randomized Clinical Trial.&nbsp;<i>JAMA Intern Med<\/i>. 2017;177(1):24\u201031. <a href=\"https:\/\/jamanetwork.com\/journals\/jamainternalmedicine\/fullarticle\/2587643\">doi:10.1001\/jamainternmed.2016.7031<\/a><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"margin-left: 8px;\">\r\n\t<p><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"background:white\"><span style=\"color:#212121\">Rosemond C, Hanson LC, Zimmerman S. Goals of Care or Goals of Trust? How Family Members Perceive Goals for Dying Nursing Home Residents.&nbsp;<i>J Palliat Med<\/i>. 2017;20(4):360\u2010365. <a href=\"https:\/\/doi.org\/10.1089\/jpm.2016.0271\">doi:10.1089\/jpm.2016.0271<\/a><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"margin-bottom: 11px; margin-left: 8px;\">\r\n\t<p><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"><span style=\"background:white\"><span style=\"color:#212121\">Toles M, Song MK, Lin FC, Hanson LC. Perceptions of Family Decision-makers of Nursing Home Residents With Advanced Dementia Regarding the Quality of Communication Around End-of-Life Care.&nbsp;<i>J Am Med Dir Assoc<\/i>. 2018;19(10):879\u2010883. <a href=\"https:\/\/doi.org\/10.1016\/j.jamda.2018.05.015\">doi:10.1016\/j.jamda.2018.05.015<\/a><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\t<\/li>\r\n<\/ul>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_therapeutic_area": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "3a37ff90-723c-4328-b3cd-55fafaba4c2c"
+        }
+    ],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4899ab96-a788-4a21-8a17-927137b8ffa9"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "2966c732-b175-4070-bf77-66593b1d518a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/27fc1ff2-e4f5-48f4-89b2-b12dda73f1c0"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/post-acute-care-conference"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

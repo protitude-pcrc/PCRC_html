@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "9ac2f103-eba7-4605-9816-0e808cbda232"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/d5ec4ca9-34c3-4917-a4a2-0f88fb2ced89"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/kmichelson"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

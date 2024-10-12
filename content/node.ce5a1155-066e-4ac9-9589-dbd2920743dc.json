@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "ce5a1155-066e-4ac9-9589-dbd2920743dc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-02-16T21:26:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "AHRQ Evidence Review"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-02-16T21:22:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-02-16T21:26:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/ahrq-evidence-review",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The Evidence-based Practice Center (EPC) Program at the Agency for Healthcare Research and Quality (AHRQ) has completed an evidence review on&nbsp;<b>Integrating Palliative Care in Ambulatory Care of Noncancer Serious Chronic Illness<\/b>. The final report is available at&nbsp;the Effective Healthcare <a href=\"https:\/\/effectivehealthcare.ahrq.gov\/products\/palliative-care-integration\/research\">Web site<\/a>.<\/p>\r\n\r\n<p>Key findings include:<\/p>\r\n\r\n<ul type=\"disc\">\r\n\t<li>A variety of resources exist, particularly for patient and caregiver education and clinician education and training, but few have been evaluated for effectiveness or implementation.<\/li>\r\n\t<li>Shared decision-making tools may increase patient satisfaction and advance directive documentation.<\/li>\r\n\t<li>The models evaluated for integrating palliative care may have little to no effect on reducing overall symptom burden and were not more effective than usual care for improving health-related quality of life or depressive symptom scores but were more effective for increasing advance directive documentation.<\/li>\r\n\t<li>Patients and caregivers prefer advance care planning discussions grounded in patient and caregiver experiences and individualized for timing.<\/li>\r\n<\/ul>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "AHRQ Evidence Review; Integrating Palliative Care in Ambulatory Care of Noncancer Serious Chronic Illness"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6dd63752-6c14-4b63-b4b3-629fa676ba6e"
+        }
+    ]
+}

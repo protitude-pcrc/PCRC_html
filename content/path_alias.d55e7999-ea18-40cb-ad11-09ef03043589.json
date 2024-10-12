@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d55e7999-ea18-40cb-ad11-09ef03043589"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/c19c08ca-1815-436c-8186-c86de16440bc"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/corescenters"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

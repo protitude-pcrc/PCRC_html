@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d6d18517-0fb9-430c-9fcb-3e2a55d39a3b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/870662ab-4f9a-4e0d-af99-cc8d6f268be4"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-20-july-2016"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a455027d-03b4-435a-9e1d-42bbb73223a8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/c79440f3-3944-4293-adb7-4ee5fce1334c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/rfa-structural-racism"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

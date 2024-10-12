@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "0bc61ce5-e57b-4aec-add9-a423c9052b7b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/c31deb0f-c042-414c-8ab1-2d8945bb0495"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/emalone"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b064b698-3c3e-4bee-8db3-bfe672808826"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/a5626a1f-e697-4343-807c-a29875e1302c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-40-january-2020"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

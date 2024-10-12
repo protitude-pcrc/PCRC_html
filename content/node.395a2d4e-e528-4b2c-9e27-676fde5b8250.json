@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "395a2d4e-e528-4b2c-9e27-676fde5b8250"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-11-19T16:16:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "NIA IMPACT Collaboratory Webinars"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-11-19T16:05:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-19T16:16:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/nia-impact-collaboratory-webinars",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p style=\"text-align:justify; margin:0in 0in 0.0001pt\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\">The National Institute on Aging (NIA) Imbedded Pragmatic AD\/ADRD Clinical Trials (IMPACT) Collaboratory works to build the nation\u2019s capacity to conduct pragmatic clinical trials of interventions embedded within health care systems for people living with dementia and their caregivers. IMPACT Collaboratory hosts webinars on the 3<sup>rd<\/sup> Thursday of each month at 12 noon ET addressing these issues. Webinars are open to the public and no registration is required. <span class=\"MsoHyperlink\" style=\"color:#0563c1\"><span style=\"text-decoration:underline\"><a href=\"https:\/\/app.smartsheet.com\/b\/form\/cd653b19ca1142f7b59da5c0c7dcf6e3\" style=\"color:#0563c1; text-decoration:underline\">Click here<\/a><\/span><\/span> to join their&nbsp;mailing list to receive updates and reminders. A recording of the webinar as well as a companion podcast will be available following each event at <span class=\"MsoHyperlink\" style=\"color:#0563c1\"><span style=\"text-decoration:underline\"><a href=\"https:\/\/impactcollaboratory.org\/\" style=\"color:#0563c1; text-decoration:underline\">impactcollaboratory.org<\/a><\/span><\/span><span class=\"MsoHyperlink\" style=\"color:#0563c1\"><span style=\"text-decoration:underline\"><span style=\"text-decoration:none\"><span style=\"text-underline:none\">.<\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:justify; margin:0in 0in 0.0001pt\">&nbsp;<\/p>\r\n\r\n<p style=\"text-align:justify; margin:0in 0in 0.0001pt\">Next webinar: 11\/21 @ 12pm ET: \"Are you Ready for a Pragmatic Trial? The RAPT Model and Implementation Considerations\"<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

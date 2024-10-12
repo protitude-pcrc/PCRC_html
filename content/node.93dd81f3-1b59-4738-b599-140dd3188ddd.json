@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "93dd81f3-1b59-4738-b599-140dd3188ddd"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Statin Study Widens Interest in Palliative Care"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-07-11T06:11:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2015-07-11T06:11:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/statin-study-widens-interest-palliative-care",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<hr \/>\r\n\r\n<a href=\"\/sites\/default\/files\/migrated_files\/StatinStudyWidensInterest-UC-Health_19April2015.pdf\"><img class=\"alignleft size-thumbnail wp-image-556\" src=\"\/sites\/default\/files\/migrated_files\/StatinStudy_19April2015-150x150.png\" alt=\"StatinStudy_19April2015\" width=\"150\" height=\"150\" \/><\/a><a href=\"\/sites\/default\/files\/migrated_files\/StatinStudyWidensInterest-UC-Health_19April2015.pdf\">Statin Study Widens Interest in Palliative Care<\/a>\r\n\r\n<em>UC Health Insider<\/em>\r\n\r\n&nbsp;",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6dd63752-6c14-4b63-b4b3-629fa676ba6e"
+        }
+    ]
+}

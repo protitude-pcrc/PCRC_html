@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ed266736-da02-4451-b44f-f0f0f20b3f52"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/6d808435-590c-4ddf-b3c3-9b746b9450ac"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-53-april-2023"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

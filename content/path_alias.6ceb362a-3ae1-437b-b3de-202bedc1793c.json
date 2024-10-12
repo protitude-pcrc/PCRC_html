@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "6ceb362a-3ae1-437b-b3de-202bedc1793c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/0eedcbc8-2a52-46a7-adec-9e1c0dc4a8c8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/upcoming-presentations-and-events"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

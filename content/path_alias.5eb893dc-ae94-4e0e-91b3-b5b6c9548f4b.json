@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "5eb893dc-ae94-4e0e-91b3-b5b6c9548f4b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/c4c1b62a-869d-454a-b78c-bde33aba2db8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/sgarrigues"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

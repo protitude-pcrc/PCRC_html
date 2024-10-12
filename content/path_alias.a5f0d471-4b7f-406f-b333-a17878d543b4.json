@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a5f0d471-4b7f-406f-b333-a17878d543b4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/93dcb508-0d42-47ed-bb37-577437ba25ef"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/pcrchorizontal2png"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

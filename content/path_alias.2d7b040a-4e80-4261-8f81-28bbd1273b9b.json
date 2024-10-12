@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "2d7b040a-4e80-4261-8f81-28bbd1273b9b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/ddd663b7-94f9-4c86-90fc-16e21fae064b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-15-september-2015"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "uuid": [
+        {
+            "value": "ada72de9-d949-4b64-b017-229e7e4b85b0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-06-28T17:54:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "title": [
+        {
+            "value": "QDACT-PC Feasibility "
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-06-28T17:47:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-06-28T17:54:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/study\/qdact-pc-feasibility",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [],
+    "field_approved_data_requests": [],
+    "field_award_number": [],
+    "field_condition_studied": [],
+    "field_csr_summary": [],
+    "field_data_dictionary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "7267c1d8-8c79-4d70-94b5-96141fa32db4"
+        }
+    ],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a801317c-42e4-4a02-af5c-078b6ddadb0f"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Usability and Acceptability of the QDACT-PC, an Electronic Point-of-Care System for Standardized Quality Monitoring in Palliative Care"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "14"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": false
+        }
+    ],
+    "field_nct_link_field": [],
+    "field_number_of_study_sites": [],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        }
+    ],
+    "field_participant_ethnicity_coll": [],
+    "field_participant_race": [],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "33bd24d1-a052-426d-b433-ee5c51a93ff7"
+        }
+    ],
+    "field_pcrc_study_num": [
+        {
+            "value": "14-02"
+        }
+    ],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/www.sciencedirect.com\/science\/article\/pii\/S0885392415003309",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [],
+    "field_study_design": [],
+    "field_study_pi": [
+        {
+            "value": "Arif Kamal MD, MHS"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "Division of Medical Oncology and Duke Cancer Institute, Duke University Medical Center, Durham, North Carolina"
+        }
+    ],
+    "field_study_setting": [],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [],
+    "field_summary": [
+        {
+            "value": "<p><b>Context:&nbsp;<\/b>Few resources exist to support collaborative quality monitoring in palliative care. These tools, if proven efficient through technology-enabled methods, may begin to routinize data collection on quality during usual palliative care delivery. Usability testing is a common approach to assess how easily and effectively users can interact with a newly developed tool.<\/p>\r\n\r\n<p><b>Objectives:&nbsp;<\/b>We performed usability testing of the Quality Data Collection Tool for Palliative Care (QDACT-PC) a novel, point-of-care quality monitoring tool for palliative care.<\/p>\r\n\r\n<p><b>Methods:&nbsp;<\/b>We used a mixed-methods approach to assess community palliative care clinicians\u2019 evaluations of five domains of usability. These approaches included clinician surveys after recording mock patient data to assess satisfaction; review of entered data for accuracy and time to completion; and thematic review of \u201cthink aloud\u201d protocols to determine issues, barriers, and advantages to the electronic system.<\/p>\r\n\r\n<p><b>Results:&nbsp;<\/b>We enrolled 14 palliative care clinicians for the study. Testing the electronic system vs. paper-based methods demonstrated similar error rates and time to completion. Overall, 68% of the participants believed that the electronic interface would not pose a moderate or major burden during usual clinical activities, and 65% thought it would improve the care they provided. Thematic analysis revealed significant issues with paper-based methods alongside training needs for future participants on using novel technologies that support the QDACT-PC.<\/p>\r\n\r\n<p><b>Conclusion:&nbsp;<\/b>The QDACT-PC is a usable electronic system for quality monitoring in palliative care. Testing reveals equivalence with paper for data collection time, but with less burden overall for electronic methods across other domains of usability.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [],
+    "field_therapeutic_area": [],
+    "field_total_enrollment": []
+}

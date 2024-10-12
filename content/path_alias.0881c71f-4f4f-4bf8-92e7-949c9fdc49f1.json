@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "0881c71f-4f4f-4bf8-92e7-949c9fdc49f1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/cce1c79b-e14d-465c-af5d-a43acea4db5d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/brown-patient-data-dictionarydocx"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

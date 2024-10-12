@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "99518f2c-94e2-471a-a576-fb617c8ef6db"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/6ebb6dff-7340-4fc1-87f3-274bc0ab7eeb"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-1-february-2012"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

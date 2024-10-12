@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "84583f2d-47dc-40e5-be14-94957fee8a92"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-10-11T17:47:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Grant Submission"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-09-25T16:37:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-10-11T17:47:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/research\/investigator-support-information\/collaborating-pcrc\/grant-submission",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><a href=\"\/sites\/default\/files\/migrated_files\/3-grant_submission.jpg\"><img alt=\"3-grant_submission\" class=\"alignnone size-full wp-image-1427\" height=\"146\" src=\"\/sites\/default\/files\/migrated_files\/3-grant_submission.jpg\" width=\"721\" \/><\/a><\/p>\r\n\r\n<p>Following budget approval, the PCRC will provide all grant package documents based upon details in the <a href=\"\/research\/investigator-support-information\/collaborating-pcrc\/letter-intent\" target=\"_blank\">Letter of Intent<\/a> and planned use of PCRC resources.&nbsp; This will include the following:<\/p>\r\n\r\n<ul>\r\n\t<li>Subcontract Package with University of Colorado (PCRC primary grant institution)\r\n\t<ul>\r\n\t\t<li>Scope of Work \/ Biosketch(s)<\/li>\r\n\t\t<li>Budget \/ Budget justifications for the Project Coordinating Center activities<\/li>\r\n\t\t<li>Budget \/ Budget justifications for Planned consortium [genralized for total number of sites and planned accrual]<\/li>\r\n\t\t<li>Grant documents [Checklist, FCOI, Tax ID, Face page, etc.]<\/li>\r\n\t<\/ul>\r\n\t<\/li>\r\n\t<li>Biosketch(s) of PCRC Co-Chair and other relevant PCRC key personnel (e.g. Caregiver Core Director) if applicable<\/li>\r\n\t<li><a href=\"\/research\/investigator-support-information\/collaborating-pcrc\/letter-support\" target=\"_blank\">Letter of Support<\/a> signed by the PCRC Executive Leadership outlining your specific planned PCRC collaboration.*<\/li>\r\n<\/ul>\r\n\r\n<p><em>*Critical to NIH reviewers to demonstrate \u201ccollaboration\u201d<\/em><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

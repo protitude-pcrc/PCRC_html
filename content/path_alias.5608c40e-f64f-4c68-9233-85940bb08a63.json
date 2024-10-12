@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "5608c40e-f64f-4c68-9233-85940bb08a63"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/5f686ebb-b50d-407c-8038-e50304f18bef"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/jasonhoward"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

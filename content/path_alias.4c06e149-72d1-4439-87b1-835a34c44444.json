@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "4c06e149-72d1-4439-87b1-835a34c44444"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/46b3e0ed-a005-40ae-a783-ca723f045bc6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/who-we-are\/committeetask-force-call-applications"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

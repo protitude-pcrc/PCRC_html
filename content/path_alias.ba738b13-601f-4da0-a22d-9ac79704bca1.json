@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ba738b13-601f-4da0-a22d-9ac79704bca1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/fd7cabff-6857-4148-b88e-f85bb0601cc7"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/chestnutvessels"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

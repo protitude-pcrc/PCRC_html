@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ce469f63-5f3f-40b6-9fc7-c4bd7cbcaf30"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/8e297f7b-64f5-44a1-a796-1fb8b34b0680"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/datacollectiontool-rdospdf"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

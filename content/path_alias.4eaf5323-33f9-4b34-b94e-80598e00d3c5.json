@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "4eaf5323-33f9-4b34-b94e-80598e00d3c5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3498e864-bf2b-41da-b8fe-3186c32c9606"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/corescenters\/measurement-core\/Palliative-Care-Measurement-Tool-Library"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

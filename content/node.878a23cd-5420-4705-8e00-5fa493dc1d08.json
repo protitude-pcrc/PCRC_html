@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "878a23cd-5420-4705-8e00-5fa493dc1d08"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:35:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "PCRC Data Repository"
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-04-25T06:29:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2017-04-25T06:29:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/pcrc-data-repository",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "The PCRC Data Repository is intended to be a shared data resource for palliative care and end- of-life researchers. The initial focus was on storing de-identified data from PCRC-supported studies in one centralized location, curating these data, and making them available to researchers interested in conducting secondary analyses. \u00a0Plans to expand the PCRC Repository to include data from end-of-life and palliative care (EOLPC) studies not supported by the PCRC are underway as of the Spring 2017.\r\n\r\nThe PCRC Repository has the following analytic and procedural objectives:\r\n<ol>\r\n \t<li>To provide a resource for secondary data analysis, to support pilot, preliminary and other analyses to inform grant development and support junior investigator training; and<\/li>\r\n \t<li>To provide the mechanism to share data across PCRC sites, serve as a model for data harmonization, and be a resource for data standards for the PCRC community. By expanding the PCRC Repository to include study data from completed EOLPC studies conducted independently of the PCRC, the PCRC Data Repository will provide a centralized location and resource for EOLPC researchers.<\/li>\r\n<\/ol>\r\nOnce data are transmitted, they are stored on a server maintained by the PCRC at the PCRC Project Coordinating Center located at the University of Colorado (UC) consistent with good data storage practices.\r\n\r\nThe PCRC Data Repository includes de-identified study data, the related data dictionary and\/or annotated Case Report Forms (CRFs)\/Data Collection Tools (DCTs), and any other relevant study materials that may facilitate secondary analysis for other researchers.",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

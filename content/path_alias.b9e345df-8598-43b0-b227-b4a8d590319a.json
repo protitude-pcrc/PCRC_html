@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b9e345df-8598-43b0-b227-b4a8d590319a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/e5247e3b-0bed-4123-b775-e7657c304eeb"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/learnedrecharge"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

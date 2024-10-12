@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a6ee1514-f300-46c8-ab33-de6630244b97"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/09d4ca6f-b6a7-4fd7-bcc2-92c4dee0e1db"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/study\/pancreatic-care-planning"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

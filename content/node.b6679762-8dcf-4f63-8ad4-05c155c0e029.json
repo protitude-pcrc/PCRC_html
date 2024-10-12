@@ -1,0 +1,226 @@
+{
+    "uuid": [
+        {
+            "value": "b6679762-8dcf-4f63-8ad4-05c155c0e029"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-07-13T06:31:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "title": [
+        {
+            "value": "A Collaborative Palliative and Oncology Care Intervention to Improve Symptoms and Coping During Treatment for Head and Neck Cancer"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-07-13T06:28:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-07-13T06:31:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/study\/collaborative-palliative-and-oncology-care-intervention-improve-symptoms-and-coping-during",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [],
+    "field_approved_data_requests": [],
+    "field_award_number": [],
+    "field_condition_studied": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d3442e2e-2447-4c97-9465-8d531209a792"
+        }
+    ],
+    "field_csr_summary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "0786aa6c-1e42-4ea0-82fe-f2d1729d87fc"
+        }
+    ],
+    "field_data_dictionary": [],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e494a23c-aea6-4f0b-a534-4b948ddfdb07"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "A Pilot Study of a Collaborative Palliative and Oncology Care Intervention for Patients with Head and Neck Cancer"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "20"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": false
+        }
+    ],
+    "field_nct_link_field": [
+        {
+            "uri": "https:\/\/clinicaltrials.gov\/ct2\/show\/study\/NCT03760471",
+            "title": "NCT03760471",
+            "options": []
+        }
+    ],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d7cd26a3-2482-49da-b75d-bdd120b563ae"
+        }
+    ],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        }
+    ],
+    "field_participant_ethnicity_coll": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "350f6f60-c882-44d9-bf86-2f242d671d54"
+        }
+    ],
+    "field_participant_race": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "88ac74e1-8f30-4ba6-bbe9-d8a410f35170"
+        }
+    ],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bb33a50f-e9de-47ae-80e4-5167ef2b0d2f"
+        }
+    ],
+    "field_pcrc_study_num": [
+        {
+            "value": "18-05"
+        }
+    ],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/www.liebertpub.com\/doi\/10.1089\/jpm.2020.0656",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [],
+    "field_study_design": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8efa09b9-e9aa-43b7-bb08-51dcd38fabe3"
+        }
+    ],
+    "field_study_pi": [
+        {
+            "value": "Jessica Bauman, MD"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "Fox Chase Cancer Center"
+        }
+    ],
+    "field_study_setting": [],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "89b177d7-1afa-4d2b-bb5a-199a38866463"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<h3 id=\"d77610696e1\">Abstract<\/h3>\r\n\r\n<p><b><i>Background:<\/i><\/b>&nbsp;Palliative care improves symptoms and coping in patients with advanced cancers, but has not been evaluated for patients with curable solid malignancies. Because of the tremendous symptom burden and high rates of psychological distress in head and neck cancer (HNC), we evaluated feasibility and acceptability of a palliative care intervention in patients with HNC receiving curative-intent chemoradiation therapy (CRT).<\/p>\r\n\r\n<p><b><i>Methods:<\/i><\/b>&nbsp;This was a prospective single-arm study in HNC patients receiving CRT at a single center in the United States. The intervention entailed weekly palliative care visits integrated with oncology care with a focus on symptoms and coping. The primary outcome was feasibility, defined as a &gt;50% enrollment rate with &gt;70% of patients attending at least half of the visits. To assess acceptability, we collected satisfaction ratings post-intervention. We also explored symptom burden, mood, and quality of life (QOL).<\/p>\r\n\r\n<p><b><i>Results:<\/i><\/b>&nbsp;We enrolled 91% (20\/22) of eligible patients. Patients attended 133 of 138 palliative care visits (96%); all 20 attended &gt;85% of visits. Eighteen of 19 (95%) found the intervention \u201cvery helpful\u201d and would \u201cdefinitely recommend\u201d it. QOL and symptom burden worsened from baseline to week 5, but subsequently improved at one-month post-CRT. Overall, patients valued the one-on-one format of the intervention and receipt of additional care.<\/p>\r\n\r\n<p><b><i>Conclusions:<\/i><\/b>&nbsp;Our palliative care intervention during highly morbid CRT was feasible and acceptable with high enrollment, excellent intervention compliance, and high patient satisfaction. Future randomized studies will further explore the impact on patient-reported outcomes and health care utilization.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [],
+    "field_therapeutic_area": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9f0b313e-b0ad-4af6-94c5-b2cd31413fe1"
+        }
+    ],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4d3f370c-c53a-4fa5-b976-8e7d7eab9dc9"
+        }
+    ]
+}

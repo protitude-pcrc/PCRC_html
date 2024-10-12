@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "03dfda10-0129-42cb-9788-41c814298f47"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-10-31T15:29:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Resources"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-10-13T05:23:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-10-31T15:29:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/resources",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h3>Other Palliative Care Research Resources<\/h3><ul><li><a href=\"https:\/\/nexus.od.nih.gov\/all\/category\/open-mike\/\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>NIH <\/strong><em><strong>Nexus<\/strong><\/em><\/a>&nbsp;- the \"open mike\" blog from the Office of Extramural Research<\/li><li>National Palliative Care Research Center:&nbsp; <a href=\"http:\/\/www.npcrc.org\/\" target=\"_blank\" rel=\"noopener noreferrer\">http:\/\/www.npcrc.org\/<\/a><\/li><li>Cambia Health Foundation - Sojourns Scholars:&nbsp; <a href=\"https:\/\/www.cambiahealthfoundation.org\/focus-areas\/sojourns-scholar-leadership-program.html\" target=\"_blank\">https:\/\/www.cambiahealthfoundation.org\/focus-areas\/sojourns-scholar-leadership-program.html<\/a>&nbsp;<\/li><li><p><span>CAPC Pediatric palliative care programs and support documents:&nbsp; <\/span><a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__www.capc.org_topics_pediatric-2Dpalliative-2Dcare_&amp;d=CwMFaQ&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=N05K_zYkpnAvZj5crInxuRFyZ_WmfjNwQ_rAiZs9GyY&amp;s=O0yZQZOFwPTlsiPpdtVMpr9VHATsVH3r4M137qNNux0&amp;e=\" target=\"_blank\"><span>https:\/\/www.capc.org\/topics\/pediatric-palliative-care\/<\/span><\/a><\/p><p>&nbsp;<\/p><\/li><\/ul>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7e1e2dc4-31f2-40b6-9d59-39362bcec038"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/0ca7671a-5ed4-4436-a79f-b5a8b0225c40"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/noimagepng"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

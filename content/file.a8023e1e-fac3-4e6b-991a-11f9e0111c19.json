@@ -1,0 +1,69 @@
+{
+    "uuid": [
+        {
+            "value": "a8023e1e-fac3-4e6b-991a-11f9e0111c19"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "document",
+            "target_type": "file_type",
+            "target_uuid": "aba37c63-b654-405f-a34e-d829c2ad7580"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "filename": [
+        {
+            "value": "Ryan Nipp - DISC Data Repository - Study Summary Template.docx"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/csr_summaries\/Ryan Nipp - DISC Data Repository - Study Summary Template.docx"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 367927
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-03-02T20:40:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-03-02T21:14:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/ryan-nipp-disc-data-repository-study-summary-templatedocx",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ]
+}

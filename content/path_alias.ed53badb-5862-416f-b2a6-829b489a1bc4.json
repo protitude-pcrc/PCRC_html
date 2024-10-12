@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ed53badb-5862-416f-b2a6-829b489a1bc4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/8d18e035-7f7a-4c89-bf8f-c149a962824b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-35-march-2019"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

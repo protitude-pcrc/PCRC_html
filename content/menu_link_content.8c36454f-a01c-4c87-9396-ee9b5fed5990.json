@@ -1,0 +1,87 @@
+{
+    "uuid": [
+        {
+            "value": "8c36454f-a01c-4c87-9396-ee9b5fed5990"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "value": "menu_link_content"
+        }
+    ],
+    "revision_created": [],
+    "revision_user": [],
+    "revision_log_message": [],
+    "enabled": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "Webmaster Login"
+        }
+    ],
+    "description": [],
+    "menu_name": [
+        {
+            "value": "user-menu"
+        }
+    ],
+    "link": [
+        {
+            "uri": "internal:\/user\/login",
+            "title": "",
+            "options": {
+                "attributes": {
+                    "target": "_self",
+                    "class": [
+                        "user-icon"
+                    ]
+                }
+            }
+        }
+    ],
+    "external": [
+        {
+            "value": false
+        }
+    ],
+    "rediscover": [
+        {
+            "value": true
+        }
+    ],
+    "weight": [
+        {
+            "value": -50
+        }
+    ],
+    "expanded": [
+        {
+            "value": false
+        }
+    ],
+    "parent": [],
+    "changed": [
+        {
+            "value": "2021-01-26T20:50:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ]
+}

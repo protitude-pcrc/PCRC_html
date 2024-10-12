@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "79f5fbb6-3052-482e-88dd-b87d9a9ec134"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/9e6e6b8f-816f-4ed9-9d84-4c22fff08de0"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/study\/hospice-bereavement-service-delivery-family-members-and-friends-bereavement-related-mental"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

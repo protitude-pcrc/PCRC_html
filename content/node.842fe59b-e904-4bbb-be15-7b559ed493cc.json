@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "842fe59b-e904-4bbb-be15-7b559ed493cc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-08-07T16:20:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5f686ebb-b50d-407c-8038-e50304f18bef"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "MGH Workshop on Methods in Supportive Oncology Research"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-07-24T05:51:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-08-07T16:20:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/mgh-workshop-methods-supportive-oncology-research",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>This NCI-funded intensive 6-day workshop will provide an overview of fundamental methods, such as study designs, qualitative and survey methods, and approaches to data analysis in supportive oncology research. Over the course of the workshop, participants will write a complete study protocol under the direct mentorship of expert faculty in the field of supportive oncology. Participants will continue to receive assistance after the workshop from their workshop mentors to help in the implementation of their studies at their home institutions.<\/p>\r\n\r\n<p>Essential workshop topics include: creation of conceptual models, supportive care clinical trials, development of psychosocial interventions, decision science, stakeholder engagement, web-based research, study of patient-provider communication, qualitative and survey methods, and data analysis.<\/p>\r\n\r\n<p>Jennifer Temel, MD and William Pirl, MD, MPH will co-chair the workshop with a multidisciplinary team of faculty including: Joseph Greer, PhD; Elyse Park, MD, MPH; Lisa Wood, PhD; James Tulsky, MD; Areej El-Jawahri, MD; Brad Zebrack, PhD, MSW, MPH; Joanne Wolfe, MD, MPH and others.<\/p>\r\n\r\n<p>The workshop will take place January 13-18, 2019 at the Massachusetts General Hospital in Boston, MA.<\/p>\r\n\r\n<p>Participants will receive a stipend for travel and lodging, and the week-long course is free of charge.&nbsp;<\/p>\r\n\r\n<p>Attendance is limited to 36 participants and will be based on a competitive application process.<\/p>\r\n\r\n<p>For more information and to apply, please visit the workshop website at: <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=http-3A__www.mghworkshop.com&amp;d=DwMFAg&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=FO74JayZ9Hj0jqFpIHR9JHtvHjMrPESuIrk0kAQsKo8&amp;s=nWJX5VJ8zTFLsB3o0_MBiWNTV_wEfMJ7sdnqWL_edws&amp;e=\">www.mghworkshop.com<\/a><\/p>\r\n\r\n<h4>Applications are due by September 7, 2018.<\/h4>\r\n\r\n<p>Please contact Chelsea Rapoport (<a href=\"mailto:csrapoport1@mgh.harvard.edu\">csrapoport1@mgh.harvard.edu<\/a>) if you have any questions.<\/p>\r\n\r\n<p>Physicians, nurses, social workers, and psychologists who are early-stage researchers are eligible to attend. Participants must have a doctoral degree or be a student in a doctoral program.<u5:p><\/u5:p><\/p>\r\n\r\n<p>Funded by NCI 25 CA 181000<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Applications due September 7, 2018"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

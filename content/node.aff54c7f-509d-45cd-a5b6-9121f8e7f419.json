@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "aff54c7f-509d-45cd-a5b6-9121f8e7f419"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-10-07T21:10:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "Annual IMPACT Training Workshop"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-10-07T21:03:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-10-07T21:10:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/annual-impact-training-workshop",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The 2nd Annual IMPACT Virtual&nbsp;<a data-auth=\"NotApplicable\" data-linkindex=\"1\" href=\"https:\/\/impactcollaboratory.us18.list-manage.com\/track\/click?u=b39fd7e3d891a68be47c6d4bf&amp;id=47b4c8d0e3&amp;e=171e1e02ab\" rel=\"noopener noreferrer\" target=\"_blank\">Training Workshop<\/a>&nbsp;will be held January 26-27, 2022. &nbsp;The deadline to register has been extended to&nbsp;<strong>October 22, 2021<\/strong>&nbsp;@ 5pm ET. Hurry as spots are filling fast. Apply&nbsp;<a data-auth=\"NotApplicable\" data-linkindex=\"2\" href=\"https:\/\/impactcollaboratory.us18.list-manage.com\/track\/click?u=b39fd7e3d891a68be47c6d4bf&amp;id=1cfb05c305&amp;e=171e1e02ab\" rel=\"noopener noreferrer\" target=\"_blank\">here<\/a>. This year\u2019s workshop features all new content. View the&nbsp;<a data-auth=\"NotApplicable\" data-linkindex=\"3\" href=\"https:\/\/impactcollaboratory.us18.list-manage.com\/track\/click?u=b39fd7e3d891a68be47c6d4bf&amp;id=ada4a03e34&amp;e=171e1e02ab\" rel=\"noopener noreferrer\" target=\"_blank\">draft agenda<\/a>.&nbsp;<br \/>\r\n<br \/>\r\nDon\u2019t miss this opportunity to further enhance your skills in designing and conducted ePCTs in people living with dementia (PLWD) and their care partners!&nbsp;&nbsp;<br \/>\r\n<br \/>\r\nThis virtual 1.5-day workshop will provide a foundation in practical aspects of designing and conducting ePCTs in Alzheimer\u2019s disease and related dementias (AD\/ADRD) through a combination of activities including: panel discussions, small group sessions, and networking opportunities with experts in the field.&nbsp;Participants will gain knowledge in ePCT design and method, problem-solve challenges faced in current or planned projects, and network and engage with the larger community of IMPACT investigators. Throughout the program, special attention will be paid to key considerations in integrating health equity and addressing ethical challenges in the design of ePCTs for these populations to ensure health equity.<br \/>\r\n&nbsp;<\/p>\r\n\r\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td valign=\"top\">\r\n\t\t\t<p><strong><u>TO APPLY:<\/u><\/strong><\/p>\r\n\r\n\t\t\t<p>For more information&nbsp;please visit:&nbsp;<a data-auth=\"NotApplicable\" data-linkindex=\"4\" href=\"https:\/\/impactcollaboratory.us18.list-manage.com\/track\/click?u=b39fd7e3d891a68be47c6d4bf&amp;id=801a54e027&amp;e=171e1e02ab\" rel=\"noopener noreferrer\" target=\"_blank\">https:\/\/impactcollaboratory.org\/training-workshop\/<\/a><br \/>\r\n\t\t\t<br \/>\r\n\t\t\t<strong>Deadline:<\/strong>&nbsp;Friday, October 22, 2021<br \/>\r\n\t\t\t<strong>Application:<\/strong>&nbsp;Please submit your online application&nbsp;<a data-auth=\"NotApplicable\" data-linkindex=\"5\" href=\"https:\/\/impactcollaboratory.us18.list-manage.com\/track\/click?u=b39fd7e3d891a68be47c6d4bf&amp;id=3bff0c2a49&amp;e=171e1e02ab\" rel=\"noopener noreferrer\" target=\"_blank\">here<\/a>.<\/p>\r\n\t\t\t<\/td>\r\n\t\t<\/tr>\r\n\t<\/tbody>\r\n<\/table>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Annual IMPACT Training Workshop: Building Skills to Conduct Embedded Pragmatic Clinical Trials for People Living with Dementia and their Care Partners"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

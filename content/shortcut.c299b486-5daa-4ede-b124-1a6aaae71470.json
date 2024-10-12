@@ -1,0 +1,37 @@
+{
+    "uuid": [
+        {
+            "value": "c299b486-5daa-4ede-b124-1a6aaae71470"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "shortcut_set": [
+        {
+            "target_id": "default",
+            "target_type": "shortcut_set",
+            "target_uuid": "7a4b1aa4-019a-486f-9b1e-b39e6ca91ced"
+        }
+    ],
+    "title": [
+        {
+            "value": "Automatic entity label"
+        }
+    ],
+    "weight": [],
+    "link": [
+        {
+            "uri": "internal:\/admin\/structure\/entityqueue\/publications_committee\/auto-label",
+            "title": null,
+            "options": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ]
+}

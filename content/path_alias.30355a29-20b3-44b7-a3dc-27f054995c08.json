@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "30355a29-20b3-44b7-a3dc-27f054995c08"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/622e783a-45d3-481a-a2e9-35452396a4c7"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/cetland"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

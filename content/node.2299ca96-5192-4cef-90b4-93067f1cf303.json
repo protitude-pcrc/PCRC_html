@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "2299ca96-5192-4cef-90b4-93067f1cf303"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "National Palliative Care Research Center grant opportunities"
+        }
+    ],
+    "created": [
+        {
+            "value": "2016-09-28T17:27:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2016-09-28T17:27:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/national-palliative-care-research-center-grant-opportunities",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p class=\"p1\"><b>Pilot and Exploratory Project Support Grants\r\n<\/b><span class=\"s1\"><b>Junior Faculty Career Development Awards\r\n<\/b><\/span><span class=\"s1\"><b>Transition to Independence Awards<\/b><\/span><span class=\"s1\">\u00a0<\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\"><strong>The Center has identified three specific areas of interest for all competitions:\r\n<\/strong>\r\n<\/span><span class=\"s1\">1.<\/span><span class=\"s2\">\u00a0<\/span><span class=\"s1\">Exploring the relationship of pain and other distressing symptoms to quality\/quantity of life, independence, function and disability and developing interventions directed at their treatment in patients with advanced and chronic illnesses\r\n\r\n<\/span><span class=\"s1\">2.\u00a0<\/span><span class=\"s1\">Studying methods of improving communication between persons living with serious illness, their families and their health care providers\r\n<\/span><span class=\"s1\">\r\n3.\u00a0<\/span><span class=\"s1\">Evaluating models and systems of care for patients living with serious illness and their families<\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\">Required letters of intent are due <b>November 7, 2016<\/b>. Invited full proposals will be due January 20, 2017. Additional details are available at <a href=\"http:\/\/www.npcrc.org\/content\/19\/Funding-Opportunities.aspx\" target=\"_blank\"><span class=\"s3\">http:\/\/www.npcrc.org\/content\/19\/Funding-Opportunities.aspx<\/span>.<\/a><\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\">\u00a0<\/span><\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

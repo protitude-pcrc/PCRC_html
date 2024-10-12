@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "67c082a2-b969-4660-8958-6325662b78b4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/e037001d-8379-4426-b259-6dc63cd7ce1d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/beulahmatt"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

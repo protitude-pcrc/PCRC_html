@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "5e9d8034-768e-4050-8f5d-52ee28629883"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/4c97b6d2-d603-4383-86b1-92a65bd82817"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/about\/mission-and-vision"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

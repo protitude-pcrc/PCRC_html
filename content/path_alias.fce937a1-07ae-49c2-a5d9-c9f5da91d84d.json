@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "fce937a1-07ae-49c2-a5d9-c9f5da91d84d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/8c32575e-76a4-431c-b217-a7c7e644b789"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/variablerunway"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

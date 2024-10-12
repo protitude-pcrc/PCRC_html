@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "0f240b77-bb70-4206-8dc6-4f3867b40c81"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/0c005992-9885-40c2-ae9c-c808df9bb380"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/brettbergmann"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

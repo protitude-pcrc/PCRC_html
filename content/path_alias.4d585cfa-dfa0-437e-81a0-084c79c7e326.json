@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "4d585cfa-dfa0-437e-81a0-084c79c7e326"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f06e1255-7603-477f-ac29-502cc2fdd10d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/corescenters\/measurement-core\/implement-patient-reported-outcomes-pros-research-studies"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

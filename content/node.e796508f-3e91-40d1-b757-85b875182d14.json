@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "e796508f-3e91-40d1-b757-85b875182d14"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Training Institute for Dissemination and Implementation Research in Health (TIDIRH) 2017"
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-04-08T10:56:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2017-04-08T10:56:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/training-institute-dissemination-and-implementation-research-health-tidirh-2017",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "SAVE THE DATE!\r\n\r\nEarly May\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Application Period Opens\r\nMid-June\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Application Period Closes\r\nMid-August\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Course Begins\r\nNov 30 &amp; Dec 1: \u00a0In-Person Training, Bethesda, MD\r\n\r\nOne of the most critical issues impeding improvements in public health today is the enormous gap between what we know can optimize health and health care and what actually gets implemented in everyday practice. The science of dissemination and implementation (D&amp;I) seeks to address this gap by understanding how best to ensure that evidence-based strategies to improve health and prevent disease are effectively delivered in clinical and public health practice.\r\n\r\nIn 2017, the institute will utilize a combination of a 3-month online course (six webinar sessions with related assignments) between mid-August and mid-November, and a 2-day in-person training to be held November 30 and December 1, 2017, in North Bethesda, MD. Faculty and guest lecturers will consist of leading experts (practitioners and teachers) in theory, implementation, and evaluation approaches to D&amp;I; creating partnerships and multilevel, transdisciplinary research teams; research design, methods, and analyses appropriate for D&amp;I investigations; and conducting research at different and multiple levels of intervention (e.g., clinical, community, policy). The training is open to researchers with interests in studying D&amp;I across health care, public health, and community settings.\r\n\r\nFor a background on the training institute, see: <a href=\"https:\/\/implementationscience.biomedcentral.com\/articles\/10.1186\/1748-5908-8-12\" target=\"_blank\">\"The U.S. training institute for dissemination and implementation research in health.\" <\/a>Implementation Science 2013 8:12.\r\n\r\nOnce available the Training Institute website will have more details as to participant eligibility and the application process.",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

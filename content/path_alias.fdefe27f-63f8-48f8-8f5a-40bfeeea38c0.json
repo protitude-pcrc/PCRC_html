@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "fdefe27f-63f8-48f8-8f5a-40bfeeea38c0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/afb54fc9-0e1c-40f6-9993-d463bdd24f8c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/johnnyten"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

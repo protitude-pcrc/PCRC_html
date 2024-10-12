@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "2547ebd8-08e6-45a1-8674-5825734ba202"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/78e38c14-d0e0-4924-8ba0-641e050490f6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/research\/conduct-your-research-through-pcrc\/pcrc-data-available-secondary-analysis"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

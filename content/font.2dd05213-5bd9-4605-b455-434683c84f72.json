@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "2dd05213-5bd9-4605-b455-434683c84f72"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Spectral&subset=cyrillic#italic"
+        }
+    ],
+    "name": [
+        {
+            "value": "Spectral italic (cyrillic)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Spectral"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "italic"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "normal"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:15:\"Spectral:italic\";s:6:\"subset\";s:8:\"cyrillic\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:00:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:00:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "12b0dea5-d190-4fa8-bef6-36049468456b"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4f81a706-9350-4724-8080-6e119e1f58a4"
+        }
+    ],
+    "field_tags": []
+}

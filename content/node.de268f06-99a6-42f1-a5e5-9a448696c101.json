@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "de268f06-99a6-42f1-a5e5-9a448696c101"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-06-08T16:46:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "Letter of Support - Airtable form test"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-06-08T16:46:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-06-08T16:46:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/letter-support-airtable-form-test",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h4>There are two types of letters of support (LOS) from the PCRC<\/h4>\r\n\r\n<ol>\r\n\t<li>Letters for PCRC Members; and<\/li>\r\n\t<li>Support letters for planned collaborators.<\/li>\r\n<\/ol>\r\n\r\n<p>PCRC Members may seek an LOS to support a promotion, K-award or other similar request. If you have had a project reviewed by the <a href=\"http:\/\/palliativecareresearch.org\/who\/scientific\/\">Scientific Review Committee (SRC)<\/a> or if your project has been reviewed by the SRC with resources identified and a budget, you may request a LOS.<\/p>\r\n\r\n<h2>LOS Standard Language<\/h2>\r\n\r\n<h4>To demonstrate mutual collaboration to work together, all Letters of Support include language for which collaborators agree to adhere:<\/h4>\r\n\r\n<ul>\r\n\t<li>To follow PCRC standards &amp; processes in their project including Use of Measurement Instruments &amp; Standard Data Elements, Participation in Study Participant Registry, Data Sharing Agreements, &amp; Financial Management Processes;<\/li>\r\n\t<li>That all Letters of Intent (LOI) and protocols will be reviewed by the PCRC Scientific Review Committee to ensure highest methodological standards;<\/li>\r\n\t<li>That all publications will adhere to the PCRC authorship guidelines to ensure consistent approaches to assigning authorship; and<\/li>\r\n\t<li>To adhere to PCRC Conflict of Interest and Code of Conduct practices, in the interest of ensuring transparent and trustworthy research.<\/li>\r\n<\/ul>\r\n\r\n<h4>LOS for Grant Collaboration<\/h4>\r\n\r\n<ul>\r\n\t<li>PCRC LOS will be a key element in any grant application to demonstrate collaboration<\/li>\r\n\t<li>Please allow 3 weeks to process<\/li>\r\n\t<li>In order to establish \/ validate the strength of the partnership\/collaboration, provide the following details:\r\n\t<ul>\r\n\t\t<li>Grant abstract and research plan details<\/li>\r\n\t\t<li>List of all PIs, Co-PIs, consultants, collaborations that may be connected to the PCRC network<\/li>\r\n\t\t<li>Any past dealing\/collaborations, etc. with the PCRC<\/li>\r\n\t\t<li>Funding start date\/timeframe (Funding Mechanism\/FOA)<\/li>\r\n\t<\/ul>\r\n\t<\/li>\r\n<\/ul>\r\n\r\n<h4>Other Requests \/ Non-Collaborating<\/h4>\r\n\r\n<ul>\r\n\t<li>Allow 2 weeks for processing.<\/li>\r\n\t<li>Your biosketch (or half page summary of you, your research &amp; experience), your role in the project.<\/li>\r\n\t<li>Information: addressee, date needed, etc.<\/li>\r\n\t<li>Paragraph highlighting your collaborative strengths between you\/your research and the PCRC<\/li>\r\n<\/ul>\r\n\r\n<pre>\r\n[button url=\"https:\/\/airtable.com\/shrKzqm3H8yu0WXq1?prefill_Request+Date=TODAY\" size=\"large\" color=\"orange\" target=\"_blank\"]Request an LOS[\/button]<\/pre>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

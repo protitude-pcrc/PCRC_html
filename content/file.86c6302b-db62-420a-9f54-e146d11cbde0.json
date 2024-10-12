@@ -1,0 +1,69 @@
+{
+    "uuid": [
+        {
+            "value": "86c6302b-db62-420a-9f54-e146d11cbde0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "document",
+            "target_type": "file_type",
+            "target_uuid": "aba37c63-b654-405f-a34e-d829c2ad7580"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "filename": [
+        {
+            "value": "combined_fellowship_flyer_v_10_10_2018.pdf"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/combined_fellowship_flyer_v_10_10_2018.pdf"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/pdf"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 405909
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-10-15T19:00:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-10-15T19:00:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/combinedfellowshipflyerv10102018pdf",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ]
+}

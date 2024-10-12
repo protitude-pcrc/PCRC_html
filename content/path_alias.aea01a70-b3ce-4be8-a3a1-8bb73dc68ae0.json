@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "aea01a70-b3ce-4be8-a3a1-8bb73dc68ae0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/d4f4a944-6e0a-4c86-ac17-a75f9f4f9a3d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/renatekels"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

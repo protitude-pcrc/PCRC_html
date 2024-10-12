@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c44506cd-0412-4e91-9d23-0dbda037c415"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/1de865a7-83c5-4c76-bfb4-64f59708de27"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/pcdmcompileddctspdf"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

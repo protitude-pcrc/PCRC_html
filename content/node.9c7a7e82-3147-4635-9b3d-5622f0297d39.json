@@ -1,0 +1,236 @@
+{
+    "uuid": [
+        {
+            "value": "9c7a7e82-3147-4635-9b3d-5622f0297d39"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-01-25T21:58:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "Family Experiences of ICU Transfers"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-01-10T21:41:53+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-01-25T21:58:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/study\/family-experiences-icu-transfers",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "364aca9c-0055-4da4-9fa3-47644fabafa8"
+        }
+    ],
+    "field_approved_data_requests": [],
+    "field_award_number": [
+        {
+            "value": "14-06p"
+        }
+    ],
+    "field_condition_studied": [],
+    "field_csr_summary": [],
+    "field_data_dictionary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "0c407830-33a1-422f-8492-f5da2dec3d02"
+        }
+    ],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4bd58710-be8a-492f-aeaa-ea503498514e"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Experiences of family members of patients admitted to the ICU  from the acute care floor"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "34"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": true
+        }
+    ],
+    "field_nct_link_field": [],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4f231d80-83c7-45f6-affe-6a582e037a21"
+        }
+    ],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        }
+    ],
+    "field_participant_ethnicity_coll": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "350f6f60-c882-44d9-bf86-2f242d671d54"
+        }
+    ],
+    "field_participant_race": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "88ac74e1-8f30-4ba6-bbe9-d8a410f35170"
+        }
+    ],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9bae5dc6-39bb-4eb6-ba24-2add620945de"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bb33a50f-e9de-47ae-80e4-5167ef2b0d2f"
+        }
+    ],
+    "field_pcrc_study_num": [
+        {
+            "value": "14-06"
+        }
+    ],
+    "field_primary_citation": [],
+    "field_sponsor": [
+        {
+            "value": "PCRC"
+        }
+    ],
+    "field_study_design": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8afd07a0-58a3-4743-8946-461e4165bb67"
+        }
+    ],
+    "field_study_pi": [
+        {
+            "value": "Ann C. Long, MD, MS"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "University of Washington"
+        }
+    ],
+    "field_study_setting": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "0273e5e5-00f3-4ffe-89c2-4dd69d36e8fc"
+        }
+    ],
+    "field_study_site_institution": [
+        {
+            "value": "University of Washington"
+        }
+    ],
+    "field_study_site_pi": [
+        {
+            "value": "J. Randall Curtis, MD, MPH"
+        }
+    ],
+    "field_study_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "89b177d7-1afa-4d2b-bb5a-199a38866463"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p>The aims of this study were to:<\/p>\r\n\r\n<ol>\r\n\t<li>Use rigorous qualitative methods to explore family member experiences during three specific periods of care: 1) at the time of their loved one\u2019s hospital admission and during their stay on the acute care floor; 2) at the time a decision is made to pursue transfer to the ICU; and 3) during the period of time following ICU&nbsp;admission.<\/li>\r\n\t<li>Perform an exploratory analysis of patient and family member factors associated with lower family member ratings of care for patients transferred from acute care to the ICU.<\/li>\r\n<\/ol>\r\n\r\n<p>Eligible patients were individuals transferred from acute care to the ICU after spending at least one day on the acute care floor and 48 hours in the ICU without decision-making capacity. Informal caregivers were eligible if they were English speaking family members of the patient willing to participate in an in-person interview and were involved in surrogate decision-making.<\/p>\r\n\r\n<p>[notification color=\"yellow\"]Please note that only the quantitative (demographics) data is currently available to share for this study. The PCRC Qualitative Data Repository is forthcoming.[\/notification]<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [],
+    "field_therapeutic_area": [],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4d3f370c-c53a-4fa5-b976-8e7d7eab9dc9"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f6127445-6093-43b6-bd34-c8dd9cd4aa69"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/d8e26128-6cd6-4972-bf39-9d9a3d08e2d3"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/data-sharingdocx"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,234 @@
+{
+    "uuid": [
+        {
+            "value": "7f4c9231-74d0-429c-b204-1b5636bba8b0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-01-25T21:33:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "Experiences and Outcomes of Dementia Caregivers"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-01-25T20:36:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-01-25T21:33:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/study\/experiences-and-outcomes-dementia-caregivers",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "99b5986a-b7c1-426e-918e-73bb7178e451"
+        }
+    ],
+    "field_approved_data_requests": [],
+    "field_award_number": [
+        {
+            "value": "2016-05p"
+        }
+    ],
+    "field_condition_studied": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "10071f1a-36f3-4612-a86a-d5794e2aac29"
+        }
+    ],
+    "field_csr_summary": [],
+    "field_data_dictionary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "093df133-4550-436e-ae6e-454b1f57ce2d"
+        }
+    ],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a801317c-42e4-4a02-af5c-078b6ddadb0f"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Experiences and Outcomes of Dementia Caregivers: Developing Dementia Palliative Care Approach"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "30"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": false
+        }
+    ],
+    "field_nct_link_field": [],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d7cd26a3-2482-49da-b75d-bdd120b563ae"
+        }
+    ],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        }
+    ],
+    "field_participant_ethnicity_coll": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "350f6f60-c882-44d9-bf86-2f242d671d54"
+        }
+    ],
+    "field_participant_race": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "88ac74e1-8f30-4ba6-bbe9-d8a410f35170"
+        }
+    ],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9bae5dc6-39bb-4eb6-ba24-2add620945de"
+        }
+    ],
+    "field_pcrc_study_num": [
+        {
+            "value": "16-07"
+        }
+    ],
+    "field_primary_citation": [],
+    "field_sponsor": [
+        {
+            "value": "PCRC"
+        }
+    ],
+    "field_study_design": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8afd07a0-58a3-4743-8946-461e4165bb67"
+        }
+    ],
+    "field_study_pi": [
+        {
+            "value": "Tatiana Sadak PhD, PMHNP"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "University of Washington"
+        }
+    ],
+    "field_study_setting": [],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "89b177d7-1afa-4d2b-bb5a-199a38866463"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p>This study sought to collect necessary formative data for informing a dementia palliative care model that emphasizes supportive care for caregivers of persons with dementia (PWD). The study aimed to set intervention targets for improving and maintaining dementia caregiver resilience and activation&nbsp;- knowledge and skills to manage PWD health while maintaining self-care, that may impact CG abilities for providing palliative care early in the trajectory of the PWD acute medical illnesses. &nbsp;<\/p>\r\n\r\n<p>Electronic medical records (EMR) were reviewed weekly to identify PWD that were admitted to the hospital with an ambulatory care sensitive condition and advanced dementia. The PWD's next of kin was invited to the study. Interested caregivers were consented and interviewed using the Managing Your Loved-One's Health (MYLOH) questionnaire, a single item caregiver stress scale, and the Managing Your Own Wellness (MYOW) inventory. Caregiver-reported&nbsp;data were triangulated with the medical records of PWD.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [
+        {
+            "value": "<p>Grant proposal<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_therapeutic_area": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "3a37ff90-723c-4328-b3cd-55fafaba4c2c"
+        }
+    ],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4d3f370c-c53a-4fa5-b976-8e7d7eab9dc9"
+        }
+    ]
+}

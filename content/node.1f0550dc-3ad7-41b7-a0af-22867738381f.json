@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "1f0550dc-3ad7-41b7-a0af-22867738381f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-04-24T01:10:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "New NIH Administrative Supplements"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-04-24T01:07:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-04-24T01:10:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/new-nih-administrative-supplements",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p style=\"margin:0in 0in 0.0001pt; text-align:start; -webkit-text-stroke-width:0px\"><span style=\"font-size:12pt\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"caret-color:#000000\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-variant-caps:normal\"><span style=\"font-weight:normal\"><span style=\"letter-spacing:normal\"><span style=\"orphans:auto\"><span style=\"text-transform:none\"><span style=\"white-space:normal\"><span style=\"widows:auto\"><span style=\"word-spacing:0px\"><span style=\"-webkit-text-size-adjust:auto\"><span style=\"text-decoration:none\"><span style=\"font-family:&quot;Calibri Light&quot;, sans-serif\"><span style=\"color:black\">NIH has released a&nbsp;<span style=\"background-color:white\"><span style=\"background-position:initial initial\"><span style=\"background-repeat:initial initial\">Notice of Special Interest for Administrative Supplements for Research on Sexual and Gender Minority (SGM) Populations (Administrative&nbsp;Support Clinical Trial Optional).&nbsp; <\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"margin:0in 0in 0.0001pt; text-align:start; -webkit-text-stroke-width:0px\">&nbsp;<\/p>\r\n\r\n<p style=\"margin:0in 0in 0.0001pt; text-align:start; -webkit-text-stroke-width:0px\"><span style=\"font-size:12pt\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"caret-color:#000000\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-variant-caps:normal\"><span style=\"font-weight:normal\"><span style=\"letter-spacing:normal\"><span style=\"orphans:auto\"><span style=\"text-transform:none\"><span style=\"white-space:normal\"><span style=\"widows:auto\"><span style=\"word-spacing:0px\"><span style=\"-webkit-text-size-adjust:auto\"><span style=\"text-decoration:none\"><span style=\"font-family:&quot;Calibri Light&quot;, sans-serif\"><span style=\"color:black\"><span style=\"background-color:white\"><span style=\"background-position:initial initial\"><span style=\"background-repeat:initial initial\">Applications are due on&nbsp;<b>May 18, 2019<\/b><\/span><\/span><\/span><\/span><\/span><span style=\"font-family:&quot;Calibri Light&quot;, sans-serif\"><span style=\"color:#333333\"><span style=\"background-color:white\"><span style=\"background-position:initial initial\"><span style=\"background-repeat:initial initial\">&nbsp;by 5:00 PM local time of applicant organization<\/span><\/span><\/span><\/span><\/span><span style=\"font-family:&quot;Calibri Light&quot;, sans-serif\"><span style=\"color:black\">.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"margin:0in 0in 0.0001pt; text-align:start; -webkit-text-stroke-width:0px\">&nbsp;<\/p>\r\n\r\n<p style=\"margin:0in 0in 0.0001pt; text-align:start; -webkit-text-stroke-width:0px\"><span style=\"font-size:12pt\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"caret-color:#000000\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-variant-caps:normal\"><span style=\"font-weight:normal\"><span style=\"letter-spacing:normal\"><span style=\"orphans:auto\"><span style=\"text-transform:none\"><span style=\"white-space:normal\"><span style=\"widows:auto\"><span style=\"word-spacing:0px\"><span style=\"-webkit-text-size-adjust:auto\"><span style=\"text-decoration:none\"><span style=\"font-family:&quot;Calibri Light&quot;, sans-serif\"><span style=\"color:black\"><span style=\"background-color:white\"><span style=\"background-position:initial initial\"><span style=\"background-repeat:initial initial\">For more information, visit:&nbsp;https:\/\/grants.nih.gov\/grants\/guide\/notice-files\/NOT-OD-19-102.html<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

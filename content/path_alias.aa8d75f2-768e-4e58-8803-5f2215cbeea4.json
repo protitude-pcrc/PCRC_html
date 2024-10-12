@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "aa8d75f2-768e-4e58-8803-5f2215cbeea4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/e9924060-4d6a-4c46-9963-6c2e32c41f47"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-43-october-2020"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

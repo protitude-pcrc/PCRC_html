@@ -1,0 +1,208 @@
+{
+    "uuid": [
+        {
+            "value": "09d4ca6f-b6a7-4fd7-bcc2-92c4dee0e1db"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-10-01T20:16:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "title": [
+        {
+            "value": "Pancreatic Care Planning"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-10-01T20:16:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-10-01T20:16:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/study\/pancreatic-care-planning",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [],
+    "field_approved_data_requests": [],
+    "field_award_number": [],
+    "field_condition_studied": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "49a9457f-c867-479e-b7f2-2e511d7f5dfc"
+        }
+    ],
+    "field_csr_summary": [],
+    "field_data_dictionary": [],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e494a23c-aea6-4f0b-a534-4b948ddfdb07"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Pancreatic Care Planning"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "10"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": false
+        }
+    ],
+    "field_nct_link_field": [],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d7cd26a3-2482-49da-b75d-bdd120b563ae"
+        }
+    ],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        }
+    ],
+    "field_participant_ethnicity_coll": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "350f6f60-c882-44d9-bf86-2f242d671d54"
+        }
+    ],
+    "field_participant_race": [],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bb33a50f-e9de-47ae-80e4-5167ef2b0d2f"
+        }
+    ],
+    "field_pcrc_study_num": [
+        {
+            "value": "14-04"
+        }
+    ],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/pubmed.ncbi.nlm.nih.gov\/26984248\/",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [],
+    "field_study_design": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8efa09b9-e9aa-43b7-bb08-51dcd38fabe3"
+        }
+    ],
+    "field_study_pi": [
+        {
+            "value": "Virginia Sun, Ph.D., R.N."
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "City of Hope"
+        }
+    ],
+    "field_study_setting": [],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "89b177d7-1afa-4d2b-bb5a-199a38866463"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<h2>Abstract<\/h2>\r\n\r\n<p><strong>Purpose:&nbsp;<\/strong>A diagnosis of pancreatic cancer is often associated with higher symptom burden, lower functional status, and worse quality of life (QOL). To date, few interventions have focused on the unique QOL needs of patients with pancreatic cancer. The purpose of this pilot study is to determine the feasibility of an interdisciplinary supportive care planning intervention in patients with pancreatic cancer during disease-focused treatments.<\/p>\r\n\r\n<p><strong>Methods:&nbsp;<\/strong>Patients enrolled in this prospective, pre- and post-intervention pilot study received a supportive care intervention that included the following three components: comprehensive QOL assessment, case presentation at interdisciplinary care meetings, and two nurse-administered educational sessions on QOL concerns. Patients completed outcome measures that included the FACT-Hep, FACIT-Sp-12, and self-report of finances and out-of-pocket costs since diagnosis. Measures were completed at baseline prior to receiving the intervention, and follow-up occurred at 1 and 2 months post-intervention.<\/p>\r\n\r\n<p><strong>Results:&nbsp;<\/strong>A total of 10 patients were enrolled during a 4-month period who provided informed consent, received the intervention, and completed the study (58 % accrual). Examination of pre- and post-intervention QOL outcomes revealed changes across the three evaluation time points that were not statistically significant. Patients were highly satisfied with the intervention, with 80 % reporting that the intervention was \"excellent.\" Discussions during the interdisciplinary care meetings and educational sessions were largely focused on physical and psychosocial needs.<\/p>\r\n\r\n<p><strong>Conclusions:&nbsp;<\/strong>An interdisciplinary supportive care planning intervention was potentially feasible and acceptable for pancreatic cancer patients in an ambulatory care setting.<\/p>\r\n\r\n<p><strong>Keywords:&nbsp;<\/strong>Pancreatic cancer; Quality of life; Supportive care; Symptoms.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [],
+    "field_therapeutic_area": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9f0b313e-b0ad-4af6-94c5-b2cd31413fe1"
+        }
+    ],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4d3f370c-c53a-4fa5-b976-8e7d7eab9dc9"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "3489d05f-79d3-48c0-80f8-01801ae91c29"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-08-28T18:07:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "2018 PCRC Investigator Development Pilot Funding Opportunity Announcement"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-05-23T14:00:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-08-28T18:07:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/2018-pcrc-investigator-development-pilot-funding-opportunity-announcement",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>We are pleased to announce that the Funding Opportunity Announcement (FOA) for the 2018 PCRC Investigator Development Pilot Program is now available: <a href=\"\/funding-opportunities\/pilot-funding-opportunities\">http:\/\/palliativecareresearch.org\/funding\/funding-opportunities\/pilot-funding<\/a>.<\/p>\r\n\r\n<p>[infobox]<strong>Interest Letters (required) are due June 1, 2018 @ 5pm Pacific<\/strong> and the full application is due July 16th, 2018 @ 5pm Pacific.&nbsp;Interest Letters and applications must be submitted electronically to Carey Candrian (<a href=\"mailto:carey.candrian@ucdenver.edu\">carey.candrian@ucdenver.edu<\/a>).[\/infobox]<\/p>\r\n\r\n<h4>Eligibility:<\/h4>\r\n\r\n<ul>\r\n\t<li>Eligible applicants are any individual(s) with the skills, knowledge, and resources necessary to carry out the proposed research is invited to develop an application for support. Individuals from underrepresented racial and ethnic groups as well as individuals with disabilities are strongly encouraged to apply.&nbsp;<\/li>\r\n\t<li>Eligible applicants are&nbsp;junior investigators meeting the NIH definition of \u201cnew investigator\u201d (an investigator who has not yet competed successfully for a substantial NIH research grant). At least one of the Principal Investigators must be a PCRC member. To become a PCRC member, please complete an application online (<a href=\"\/membership\/becoming-member\">http:\/\/palliativecareresearch.org\/members\/interested-in-pcrc-membership\/<\/a>). All pilot project applications should include a mentor with extramural funding. &nbsp;<\/li>\r\n<\/ul>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Interest Letters (required) are due June 1, 2018 @ 5pm Pacific"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "3053bb81-c22c-42c7-aa85-d1e2b97b2f5b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/9f545549-f36c-47b0-a787-595e58a253bc"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/members-only-test"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

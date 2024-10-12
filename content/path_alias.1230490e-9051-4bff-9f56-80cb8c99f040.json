@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1230490e-9051-4bff-9f56-80cb8c99f040"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/a1860bf9-df81-46b8-9ed1-552ac756127c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/goc-baseline-interviewpdf"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

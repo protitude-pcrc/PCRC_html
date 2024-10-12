@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "959d3cea-8f73-4d06-a6a9-4476b4043ffb"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Pangolin&subset=cyrillic-ext#regular"
+        }
+    ],
+    "name": [
+        {
+            "value": "Pangolin regular (cyrillic-ext)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Pangolin"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "normal"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:16:\"Pangolin:regular\";s:6:\"subset\";s:12:\"cyrillic-ext\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:01:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:01:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "fb3c9f53-320b-4929-8d89-6cc4f7c8330f"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "16e1d3a5-ee65-45c5-b809-f593551984b0"
+        }
+    ],
+    "field_tags": []
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "aa092caa-8469-41eb-a770-fb12bc5f7f7c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/97f3a6fb-4ce2-459f-81b2-af77d4cd3fd0"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-27-october-2017"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

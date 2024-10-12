@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f685f792-3fb7-4883-820a-9fc644fae232"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/49e1f787-75b4-41a9-aca8-28f433bb4fba"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/pcrc-study-recruitment"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

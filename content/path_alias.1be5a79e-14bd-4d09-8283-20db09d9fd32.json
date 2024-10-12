@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1be5a79e-14bd-4d09-8283-20db09d9fd32"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/ba6bb7a7-5896-409d-84f8-5603cc257c9d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/npcrc-call-applications"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

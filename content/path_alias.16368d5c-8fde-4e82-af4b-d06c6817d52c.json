@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "16368d5c-8fde-4e82-af4b-d06c6817d52c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/taxonomy\/term\/353"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news-type\/cores-and-centers"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,346 @@
+{
+    "uuid": [
+        {
+            "value": "936912b9-02a7-4299-97f8-6def8cae5068"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-03-04T19:34:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "Statin Discontinuation"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-03-21T19:28:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-03-04T19:34:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/study\/statin-discontinuation",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "dbadc062-998b-438e-a5b8-4378da9edeac"
+        }
+    ],
+    "field_approved_data_requests": [
+        {
+            "target_type": "node",
+            "target_uuid": "b453aab5-97e2-463f-be03-f421cfad4b0a"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "24b050bc-5433-4fba-aff1-d354bcb8f32a"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "6662e95a-a7d5-4308-ba66-edfd619c154a"
+        }
+    ],
+    "field_award_number": [
+        {
+            "value": "1UC4NR12584-01"
+        }
+    ],
+    "field_condition_studied": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "321b8fa9-b4e7-4db3-8dd3-2c05344381dd"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ba294641-344a-411e-b83a-2824fa79c55a"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8831528a-a5ce-441c-a11e-546983797930"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "10071f1a-36f3-4612-a86a-d5794e2aac29"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "732d309b-6e35-4e90-a311-e0824253c88b"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "88efc2b9-bda6-48ae-9537-44be6cbe5f02"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "5e1c7a67-3678-492e-ac65-26d896601c8e"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "83712aa5-211f-46de-a282-dead5352e1ec"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c0b56176-d99e-47bf-bf3c-f77e8e94b399"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6616d645-d798-451d-9159-b861d5f88d10"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6e0383fa-6713-4b4f-ac5b-7b593a132c29"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e8f471e3-4e4d-42a8-8273-510a9dbc3068"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e17a06d8-ef83-4954-9f48-f2124fd6918e"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "edfe367d-5378-477a-a011-017b07128208"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "dbce64f8-cacd-4c00-9ca9-7e575dafcec0"
+        }
+    ],
+    "field_csr_summary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "cfd2e7b2-e441-4e19-ae81-21c075dceedb"
+        }
+    ],
+    "field_data_dictionary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "bfe69021-38e6-4568-8e41-d4ebdeabdb64"
+        }
+    ],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e494a23c-aea6-4f0b-a534-4b948ddfdb07"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Multisite randomized trial of continuing versus discontinuing statins"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "381"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": true
+        }
+    ],
+    "field_nct_link_field": [
+        {
+            "uri": "https:\/\/clinicaltrials.gov\/show\/NCT01415934",
+            "title": "NCT01415934",
+            "options": []
+        }
+    ],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "b6bc0498-7338-4940-9886-e62fa81129d3"
+        }
+    ],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "caefce4c-5e94-458b-b838-42ec8e25ae95"
+        }
+    ],
+    "field_participant_ethnicity_coll": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "350f6f60-c882-44d9-bf86-2f242d671d54"
+        }
+    ],
+    "field_participant_race": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "88ac74e1-8f30-4ba6-bbe9-d8a410f35170"
+        }
+    ],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bb33a50f-e9de-47ae-80e4-5167ef2b0d2f"
+        }
+    ],
+    "field_pcrc_study_num": [
+        {
+            "value": "10-01"
+        }
+    ],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/25798575",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [
+        {
+            "value": "NINR"
+        }
+    ],
+    "field_study_design": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8efa09b9-e9aa-43b7-bb08-51dcd38fabe3"
+        }
+    ],
+    "field_study_pi": [
+        {
+            "value": "Amy Abernethy, MD, PhD & Jean Kutner, MD, MSPH"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "Duke University Medical Center & University of Colorado Denver"
+        }
+    ],
+    "field_study_setting": [],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d8112c55-df67-4b13-8ec6-fb43a0ba8e31"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p><strong>IMPORTANCE:<\/strong> For patients with limited prognosis, some medication risks may outweigh the benefits, particularly when benefits take years to accrue; statins are one example. Data are lacking regarding the risks and benefits of discontinuing statin therapy for patients with limited life expectancy.<\/p>\r\n\r\n<p><strong>OBJECTIVE:<\/strong> To evaluate the safety, clinical, and cost impact of discontinuing statin medications for patients in the palliative care setting.<\/p>\r\n\r\n<p><strong>DESIGN, SETTING, AND PARTICIPANTS:<\/strong> This was a multicenter, parallel-group, unblinded, pragmatic clinical trial. Eligibility included adults with an estimated life expectancy of between 1 month and 1 year, statin therapy for 3 months or more for primary or secondary prevention of cardiovascular disease, recent deterioration in functional status, and no recent active cardiovascular disease. Participants were randomized to either discontinue or continue statin therapy and were monitored monthly for up to 1 year. The study was conducted from June 3, 2011, to May 2, 2013. All analyses were performed using an intent-to-treat approach.<\/p>\r\n\r\n<p><strong>INTERVENTIONS:<\/strong> Statin therapy was withdrawn from eligible patients who were randomized to the discontinuation group. Patients in the continuation group continued to receive statins.<\/p>\r\n\r\n<p><strong>MAIN OUTCOMES AND MEASURES:<\/strong> Outcomes included death within 60 days (primary outcome), survival, cardiovascular events, performance status, quality of life (QOL), symptoms, number of nonstatin medications, and cost savings.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [
+        {
+            "value": "<p>Data set creation code, protocol, statistical report<\/p>\r\n\r\n<h3>Additional Citations<\/h3>\r\n\r\n<ul>\r\n\t<li>\r\n\t<p><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/26432571\" target=\"_blank\">McNeil, M.J., Kamal, A.H., Kutner, J.S., Ritchie, C.S. and Abernethy, A.P., 2016. The burden of polypharmacy in patients near the end of life.&nbsp;<i>Journal of pain and symptom management<\/i>,&nbsp;<i>51<\/i>(2), pp.178-183.<\/a><\/p>\r\n\t<\/li>\r\n\t<li>\r\n\t<p><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/28520522\" target=\"_blank\">Tjia, J., Kutner, J.S., Ritchie, C.S., Blatchford, P.J., Bennett Kendrick, R.E., Prince-Paul, M., Somers, T.J., McPherson, M.L., Sloan, J.A., Abernethy, A.P. and Furuno, J.P., 2017. Perceptions of Statin Discontinuation among Patients with Life-Limiting Illness.&nbsp;<i>Journal of palliative medicine<\/i>,&nbsp;<i>20 <\/i>(10), pp.1098-1103.<\/a><\/p>\r\n\t<\/li>\r\n\t<li>\r\n\t<p><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/28857119\" target=\"_blank\">Portz, J.D., Kutner, J.S., Blatchford, P.J. and Ritchie, C.S., 2017. High symptom burden and low functional status in the setting of multimorbidity.&nbsp;<i>Journal of the American Geriatrics Society<\/i>,&nbsp;<i>65<\/i>(10), pp.2285-2289.<\/a><\/p>\r\n\t<\/li>\r\n\t<li>\r\n\t<p><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/27663186\" target=\"_blank\">Hochman MJ, Kamal AH, Wolf S, Samsa GP, Currow DC, Abernethy AP, LeBlanc TW. <i>Anticholinergic drug burden in non-cancer vs. cancer patients near the end of life.<\/i><b> <\/b>J Pain Symptom Manage.&nbsp;2016 Nov;52(5):737-743.e3.<\/a><\/p>\r\n\t<\/li>\r\n\t<li>\r\n\t<p><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/30719645\" target=\"_blank\">Schenker Y, Park SY, Jeong K, Pruskowski J, Kavalieratos D, <\/a><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/30719645\" target=\"_blank\">Resick<\/a><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/30719645\" target=\"_blank\"> J,&nbsp;Abernethy A, Kutner JS. Associations Between Polypharmacy, Symptom Burden, and Quality of Life in Patients with Advanced, Life-Limiting Illness. J Gen Intern Med. 2019 Feb 4.<\/a><\/p>\r\n\t<\/li>\r\n<\/ul>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_therapeutic_area": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9f0b313e-b0ad-4af6-94c5-b2cd31413fe1"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "5a63a88c-7232-4892-bb34-63e7ddc7e662"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6f765f3c-f993-4a56-88a2-89970a1969a0"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "f2104e69-5e6f-45bf-9e4d-74b521e869e0"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "3a37ff90-723c-4328-b3cd-55fafaba4c2c"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c423d9a8-677d-45f4-981e-143fb7f7106a"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "250f54f0-e951-470d-b838-51221885f47e"
+        }
+    ],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "016aaa43-cedb-435d-a7d6-d6446d7af039"
+        }
+    ]
+}

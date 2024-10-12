@@ -1,0 +1,147 @@
+{
+    "uuid": [
+        {
+            "value": "dc42caae-af9d-4807-a20d-7cbf1c2753e4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "request",
+            "target_type": "node_type",
+            "target_uuid": "8262baa8-4bbb-493f-a05e-aae40f8a4fff"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-01-10T17:45:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "Exploring Psychological Symptoms as Moderators of Treatment Outcomes in the REST Study"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-05-14T20:28:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-01-10T17:45:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/request\/2018-0006",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_affiliation": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "f376f64f-842e-44d6-a0ee-2fa4762a208c"
+        }
+    ],
+    "field_data_requested": [
+        {
+            "target_type": "node",
+            "target_uuid": "0b226cf6-1baf-4cf1-bf54-61e899d81640"
+        }
+    ],
+    "field_date_of_approval": [
+        {
+            "value": "2017-05-09"
+        }
+    ],
+    "field_date_of_submission": [
+        {
+            "value": "2017-05-02"
+        }
+    ],
+    "field_pcrc_project_review": [],
+    "field_pi": [
+        {
+            "value": "Angela Ghesquiere"
+        }
+    ],
+    "field_project_status": [
+        {
+            "value": "<p>Published.<\/p>\r\n\r\n<p><a href=\"https:\/\/pubmed.ncbi.nlm.nih.gov\/31519267\/\"><em>Ghesquiere A, Wyka K, Smith M, Kutner JS. (2019.)<\/em><\/a><\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_reason_deemed_infeasible": [],
+    "field_request_number": [
+        {
+            "value": "2018-0006"
+        }
+    ],
+    "field_request_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ba7bda26-0f55-4e73-8bc3-3cc5408dfd93"
+        }
+    ],
+    "field_research_proposal": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "34be83be-9ad5-41d2-bbf6-617ca08b6351"
+        }
+    ],
+    "field_research_proposal_abstract": [
+        {
+            "value": "<p>Along with pain and other symptoms, psychological symptoms are prevalent in cancer patients, especially in advanced stages. A range of treatments have been developed to address both physical and psychological symptoms in advanced cancer patients, with massage therapy (MT; an approach involving manual manipulation of soft tissue) gaining increasing attention.<\/p>\r\n\r\n<p>In order to maximize the benefits of evidence-based treatments like MT, understanding whether there are subgroups who respond better to treatment than other groups is essential. We aim to examine whether, across treatment groups in the REST study, baseline presence of depression or psychological symptom frequency are associated with primary and secondary study outcomes.<\/p>\r\n\r\n<p>We also aim to test whether the presence of depression and baseline psychological symptom frequency moderate intervention effects.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ]
+}

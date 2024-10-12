@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "05aa232d-5a03-4797-a73c-6ed7c40ed393"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-01-22T17:56:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "FOA Posted for Administrative Supplement for Research on Sex\/Gender Differences"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-01-22T17:52:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-01-22T17:56:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/foa-posted-administrative-supplement-research-sexgender-differences",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The funding opportunity announcement,&nbsp;<a href=\"https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/PA-19-165.html\" target=\"_blank\">PA-19-165<\/a>, was recently posted for&nbsp;Administrative Supplement&nbsp;for Research on Sex\/Gender Influences.<\/p>\r\n\r\n<p>This Funding Opportunity Announcement (FOA) requests applications for one year of funding for the fiscal year (FY) 2019 Administrative Supplements for Research on Sex\/Gender Influences. This program is designed to provide supplemental funding to NIH-funded researchers to encourage the consideration of sex\/gender factors in their ongoing research. The proposed research must address at least one of the five strategic goals of the new 2019-2023 Trans-NIH <a href=\"http:\/\/www.nih.gov\/women\/strategicplan\" target=\"_blank\">Strategic Plan for the Health of Women<\/a> \"Advancing Science for the Health of Women.\"<\/p>\r\n\r\n<p>To access the application and additional information, please visit:&nbsp; <a href=\"https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/PA-19-165.html\" target=\"_blank\">https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/PA-19-165.html<\/a><\/p>\r\n\r\n<p>See this and many more funding opportunities from the NINR and others on our <a href=\"\/node\/542\">extramural funding and training opportunities page<\/a>!<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

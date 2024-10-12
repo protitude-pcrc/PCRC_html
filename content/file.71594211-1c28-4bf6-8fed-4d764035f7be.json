@@ -1,0 +1,75 @@
+{
+    "uuid": [
+        {
+            "value": "71594211-1c28-4bf6-8fed-4d764035f7be"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "image",
+            "target_type": "file_type",
+            "target_uuid": "5a44da8e-ed3c-44a3-a323-ce4123599632"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5f686ebb-b50d-407c-8038-e50304f18bef"
+        }
+    ],
+    "filename": [
+        {
+            "value": "alex-tillman-180x180-0602718.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/alex-tillman-180x180-0602718.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 19699
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-06-28T05:11:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-06-28T05:12:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/alex-tillman-180x180-0602718jpg",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_image_alt_text": [
+        {
+            "value": "Alex Tillman"
+        }
+    ],
+    "field_image_title_text": []
+}

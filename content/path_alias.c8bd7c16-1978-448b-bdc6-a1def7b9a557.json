@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c8bd7c16-1978-448b-bdc6-a1def7b9a557"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/c1f0af31-65cd-4baa-845f-6f1f29eb88fc"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/study\/translation-lung-cancer-palliative-care-intervention-clinical-practice"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

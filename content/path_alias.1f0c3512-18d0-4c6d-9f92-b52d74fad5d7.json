@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1f0c3512-18d0-4c6d-9f92-b52d74fad5d7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/812ff3a9-8191-4b7f-87e6-38404ca5c1fd"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/pcrc-nowordspng"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "b6e50d26-7e65-4178-af4b-71648afef106"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Lateef&subset=arabic#regular"
+        }
+    ],
+    "name": [
+        {
+            "value": "Lateef regular (arabic)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Lateef"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "normal"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:14:\"Lateef:regular\";s:6:\"subset\";s:6:\"arabic\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:01:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:01:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "fb3c9f53-320b-4929-8d89-6cc4f7c8330f"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "77be5c58-1174-4af9-b2c4-9e8f09b63c12"
+        }
+    ],
+    "field_tags": []
+}

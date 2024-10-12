@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "898951c6-c5e3-4f94-94e4-0c96abd1708b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1b20d494-d29b-4f5e-89b9-f3a565ab78cd"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news-page-members"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

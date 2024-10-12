@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d240feda-597c-44d1-aabe-de18fa00032a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/533d7060-5919-4449-baf4-2702be6c01ce"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/nih-webinar-series-mind-gap"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

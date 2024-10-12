@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "fd643b8e-8392-4f31-b83d-26ed66135405"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "NINR and Partners Present: The Science of Caregiving: Bringing Voices Together"
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-02-27T06:01:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2017-02-27T06:01:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/ninr-and-partners-present-science-caregiving-bringing-voices-together",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "NINR and its partners invite you to a summit that will provide perspectives across the spectrum of caregiving, including the importance of caregiving across the lifespan, current research as well as future directions for research, and the role of technology to improve the health of both patients and caregivers.\r\n\r\nThe summit will bring together an audience of researchers, advocates, healthcare providers, educators, and others interested in the science of caregiving.\r\n\r\nThe summit will be held August 7\u20138, 2017 on the NIH campus in Bethesda, Maryland.\r\n\r\nFor more information, please visit:\u00a0<a href=\"https:\/\/www.ninr.nih.gov\/newsandinformation\/events\/caregivingsummit\" target=\"_blank\">https:\/\/www.ninr.nih.gov\/newsandinformation\/events\/caregivingsummit<\/a>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

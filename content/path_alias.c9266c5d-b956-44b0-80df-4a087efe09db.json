@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c9266c5d-b956-44b0-80df-4a087efe09db"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/624a53b7-9caf-4df6-b36a-f3fce41b5a45"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/cropped-headerpng"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

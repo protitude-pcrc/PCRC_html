@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "fb45a6c9-2e8a-4309-ba6f-0f120aac4abc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/2d389fce-70d5-43f1-a748-4bdd97bff5a7"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/study\/goals-care"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

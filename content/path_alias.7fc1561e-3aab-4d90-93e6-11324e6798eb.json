@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7fc1561e-3aab-4d90-93e6-11324e6798eb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/b3076f61-50b3-492d-842f-548938c224ab"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/discelectra"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

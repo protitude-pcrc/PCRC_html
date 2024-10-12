@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "55ebd22b-535f-498d-a7cd-c7e6f8084aa1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/02d39471-e37d-477e-ae24-391cd9ada015"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/community-discovery"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

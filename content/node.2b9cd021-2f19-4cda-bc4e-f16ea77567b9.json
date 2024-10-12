@@ -1,0 +1,99 @@
+{
+    "uuid": [
+        {
+            "value": "2b9cd021-2f19-4cda-bc4e-f16ea77567b9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-04-26T16:05:54+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "PCRC Standardized Data Elements"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-07-12T06:23:14+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-04-26T16:05:54+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/corescenters\/data-informatics-statistics-core-disc\/pcrc-standardized-data-elements",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h4>PCRC Standardized Data Elements (SDEs)<\/h4>\r\n\r\n<p>A goal of the PCRC is for data to be easily comparable across studies.&nbsp; The PCRC asks investigators to follow a standardized format for collecting many data elements in their study.&nbsp;<\/p>\r\n\r\n<p>For example [ethnicity] will be consistently coded as [variable label = Ethnicity, value labels: 1 = Hispanic or Latino, 2 = Not Hispanic or Latino, 998=Not Reported, 999=Unknown].<\/p>\r\n\r\n<p>The standardized formats along with relevant metadata are documented in the <a href=\"https:\/\/pcrc.box.com\/s\/zwxaihcfbn8eh41vxdcv5b1289oxhxc2\" target=\"_blank\">standardized&nbsp;data elements library.<\/a>&nbsp; In addition to making data comparable across studies, the use of the data elements library within the PCRC will expedite development of data collection tools and case report forms, and conduct of data entry and data analysis for each study.<\/p>\r\n\r\n<p>The PCRC will work closely with investigators regarding common data elements once an LOI moves towards protocol development.<\/p>\r\n\r\n<p>Please consult the <a href=\"https:\/\/pcrc.box.com\/v\/SDE-PRO-Form\" rel=\"noopener noreferrer\" target=\"_blank\">PCRC Standardized Data Elements &amp; Patient Reported Outcome Instruments Form<\/a>&nbsp;for more information when determining which&nbsp;data elements you plan to use in your study.<\/p>\r\n\r\n<p>If there is a particular element that you think you will not be able to collect, please include an explanation\/rationale for not collecting. Please <strong><a href=\"mailto:pcrc@ucdenver.edu;KATHRYN.COLBORN@CUANSCHUTZ.EDU?subject=REDCap%20Data%20Dictionary%20SDEs\" rel=\"noopener\" target=\"_blank\">contact us<\/a><\/strong> if you would like to access a .csv file of the PCRC Standardized Data Elements available to investigators.<\/p>\r\n\r\n<h4>PCRC Patient Reported Outcome Instruments<\/h4>\r\n\r\n<p class=\"p1\"><span class=\"s1\">For studies that will use questionnaires to assess patient or caregiver outcomes such as symptoms, the impact of symptoms on daily activity, coping, well-being, etc., during the protocol development phase, the PCRC will formally review the choice of questionnaires and the strategy for survey data collection and can provide guidance to investigators.<\/span><\/p>\r\n\r\n<p class=\"p1\"><span class=\"s1\">To assist investigators in identifying high-quality instruments for their studies, the PCRC has developed an <\/span><a href=\"https:\/\/palliativecareresearch.org\/corescenters\/measurement-core\/Palliative-Care-Measurement-Tool-Library\"><span class=\"s2\">instrument library<\/span><\/a><span class=\"s1\"> composed of instruments for assessing patient outcomes, and as well as tools and resources for assessing <\/span><span class=\"s3\">caregiver outcomes<\/span><span class=\"s1\">.<\/span><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": [
+        {
+            "value": "The PCRC asks investigators to follow a standardized format for collecting many data elements in their study"
+        }
+    ]
+}

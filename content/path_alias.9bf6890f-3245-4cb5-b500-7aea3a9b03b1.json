@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "9bf6890f-3245-4cb5-b500-7aea3a9b03b1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/f7b4afe2-119b-408c-8961-e6f16aaceaa1"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/david-harris"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

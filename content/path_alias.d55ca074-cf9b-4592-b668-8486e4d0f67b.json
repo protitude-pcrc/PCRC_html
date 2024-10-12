@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d55ca074-cf9b-4592-b668-8486e4d0f67b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/424e10a6-5e83-4d3f-b105-a7ebbc304f27"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-6-march-2014"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

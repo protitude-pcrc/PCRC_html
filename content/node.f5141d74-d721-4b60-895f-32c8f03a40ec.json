@@ -1,0 +1,110 @@
+{
+    "uuid": [
+        {
+            "value": "f5141d74-d721-4b60-895f-32c8f03a40ec"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-05-23T15:15:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5f686ebb-b50d-407c-8038-e50304f18bef"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "2018 Lasker Clinical Research Scholars Program"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-11T04:44:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-05-23T15:15:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/2018-lasker-clinical-research-scholars-program",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><span>This unique program provides Scholars with 5 to 7 years of support as an independent principal investigator in the NIH Intramural Research Program, followed by three years of continued financial support, either at the NIH or at an outside medical center\/research institution.<\/span><\/p>\r\n\r\n<h4>Qualifications\/eligibility<\/h4>\r\n\r\n<p><span>Candidates must have a clinical doctoral degree (MD, MD\/PhD, DO, DDS, DMD, RN\/PhD or equivalent) and a professional license to practice in the United States. The program is intended for investigators at the early stages of their independent careers, and at the time of application, candidates must be no more than 10 years from completion of their core residency training.<\/span><\/p>\r\n\r\n<p><span>Candidates generally will have completed or will be completing a post-residency clinical fellowship and will have demonstrated significant patient-oriented research experience to qualify for a tenure-track level appointment.<\/span><\/p>\r\n\r\n<h4>Application deadline<\/h4>\r\n\r\n<p><span>August 31, 2018<\/span><\/p>\r\n\r\n<p>[infobox]For more information, please reference the documents attached here, or visit: <a href=\"https:\/\/www.nih.gov\/research-training\/lasker-clinical-research-scholars\">https:\/\/www.nih.gov\/research-training\/lasker-clinical-research-scholars<\/a>[\/infobox]<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "The National Institutes of Health, in partnership with the Lasker Foundation, is pleased to announce the 2018 Lasker Clinical Research Scholars Program. This is an opportunity for 8 to 10 years of funding for clinical researchers."
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

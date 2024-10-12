@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "73df46a4-111c-4b70-a6b9-53502f234c33"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/fbb78213-0384-44a7-a406-2fcabdeb14d8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/spawncowinedible"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

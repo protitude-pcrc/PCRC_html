@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f8af1325-2fa5-45a3-b440-955ea41e7dec"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/05f80f7d-4adc-44f3-b63e-511290b429f7"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-50-july-2022"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "0c26d885-ce6e-4766-87a8-ad311bf27cd8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-03-29T13:33:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "NIH Common Fund Funding Opportunities"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-03-29T13:27:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-03-29T13:33:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/nih-common-fund-funding-opportunities",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The NIH Common Fund is pleased to announce two new Funding Opportunities to address Health Disparities and Advance Health Equity. The NIH has established a new initiative called&nbsp;<a data-auth=\"NotApplicable\" href=\"https:\/\/www.nih.gov\/ending-structural-racism\" rel=\"noopener noreferrer\" target=\"_blank\">UNITE<\/a>&nbsp;to end structural racism and racial inequities throughout the biomedical research enterprise. Part of ending racial inequities in biomedical research will be to&nbsp;ensure NIH-supported research benefits the health of all populations, especially those whose health is negatively impacted by racism. For this reason, conducting new research into health disparities, minority health, and health equity is an important goal of UNITE.&nbsp;&nbsp;<\/p>\r\n\r\n<p>As part of UNITE, the&nbsp;<a data-auth=\"NotApplicable\" href=\"https:\/\/commonfund.nih.gov\" rel=\"noopener noreferrer\" target=\"_blank\">NIH Common Fund<\/a>&nbsp;issued two funding opportunities announcements (FOAs) to bolster innovation, solve challenges, and address health disparities and advance health equity:&nbsp;<\/p>\r\n\r\n<p>1)&nbsp;<a data-auth=\"NotApplicable\" href=\"https:\/\/grants.nih.gov\/grants\/guide\/rfa-files\/RFA-RM-21-021.html\" rel=\"noopener noreferrer\" target=\"_blank\">RFA-RM-21-021<\/a>&nbsp;Transformative Research to Address Health Disparities and Advance Health Equity (U01 Clinical Trial Allowed)<\/p>\r\n\r\n<p>2)&nbsp;<a data-auth=\"NotApplicable\" href=\"https:\/\/grants.nih.gov\/grants\/guide\/rfa-files\/RFA-RM-21-022.html\" rel=\"noopener noreferrer\" target=\"_blank\">RFA-RM-21-022<\/a>&nbsp;Transformative Research to Address Health Disparities and Advance Health Equity at Minority Serving Institutions (U01 Clinical Trial Allowed)<\/p>\r\n\r\n<p>The FOAs will support collaborative investigative teams or individual scientists who propose unusually innovative research projects, which, if successful, would have a major impact in developing, disseminating, or implementing innovative and effective interventions and\/or strategies that prevent, reduce, or eliminate health disparities and inequities.&nbsp; Additionally, funding opportunity&nbsp;<a data-auth=\"NotApplicable\" href=\"https:\/\/grants.nih.gov\/grants\/guide\/rfa-files\/RFA-RM-21-022.html\" rel=\"noopener noreferrer\" target=\"_blank\">RFA-RM-21-022<\/a>&nbsp;is expected to increase the competitiveness of investigators and expand the research base dedicated to health disparities research at minority serving institutions. Research addressing community-prioritized research questions, cross-cutting issues such as social determinants of health across sectors, multiple levels and systems that contribute to health disparities, and\/or priority areas of multiple NIH Institutes and Centers are particularly encouraged.<\/p>\r\n\r\n<p>Projects may include a formative observational component; however, each project is required to include an intervention component. To be considered transformative, projects should reflect ideas substantially different from mainstream concepts and have high potential to lead to major improvements in health through the development, implementation, or dissemination of highly innovative interventions to address health disparities and advance health equity.&nbsp;<\/p>\r\n\r\n<p>NIH staff intend to hold a Pre-Application Webinar for all interested prospective applicants. The webinar date and other details will be posted on&nbsp;<a data-auth=\"NotApplicable\" href=\"https:\/\/secure-web.cisco.com\/1mVUb_tKDBrODGwWyGZm3jtZ5rAKHEia50Un1Y6jEyew8FsuU35h66-yYqebcPgv59fYBXu8V2h35ByBsGzbjnb9ja3JA3Oz25j6-6Oesmje5bXa91moAbDUDjA0i_GRrYF6a8JoEWZ1p4d3kKNjGIf6QJ-EDPxdEhyWVboX67pEKEOMo06DVd2A2fknEBmG_yH2gQCSIftewmlnhL0M6rNe1tVmYzcv-3L0ErkHMJRlNEV2egi66DchAQLtAEE22tM_Cn09LTNAJJGz82hhmSg\/https%3A%2F%2Fcommonfund.nih.gov%2Fhealthdisparitiestransformation\" rel=\"noopener noreferrer\" target=\"_blank\">https:\/\/commonfund.nih.gov\/healthdisparitiestransformation<\/a>. NIH staff will be available to answer questions related to these FOAs. Answers to Frequently Asked Questions are available at&nbsp;<a data-auth=\"NotApplicable\" href=\"https:\/\/secure-web.cisco.com\/1tMa-yi3azix5I7AtkVu6Vc9CLwuRaEblErdQ9S1p6xBZ91fh0vpVzAt9Gf78pLXHAgSVFGIga2JpelNYJ6tGhr2YgFaGgp1docPPKbMQwQPwAyfLkR1wvV4qlYYquQlrvGzkjP-WGuLaZm7N5tautiNjLOO8VqbB_Pdk2CmV_z0vmsBcbxKK8vI7SCgRG8kqB3wXXNYLyrAlgxJCGYzY_1UGlXll8BCRhVX6yEJ78eys6XkfsEWuqON5ahepdxiqAcdQXdFigFaVfXsq05pchA\/https%3A%2F%2Fcommonfund.nih.gov%2Fhealthdisparitiestransformation%2Ffaqs\" rel=\"noopener noreferrer\" target=\"_blank\">https:\/\/commonfund.nih.gov\/healthdisparitiestransformation\/faqs<\/a>.&nbsp;<\/p>\r\n\r\n<p>All applications are due on&nbsp;<b>May 28, 2021 by 5:00 PM<\/b>&nbsp;local time of applicant organization. If you have questions about the FOAs, please email&nbsp;<a data-auth=\"NotApplicable\" href=\"mailto:CFHealthDisparities@nih.gov\" rel=\"noopener noreferrer\" target=\"_blank\">CFHealthDisparities@nih.gov<\/a>.<\/p>\r\n\r\n<p>Visit&nbsp;<a data-auth=\"NotApplicable\" href=\"https:\/\/secure-web.cisco.com\/1mVUb_tKDBrODGwWyGZm3jtZ5rAKHEia50Un1Y6jEyew8FsuU35h66-yYqebcPgv59fYBXu8V2h35ByBsGzbjnb9ja3JA3Oz25j6-6Oesmje5bXa91moAbDUDjA0i_GRrYF6a8JoEWZ1p4d3kKNjGIf6QJ-EDPxdEhyWVboX67pEKEOMo06DVd2A2fknEBmG_yH2gQCSIftewmlnhL0M6rNe1tVmYzcv-3L0ErkHMJRlNEV2egi66DchAQLtAEE22tM_Cn09LTNAJJGz82hhmSg\/https%3A%2F%2Fcommonfund.nih.gov%2Fhealthdisparitiestransformation\" rel=\"noopener noreferrer\" target=\"_blank\">https:\/\/commonfund.nih.gov\/healthdisparitiestransformation<\/a>&nbsp;for more information about the Common Fund\u2019s Transformative Research to Address Health Disparities and Advance Health Equity initiative, and please sign up for our listserv:&nbsp;<a data-auth=\"NotApplicable\" href=\"https:\/\/secure-web.cisco.com\/1cjdnfpMde3PNeORWbcydLe3Dw4nQswl1zvMTT83XbwqMy8gsE76QJQRkHDP6r4zWHFC1XIEzt5mqUuWSseEUPSxoYqsL5M_eAiSeo1fDom_KCZyU1CjsAKrwIQ853MYzAXY3e5IDvFucig20uGzrFhxaSn5LWR1M0f4ycP-RhlBqkEgw3p2G-b-PNXgVWxgZvuf-8HtTanhJxfAbWhTchHsOwf0KE8UYezEguv98k8BURqTLfDlI1FvwI97b7U5TLiK1w1eZzmII9eSS9Uu1XA\/https%3A%2F%2Flist.nih.gov%2Fcgi-bin%2Fwa.exe%3FSUBED1%3DCFHEALTHDISPARITIESRESEARCH-LIST%26A%3D1\" rel=\"noopener noreferrer\" target=\"_blank\">CFHealthDisparitiesResearch-List<\/a>.<\/p>\r\n\r\n<p>The Transformative Health Disparities Advance Health Equity Initiative and other Common Fund programs are managed by the Office of Strategic Coordination, Division of Program Coordination, Planning, and Strategic Initiatives in the NIH Office of the Director, in partnership with the component NIH Institutes, Centers, and Offices. The NIH Common Fund encourages collaboration and supports a series of exceptionally high impact, trans-NIH programs.<\/p>\r\n\r\n<p>The National Institutes of Health (NIH) \u2013\u201cThe Nation's Medical Research Agency\u201d\u2013 includes 27 Institutes and Centers and is a component of the U. S. Department of Health and Human Services. It is the primary federal agency for conducting and supporting basic, clinical and translational medical research, and it investigates the causes, treatments and cures for both common and rare diseases. For more information about NIH and its programs, visit the NIH website.<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "NIH FOAs to address Health Disparities and Advance Health Equity"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "uuid": [
+        {
+            "value": "b3c8683b-4b8d-4a05-8ebb-e1576314e500"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-06-28T21:12:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "title": [
+        {
+            "value": "Two ROAs published: NIH HEAL Initiative - N CREW Program"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-06-28T20:54:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-06-28T21:12:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/two-roas-published-nih-heal-initiative-n-crew-program",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The Helping to End Addiction Long-term Initiative (<strong>NIH HEAL Initiative<\/strong>)&nbsp;is excited to share that the Native Collective Research Effort to Enhance Wellness (<strong>N CREW<\/strong>)&nbsp;has published <strong>TWO&nbsp;<\/strong>Research Opportunity Announcements (ROAs)! The <strong>N CREW Program<\/strong> supports Tribes and Native American Serving Organizations (T\/NASOs) to conduct locally prioritized research to address overdose, substance use, and pain, including related factors such as mental health and wellness. The N CREW Program is a highly collaborative partnership between the National Institutes of Health (NIH), T\/NASOs, and Ally Organizations established to directly respond to the opioid\/drug public health emergency.<br \/>\r\n<br \/>\r\nPlease view each ROA below as well as visit the <a href=\"https:\/\/heal.nih.gov\/research\/research-to-practice\/native-collective-research-effort-enhance-wellness-overdose-substance-mental-health-pain\" target=\"_blank\">N CREW Website<\/a> to learn more.<\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/heal.nih.gov\/files\/2023-06\/ota-23-007.pdf\" rel=\"noopener\" target=\"_blank\">ROA&nbsp;OTA-23-007<\/a>&nbsp;&nbsp;solicits applications from T\/NASOs for the planning, development, piloting, and\/or implementation of research and\/or data improvement projects. T\/NASOs are defined as federally or state recognized Tribes and organizations with a core mission to serve and\/or a track record in serving Native Americans and that are poised to reach this population.<\/li>\r\n<\/ul>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/heal.nih.gov\/files\/2023-06\/ota-23-008.pdf\" rel=\"noopener\" target=\"_blank\">ROA&nbsp;OTA-23-008<\/a>&nbsp;solicits applications from T\/NASOs and Ally Organizations to form a Native Research Resource Network. Ally Organizations are defined as organizations with a demonstrated track record of partnering successfully with Native American communities. The network will provide comprehensive training and resources to support T\/NASOs in real time as they lead research and data improvement projects. Components of the network will also provide coordination of resources, reporting, and cross-site activities.<\/li>\r\n<\/ul>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Two ROAs published: NIH HEAL Initiative - N CREW Program"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

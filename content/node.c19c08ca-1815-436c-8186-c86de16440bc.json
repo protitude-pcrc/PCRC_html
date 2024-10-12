@@ -1,0 +1,99 @@
+{
+    "uuid": [
+        {
+            "value": "c19c08ca-1815-436c-8186-c86de16440bc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-08-22T20:57:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Cores\/Centers"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-08-13T20:32:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-08-22T20:57:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/corescenters",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h2>Overview<\/h2>\r\n\r\n<p>The&nbsp;PCRC&nbsp;overarching structure is based on cores and centers that interact with each other.<\/p>\r\n\r\n<ul>\r\n\t<li>The&nbsp;PCRC&nbsp;provides replicable infrastructure, processes, tools and methods, including evaluative metrics that support efficient and effective cooperative group function.<\/li>\r\n\t<li>PCRC&nbsp;has a unified data infrastructure built on common data standards and data sharing across sites and studies, within the boundaries of regulatory requirements.<\/li>\r\n\t<li>PCRC&nbsp;provides multi-site&nbsp;infrastructure with diverse research expertise and site characteristics across numerous different states and settings.<\/li>\r\n\t<li>PCRC&nbsp;provides a flexible model that can accommodate new consultants to fill in gaps and answer questions as they arise.<\/li>\r\n<\/ul>\r\n\r\n<p>Additionally, the&nbsp;PCRC&nbsp;provides Centers and Cores that facilitate cooperative group structure and function and can support investigators in the following ways.<\/p>\r\n\r\n<p>[notification color=\"blue\"]<strong>Please note<\/strong>: the&nbsp;<a href=\"\/who\/scientific\/\">PCRC&nbsp;Scientific Review Committee (SRC)<\/a>&nbsp;will review all recommendations during protocol review.[\/notification]<\/p>\r\n\r\n<h4>Cores<\/h4>\r\n\r\n<p><a href=\"\/node\/502\">Measurement Core<\/a>&nbsp;\u2022&nbsp;&nbsp;<a href=\"\/node\/505\">Data, Informatics and Statistics Core (DISC)<\/a>&nbsp; \u2022 &nbsp;&nbsp;<a href=\"\/node\/506\">Caregiver Research Core<\/a>&nbsp; \u2022&nbsp;&nbsp;<a href=\"\/node\/507\">Clinical Studies\/Methodology Core<\/a><\/p>\r\n\r\n<h4>Centers<\/h4>\r\n\r\n<p><a href=\"\/node\/508\">Project Coordinating Center<\/a>&nbsp; \u2022&nbsp;<a href=\"\/node\/509\">&nbsp;Investigator Development Center<\/a><\/p>\r\n\r\n<p>If you would like to apply for&nbsp;PCRC&nbsp;membership, please&nbsp;<a href=\"https:\/\/airtable.com\/shrdLsURHRJ2Pddqm\" rel=\"noopener\" target=\"_blank\">complete the application.<\/a>&nbsp;&nbsp;The&nbsp;PCRC&nbsp;is overseen by the&nbsp;<a href=\"\/who\/steering\/\" title=\"Steering Committee\">Steering Committee<\/a>, a diverse group of palliative care and research experts.<\/p>\r\n\r\n<p>[button url=\"https:\/\/airtable.com\/shrdLsURHRJ2Pddqm\" rel=\"noopener\" target=\"_blank\" size=\"\" color=\"green\"]PCRC Membership Application[\/button]<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": [
+        {
+            "value": "PCRC provides Centers and Cores that facilitate cooperative group structure and function."
+        }
+    ]
+}

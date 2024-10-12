@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ccc32cdb-2e08-4747-b5fa-4b65db8c9ed3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/dbb606a7-8610-4a6a-9c64-ec3d04f8ef35"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/pcrc-data-repository"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

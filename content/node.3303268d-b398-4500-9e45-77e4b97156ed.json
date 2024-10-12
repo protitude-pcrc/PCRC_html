@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "3303268d-b398-4500-9e45-77e4b97156ed"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:35:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Webinar Template"
+        }
+    ],
+    "created": [
+        {
+            "value": "2016-07-22T20:33:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-07-06T20:44:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/webinar-template",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<table class=\" aligncenter\">\r\n<thead>\r\n<tr>\r\n<td colspan=\"2\" width=\"800\">\r\n<h4><strong>\r\n<\/strong><\/h4>\r\n<\/td>\r\n<\/tr>\r\n<\/thead>\r\n<tbody>\r\n<tr>\r\n<td colspan=\"2\" width=\"50\">\r\n<h4>Implementation Science<\/h4>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td width=\"50\"><strong>Presenter<\/strong><\/td>\r\n<td width=\"50\"><strong>Elaine Morrato, DrPH MPH<\/strong> is the Associate Dean for Public Health Practice at the Colorado School of Public Health.\u00a0 Her research focuses on accelerating the translation of drug warnings into clinical practice.\u00a0 She directs the Pragmatic Trials and Dissemination and Implementation Research program and the Innovation-Corps training program for commercialization in the Colorado Clinical &amp; Translational Sciences Institute.<\/td>\r\n<\/tr>\r\n<tr>\r\n<td width=\"50\"><strong>When:<\/strong><\/td>\r\n<td width=\"50\">Wednesday, July 13th, 2016\r\n11:00am-12:30pm Eastern Daylight Time\r\n<em>*Note this is a 90-minute webinar<\/em><\/td>\r\n<\/tr>\r\n<tr>\r\n<td width=\"50\"><strong>Step 1:<\/strong><\/td>\r\n<td width=\"50\">Click this link on your computer:\u00a0<a href=\"https:\/\/webmeeting.ucsf.edu\/orion\/joinmeeting.do?ED=JmS_7WysH8ZD7BtTUODPnA==&amp;Rnd=0.22234557366096264\" target=\"_blank\"> https:\/\/webmeeting.ucsf.edu\/orion\/joinmeeting.do?ED=JmS_7WysH8ZD7BtTUODPnA==&amp;Rnd=0.22234557366096264<\/a><\/td>\r\n<\/tr>\r\n<tr>\r\n<td width=\"50\"><strong>Step 2:<\/strong><\/td>\r\n<td width=\"50\">Connect to the audio portion of the meeting.\u00a0 Either:\r\n<ul>\r\n \t<li>Let the system call your phone (you will receive prompts once you have clicked on the link above and joined the meeting)<\/li>\r\n \t<li>Call in directly, using this phone number: +1 415-514-1000; Access Code: 990 489 623<\/li>\r\n<\/ul>\r\n<\/td>\r\n<\/tr>\r\n<tr>\r\n<td width=\"50\"><strong>Related Resources:<\/strong><\/td>\r\n<td width=\"50\">You may view and download the following PDF reference materials that will complement the Implementation Science webinar\r\n<ul>\r\n \t<li><a href=\"https:\/\/pcrc.box.com\/v\/dissemination-planning\" target=\"_blank\">Designing for Dissemination Planning Tool<\/a><\/li>\r\n \t<li><a href=\"https:\/\/pcrc.box.com\/v\/re-aim-planning\" target=\"_blank\"><span class=\"tx\">RE-AIM PLANNING TOOL <\/span><\/a><\/li>\r\n \t<li><a href=\"https:\/\/pcrc.box.com\/v\/abstract-dissemination\" target=\"_blank\">Abstract: <span class=\"tx f135\">Developing a \u2018\u2018Toolkit\u2019\u2019 for Implementing Early, <\/span><span class=\"tx f135\">Concurrent Palliative Care in Community Cancer <\/span><span class=\"tx f135\">Center <\/span><\/a><\/li>\r\n<\/ul>\r\n<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>\r\n<h4><\/h4>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

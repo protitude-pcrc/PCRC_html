@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ac621a9a-0836-46b3-bf92-87bfc9e473b9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/64c69e89-d56c-4b36-bc52-1dbf3f1ed57c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/study\/patient-reported-distress-adults-myelodysplastic-syndromes-mds"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

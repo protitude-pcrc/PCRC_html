@@ -1,0 +1,147 @@
+{
+    "uuid": [
+        {
+            "value": "66f3f79c-da0a-4759-b9c1-1eda1791a8cd"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "request",
+            "target_type": "node_type",
+            "target_uuid": "8262baa8-4bbb-493f-a05e-aae40f8a4fff"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-12-21T19:30:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "title": [
+        {
+            "value": "Clustering Methods for Linear Mixed Models"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-12-21T19:29:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-12-21T19:30:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/request\/2021-0003",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_affiliation": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "decc977a-16a5-4c6a-b874-01fcfe20cd8a"
+        }
+    ],
+    "field_data_requested": [
+        {
+            "target_type": "node",
+            "target_uuid": "0b226cf6-1baf-4cf1-bf54-61e899d81640"
+        }
+    ],
+    "field_date_of_approval": [
+        {
+            "value": "2021-10-25"
+        }
+    ],
+    "field_date_of_submission": [
+        {
+            "value": "2021-10-25"
+        }
+    ],
+    "field_pcrc_project_review": [],
+    "field_pi": [
+        {
+            "value": "Yaxu Zhuang"
+        }
+    ],
+    "field_project_status": [
+        {
+            "value": "<p>Ongoing<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_reason_deemed_infeasible": [],
+    "field_request_number": [
+        {
+            "value": "2021-0003"
+        }
+    ],
+    "field_request_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ba7bda26-0f55-4e73-8bc3-3cc5408dfd93"
+        }
+    ],
+    "field_research_proposal": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "af05139e-0a9f-44e7-b48f-7a4189b1efc6"
+        }
+    ],
+    "field_research_proposal_abstract": [
+        {
+            "value": "<p>This dataset will be used for two purposes: 1) to explore novel statistical methods for clustering longitudinal data; 2) to satisfy the requirements for a longitudinal data analysis course in the Colorado School of Public Health, BIOS 6643. Dr. Colborn and Dr. Juarez-Colunga will act as mentors on this project, and the goal is to publish the related work in a statistical methods journal. Both mentors are PCRC members and DISC statisticians.<br \/>\r\n<br \/>\r\nTraditional methods of multi-level linear mixed model often include a \u201corganization\u201d as highest level such as schools, medical centers, or hospitals. Although some people in these clusters may share similar unmeasured characteristics (e.g. socioeconomic status, distance to care, food insecurity\/access), there may be other features that would make them similar to groups other than their organization or institution.<br \/>\r\n<br \/>\r\nHere, I describe \u201cClustering LMM\u201d a new method to generate a highest level for a multi-level linear mixed model, by reassigning people into different clusters based on demographic and socioeconomic variables available in the data. Below, I describe the potential benefits of this method.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ]
+}

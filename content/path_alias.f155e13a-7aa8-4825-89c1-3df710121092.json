@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f155e13a-7aa8-4825-89c1-3df710121092"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/e31f3c11-e324-4349-95b8-2dba66618436"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/study\/anticoagulation-therapy-discharge-hospice-care"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

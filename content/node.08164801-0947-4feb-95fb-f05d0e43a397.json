@@ -1,0 +1,101 @@
+{
+    "uuid": [
+        {
+            "value": "08164801-0947-4feb-95fb-f05d0e43a397"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-03-07T23:23:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "2019 PCRC Investigator Meeting"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-12-04T22:58:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-03-07T23:23:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/2019-pcrc-investigator-meeting",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The meeting will be held at <strong>Embassy Suites Denver Downtown<\/strong> and will provide opportunities for learning, networking, and enhancing your skills in multi-site palliative care research. This is an <u>annual<\/u> event you won\u2019t want to miss!<\/p>\r\n\r\n<p><strong>The meeting will take place Thursday, February 28<sup>th<\/sup> from 1 \u2013 5:30pm mountain time and Friday, March 1<sup>st<\/sup> from 8am \u2013 1:30 pm mountain time.<\/strong><\/p>\r\n\r\n<p>While our funding mechanism does not support the provision of food or beverages, the hotel offers a free breakfast service and happy hour for all registered guests. There is also a wide range of dining options available in the surrounding area. You are welcome to bring your own food into the meeting space. We will be encouraging all meeting participants to create lunch and dinner plans as a way to network and collaborate with other meeting attendees.<\/p>\r\n\r\n<p>All members are invited to take part in our updated New Member Orientation Session starting at 12pm MT on 2\/28 and all of the general Investigator sessions starting at 1pm on Thursday and ending Friday at 1:30pm MT.<\/p>\r\n\r\n<p>The meeting agenda will be distributed to all PCRC members in the coming weeks.<\/p>\r\n\r\n<p><strong>LOCATION:<\/strong><br \/>\r\n<a href=\"https:\/\/palliativecareresearch.us17.list-manage.com\/track\/click?u=35d8f230d0736fcddc4387497&amp;id=a68de15b44&amp;e=a5773bf78d\">Embassy Suites Denver Downtown<\/a><br \/>\r\n1420 Stout Street<br \/>\r\nDenver, CO 80202<br \/>\r\nPCRC Rate: $174 \/ night + taxes and fees<br \/>\r\nUnless otherwise informed, you will be responsible for all hotel and travel expenses.<br \/>\r\n&nbsp;<br \/>\r\n<strong>START TIME:<\/strong><br \/>\r\nThursday, February 28<sup>th<\/sup>, 2019 @ 1:00 pm mountain time<br \/>\r\n<em>All members are invited to attend a New Member Orientation Session from 12 - 1:00 pm mountain time.<\/em><br \/>\r\n&nbsp;<br \/>\r\n<strong>END TIME:<\/strong><br \/>\r\nFriday, March 1<sup>st<\/sup>, 2019 @ 1:30 pm mountain time<br \/>\r\n(3pm end time for Steering Committee Members)<\/p>\r\n\r\n<center>[button color=\"orange\" size=\"large\" url=\"mailto:carrie.brill@ucdenver.edu?subject=F2F%202019%20RSVP\"]RSVP Now![\/button]<\/center>\r\n\r\n<p>Please note that unless otherwise informed, funding for travel expenses, including hotel stay,&nbsp;is&nbsp;<u>not<\/u>&nbsp;available to attendees. Please feel free to contact Carrie with any questions at&nbsp;<a href=\"mailto:carrie.brill@ucdenver.edu\">carrie.brill@ucdenver.edu<\/a>.<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "February 28-March 1, 2019 in Denver, CO"
+        }
+    ],
+    "field_type": []
+}

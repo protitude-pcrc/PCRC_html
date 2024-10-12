@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "aa721f74-7717-409e-b0fd-c64788f139cd"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/e8b360f3-559e-46e6-ba89-24c3bf1017c9"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/kevinreynen"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

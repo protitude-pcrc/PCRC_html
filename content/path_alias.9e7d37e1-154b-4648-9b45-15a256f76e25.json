@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "9e7d37e1-154b-4648-9b45-15a256f76e25"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/ce5a1155-066e-4ac9-9589-dbd2920743dc"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/ahrq-evidence-review"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

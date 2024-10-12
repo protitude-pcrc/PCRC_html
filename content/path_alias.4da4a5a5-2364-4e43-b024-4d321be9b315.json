@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "4da4a5a5-2364-4e43-b024-4d321be9b315"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/0c407830-33a1-422f-8492-f5da2dec3d02"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/longdicttopostpdf"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

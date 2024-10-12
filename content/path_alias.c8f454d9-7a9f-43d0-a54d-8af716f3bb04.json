@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c8f454d9-7a9f-43d0-a54d-8af716f3bb04"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/2a331fe0-fbd3-41d2-a65e-9cfcf0ab8e1a"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/research\/investigator-support-information\/collaborating-pcrc\/site-selection"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

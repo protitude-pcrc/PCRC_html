@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e0304912-5ccd-4eaa-ac10-53472737d96c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/7a772ab1-40f5-4e7a-b421-c376df5c859d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/mikediplock"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

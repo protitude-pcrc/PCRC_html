@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "2db061d0-239d-494c-b981-09aa73f08c2a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-09-11T21:34:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Documents & Links to Partners"
+        }
+    ],
+    "created": [
+        {
+            "value": "2014-08-12T23:21:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-09-11T21:34:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/resources\/documents-links-partners",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>To download a copy of the needed document, please click on the link. &nbsp;<em>Please note: you do not&nbsp;need an account nor do you need to log in to download these documents.<\/em><\/p>\r\n\r\n<p><strong>Grant Preparation Phase:<\/strong><\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/kddk02zcbslh05joey9d8b01i6sq4ly3\" target=\"_blank\">PCRC Grant Resource for Protection of Human Subjects<\/a><\/li>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/atweyc67qze1cwiic7rax0hy8zeiy6vy\" target=\"_blank\">PCRC Resources - Scientific Environment<\/a><\/li>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/v\/PCRC-Protocol-Instructions\" target=\"_blank\">PCRC Protocol Guidelines<\/a><\/li>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/l3hf1yacqf6pkgcmdyatlkn6lfn44yjx\" target=\"_blank\">Study Schema<\/a><\/li>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/am0h2ksfiy7icy6yadyq4c74c2t1jtlf\" target=\"_blank\">Grant-related information for contracting<\/a><\/li>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/3fpxghlrruselsvo2faufoa1leuv618q\" target=\"_blank\">PCRC Data Sharing Plan<\/a><\/li>\r\n<\/ul>\r\n\r\n<p><strong>Study Conduct:<\/strong><\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/onddbxv65obw1do5ubopgzqw3emm5xyf\" target=\"_blank\">PCRC Recruitment Innovation Initiative- Participant and Provider Recruitment Measures<\/a><\/li>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/468l2pbj4yra3ce6cvn8oa6ug34y25hy\" target=\"_blank\">PCRC Recruitment Innovation Initiative- Financial Consideration <\/a><\/li>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/r603g4q3pk44tf3ib6kvoz86ndb8bne9\" target=\"_blank\">Clinical Research Coordinator (CRC) Handbook<\/a><\/li>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/v\/pcrc-authorship-protocol\" target=\"_blank\">Authorship Protocol<\/a><\/li>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/v\/pcrc-conflict-of-interest-info\" target=\"_blank\">Conflict of Interest Information<\/a><\/li>\r\n<\/ul>\r\n\r\n<p><strong>Other Resources:<\/strong><\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/w6abk1urldx14yltloa5yugshyjwrwy7\" target=\"_blank\">Social Determinants of Health (SDoH) related materials<\/a><\/li>\r\n\t<li>For additional documents related to caregivers, please see the listings under the <a href=\"\/corescenters\/caregiver-core\">Caregiver Core<\/a><\/li>\r\n\t<li><a href=\"https:\/\/www.ahrq.gov\/opioids\/about.html\" target=\"_blank\">Opioid-specific AHRQ resources<\/a><\/li>\r\n<\/ul>\r\n\r\n<p><strong>Link to Partner Websites:<\/strong><\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/www.ninr.nih.gov\/\" target=\"_blank\">National Institute of Nursing Research&nbsp;(NINR)<\/a><\/li>\r\n\t<li><a href=\"https:\/\/www.nih.gov\/\" target=\"_blank\">National Institutes of Health (NIH)<\/a><\/li>\r\n\t<li><a href=\"https:\/\/www.ahrq.gov\/\" target=\"_blank\">Agency for Healthcare Research and Quality&nbsp;(AHRQ)<\/a><\/li>\r\n\t<li><a href=\"https:\/\/www.pcori.org\/\" rel=\"noopener\" target=\"_blank\">Patient-Centered Outcomes Research Institute&nbsp;(PCORI)<\/a><\/li>\r\n<\/ul>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

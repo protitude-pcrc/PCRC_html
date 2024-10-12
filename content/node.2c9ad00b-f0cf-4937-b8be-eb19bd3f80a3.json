@@ -1,0 +1,99 @@
+{
+    "uuid": [
+        {
+            "value": "2c9ad00b-f0cf-4937-b8be-eb19bd3f80a3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-07-07T17:55:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Data, Informatics, and Statistics Core (DISC)"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-06-26T18:13:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-07-07T17:55:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/corescenters\/data-informatics-and-statistics-core-disc",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h3>Core Leadership:<\/h3>\r\n\r\n<drupal-entity alt=\"Katie Colborn\" data-align=\"left\" data-caption=\"Core Lead: Kathryn Colborn, PhD\" data-embed-button=\"image_browser\" data-entity-embed-display=\"image:linked_responsive_image\" data-entity-embed-display-settings=\"{&quot;responsive_image_style&quot;:&quot;original&quot;,&quot;image_link&quot;:&quot;&quot;,&quot;link_uri&quot;:&quot;&quot;}\" data-entity-type=\"file\" data-entity-uuid=\"72fe0381-3ebf-4b6a-ba87-b2463548aaf6\"><\/drupal-entity>\r\n\r\n<drupal-entity alt=\"Salimah Meghani\" data-align=\"center\" data-caption=\"Core Co-Lead: Salimah Meghani, PhD, MBE, RN, FAAN\" data-embed-button=\"image_browser\" data-entity-embed-display=\"image:linked_responsive_image\" data-entity-embed-display-settings=\"{&quot;responsive_image_style&quot;:&quot;original&quot;,&quot;image_link&quot;:&quot;&quot;,&quot;link_uri&quot;:&quot;&quot;}\" data-entity-type=\"file\" data-entity-uuid=\"cc7f4d0b-d53b-4e3d-936b-5e00ee652f04\"><\/drupal-entity>\r\n\r\n<p>The PCRC Data Informatics and Statistics Core (DISC) focuses on offering the following primary resources to PCRC members: 1) analysis consultations for grant applications, 2) database development for PCRC-supported studies, 3) Standardized Data Elements, 4) a de-identified data repository (DiDR) of palliative-care research data, and 5) a library of qualitative, mixed-, and multi-method studies relating to end-of-life and palliative care.&nbsp;The link to the current version of the PCRC Data Sharing Plan is found on our <strong><a href=\"https:\/\/palliativecareresearch.org\/resources\/documents\">resources<\/a><\/strong> tab.<\/p>\r\n\r\n<p>[toggle]<\/p>\r\n\r\n<p>[toggle-item title = \"Analytic Consulting\"]<\/p>\r\n\r\n<p>PCRC investigators are entitled to three free hours of consulting on their PCRC-supported grant applications and\/or funded research.<\/p>\r\n\r\n<h4>Statistical Consulting<\/h4>\r\n\r\n<p>The DISC currently has two biostatisticians available to consult on PCRC-supported grant applications. The team has expertise in methods for handling missing data, correlated data (i.e., data from multiple sites and\/or longitudinal data), clinical trial design, sample size estimates, and statistical methods for analyzing large observational data sets. <em>Please contact <a href=\"mailto:KATHRYN.COLBORN@CUANSCHUTZ.EDU?subject=PCRC%20Statistical%20Consulting\">Kathryn Colborn<\/a> for questions related to statistical consulting.<\/em><\/p>\r\n\r\n<h4>Qualitative and Mixed-Methods Consulting<\/h4>\r\n\r\n<p>The DISC provides consulting for qualitative, mixed-, and multi-methods data analysis.&nbsp;<em>Please contact <a href=\"mailto:salimahm@nursing.upenn.edu?subject=PCRC%20DISC%20Qual%20Consulting\" rel=\"noopener\" target=\"_blank\">Salimah Meghani<\/a> for questions related to qualitative and mixed-methods consulting.<\/em><\/p>\r\n\r\n<p><em>[\/toggle-item]<\/em><\/p>\r\n\r\n<p><em>[toggle-item title=\"<\/em>De-identified&nbsp;Data Repository&nbsp;(DiDR)\"]<\/p>\r\n\r\n<p>The PCRC DISC hosts a de-identified data repository (DiDR) of PCRC-supported and non-PCRC palliative care research study data. These data and related study materials can be accessed by requesting approval from the PCRC secondary data analysis committee. <em>Please <strong><a href=\"mailto:pcrc@ucdenver.edu;kathryn.colborn@cuanschutz.edu?subject=PCRC%20DiDR\">contact us<\/a><\/strong> for questions related to the DiDR.<\/em><\/p>\r\n\r\n<center>[button url=\/node\/549 size=\"small\" color=\"blue\"]Take me to the Repository[\/button]<\/center>\r\n\r\n<center>&nbsp;<\/center>\r\n\r\n<center>[button url=https:\/\/airtable.com\/shrEtCq5FbpGUjDsU target=\"_blank\" size=\"small\" color=\"orange\"]Request Data From the Repository[\/button]<\/center>\r\n\r\n<center>&nbsp;<\/center>\r\n\r\n<center>[button url=https:\/\/pcrc.box.com\/s\/aezmpijlkbvqq0wd15zmirq7ow71l5lw target=\"_blank\" size=\"small\" color=\"green\"]Guidelines for Requesting Data from Repository[\/button]<\/center>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>To share data with the PCRC DiDR, follow the button below and&nbsp;fill out the deposit request form&nbsp;to receive a link to submit your quantitative data.&nbsp;<\/p>\r\n\r\n<p>[center][button url=https:\/\/airtable.com\/shr35qSMIQKp6L7wB target=\"_blank\" size=\"small\" color=\"blue\"]Quantitative Data&nbsp;Deposit Form[\/button][\/center]<\/p>\r\n\r\n<p>[\/toggle-item]<\/p>\r\n\r\n<p><em>[toggle-item title=\"<\/em>Qualitative Data Repository (QDR)\"]<\/p>\r\n\r\n<p style=\"text-align:start; text-indent:0px; -webkit-text-stroke-width:0px\">PCRC has partnered with Qualitative Data Repository at the Maxwell School of Citizenship and Public Affairs at Syracuse University to host the first PCRC qualitative data repository in EOLPC.&nbsp;<\/p>\r\n\r\n<p style=\"text-align:start; text-indent:0px; -webkit-text-stroke-width:0px\">[center][button url=https:\/\/data.qdr.syr.edu\/dataverse\/pcrc target=\"_blank\" size=\"small\" color=\"blue\"]Take me to the Repository[\/button][\/center]<\/p>\r\n\r\n<p style=\"text-align:start; text-indent:0px; -webkit-text-stroke-width:0px\">[center][button url=https:\/\/airtable.com\/shrEtCq5FbpGUjDsU target=\"_blank\" size=\"small\" color=\"orange\"]Request Data From the Repository[\/button][\/center]<\/p>\r\n\r\n<p>[\/toggle-item]<\/p>\r\n\r\n<p>[toggle-item title=\"Standardized Data Elements\"]<\/p>\r\n\r\n<p>The PCRC offers guidelines to investigators on Standardized Data Elements (SDEs) that should be collected in any palliative-care research study. These SDEs allow us to provide key information on the PCRC study population and data available in the DiDR. <em>Please <strong><a href=\"mailto:pcrc@ucdenver.edu; kathryn.colborn@cuanschutz.edu?subject=PCRC%20SDEs\">contact us<\/a><\/strong> for questions related to the PCRC Standardized Data Elements.<\/em><\/p>\r\n\r\n<center>[button url=\/node\/518 size=\"small\" color=\"orange\"]View the SDEs[\/button]<\/center>\r\n\r\n<p><em>[\/toggle-item]<\/em><\/p>\r\n\r\n<p><em>[toggle-item title=\"<\/em>Database Development\"]<\/p>\r\n\r\n<p>The DISC data manager is available to consult or develop databases for PCRC-supported research studies. The primary data storage system DISC recommends using in single or multi-site studies is REDCap. <em>Please <a href=\"mailto:pcrc@ucdenver.edu;KATHRYN.COLBORN@CUANSCHUTZ.EDU?subject=Database%20Development\" rel=\"noopener\" target=\"_blank\"><strong>contact us<\/strong><\/a> for questions related to Database Development.<\/em><\/p>\r\n\r\n<p><em>[\/toggle-item]<\/em><\/p>\r\n\r\n<p><em>[toggle-item title=\"<\/em>Additional Resources\"]<\/p>\r\n\r\n<h4><a href=\"http:\/\/www.equator-network.org\/\" target=\"_blank\">EQUATOR<\/a> reporting guidelines for a wide range of study types.<\/h4>\r\n\r\n<p>This link, provided by the Equator Network, contains a comprehensive searchable database of reporting guidelines for several quantitative and qualitative study designs and also links to other resources relevant to enhancing quality and transparency of research reporting. We recommend that investigators review the appropriate guidelines prior to starting their study to ensure that they have collected&nbsp;<u>all<\/u>&nbsp;the necessary data.<\/p>\r\n\r\n<p>[\/toggle-item]<\/p>\r\n\r\n<p>[\/toggle]<\/p>\r\n\r\n<h4>&nbsp;<\/h4>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": [
+        {
+            "value": "The PCRC Data Informatics and Statistics Core (DISC) focuses on offering the following primary resources to PCRC members"
+        }
+    ]
+}

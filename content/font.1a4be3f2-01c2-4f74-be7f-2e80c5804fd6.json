@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "1a4be3f2-01c2-4f74-be7f-2e80c5804fd6"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Fira Mono&subset=cyrillic#700"
+        }
+    ],
+    "name": [
+        {
+            "value": "Fira Mono 700 (cyrillic)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Fira Mono"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "700"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:13:\"Fira Mono:700\";s:6:\"subset\";s:8:\"cyrillic\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:02:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:02:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8f451f1d-cfa8-4e10-9377-429acc145808"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4f81a706-9350-4724-8080-6e119e1f58a4"
+        }
+    ],
+    "field_tags": []
+}

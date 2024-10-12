@@ -1,0 +1,224 @@
+{
+    "uuid": [
+        {
+            "value": "9bf4fd67-a465-4ee9-bd87-784a730e91ce"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-08-16T16:55:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "Provider and Organizational Norms of Treatment for Seriously Ill Elders"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-05-15T19:37:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-08-16T16:55:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/study\/provider-and-organizational-norms-treatment-seriously-ill-elders",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "271092b2-9531-44b5-8b30-9c49732e00dd"
+        }
+    ],
+    "field_approved_data_requests": [],
+    "field_award_number": [
+        {
+            "value": "R21 NR010265"
+        }
+    ],
+    "field_condition_studied": [],
+    "field_csr_summary": [],
+    "field_data_dictionary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "e119cd7b-90ff-4dfd-82c6-1da0044a47d2"
+        }
+    ],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a801317c-42e4-4a02-af5c-078b6ddadb0f"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Provider and Organizational Norms of Treatment for Seriously Ill Elders"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "153"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": true
+        }
+    ],
+    "field_nct_link_field": [],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4f231d80-83c7-45f6-affe-6a582e037a21"
+        }
+    ],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "caefce4c-5e94-458b-b838-42ec8e25ae95"
+        }
+    ],
+    "field_participant_ethnicity_coll": [],
+    "field_participant_race": [],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9bae5dc6-39bb-4eb6-ba24-2add620945de"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "33bd24d1-a052-426d-b433-ee5c51a93ff7"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bb33a50f-e9de-47ae-80e4-5167ef2b0d2f"
+        }
+    ],
+    "field_pcrc_study_num": [],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/22940755",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [
+        {
+            "value": "NIH"
+        }
+    ],
+    "field_study_design": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "daae6b51-dea5-4f17-a71d-6e8474c47e08"
+        }
+    ],
+    "field_study_pi": [
+        {
+            "value": "Amber Barnato, MD, MPH, MS"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "University of Pittsburgh"
+        }
+    ],
+    "field_study_setting": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "0273e5e5-00f3-4ffe-89c2-4dd69d36e8fc"
+        }
+    ],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [],
+    "field_summary": [
+        {
+            "value": "<p>Hospitals vary markedly in the frequency and length of hospitalizations and intensive care unit (ICU) admissions and the number of specialists consulted for chronically ill Medicare beneficiaries during their last 6 months of life. The objective of our proposal is to explore this phenomenon using in-depth hospital case studies.<\/p>\r\n\r\n<p>The goal is to identify provider and organizational norms that can be changed in high intensity hospitals to improve efficiency and patient-centeredness of treatment. The research design involves an interviewer and fieldworker engaging in 4 weeks of shadow observation and in-depth analysis of ICU cases based upon semi-structured interviews with the providers, managers, non-clinical staff, and patients or proxy decision makers involved.<\/p>\r\n\r\n<p>We will use a mixture of qualitative content analysis of field-notes and interview transcripts, and quantitative analysis of hospital utilization and outcomes data and of provider, patient, and family survey data.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [
+        {
+            "value": "<p>Case materials<\/p>\r\n\r\n<h3>Additional Reference:<\/h3>\r\n\r\n<ul>\r\n\t<li>\r\n\t<p><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/24615275\" target=\"_blank\">Barnato AE, Mohan D, Lane RK, Huang YM, Angus DC, Farris C, Arnold RM. Advance<br \/>\r\n\tcare planning norms may contribute to hospital variation in end-of-life ICU use:&nbsp;<br \/>\r\n\ta simulation study. Med Decis Making. 2014 May;34(4):473-84. <\/a><\/p>\r\n\t<\/li>\r\n<\/ul>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_therapeutic_area": [],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "fbd491b5-cd5e-4bef-9b16-793bee9672cc"
+        }
+    ]
+}

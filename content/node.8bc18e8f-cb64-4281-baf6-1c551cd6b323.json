@@ -1,0 +1,111 @@
+{
+    "uuid": [
+        {
+            "value": "8bc18e8f-cb64-4281-baf6-1c551cd6b323"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-04-22T21:01:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "Clin-STAR funding opportunity notice"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-04-22T20:54:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-04-22T21:01:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/news\/clin-star-funding-opportunity-notice",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><br \/>\r\nThe&nbsp;<a data-auth=\"NotApplicable\" data-linkindex=\"1\" href=\"http:\/\/www.clin-star.org\/\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"www.clin-star.org\">Clinician-Scientists Transdisciplinary Aging Research (Clin-STAR) Coordinating Center<\/a>&nbsp;is seeking to fund pilot grants of up to $50,000 each.&nbsp;The funding provides opportunities to build mentee-mentor relationships at different institutions and content expertise in different disciplines&nbsp;for&nbsp;the junior investigator.&nbsp;Awards will be made to junior clinician-scientists who work collaboratively with a senior investigator from a different discipline and institution to stimulate new areas of age-related clinical human subjects research. For more eligibility requirements and to learn more, visit&nbsp;<a data-auth=\"NotApplicable\" data-linkindex=\"2\" href=\"https:\/\/clin-star.org\/pilot-grants\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"https:\/\/clin-star.org\/pilot-grants\">here<\/a>.&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p><a data-auth=\"NotApplicable\" data-linkindex=\"3\" href=\"https:\/\/amfedaging.wufoo.com\/forms\/w1vjcey712lr0dt\/\" rel=\"noopener noreferrer\" target=\"_blank\" title=\"https:\/\/amfedaging.wufoo.com\/forms\/w1vjcey712lr0dt\/\">Letters of Intent<\/a>&nbsp;(required) due May 28th at 5:00 PM ET.<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [
+        {
+            "alt": "Clin-STAR Pilot Grants",
+            "title": "",
+            "width": 5000,
+            "height": 3333,
+            "target_type": "file",
+            "target_uuid": "4ed6d321-a948-4737-9a19-1149b2afb6be"
+        }
+    ],
+    "field_subtitle": [
+        {
+            "value": "Clin-STAR Pilot Grants"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

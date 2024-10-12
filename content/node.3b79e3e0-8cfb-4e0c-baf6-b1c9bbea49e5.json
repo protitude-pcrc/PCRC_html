@@ -1,0 +1,207 @@
+{
+    "uuid": [
+        {
+            "value": "3b79e3e0-8cfb-4e0c-baf6-b1c9bbea49e5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-05-03T19:28:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "title": [
+        {
+            "value": "Advance Care Planning for Parkinson\u2019s Disease"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-05-03T19:26:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-05-03T19:28:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/study\/advance-care-planning-parkinsons-disease",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [],
+    "field_approved_data_requests": [],
+    "field_award_number": [],
+    "field_condition_studied": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "589302d4-e024-4f04-aca8-6274a26db98b"
+        }
+    ],
+    "field_csr_summary": [],
+    "field_data_dictionary": [],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4bd58710-be8a-492f-aeaa-ea503498514e"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Understanding advance care planning in patients and care partners living with Parkinson\u2019s disease"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "60"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": false
+        }
+    ],
+    "field_nct_link_field": [],
+    "field_number_of_study_sites": [],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        }
+    ],
+    "field_participant_ethnicity_coll": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "350f6f60-c882-44d9-bf86-2f242d671d54"
+        }
+    ],
+    "field_participant_race": [],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9bae5dc6-39bb-4eb6-ba24-2add620945de"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bb33a50f-e9de-47ae-80e4-5167ef2b0d2f"
+        }
+    ],
+    "field_pcrc_study_num": [
+        {
+            "value": "17-01"
+        }
+    ],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/pubmed.ncbi.nlm.nih.gov\/31028124\/",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [],
+    "field_study_design": [],
+    "field_study_pi": [
+        {
+            "value": "Hillary Lum MD, PhD"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "University of Colorado Anschutz Medical Campus"
+        }
+    ],
+    "field_study_setting": [],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "89b177d7-1afa-4d2b-bb5a-199a38866463"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p><i>Objective:<\/i>&nbsp;Advance care planning (ACP) is a core quality measure in caring for individuals with Parkinson disease (PD) and there are no best practice standards for how to incorporate ACP into PD care. This study describes patient and care partner perspectives on ACP to inform a patient- and care partner-centered framework for clinical care.<\/p>\r\n\r\n<p><i>Methods:<\/i>&nbsp;This is a qualitative descriptive study of 30 patients with PD and 30 care partners within a multisite, randomized clinical trial of neuropalliative care compared to standard care. Participants were individually interviewed about perspectives on ACP, including prior and current experiences, barriers to ACP, and suggestions for integration into care. Interviews were analyzed using theme analysis to identify key themes.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [
+        {
+            "value": "<p><strong>Request data access here,&nbsp;<\/strong><a href=\"https:\/\/doi.org\/10.5064\/F6GZGCJB\" target=\"_blank\">https:\/\/doi.org\/10.5064\/F6GZGCJB<\/a>.&nbsp;<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_therapeutic_area": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "3a37ff90-723c-4328-b3cd-55fafaba4c2c"
+        }
+    ],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "fbfde82e-fe88-4af6-9020-923c25b3405b"
+        }
+    ]
+}

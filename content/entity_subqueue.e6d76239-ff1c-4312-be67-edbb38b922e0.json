@@ -1,0 +1,108 @@
+{
+    "uuid": [
+        {
+            "value": "e6d76239-ff1c-4312-be67-edbb38b922e0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "queue": [
+        {
+            "target_id": "scientific_review_committee",
+            "target_type": "entity_queue",
+            "target_uuid": "59d3273a-3dd0-46d0-98d5-95b3d6549170"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2018-04-30T19:26:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [
+        {
+            "target_type": "user",
+            "target_uuid": "4f9256af-a749-4859-a639-cdce784ab732"
+        }
+    ],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "4f9256af-a749-4859-a639-cdce784ab732"
+        }
+    ],
+    "title": [
+        {
+            "value": "Scientific Review Committee"
+        }
+    ],
+    "items": [
+        {
+            "target_type": "node",
+            "target_uuid": "04305b6b-7f26-4084-a0d6-36db4123fd90"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "24f662f0-ef1e-4a0a-930a-1adc1d11f5e9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "94720b01-933c-4bbf-beff-13d879d7ad30"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "4f8f8a03-5982-4860-935f-5605353d8740"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "d696a59d-455b-42ef-af24-d1f067c0fbc2"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "cd68a695-6706-4540-8cd4-8afd17e3a390"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "452d9821-7bd8-4cc2-8bda-a34b61890362"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "17b1bf60-7508-4e84-8a06-74046eb1b049"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "95f6addf-465f-41c8-be3d-35405d1c22c5"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-30T19:26:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-07-07T17:28:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ]
+}

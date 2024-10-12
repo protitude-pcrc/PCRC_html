@@ -1,0 +1,110 @@
+{
+    "uuid": [
+        {
+            "value": "d46d86e1-0a23-4052-ab15-0ae42513ae53"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-25T16:35:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "title": [
+        {
+            "value": "RFA: NIH HEAL Initiative: Coordinated Approaches to Pain Care in Health Care Systems (UG3\/UH3 - Clinical Trial Optional)"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-25T16:24:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-25T16:35:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/rfa-nih-heal-initiative-coordinated-approaches-pain-care-health-care-systems-ug3uh3-clinical",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The NIH has an <a href=\"https:\/\/grants.nih.gov\/grants\/guide\/rfa-files\/RFA-NS-22-053.html\" rel=\"noopener\" target=\"_blank\">FOA <\/a>soliciting research applications that propose implementation science methodology to embed existing evidence-based coordinated pain care models into a variety of public and private health care systems (HCS) - where this type of care does not exist.&nbsp;<\/p>\r\n\r\n<p>This FOA solicits applications from HCS who have resources and infrastructure to support research and implementation of study approaches in partnership with those HCS who lack research resources or experience and would benefit most from implementation of cost-effective coordinated pain care. HCS partners who serve populations that are under-represented in research are encouraged to apply.<\/p>\r\n\r\n<p>Earliest Submission Date: <strong>October 4, 2022<\/strong><\/p>\r\n\r\n<p>Letter of Intent Due: 30 days prior to application due date<\/p>\r\n\r\n<p>Expiration Date: <strong>November 5, 2022<\/strong><\/p>\r\n\r\n<p><a href=\"https:\/\/grants.nih.gov\/grants\/guide\/rfa-files\/RFA-NS-22-053.html\" rel=\"noopener\" target=\"_blank\">RFA-NS-22-053<\/a><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "RFA: NIH HEAL Initiative: Coordinated Approaches to Pain Care in Health Care Systems (UG3\/UH3 - Clinical Trial Optional)"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

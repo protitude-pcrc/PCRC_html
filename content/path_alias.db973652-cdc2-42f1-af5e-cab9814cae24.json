@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "db973652-cdc2-42f1-af5e-cab9814cae24"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/e67f9fd1-ef89-4768-9d3e-d81383616c66"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-25-june-2017"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

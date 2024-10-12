@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "cb22dce1-4e95-4b27-9a45-574f9acead73"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:27+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Stopping Statins Sits Well With Most Patients With Limited Life Expectancy"
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-06-20T07:24:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2017-06-20T07:24:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/stopping-statins-sits-well-most-patients-limited-life-expectancy",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p class=\"p2\"><span class=\"s2\">New PCRC Publication further explores PCRC Sta<\/span><span class=\"s3\">t<\/span><span class=\"s2\">in Discontinuation data.\u00a0See more here:\u00a0<a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=http-3A__www.medscape.com_viewarticle_881519&amp;d=DwMFAg&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=9htzUHgZgzp5kwjZ2XPQmZgPstwlRWu6IKf2EYsHh_4&amp;s=g-CNli6kUheN6pOz4N_5d8WeJnETfKQwQDetfsQSu2E&amp;e=\" target=\"_blank\" rel=\"noopener noreferrer\"><span class=\"s4\">http:\/\/www.medscape.com\/viewarticle\/881519<\/span><\/a><\/span><\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a1db425d-2f66-457c-be62-cdff25c1bd0f"
+        }
+    ]
+}

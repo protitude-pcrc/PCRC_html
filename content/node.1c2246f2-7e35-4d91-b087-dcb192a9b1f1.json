@@ -1,0 +1,243 @@
+{
+    "uuid": [
+        {
+            "value": "1c2246f2-7e35-4d91-b087-dcb192a9b1f1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-07-13T06:39:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "title": [
+        {
+            "value": "Family Experiences in ICU Transfers"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-04-06T18:15:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-07-13T06:39:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/study\/family-experiences-icu-transfers-0",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "51688ee0-f1f8-47c5-9ae2-dc6aaf4d05ce"
+        }
+    ],
+    "field_approved_data_requests": [],
+    "field_award_number": [],
+    "field_condition_studied": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "86510b2c-0278-4f34-bbe9-671a1fd3f874"
+        }
+    ],
+    "field_csr_summary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "62a3ac2b-7e7d-4529-8231-8bd682853c9f"
+        }
+    ],
+    "field_data_dictionary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "963b644c-ffab-4e0f-ac90-7b20965b4c60"
+        }
+    ],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e494a23c-aea6-4f0b-a534-4b948ddfdb07"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Experiences of Family Members of patients admitted to ICU from acute care floor"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "34"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": false
+        }
+    ],
+    "field_nct_link_field": [],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4f231d80-83c7-45f6-affe-6a582e037a21"
+        }
+    ],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        }
+    ],
+    "field_participant_ethnicity_coll": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "350f6f60-c882-44d9-bf86-2f242d671d54"
+        }
+    ],
+    "field_participant_race": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "88ac74e1-8f30-4ba6-bbe9-d8a410f35170"
+        }
+    ],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9bae5dc6-39bb-4eb6-ba24-2add620945de"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bb33a50f-e9de-47ae-80e4-5167ef2b0d2f"
+        }
+    ],
+    "field_pcrc_study_num": [
+        {
+            "value": "14-06"
+        }
+    ],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/doi.org\/10.1016\/j.chest.2020.05.554",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [],
+    "field_study_design": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8afd07a0-58a3-4743-8946-461e4165bb67"
+        }
+    ],
+    "field_study_pi": [
+        {
+            "value": "Ann C. Long, MD, MS"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "University of Washington"
+        }
+    ],
+    "field_study_setting": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "0273e5e5-00f3-4ffe-89c2-4dd69d36e8fc"
+        }
+    ],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "89b177d7-1afa-4d2b-bb5a-199a38866463"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<h4>Objectives:<\/h4>\r\n\r\n<p><strong>Aim 1:&nbsp;<\/strong>To use rigorous qualitative methods to explore family member experiences during three specific periods of care: 1) at the time of their loved one's hospital admission and during their stay on the acute care floor; 2) at the time a decision is made to pursue transfer to the ICU; and 3) during the period of time following ICU admission&nbsp;<\/p>\r\n\r\n<p><strong>Aim 2:&nbsp;<\/strong>To perform an exploratory analysis of patient and family member factors associated with lower family member ratings of care for patients transferred from acute care to the ICU.&nbsp;<\/p>\r\n\r\n<h4>Methodology:<\/h4>\r\n\r\n<p>Descriptive thematic analysis of semi-structured interviews with family members; surveys, chart abstraction<\/p>\r\n\r\n<h4>Measures:<\/h4>\r\n\r\n<p>Age, sex, race\/ethnicity, socioeconomic status, comorbid illness, family ratings of ICU care, length of stay&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [
+        {
+            "value": "<p>The qualitative portion of this study's data can be found at the PCRC QDR-EOLPC:&nbsp;<a href=\"https:\/\/doi.org\/10.5064\/F6GXXBVD\" target=\"_blank\">https:\/\/doi.org\/10.5064\/F6GXXBVD<\/a>.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_therapeutic_area": [],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4d3f370c-c53a-4fa5-b976-8e7d7eab9dc9"
+        }
+    ]
+}

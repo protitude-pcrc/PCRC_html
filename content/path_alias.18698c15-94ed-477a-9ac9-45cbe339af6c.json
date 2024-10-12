@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "18698c15-94ed-477a-9ac9-45cbe339af6c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/taxonomy\/term\/356"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news-type\/newsletters"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

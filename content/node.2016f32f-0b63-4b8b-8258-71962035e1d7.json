@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "2016f32f-0b63-4b8b-8258-71962035e1d7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "FOA for NEW Pilot Funding Opportunity"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-07-16T18:44:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2015-07-16T18:44:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/foa-new-pilot-funding-opportunity",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<strong><a href=\"http:\/\/palliativecareresearch.org\/funding\/funding-opportunities\/pilot-funding\/\">PCRC Investigator Development Pilot Award Program: Supporting Investigator Development for Building the Science of Palliative Care<\/a><\/strong>\r\n\r\nThis <strong><a href=\"\/sites\/default\/files\/migrated_files\/PCRC-FOA2015_R2.pdf\">Funding Opportunity Announcement (FOA)<\/a><\/strong><strong>\u00a0<\/strong> encourages small pilot research grant applications focused on generating pilot data and supporting investigator development for building the science of palliative care. Funded proposals will use the PCRC infrastructure, may draw upon PCRC generated data, and involve PCRC Investigators as mentors or expert consultants.\r\n\r\n<strong><a href=\"\/sites\/default\/files\/migrated_files\/PCRC_Pilot_ApplicationTemplate-2015.docx\">Pilot Grant Application Template<\/a><\/strong>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

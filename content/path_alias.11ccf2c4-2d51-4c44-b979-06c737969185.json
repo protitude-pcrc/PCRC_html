@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "11ccf2c4-2d51-4c44-b979-06c737969185"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/2442ec15-dcb6-4be2-95b2-7447fd3741cf"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/12-redcap-codebook-pcrc-mds-studypdf"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "89717e63-cbf2-4477-a208-8b8819857c33"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/56b6de72-b20e-4724-8b55-be7a28ffd6f6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/ahrq-draft-report-review-and-comment"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

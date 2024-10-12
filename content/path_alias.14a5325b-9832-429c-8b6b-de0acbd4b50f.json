@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "14a5325b-9832-429c-8b6b-de0acbd4b50f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1b89790f-19f3-4309-91d0-18d0eaeb88e8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/study\/mindfulness-based-multi-symptom-cbt-advanced-cancer-patients"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

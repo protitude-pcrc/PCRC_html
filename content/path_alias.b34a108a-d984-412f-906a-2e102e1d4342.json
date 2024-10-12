@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b34a108a-d984-412f-906a-2e102e1d4342"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/3b8df09d-2c85-4179-96f8-c14abaaf756b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/gubbinshammer"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

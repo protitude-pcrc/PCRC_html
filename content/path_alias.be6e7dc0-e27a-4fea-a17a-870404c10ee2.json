@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "be6e7dc0-e27a-4fea-a17a-870404c10ee2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/57d0fe75-93db-4f33-91a9-45ece7909fec"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/upcoming-foa-pcori"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

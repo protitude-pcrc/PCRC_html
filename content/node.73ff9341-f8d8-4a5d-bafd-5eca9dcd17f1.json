@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "73ff9341-f8d8-4a5d-bafd-5eca9dcd17f1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "PCRC Investigator Development Pilot Award (NEW FOA Coming SOON!)"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-07-02T18:55:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2015-07-02T18:55:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/pcrc-investigator-development-pilot-award-new-foa-coming-soon",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\n<h6 style=\"text-align: left;\"><span style=\"color: #0481b2;\"><strong>Title:<\/strong><\/span><\/h6>\r\n<\/td>\r\n<td>Supporting Investigator Development for Building the Science of Palliative Care<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<h6 style=\"text-align: left;\"><span style=\"color: #0481b2;\">Program:<\/span><\/h6>\r\n<\/td>\r\n<td>Investigator Development Pilot Award Program<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<h6 style=\"text-align: left;\"><span style=\"color: #0481b2;\"><strong>FOA Released:<\/strong><\/span><\/h6>\r\n<\/td>\r\n<td>July 2015<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<h6 style=\"text-align: left;\"><span style=\"color: #0481b2;\">Interest Letter Due:<\/span><\/h6>\r\n<\/td>\r\n<td>August 10, 2015<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<h6 style=\"text-align: left;\"><span style=\"color: #0481b2;\">Start Date:<\/span><\/h6>\r\n<\/td>\r\n<td>January 1, 2016<\/td>\r\n<\/tr>\r\n<tr>\r\n<td>\r\n<h6 style=\"text-align: left;\"><span style=\"color: #0481b2;\">Expires:<\/span><\/h6>\r\n<\/td>\r\n<td>December 31, 2016<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1a08e230-883f-4894-8acc-0fa2e96fa271"
+        }
+    ]
+}

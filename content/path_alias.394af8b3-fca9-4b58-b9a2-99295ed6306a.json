@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "394af8b3-fca9-4b58-b9a2-99295ed6306a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/bfddec95-c755-4a83-a785-c5c7498e96d3"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/aelder"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

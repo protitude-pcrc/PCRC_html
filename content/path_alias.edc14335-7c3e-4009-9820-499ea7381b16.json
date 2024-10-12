@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "edc14335-7c3e-4009-9820-499ea7381b16"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/cbfc1b78-63b0-44e1-90db-1b666333743c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-37-july-2019"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

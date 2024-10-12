@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "d127071a-3893-4e6f-8c86-7d6fa4df5c61"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Scientists receive $10M grant to continue development of Palliative Care Research Cooperative Group"
+        }
+    ],
+    "created": [
+        {
+            "value": "2014-01-30T08:00:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2014-01-30T08:00:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/scientists-receive-10m-grant-continue-development-palliative-care-research-cooperative-group",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<a href=\"http:\/\/www.news-medical.net\/news\/20140124\/Scientists-receive-2410M-grant-to-continue-development-of-Palliative-Care-Research-Cooperative-Group.aspx\" target=\"_blank\">Published on January 24, 2014 at NewsMedical<\/a>\r\n\r\nDuke University and the University of Colorado schools of medicine have received a $10 million grant from the National Institute for Nursing Research (NINR), part of the National Institutes of Health, to continue the development of the Palliative Care Research Cooperative Group (PCRC) over the next five years.\r\n\r\nThe consortium addresses national research priorities in palliative care and end-of-life by enhancing the quality and efficiency of research and educating doctors and patients about best practices. The goal is to promote research that leads to better ways of relieving suffering and improving quality of life for patients who have advanced, potentially life-limiting illnesses.\r\n\r\nAs the nation's first cooperative group focused on palliative care research, the PCRC was established in 2010 with initial funding from the NINR\/NIH, and now includes more than 20 member institutions across the nation.\r\n\r\n\"We intend for the PCRC to set the gold standard for multisite palliative care and end-of-life research,\" said Amy Abernethy, M.D. Ph.D., director of the Center for Learning Health Care at Duke and PCRC Co-Chair. \"Progress under the initial grant has catalyzed an outpouring of broad interest, motivation, support, and enthusiasm. The recent award will support efforts to build the cooperative group into a more robust, enduring resource for research support and training.\"\r\n\r\n\"We will develop key resources and infrastructure that nurture, enlist, and harness investigator and site interest,\" said Jean Kutner, M.D., MSPH, professor of medicine at the University of Colorado School of Medicine and PCRC Co-Chair. \"This will enable us to promote the conduct and translation of high-quality, collaborative, patient-centered palliative care and end-of-life research.\"\r\n\r\nBoth co-chairs oversaw the group's first multi-site clinical trial designed to determine if discontinuing cholesterol-lowering medications when patients near the end of life alters survival and quality of life, or leads to any adverse consequences. This trial completed enrollment in May 2013 at 15 U.S. sites. Results are expected to be published in upcoming months.",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1a08e230-883f-4894-8acc-0fa2e96fa271"
+        }
+    ]
+}

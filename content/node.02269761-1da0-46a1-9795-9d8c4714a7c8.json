@@ -1,0 +1,110 @@
+{
+    "uuid": [
+        {
+            "value": "02269761-1da0-46a1-9795-9d8c4714a7c8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-05-23T16:51:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5f686ebb-b50d-407c-8038-e50304f18bef"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "PCORI Funding Initiative: Symptom Management for Patients with Advanced Illness PFA for Cycle 2 2018"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-05-08T16:50:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-05-23T16:51:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/pcori-funding-initiative-symptom-management-patients-advanced-illness-pfa-cycle-2-2018",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The goal of this funding initiative is to support patient- and caregiver-centered, comparative clinical effectiveness research to generate important findings that will aid decision making about symptom management in advanced illness. PCORI seeks to fund multiple high quality clinical studies that compare the effectiveness of evidence-based treatments for relief of common symptoms experienced by patients with serious, advanced illness.&nbsp;<\/p>\r\n\r\n<p>The mission of the PCORI is to improve the quality and relevance of evidence available to help patients, caregivers, clinicians, employers, insurers, and policy makers make informed health decisions. We invite you to review this funding announcement on our <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__www.pcori.org_funding-2Dopportunities_announcement_symptom-2Dmanagement-2Dpatients-2Dadvanced-2Dillness-2Dcycle-2D2-2D2018&amp;d=DwMF-g&amp;c=shNJtf5dKgNcPZ6Yh64b-A&amp;r=tX3IW7cD-UsuUyOhhWt9oK8q33qpetNKL9z3yFzqNUA&amp;m=xcIlaNZDSlLyHsC4Vn0j_Chbb5sX7ds1YQ3_AeD3xiE&amp;s=4oad945_a254PBIz-6wiml2vFXo718YfT8FPp8qE1qA&amp;e=\">website<\/a> and share this information with others who may be interested.&nbsp;<\/p>\r\n\r\n<p>The full funding announcement will be released on <b>June 1, 2018<\/b>. While this funding announcement was originally released in Cycle 2 2017, PCORI has made some changes to this version. We invite you to <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__www.pcori.org_events_2018_symptom-2Dmanagement-2Dpatients-2Dadvanced-2Dillness-2Dpfa-2Dcycle-2D2-2D2018-2Dapplicant-2Dtown-2Dhall&amp;d=DwMF-g&amp;c=shNJtf5dKgNcPZ6Yh64b-A&amp;r=tX3IW7cD-UsuUyOhhWt9oK8q33qpetNKL9z3yFzqNUA&amp;m=xcIlaNZDSlLyHsC4Vn0j_Chbb5sX7ds1YQ3_AeD3xiE&amp;s=SB-DtxWolyHv9c5N3Lr62lYREeDw_BjmlK6nDxI5uTs&amp;e=\">register<\/a> for the Town Hall on June 19, 2018.&nbsp;<\/p>\r\n\r\n<p>If you have any questions, please contact <a href=\"mailto:sciencequestions@pcori.org\">sciencequestions@pcori.org<\/a>.&nbsp;&nbsp;<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "The Patient-Centered Outcomes Research Institute (PCORI) will be releasing the Symptom Management for Patients with Advanced Illness PFA for Cycle 2 2018.\u00a0\u00a0\u00a0"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "uuid": [
+        {
+            "value": "3672a4ae-2bd6-4968-8b5c-45dbc4913aa4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "document",
+            "target_type": "file_type",
+            "target_uuid": "aba37c63-b654-405f-a34e-d829c2ad7580"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "filename": [
+        {
+            "value": "Telephone MCBT Data Dictionary updated 11.21.17[73].docx"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/dictionaries\/Telephone MCBT Data Dictionary updated 11.21.17[73].docx"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 80908
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-18T14:54:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-18T14:58:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/telephone-mcbt-data-dictionary-updated-11211773docx",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ]
+}

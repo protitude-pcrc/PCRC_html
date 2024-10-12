@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "32dee342-c9e8-4402-af38-c53634c24556"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/643a468b-4968-41aa-8964-1dc321e8e99c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-14-july-2015"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "c0439ce0-294d-42b0-8aff-46a5159b1902"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-03-19T15:51:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c4c1b62a-869d-454a-b78c-bde33aba2db8"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c4c1b62a-869d-454a-b78c-bde33aba2db8"
+        }
+    ],
+    "title": [
+        {
+            "value": "Palliative Care and Aging Research Training (T32) Opportunity"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-03-19T15:46:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-03-19T15:51:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/palliative-care-and-aging-research-training-t32-opportunity",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><strong>Palliative Care and Aging Research Training (T32) Opportunity<\/strong><br \/>\r\nFunded by a Ruth Kirschstein National Research Service Award NRSA T32 from the National Institute on Aging (NIA), this Program builds on the significant Palliative Care expertise and research opportunities within the University of Colorado. Participants become members of the community of scholars at the University of Colorado and are provided with the full array of resources available within the Department of Medicine and the Colorado Clinical &amp; Translational Sciences Institute (CCTSI).<br \/>\r\nTraining Components:<\/p>\r\n\r\n<ul>\r\n\t<li>Mentorship<\/li>\r\n\t<li>Interdisciplinary Research Training &amp; Experience<\/li>\r\n\t<li>Professional Development Opportunities<\/li>\r\n\t<li>Research Seminar and Journal Club<\/li>\r\n<\/ul>\r\n\r\n<p>Applications are due May 1st, 2019 for start date in&nbsp;summer 2019 (any time after May 1st).<\/p>\r\n\r\n<p>Please visit: <a href=\"http:\/\/medschool.ucdenver.edu\/Palliative-Care-and-Aging-Research-Training-T32\">http:\/\/medschool.ucdenver.edu\/Palliative-Care-and-Aging-Research-Training-T32<\/a> for a summary of the application requirements. Potential applicants should first contact <a href=\"mailto:jean.kutner@ucdenver.edu\">Dr. Jean Kutner<\/a> to ensure availability for sponsorship. For general information, email <a href=\"mailto:agata.hardin@ucdenver.edu\">Agata Hardin<\/a> or call 303.724.2261.<\/p>\r\n\r\n<p><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\"><span style=\"color:#1f497d\">Sponsored by&nbsp;Grant number: T32AG044296<\/span><\/span><\/span><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

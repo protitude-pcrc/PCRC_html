@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "f06e1255-7603-477f-ac29-502cc2fdd10d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-04-26T16:29:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Implement Patient-Reported Outcomes (PROs) in Research Studies"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-09-03T20:30:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-04-26T16:29:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/corescenters\/measurement-core\/implement-patient-reported-outcomes-pros-research-studies",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h4>Implementing Patient-Reported Outcomes (PROs) in Research Studies<\/h4>\r\n\r\n<p>The PCRC Measurement Core has developed slides to assist researchers with understanding how to implement Patient-Reported Outcomes (PROs) in their research studies.&nbsp; The following topics will be presented in the slides which are intended for new investigators:<\/p>\r\n\r\n<ul>\r\n\t<li style=\"margin-left:8px\">\r\n\t<p><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-size:12pt\"><span style=\"line-height:17.1200008392334px\">Prioritizing Endpoints<\/span><\/span><\/span><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"margin-left:8px\">\r\n\t<p><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-size:12pt\"><span style=\"line-height:17.1200008392334px\">Defining Your Measurement Plan<\/span><\/span><\/span><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"margin-left:8px\">\r\n\t<p><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-size:12pt\"><span style=\"line-height:17.1200008392334px\">Context of Use, Validity and Reliability<\/span><\/span><\/span><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"margin-left:8px\">\r\n\t<p><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-size:12pt\"><span style=\"line-height:17.1200008392334px\">Minimally Important Differences<\/span><\/span><\/span><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"margin-left:8px\">\r\n\t<p><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-size:12pt\"><span style=\"line-height:17.1200008392334px\">Recall Periods<\/span><\/span><\/span><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"margin-left:8px\">\r\n\t<p><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-size:12pt\"><span style=\"line-height:17.1200008392334px\">Translation and Cultural Adaption<\/span><\/span><\/span><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"margin-left:8px\">\r\n\t<p><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-size:12pt\"><span style=\"line-height:17.1200008392334px\">Introduction to the PCRC Instrument Library<\/span><\/span><\/span><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"margin-left:8px\">\r\n\t<p><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-size:12pt\"><span style=\"line-height:17.1200008392334px\">Mode of Administration<\/span><\/span><\/span><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"margin-bottom:11px; margin-left:8px\">\r\n\t<p><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-size:12pt\"><span style=\"line-height:17.1200008392334px\">Tips for Successful Survey Data Collection<\/span><\/span><\/span><\/span><\/p>\r\n\t<\/li>\r\n<\/ul>\r\n\r\n<p>Click <strong><a href=\"https:\/\/pcrc.box.com\/s\/1qnpduqccllsn7fsjbsp4v93xebjvax3\" rel=\"noopener\" target=\"_blank\">here<\/a><\/strong> to access slides on How to implement PROs in Research Studies.<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

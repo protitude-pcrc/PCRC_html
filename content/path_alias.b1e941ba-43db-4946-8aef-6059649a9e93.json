@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b1e941ba-43db-4946-8aef-6059649a9e93"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/55a79db6-1d91-48d2-9c0e-c53178ad2ca7"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/nih-notice-intent-publish"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

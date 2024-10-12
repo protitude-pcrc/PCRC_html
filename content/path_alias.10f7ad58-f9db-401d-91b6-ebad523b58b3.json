@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "10f7ad58-f9db-401d-91b6-ebad523b58b3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f22570dd-8e66-44d3-899c-fd7c1c756ef4"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/about\/frequently-asked-questions"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "0e2ff67c-ad8c-49db-b2f4-a6cd7ef89c2e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/a3a69d01-9c4b-4780-a74b-87e0e8c710e7"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/garrigues-headshot-1jpg"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

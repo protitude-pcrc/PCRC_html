@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "f40d45b3-dfb0-4c45-9c87-5a9bf6a6a966"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-01-16T05:52:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Call for Papers for a special issue of Palliative Medicine: \u201cBig Data in Palliative and End-of-Life Care\u201d"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-01-16T05:46:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-01-16T05:52:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/call-papers-special-issue-palliative-medicine-big-data-palliative-and-end-life-care",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Our aim is to publish rigorous original research, reviews and methodologies making use of big data in the context of palliative or end-of-life care. We seek high-quality contributions from across health and social sciences that have the potential to appeal to an international audience of clinicians, researchers, managers, educators and policy makers. Please note that a high priority will be given to original research questions of clinical, public health or societal relevance, relying on innovative methods. Strictly descriptive studies will be given low priority, unless they touch upon population, groups or outcomes that are currently understudied and for which the use of routinely collected is suitable.<\/p>\r\n\r\n<p>Authors should submit an electronic copy of their complete manuscript through Manuscript Central: <a href=\"http:\/\/mc.manuscriptcentral.com\/palliative-medicine\" target=\"_blank\">http:\/\/mc.manuscriptcentral.com\/palliative-medicine<\/a>.<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>Before submission authors should carefully read the journal\u2019s Author Guidelines <a href=\"http:\/\/www.uk.sagepub.com\/journals\/Journal201823?#tabview=manuscriptSubmission\" target=\"_blank\">http:\/\/www.uk.sagepub.com\/journals\/Journal201823?#tabview=manuscriptSubmission<\/a>, as papers that do not meet these requirements will not be processed through the system.<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p><strong>Deadline for submissions is Friday 17 April 2020.<\/strong><\/p>\r\n\r\n<p>For further information, please contact the Editorial Office: debbie.ashby@bristol.ac.uk<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Deadline for submissions is Friday 17 April 2020"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

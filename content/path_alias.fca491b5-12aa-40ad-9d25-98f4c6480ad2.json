@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "fca491b5-12aa-40ad-9d25-98f4c6480ad2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/8acd5533-3300-46eb-9840-0b80086dcd62"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/november-national-hospice-and-palliative-care-month"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

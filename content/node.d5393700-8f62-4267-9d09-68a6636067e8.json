@@ -1,0 +1,110 @@
+{
+    "uuid": [
+        {
+            "value": "d5393700-8f62-4267-9d09-68a6636067e8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-11-12T21:34:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "New NINR FOA Posted: Strategies to Provide Culturally Tailored Palliative and End-of-Life Care for Seriously Ill American Indian and Alaska Native Individuals "
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-11-12T21:29:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-11-12T21:34:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/new-ninr-foa-posted-strategies-provide-culturally-tailored-palliative-and-end-life-care",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The purpose of this funding opportunity announcement (FOA) is to encourage research that will improve and increase the use of evidence-based interventions in end-of-life and palliative care (EOLPC) for American Indian\/Alaska Native (AI\/AN) individuals with advanced illness and their families and communities.<\/p>\r\n\r\n<p>Research objectives include, but are not limited to, those that address:<\/p>\r\n\r\n<ul>\r\n\t<li>Determination of the unique perceptions of EOLPC in seriously ill AI\/AN individuals within and across tribes.<\/li>\r\n\t<li>The design, testing, and evaluation of tools\/strategies to assess and care for those with advanced, progressive chronic diseases in a culturally appropriate manner.<\/li>\r\n\t<li>Strategies that combine traditional Indigenous healing\/care concepts with non-traditional practices to provide more effective palliative and end-of-life care to Indigenous peoples.<\/li>\r\n\t<li>Development of appropriate models of care to improve care continuity, ease care transitions and care coordination, and use of EOL care with the goal of improving quality of life for AI\/AN and their families and communities.<\/li>\r\n\t<li>The design and testing of communication strategies\/interventions to improve communication between seriously ill AI\/AN individual and their clinicians, families, caregivers, and communities with the aim of decreasing discordance, improving quality of life, and increasing satisfaction with care.<\/li>\r\n\t<li>Development of reliable and valid AI\/AN appropriate screening\/measurement methods, instruments or tools such as those for early detection of physical, emotional, and\/or psychosocial symptoms, non-adherence to treatment, need for referral to palliative care or hospice, health-related quality of life, or measurement of family well-being, among other considerations, in AI\/AN living with advanced illness and\/or approaching death and their families and communities.<\/li>\r\n\t<li>Strategies to assess and manage advanced pain management in seriously ill AI\/AN individuals.<\/li>\r\n\t<li>Technologies to improve access and use of palliative and end of life care in seriously ill AI\/AN individuals in remote and rural areas.<\/li>\r\n<\/ul>\r\n\r\n<p>To access the application and additional information, please visit:<\/p>\r\n\r\n<p>R21:&nbsp;<a href=\"https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/PAR-19-058.html\" target=\"_blank\">https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/PAR-19-058.html<\/a><\/p>\r\n\r\n<p>R01:&nbsp;<a href=\"https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/PAR-19-057.html\" target=\"_blank\">https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/PAR-19-057.html<\/a><\/p>\r\n\r\n<p>See this and many more funding opportunities from the NINR and others on our <a href=\"\/node\/542\">extramural funding and training opportunities page<\/a>!<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "R21 and R01 options"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

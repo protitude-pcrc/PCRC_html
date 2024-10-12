@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "13aef603-975f-4580-9dc2-f626cf23f1fd"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b8236021-67eb-4f63-972d-9ce86c34f0c6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/noi-publish-funding-opportunity-announcement"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

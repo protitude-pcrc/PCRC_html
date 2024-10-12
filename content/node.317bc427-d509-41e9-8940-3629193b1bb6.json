@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "317bc427-d509-41e9-8940-3629193b1bb6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-21T21:30:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "PCRC Logos"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-07-23T19:50:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-21T21:30:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/pcrc-logos",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h4>PNG Files<\/h4>\r\n\r\n<p><a href=\"\/sites\/default\/files\/migrated_files\/PCRC_Logo2.png\" target=\"_blank\"><img alt=\"PCRC_Logo2\" height=\"456\" src=\"\/sites\/default\/files\/migrated_files\/PCRC_Logo2.png\" width=\"500\" \/><\/a><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p><a href=\"\/sites\/default\/files\/migrated_files\/PCRC_Horizontal2.png\" target=\"_blank\"><img alt=\"PCRC_Horizontal2\" height=\"33\" src=\"\/sites\/default\/files\/migrated_files\/PCRC_Horizontal2.png\" width=\"501\" \/><\/a><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p><a href=\"\/sites\/default\/files\/migrated_files\/PCRC-nowords.png\" target=\"_blank\"><img alt=\"PCRC-nowords\" height=\"287\" src=\"\/sites\/default\/files\/migrated_files\/PCRC-nowords.png\" width=\"500\" \/><\/a><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

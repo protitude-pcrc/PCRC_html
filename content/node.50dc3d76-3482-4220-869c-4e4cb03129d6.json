@@ -1,0 +1,178 @@
+{
+    "uuid": [
+        {
+            "value": "50dc3d76-3482-4220-869c-4e4cb03129d6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-01-18T18:26:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "title": [
+        {
+            "value": "Advanced Care Planning"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-01-18T18:18:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-01-18T18:26:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/study\/advanced-care-planning",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [],
+    "field_approved_data_requests": [],
+    "field_award_number": [],
+    "field_condition_studied": [],
+    "field_csr_summary": [],
+    "field_data_dictionary": [],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4bd58710-be8a-492f-aeaa-ea503498514e"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Advance Care Planning in Hospice Organizations: a Qualitative Pilot Study "
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "51"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": false
+        }
+    ],
+    "field_nct_link_field": [],
+    "field_number_of_study_sites": [],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        }
+    ],
+    "field_participant_ethnicity_coll": [],
+    "field_participant_race": [],
+    "field_participant_sex": [],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "33bd24d1-a052-426d-b433-ee5c51a93ff7"
+        }
+    ],
+    "field_pcrc_study_num": [
+        {
+            "value": "15-03"
+        }
+    ],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/pubmed.ncbi.nlm.nih.gov\/32130076\/",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [],
+    "field_study_design": [],
+    "field_study_pi": [
+        {
+            "value": "Krista L Harrison "
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "University of California"
+        }
+    ],
+    "field_study_setting": [],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "89b177d7-1afa-4d2b-bb5a-199a38866463"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p><b><i>Background:<\/i><\/b>&nbsp;In the United States, 45% of people enrolled in hospice have dementia. We know little about how hospice professionals facilitate preference-aligned end-of-life care for people with dementia (PWD) and their families.&nbsp;<\/p>\r\n\r\n<p><b><i>Objective:<\/i><\/b>&nbsp;To examine hospice stakeholders' perspectives on caring for PWD and their families.&nbsp;<b><i>Design:<\/i><\/b>&nbsp;Multisite qualitative study using semi-structured interviews with interdisciplinary hospice clinicians, leaders, and administrators. The interdisciplinary team used the constant comparative method to identify, code, and characterize relevant themes.&nbsp;<\/p>\r\n\r\n<p><b><i>Setting\/participants:<\/i><\/b>&nbsp;Four geographically distinct nonprofit U.S. hospice organizations. Fifty-one hospice employees: 61% clinical staff, 25% executive leaders, and 14% administrators.&nbsp;<\/p>\r\n\r\n<p><b><i>Measurements:<\/i><\/b>&nbsp;Interview domains included participants' practices of engaging patients\/families in discussions of preferences for end-of-life care and professional opinions of changes over time. Cross-topic probes focused on delivering hospice care to PWD and their proxies\/families.&nbsp;<\/p>\r\n\r\n<p><b><i>Results:<\/i><\/b>&nbsp;Four themes regarding caring for PWD in hospice. (1) Dementia prevalence in hospice is increasing and some hospices are developing programs to accommodate specific needs. (2) Setting impacts discussions of preferences and care decisions. (3) Caring for PWD on hospice poses unique challenges caused by (i) perceptions that dementia is not terminal, (ii) a lack of advance care planning discussions before hospice admission, and (iii) proxy decision-makers who were inadequately prepared for their role. (4) Hospice regulatory and policy changes disproportionately impact PWD.&nbsp;<\/p>\r\n\r\n<p><b><i>Conclusions:<\/i><\/b>&nbsp;Hospice professionals perceive increasing demand for, and multilevel challenges to, caring for PWD. Clinicians \"upstream\" from hospice may help by engaging patients and proxies in discussions of preferences for end-of-life care and providing anticipatory guidance.<\/p>\r\n\r\n<p><strong>Request Data Access at&nbsp;<\/strong><a href=\"https:\/\/doi.org\/10.5064\/F6YMWPUX\" target=\"_blank\">https:\/\/doi.org\/10.5064\/F6YMWPUX<\/a>&nbsp;<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [],
+    "field_therapeutic_area": [],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "fbfde82e-fe88-4af6-9020-923c25b3405b"
+        }
+    ]
+}

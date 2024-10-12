@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "d86a03dc-da90-4cb9-b3d6-078ffaddebce"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-11-02T19:28:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "title": [
+        {
+            "value": "NCI OCS Director's Series Presentation - Dec 13"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-11-02T17:37:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-11-02T19:28:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/nci-ocs-directors-series-presentation-dec-13",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The NCI Office of Cancer Survivorship (OCS) presents&nbsp;<em>Blending Survivorship and Palliative Care for People with Advanced Cancer in the Precision Oncology Era&nbsp;<\/em>presented by Dr. Laura A. Petrillo, MD and joined by Dr. Anne Charity Hudley, PhD.&nbsp;<\/p>\r\n\r\n<p>When: <strong>December 13, 2022 from 2:00 - 3:00 pm ET<\/strong><\/p>\r\n\r\n<p>Register <a href=\"https:\/\/nam02.safelinks.protection.outlook.com\/?url=https%3A%2F%2Furldefense.com%2Fv3%2F__https%3A%2Fsecure-web.cisco.com%2F1UVhmddoUYIdu-nhsgOZGPb3d9O5r5h64uQWiciopOCRFwC1Te8yJy_VDzyw3sRlMfFWoe2X190cqe3PSX-DHRsv3iWLoglxESzWLBuSuipvLbTeQG4bk5ucSflAgxAVWtm1-nwOkjSVPVTX-ClVuoWlOyv_QYX6xti2F9HdY1DKyorwdPI1DpYzAQ7APUvpyteNjkXiFSZtyVvw-g5-Xm7DL0DFoSsddBdLqEN9ZAKVMqdF-8G8k4Fax5T-bw3-f-oP9BXBjngSvlhu2xvbUytJIqspt52ON15ZLiSjT5G7i7c7iAqPh5hesYUEdAMPV%2Fhttps*3A*2F*2Furldefense.com*2Fv3*2F__https*3A*2Flnks.gd*2Fl*2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDMsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMzEuNjU5MTk1NTEiLCJ1cmwiOiJodHRwczovL2NiaWl0LndlYmV4LmNvbS9tdzMzMDAvbXl3ZWJleC9kZWZhdWx0LmRvP2NpZD1lYl9nb3ZkZWwmbWFpbl91cmw9aHR0cHMlM0ElMkYlMkZjYmlpdC53ZWJleC5jb20lMkZlYzMzMDAlMkZldmVudGNlbnRlciUyRmV2ZW50JTJGZXZlbnRBY3Rpb24uZG8lM0ZFTUslM0Q0ODMyNTM0YjAwMDAwMDA1YzY0ZjdlNjlhMDBkYjVlMmNiZmRiNDY1ZTIzMWFkM2ExM2Q5MzJlODJlNjFjYjc1NjMxNGIxOGFiZTBlOTZiNCUyNmNpZCUzRGViX2dvdmRlbCUyNmNvbmZWaWV3SUQlM0QyNDA1MjQzOTU5NjQwMTQ3MjQlMjZlbmNyeXB0VGlja2V0JTNEU0RKVFN3QUFBQVdyN3BNbUJhQ1pmOHhHT3hFZnZiMUljYkc5eEhnTWQteHRNeV9pRWYyMWpnMiUyNnNpdGV1cmwlM0RjYmlpdCUyNnRoZUFjdGlvbiUzRGRldGFpbCZub21lbnU9dHJ1ZSZybmQ9MC45MjUzMDY1NDM1ODcyMDUyJnNlcnZpY2U9NiZzaXRldXJsPWNiaWl0In0.0EIeyTqF8KU5vvWanu1fgVleee8y0MVYP0wAdeyOXmI*2Fs*2F519082722*2Fbr*2F147011321631-l__*3B*21*21OToaGQ*21qkuChKE90r_WHHLU4FbdXKBwI7BJlTGT1OdNaF1dpYv78c2QYOeujldE61tMASXMmk82bR4Z1y7s2oCX_2h0Vg_i0w*24__%3BJSUlJSUlJSUlJSUlJSUlJSUl!!OToaGQ!snau_wNk4QX-3DftYAi4LgHQMGpUCkQkyFSmVQZFLlFsRYkg-1puPK4VHVKRwLs0NxxBvNS7VOwX7nrVSEkF4pAHdRJtMEIf%24&amp;data=05%7C01%7CGEOFFREY.HARGER%40cuanschutz.edu%7C47439884bfd743990d4408dabc3eb38a%7C563337caa517421aaae01aa5b414fd7f%7C0%7C0%7C638029274753899656%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=gpv1%2F7bUgbGUHXGtEtSJd7aafOoMDoOueWqTXqJs7Lo%3D&amp;reserved=0\" rel=\"noopener\" target=\"_blank\"><strong>HERE<\/strong><\/a><\/p>\r\n\r\n<p>This webinar will be archived on the OCS Events webpage <a href=\"https:\/\/nam02.safelinks.protection.outlook.com\/?url=https%3A%2F%2Furldefense.com%2Fv3%2F__https%3A%2Fsecure-web.cisco.com%2F1zlnqJsH2J-pmT5E4u3mr8aS9qRiirLfmDRuqr2D4QtuniRcbHTSZ6aLHBgBcCnVT87x_8pp5pPWAZqRlQc3hYVM6kplsaDIrtMbiL9A7f6_PQpfpbbvm9hRHhhS4-rJcRirvWt3wODnK0QGMAAU-eE9tFzO46Mc6yMd3uxrfxtkP1cvfq05xeGzFIMSlrdVUnJVKi6WQMokOyGjYR-yukCv6x5esNTDqgAiqgW7ecyAssedq2E4S7JE4Rt2tVS3q6sFFKYfkSiwgq5LZLj_GYqrzSCmE2FeEFDwtEQwNA1jjwQQxliYzR2UpI96tjvQo%2Fhttps*3A*2F*2Furldefense.com*2Fv3*2F__https*3A*2Flnks.gd*2Fl*2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDQsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMzEuNjU5MTk1NTEiLCJ1cmwiOiJodHRwczovL2xpc3RzLmljZndlYnNlcnZpY2VzLmNvbS90LzU0OTIwOS80MjI1MTQ4LzUxMjkyLzEzLz9jaWQ9ZWJfZ292ZGVsIn0.vEaBqf7TVe9poRnsBOe76fyp8pgN0Mq7W1v8fy-PtR0*2Fs*2F519082722*2Fbr*2F147011321631-l__*3B*21*21OToaGQ*21qkuChKE90r_WHHLU4FbdXKBwI7BJlTGT1OdNaF1dpYv78c2QYOeujldE61tMASXMmk82bR4Z1y7s2oCX_2j8AnUmLg*24__%3BJSUlJSUlJSUlJSUlJSUlJSUl!!OToaGQ!snau_wNk4QX-3DftYAi4LgHQMGpUCkQkyFSmVQZFLlFsRYkg-1puPK4VHVKRwLs0NxxBvNS7VOwX7nrVSEkF4pAHdcW5vDC4%24&amp;data=05%7C01%7CGEOFFREY.HARGER%40cuanschutz.edu%7C47439884bfd743990d4408dabc3eb38a%7C563337caa517421aaae01aa5b414fd7f%7C0%7C0%7C638029274753899656%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=c0fzeN3nlZ4IM%2Fk1XctDIz8WrGp6vf9bbyVcRKTjd6A%3D&amp;reserved=0\" rel=\"noopener\" target=\"_blank\">HERE<\/a><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "NCI OCS Director's Series presentation by Laura A. Petrillo, MD, and Anne Charity Hudley, PhD"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

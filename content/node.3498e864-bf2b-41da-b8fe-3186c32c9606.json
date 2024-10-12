@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "3498e864-bf2b-41da-b8fe-3186c32c9606"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-06-23T22:43:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Palliative Care Measurement Tool Library"
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-04-21T06:48:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-06-23T22:43:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/corescenters\/measurement-core\/Palliative-Care-Measurement-Tool-Library",
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The Palliative Care Measurement Tool Library is a resource for investigators wanting to identify relevant and high quality instruments for their palliative care research study. It contains approximately 200&nbsp;instruments for assessing patients and their care, which were identified by published systematic reviews of instruments relevant to palliative care.<\/p>\r\n\r\n<p>Additional resources that could be helpful to the development of your measurement strategy include:<\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/palliativecareresearch.org\/corescenters\/data-informatics-statistics-core-disc\/pcrc-standardized-data-elements\" target=\"_blank\">PCRC Standardized Data Elements (SDEs)<\/a><\/li>\r\n\t<li><a href=\"https:\/\/palliativecareresearch.org\/corescenters\/caregiver-core\" target=\"_blank\">Caregiver Core<\/a><\/li>\r\n<\/ul>\r\n\r\n<p style=\"margin:0in 0in 0.0001pt\">&nbsp;<\/p>\r\n\r\n<p>[toggle]<\/p>\r\n\r\n<p>[toggle-item title=\"How to obtain a copy\"]<\/p>\r\n\r\n<p>Please complete the brief online <a href=\"https:\/\/airtable.com\/shrDZpNRNjNxGjr1e\" rel=\"noopener noreferrer\" target=\"_blank\">request form<\/a> and a copy of the library will be emailed to you immediately.<\/p>\r\n\r\n<p>[\/toggle-item]<\/p>\r\n\r\n<p>[toggle-item title=\"How is it organized? How do I&nbsp;select an instrument?\"]<\/p>\r\n\r\n<p>The&nbsp;library is divided into two sections, one for adult&nbsp;instruments and one for pediatric&nbsp;instruments. &nbsp;It&nbsp;contains a summary of each instrument, including: content, number of items, respondent, recall period, whether it requires an interviewer, estimated completion time, and key citations with links to PubMed abstracts.&nbsp; Investigators may search based on the content category (Column C) or disease groups (Column D) in order to focus in on instruments that may be most relevant to their research. In addition, investigators must determine whether the instrument is appropriate for their particular research study.<\/p>\r\n\r\n<p>This includes whether the content of the instruments corresponds to what they want to measure; whether it has demonstrated validity, reliability, and responsiveness; and whether it is appropriate for the context of use (i.e., the study population, the disease condition, and the study environment). Information about measurement, instrument selection, and study design with patient-reported outcomes can be found in the <a href=\"\/node\/502\">PCRC Measurement Core<\/a> resource pages.<\/p>\r\n\r\n<p>Instruments that assess caregiver needs and experience can be found in the <a href=\"\/node\/506\">PCRC Caregiver Core<\/a> resources pages. Because patients along with their caregivers and other family members require palliative care, you may need to consult both instrument resources.<\/p>\r\n\r\n<p>[\/toggle-item]<\/p>\r\n\r\n<p>[toggle-item title=\"How were instruments chosen for this library?\"]<\/p>\r\n\r\n<p>The instruments included in the library are those that were endorsed by published systematic reviews relevant to palliative care.&nbsp; A <a href=\"\/node\/544\">bibliography of these systematic reviews<\/a> is available for reference. The systematic reviews varied in their criteria and their rating method.&nbsp; Nonetheless, the instruments that were \u201crecommended\u201d or \u201chighly scored\u201d etc., by the authors of each systematic review are included in this library.<\/p>\r\n\r\n<p>This method will omit some valid and reliable instruments that may be important in particular research studies, but does create a compendium of the highest quality and most commonly used instruments for the field. In a rapidly emerging field of investigation, further evidence for instruments will expand this library over time.<\/p>\r\n\r\n<p>The PCRC Measurement Core continues to search for high quality systematic reviews of measurement instruments relevant to palliative care research.&nbsp; While we do not accept nominations of individual instruments, we welcome nominations of additional systematic reviews to assist in meaningful expansion of this resource for palliative care investigators.&nbsp; Please send nominations by email to <a href=\"mailto:avbenn@unc.edu\">Antonia Bennett (avbenn@unc.edu)<\/a>.<\/p>\r\n\r\n<p>[\/toggle-item]<\/p>\r\n\r\n<p>[toggle-item title=\"Terms of Use\"]<\/p>\r\n\r\n<p>Please note that inclusion of an instrument in this library is not an endorsement by the PCRC. Please also note that the investigator is responsible for obtaining any permissions or licenses for using the instruments in their research.<\/p>\r\n\r\n<p>If someone outside of your research group would be interested to obtain a copy of the Palliative Care Measurement Tool Library, please have them complete the online <a href=\"https:\/\/airtable.com\/shrDZpNRNjNxGjr1e\">request form<\/a>.<\/p>\r\n\r\n<p>[\/toggle-item][\/toggle]<\/p>\r\n\r\n<h4>Contact Information<\/h4>\r\n\r\n<p>If you have any questions about this library, or about the selection of instruments for your research study, or about methods for administering the instruments in your data collection, please contact Antonia Bennett, Co-Director of the PCRC Measurement Core, <a href=\"mailto:avbenn@unc.edu\">via email: avbenn@unc.edu<\/a><\/p>\r\n\r\n<p>Consultation is freely available to investigators because of National Institute for Nursing Research (NINR) support for the PCRC.<\/p>\r\n\r\n<h4>Version<\/h4>\r\n\r\n<p>The most current version of the Palliative Care Measurement Tool Library is Version 6.0 (Date: April 21, 2022) Information will be posted here when an updated version becomes available.<\/p>\r\n\r\n<ul>\r\n\t<li style=\"margin-left:8px\">\r\n\t<p><span style=\"font-size:12pt\"><span style=\"tab-stops:list .5in\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"color:black\">Version 1.0 (Release date: April 18, 2017) contained instruments #1-147<\/span><\/span><\/span><\/span><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"margin-left:8px\">\r\n\t<p><span style=\"font-size:12pt\"><span style=\"tab-stops:list .5in\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"color:black\">Version 2.0 (Release date: April 20, 2018) includes additional instruments #148-164<\/span><\/span><\/span><\/span><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"margin-left:8px\">\r\n\t<p><span style=\"font-size:12pt\"><span style=\"tab-stops:list .5in\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"color:black\">Version 3.0 (Release date: July 8, 2019) includes additional instruments #164-171, a new instrument category on \"Death and Dying,\" and information about translation and validation in diverse populations for the \"Quality of Life\" instruments<\/span><\/span><\/span><\/span><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"margin-left:8px\">\r\n\t<p><span style=\"font-size:12pt\"><span style=\"tab-stops:list .5in\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"color:black\">Version 4.0 (Release date: August 13, 2020) includes additional adult instruments #172-181 and pediatric instruments #1-24<\/span><\/span><\/span><\/span><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"margin-left:8px\">\r\n\t<p><span style=\"font-size:12pt\"><span style=\"tab-stops:list .5in\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"color:black\">Version 5.0 (Release date: July 29, 2021) includes additional adult instruments #182-188&nbsp;&nbsp;<\/span><\/span><\/span><\/span><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"margin-left:8px\">\r\n\t<p><span style=\"font-size:12pt\"><span style=\"tab-stops:list .5in\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"color:black\">Version 6.0: (Release date: April 21, 2022) includes additional adult instruments #189-190<\/span><\/span><\/span><\/span><\/span><\/p>\r\n\t<\/li>\r\n\t<li style=\"margin-left:8px\">\r\n\t<p><span style=\"font-size:12pt\"><span style=\"tab-stops:list .5in\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"color:black\">Annual updates to the instrument library that will focus on particular topics are planned<\/span><\/span><\/span><\/span><\/span><\/p>\r\n\t<\/li>\r\n<\/ul>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": [
+        {
+            "value": "A resource for investigators wanting to identify relevant and high quality instruments for their palliative care research study."
+        }
+    ]
+}

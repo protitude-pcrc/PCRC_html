@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "94a69e16-7191-4d43-bcd1-365c7468f852"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/f1af0086-3ca4-4c8e-b559-e968642a75b1"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/nci-future-cancer-health-economics"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

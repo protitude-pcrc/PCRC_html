@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "227dd750-a32b-444f-bed2-33910ad3a3bf"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/6b72b80c-c636-4866-adc8-68c8f3416fc8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/research\/conduct-your-research-through-pcrc"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

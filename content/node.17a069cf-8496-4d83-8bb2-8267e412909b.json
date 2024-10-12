@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "17a069cf-8496-4d83-8bb2-8267e412909b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-09-19T01:56:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "NIH Webinar on 9\/19 regarding RFA-RM-19-013"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-09-19T01:54:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-09-19T01:56:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/nih-webinar-919-regarding-rfa-rm-19-013",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p style=\"margin:0in 0in 0.0001pt\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\">Please note an upcoming webinar for prospective applicants interested in <span style=\"color:#333333\">RFA-RM-19-013: <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=http-3A__grants.nih.gov_grants_guide_rfa-2Dfiles_RFA-2DRM-2D19-2D013.html&amp;d=DwMGaQ&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=DpfrjJvnOVHpE7Ot39t6f4LRGHxFCa088jQl5bQsLC8&amp;m=f37Xo0-baqWw3Vm0EYw3U60taUmNY4ZOctmRJ162hts&amp;s=7xeJ5FARi95CTvYhY948GIOwkUpJZXvP3cj9jF9NhDE&amp;e=\" style=\"color:#0563c1; text-decoration:underline\">Multisite Clinical Center Common Fund Acute to Chronic Pain Signatures Program: Acute Peri-operative Pain or Musculoskeletal Trauma (UM1 Clinical Trial Optional)<\/a><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"margin:0in 0in 0.0001pt\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\">&nbsp;<\/span><\/span><\/p>\r\n\r\n<p style=\"margin:0in 0in 0.0001pt\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\">The informational webinar with NIH staff is on <b>September 19, 2019 from 11:00AM \u2013 1:00PM EDT. <\/b><\/span><\/span><\/p>\r\n\r\n<p style=\"margin:0in 0in 0.0001pt\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\"><strong><span style=\"font-family:&quot;Calibri&quot;,sans-serif\"><span style=\"font-weight:normal\">Join us via WebEx using <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__nih.webex.com_ec3300_eventcenter_enroll_join.do-3Fsiteurl-3Dnih-26confId-3D136949569868036314&amp;d=DwMGaQ&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=DpfrjJvnOVHpE7Ot39t6f4LRGHxFCa088jQl5bQsLC8&amp;m=f37Xo0-baqWw3Vm0EYw3U60taUmNY4ZOctmRJ162hts&amp;s=KXZ3csjbaqZogQIhNNjJ35-jirhIEInEnMDsxxYNwak&amp;e=\" style=\"color:#0563c1; text-decoration:underline\">this link<\/a><\/span><\/span><\/strong><br \/>\r\nAccess code: 624 829 378<br \/>\r\nMeeting password: A2CPS<br \/>\r\n<br \/>\r\nTo join the audio conference only:<br \/>\r\nCall-in toll number (US\/Canada): 1-650-479-3208<br \/>\r\nAccess code: 624 829 378<\/span><\/span><\/p>\r\n\r\n<p style=\"margin:0in 0in 0.0001pt\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\">Applicants also may contact NIH scientific staff and see the A2CPS FAQs (<a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__commonfund.nih.gov_pain_faq&amp;d=DwMGaQ&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=DpfrjJvnOVHpE7Ot39t6f4LRGHxFCa088jQl5bQsLC8&amp;m=f37Xo0-baqWw3Vm0EYw3U60taUmNY4ZOctmRJ162hts&amp;s=CsHPd-vSv9GoynRsvlCJHG4z0uME648UWs74a6cK2_E&amp;e=\" style=\"color:#0563c1; text-decoration:underline\">https:\/\/commonfund.nih.gov\/pain\/faq<\/a>) for further information.<\/span><\/span><\/p>\r\n\r\n<p style=\"margin:0in 0in 0.0001pt\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\">&nbsp;<\/span><\/span><\/p>\r\n\r\n<p style=\"margin:0in 0in 0.0001pt\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri,sans-serif\">Please refer to the contact list in the <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__grants.nih.gov_grants_guide_rfa-2Dfiles_RFA-2DRM-2D19-2D013.html&amp;d=DwMGaQ&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=DpfrjJvnOVHpE7Ot39t6f4LRGHxFCa088jQl5bQsLC8&amp;m=f37Xo0-baqWw3Vm0EYw3U60taUmNY4ZOctmRJ162hts&amp;s=uzxeEovENfdEyLNftMfoXw3GzMQz_R7XY2hAFKhYKgU&amp;e=\" style=\"color:#0563c1; text-decoration:underline\">FOA<\/a> for inquiries.<\/span><\/span><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Multisite Clinical Center Common Fund Acute to Chronic Pain Signatures Program: Acute Peri-operative Pain or Musculoskeletal Trauma (UM1 Clinical Trial Optional)"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

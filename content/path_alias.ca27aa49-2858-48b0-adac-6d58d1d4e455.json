@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ca27aa49-2858-48b0-adac-6d58d1d4e455"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/0c9e9bff-6b7c-4231-ad74-1a18016f8798"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/pcrcmappng"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "uuid": [
+        {
+            "value": "b1dc7a49-64db-4457-8ccf-cb5912941d52"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "upcoming_events_presentations",
+            "target_type": "node_type",
+            "target_uuid": "39c97c00-bee7-4683-b9c0-43a8c62e3883"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-05-24T13:55:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "ASCO Quality Care Symposium, Sept 24-25, 2021"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-05-24T13:52:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-05-24T13:55:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>ASCO is currently accepting abstracts for the upcoming Quality Care Symposium. &nbsp;Deadline is June 1, 2021. &nbsp;See the website for more information:<a href=\"\u00a0https:\/\/conferences.asco.org\/quality\/attend\">&nbsp;https:\/\/conferences.asco.org\/quality\/attend<\/a><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Call for Abstracts"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

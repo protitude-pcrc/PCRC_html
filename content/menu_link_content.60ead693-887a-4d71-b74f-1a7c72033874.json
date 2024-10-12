@@ -1,0 +1,88 @@
+{
+    "uuid": [
+        {
+            "value": "60ead693-887a-4d71-b74f-1a7c72033874"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "value": "menu_link_content"
+        }
+    ],
+    "revision_created": [],
+    "revision_user": [],
+    "revision_log_message": [],
+    "enabled": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "View profile"
+        }
+    ],
+    "description": [],
+    "menu_name": [
+        {
+            "value": "user-menu"
+        }
+    ],
+    "link": [
+        {
+            "uri": "internal:\/user\/me",
+            "title": "",
+            "options": {
+                "attributes": {
+                    "target": "_self"
+                }
+            }
+        }
+    ],
+    "external": [
+        {
+            "value": false
+        }
+    ],
+    "rediscover": [
+        {
+            "value": true
+        }
+    ],
+    "weight": [
+        {
+            "value": -50
+        }
+    ],
+    "expanded": [
+        {
+            "value": false
+        }
+    ],
+    "parent": [
+        {
+            "value": "menu_link_content:32089e48-62d5-42cf-8c03-c70c882f19c5"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-06-17T15:39:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ]
+}

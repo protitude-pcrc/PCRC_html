@@ -1,0 +1,99 @@
+{
+    "uuid": [
+        {
+            "value": "478d6b6c-e38d-4788-bf0a-5f85ecbe5d05"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-06-29T20:20:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c4c1b62a-869d-454a-b78c-bde33aba2db8"
+        }
+    ],
+    "title": [
+        {
+            "value": "Special Interest Groups"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-04-29T19:29:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-06-29T20:20:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/special-interest-groups",
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "body": [
+        {
+            "value": "<h3>PCRC Special Interest Groups<\/h3>\r\n\r\n<p>The Investigator Development Center offers Special Interest Groups (SIGs) to link PCRC investigators who are interested in collaborating around palliative care research topics. The goal is to connect researchers with similar interests to create communities for collaborating and networking, problem-solving, and sharing resources.<\/p>\r\n\r\n<p style=\"margin-bottom:11px\">Please reach out to the following SIG Leaders for more information regarding their SIGs\u2019 future plans!<\/p>\r\n\r\n<ul>\r\n\t<li style=\"list-style-type:none\">\r\n\t<ul>\r\n\t\t<li style=\"list-style-type:none\">\r\n\t\t<ul>\r\n\t\t\t<li style=\"list-style-type:none\">\r\n\t\t\t<ul style=\"list-style-type:disc\">\r\n\t\t\t\t<li style=\"margin-left:32px\"><strong>Heart Failure<\/strong> \u2013 Laura Gelfman (<a href=\"mailto:laura.gelfman@mssm.edu\" rel=\"noopener\" target=\"_blank\">laura.gelfman@mssm.edu<\/a>), Marie Bakitas (<a href=\"mailto:mbakitas@uab.edu\" rel=\"noopener\" target=\"_blank\">mbakitas@uab.edu<\/a>)<\/li>\r\n\t\t\t\t<li style=\"margin-left:32px\"><strong>Renal Disease<\/strong> \u2013 Fahad Saeed (<a href=\"mailto:fahad_saeed@urmc.rochester.edu\" rel=\"noopener\" target=\"_blank\">fahad_saeed@urmc.rochester.edu<\/a>)<\/li>\r\n\t\t\t\t<li style=\"margin-left:32px\"><strong>Early Career Investigators<\/strong> \u2013&nbsp; Komal Murali (<a href=\"mailto:kp47@nyu.edu\" rel=\"noopener\" target=\"_blank\">kp47@nyu.edu<\/a>),&nbsp; Shaowei Wan (<a href=\"mailto:shaowei.wan@cuanschutz.edu\" rel=\"noopener\" target=\"_blank\">shaowei.wan@cuanschutz.edu<\/a>)<\/li>\r\n\t\t\t\t<li style=\"margin-left:32px\"><strong>Health Technology for Palliative Care (Digital Health)<\/strong> \u2013 Karla Washington (<a href=\"mailto:kwashington@wustl.edu\" rel=\"noopener\" target=\"_blank\">kwashington@wustl.edu<\/a>), Jennifer Portz (<a href=\"mailto:Jennifer.portz@cuanschutz.edu\" rel=\"noopener\" target=\"_blank\">Jennifer.portz@cuanschutz.edu<\/a>)<\/li>\r\n\t\t\t\t<li style=\"margin-left:32px\"><strong>Chronic Pain &amp; Serious Illness (Opioid)<\/strong> \u2013 Jessica Merlin (<a href=\"mailto:merlinjs@upmc.edu\" rel=\"noopener\" target=\"_blank\">merlinjs@upmc.edu<\/a>)\r\n\t\t\t\t<ul>\r\n\t\t\t\t\t<li>New home will be in the CHAllenges in Managing and Preventing Pain (CHAMPP) clinical research center at the University of Pittsburgh, called the Pain and opioid serious illness expertise (POSITIVE) research collaborative.<\/li>\r\n\t\t\t\t\t<li>Anyone who was previously part of the PCRC SIG can sign up to be on the CHAMPP\u2019s mailing list, by emailing&nbsp;<a href=\"mailto:champp@pitt.edu\" rel=\"noopener\" target=\"_blank\">champp@pitt.edu<\/a>&nbsp;<\/li>\r\n\t\t\t\t<\/ul>\r\n\t\t\t\t<\/li>\r\n\t\t\t\t<li style=\"margin-left:32px\"><strong>Health Equity and Anti-Racism (HEAR)<\/strong> \u2013 Katherine Doyon (<a href=\"mailto:KATHERINE.DOYON@CUANSCHUTZ.EDU\" rel=\"noopener\" target=\"_blank\">KATHERINE.DOYON@CUANSCHUTZ.EDU<\/a>), Tamryn Gray (<a href=\"mailto:Tamryn_Gray@DFCI.HARVARD.EDU\" rel=\"noopener\" target=\"_blank\">Tamryn_Gray@DFCI.HARVARD.EDU<\/a>)<\/li>\r\n\t\t\t\t<li style=\"margin-left:32px\"><strong>Spirituality and Religion<\/strong> \u2013 Alexia Torke (<a href=\"mailto:atorke@iu.edu\" rel=\"noopener\" target=\"_blank\">atorke@iu.edu<\/a>), George Fitchett (<a href=\"mailto:george_fitchett@rush.edu\" rel=\"noopener\" target=\"_blank\">george_fitchett@rush.edu<\/a>)<\/li>\r\n\t\t\t\t<li style=\"margin-left:32px\"><strong>Liver Disease<\/strong> \u2013 Arpan Patel (<a href=\"mailto:ArpanPatel@mednet.ucla.edu\" rel=\"noopener\" target=\"_blank\">ArpanPatel@mednet.ucla.edu<\/a>), Anne Walling (<a href=\"mailto:awalling@mednet.ucla.edu\" rel=\"noopener\" target=\"_blank\">awalling@mednet.ucla.edu<\/a>)<\/li>\r\n\t\t\t\t<li style=\"margin-left:32px\"><strong>Implementation Science<\/strong> \u2013 Devon Check (<a href=\"mailto:devon.check@duke.edu\" rel=\"noopener\" target=\"_blank\">devon.check@duke.edu<\/a>),&nbsp; Cara McDermott (<a href=\"mailto:cara.mcdermott@duke.edu\" rel=\"noopener\" target=\"_blank\">cara.mcdermott@duke.edu<\/a>)<\/li>\r\n\t\t\t<\/ul>\r\n\t\t\t<\/li>\r\n\t\t<\/ul>\r\n\t\t<\/li>\r\n\t<\/ul>\r\n\t<\/li>\r\n<\/ul>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": [
+        {
+            "value": "Topic-based communities for collaborating and networking, problem-solving, and sharing resources."
+        }
+    ]
+}

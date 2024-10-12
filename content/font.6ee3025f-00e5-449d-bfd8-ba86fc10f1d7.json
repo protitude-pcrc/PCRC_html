@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "6ee3025f-00e5-449d-bfd8-ba86fc10f1d7"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Fira Mono&subset=greek#500"
+        }
+    ],
+    "name": [
+        {
+            "value": "Fira Mono 500 (greek)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Fira Mono"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "500"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:13:\"Fira Mono:500\";s:6:\"subset\";s:5:\"greek\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:02:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:02:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8f451f1d-cfa8-4e10-9377-429acc145808"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a7781569-c6b5-413d-b8f4-c62ac6b03a36"
+        }
+    ],
+    "field_tags": []
+}

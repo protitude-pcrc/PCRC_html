@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "aa36430d-d7ae-4e83-87aa-133fa58b5c2b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/1b24e390-f6e0-4e14-b96e-face7526373d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/egeeslin"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

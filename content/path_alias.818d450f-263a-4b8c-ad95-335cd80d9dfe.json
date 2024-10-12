@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "818d450f-263a-4b8c-ad95-335cd80d9dfe"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/a163d67d-c6f8-4e5d-93f9-a4a9408214e9"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-21-october-2016"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

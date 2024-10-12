@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "541cd00a-452d-428d-9a2a-9cac46f3d859"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/3959d89f-1c9f-4cf6-a281-0ef56af69ece"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/rdossubstantiationcrfannotatedpdf"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

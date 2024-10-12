@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "6c2c95ea-b8a6-47e0-adef-beca213eb60b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-10-11T17:47:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Budget Development"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-09-24T19:41:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-10-11T17:47:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/research\/investigator-support-information\/collaborating-pcrc\/budget-development",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><strong><u><a href=\"\/sites\/default\/files\/migrated_files\/2B-budget.jpg\"><img alt=\"2B-budget\" class=\"alignnone size-full wp-image-1403\" height=\"146\" src=\"\/sites\/default\/files\/migrated_files\/2B-budget.jpg\" width=\"721\" \/><\/a><\/u><\/strong><\/p>\r\n\r\n<p><strong><u>FOLLOWING<\/u><\/strong> approval of the LOI by the PCRC Scientific Review and Steering Committees, the PCRC will work with the Principal Investigator to develop a budget related to collaboration activities.<\/p>\r\n\r\n<ul>\r\n\t<li><strong>Potential<\/strong> components of PCRC Budget are based on LOI, study schema and details of planned use of PCRC resources<\/li>\r\n\t<li>The components of the budget are dependent upon the specifics in the LOI, study schema and details of planned use of PCRC resources<\/li>\r\n\t<li>Once the budget is approved, the PCRC will create \/provide all necessary grant package documents for PCRC sub- contract<\/li>\r\n<\/ul>\r\n\r\n<h2><span>Potential Budget Components<\/span><\/h2>\r\n\r\n<h5>Site Payment budget on a per \u201dparticipant\u201d model - e.g. start up fees, study conduct, patient remuneration, etc.<\/h5>\r\n\r\n<ul>\r\n\t<li><a href=\"\/corescenters\/pcc\/\" target=\"_blank\">Project Coordinating Center [PCC] Activities<\/a>\r\n\r\n\t<ul>\r\n\t\t<li>Research development<\/li>\r\n\t\t<li>Site management (training, support, communications, enrollment tracking, etc.)<\/li>\r\n\t\t<li>Site Visits<\/li>\r\n\t\t<li>Site finance \/ grant management (contracts, invoicing, payments, etc.)<\/li>\r\n\t\t<li>Database \/ data management development \/informatics<\/li>\r\n\t<\/ul>\r\n\t<\/li>\r\n<\/ul>\r\n\r\n<p>Assistance with DSM committees\/boards <i>Packe<\/i><i>t <\/i><i>will<\/i> <i>include<\/i> <i>budge<\/i><i>t <\/i><i>ju<\/i><i>st<\/i><i>i<\/i><i>f<\/i><i>ica<\/i><i>t<\/i><i>ion<\/i><i> f<\/i><i>or<\/i> <i>PCRC<\/i> <i>componen<\/i><i>t<\/i><i>s<\/i><\/p>\r\n\r\n<h5>Include in PI grant budget<\/h5>\r\n\r\n<p>Include applicable PCRC consulting activities to be using during conduct of the funded study in PI\u2019s budget; for example: Statistics, Caregiver, Measurement, and Clinical Studies.<\/p>\r\n\r\n<ul>\r\n\t<li>PI provides details regarding planned PCRC collaborations in the LOI<\/li>\r\n\t<li>PCRC documents commitments in LOS<\/li>\r\n<\/ul>\r\n\r\n<p>[notification color=\"green\"]NOTE: pre-grant submission consultation with <a href=\"\/corescenters\/\" target=\"_blank\">PCRC Core resources<\/a> does NOT require a budget \u2013 supported by PCRC U2C[\/notification]<\/p>\r\n\r\n<h5><span>Directs\/Indirects<\/span><\/h5>\r\n\r\n<p>Check your Funding Opportunity Announcement (FOA):<\/p>\r\n\r\n<ul>\r\n\t<li>If maximum budget total amounts include only \u201cDirect\u201d costs, Direct Costs include the PCRC sub-contract sub-agreement costs<\/li>\r\n<\/ul>\r\n\r\n<h5><span>Budget Example <\/span><\/h5>\r\n\r\n<p><a href=\"https:\/\/pcrc.box.com\/budget\"><img alt=\"budget_example\" class=\"alignnone wp-image-1394 size-full\" height=\"717\" src=\"\/sites\/default\/files\/migrated_files\/budget_example.png\" width=\"1155\" \/><\/a><\/p>\r\n\r\n<h4><a href=\"research\/investigator-support-information\/collaborating-pcrc\/grant-submission\"><strong>\u232a<\/strong><em> NEXT STEPS<\/em> - Grant Submission<\/a><\/h4>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

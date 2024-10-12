@@ -1,0 +1,147 @@
+{
+    "uuid": [
+        {
+            "value": "6662e95a-a7d5-4308-ba66-edfd619c154a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "request",
+            "target_type": "node_type",
+            "target_uuid": "8262baa8-4bbb-493f-a05e-aae40f8a4fff"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-03-04T19:31:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "Associations between polypharmacy, symptom burden, and quality of life in patients with advanced, life-limiting illness"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-05-14T20:19:53+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-03-04T19:31:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/request\/2018-0005",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_affiliation": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "dfb9e2d5-d718-42dc-88b4-79777aa0ead7"
+        }
+    ],
+    "field_data_requested": [
+        {
+            "target_type": "node",
+            "target_uuid": "936912b9-02a7-4299-97f8-6def8cae5068"
+        }
+    ],
+    "field_date_of_approval": [
+        {
+            "value": "2017-05-18"
+        }
+    ],
+    "field_date_of_submission": [
+        {
+            "value": "2017-05-01"
+        }
+    ],
+    "field_pcrc_project_review": [],
+    "field_pi": [
+        {
+            "value": "Yael Schenker"
+        }
+    ],
+    "field_project_status": [
+        {
+            "value": "<p><em>Published<\/em><\/p>\r\n\r\n<p><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/30719645\" target=\"_blank\"><em>Schenker et al. J Gen Intern Med. 2019.<\/em><\/a><\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_reason_deemed_infeasible": [],
+    "field_request_number": [
+        {
+            "value": "2018-0005"
+        }
+    ],
+    "field_request_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ba7bda26-0f55-4e73-8bc3-3cc5408dfd93"
+        }
+    ],
+    "field_research_proposal": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "ff62e3ff-b761-47b4-8fcd-fa421d338fdc"
+        }
+    ],
+    "field_research_proposal_abstract": [
+        {
+            "value": "<p>The goal of this project is to explore associations between polypharmacy and patient-centered outcomes in a cohort of patients with advanced, life-limiting illness. Understanding the relationship between polypharmacy, symptom burden and quality of life is significant because polypharmacy is an increasingly prevalent and modifiable risk factor among patients with serious illness.<\/p>\r\n\r\n<p>We will compare symptom burden and quality of life by polypharmacy group (low, medium, high) with a mixed effect linear regression model. We will conduct regression-based path analysis to investigate the mediation relationship of symptom&nbsp;burden on the relationship between polypharmacy and quality of life.&nbsp;<\/p>\r\n\r\n<p><em>Citation:&nbsp;<a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/30719645\" target=\"_blank\">Schenker Y, Park SY, Jeong K, Pruskowski J, Kavalieratos D, <\/a><\/em><em><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/30719645\" target=\"_blank\">Resick<\/a><\/em><em><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/30719645\" target=\"_blank\"> J,&nbsp;Abernethy A, Kutner JS. Associations Between Polypharmacy, Symptom Burden, and&nbsp;Quality of Life in Patients with Advanced, Life-Limiting Illness. J Gen Intern Med. 2019 Feb 4. <\/a><\/em><em><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/30719645\" target=\"_blank\">doi<\/a><\/em><em><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/30719645\" target=\"_blank\">: 10.1007\/s11606-019-04837-7.<\/a><\/em><\/p>\r\n",
+            "format": "full_html"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c8c85269-a104-485b-8f0f-050b0166fadd"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/45402143-07ca-4a95-b66c-0a294e709193"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/therealmorty"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

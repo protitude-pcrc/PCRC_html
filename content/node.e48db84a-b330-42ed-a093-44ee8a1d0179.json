@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "e48db84a-b330-42ed-a093-44ee8a1d0179"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "LOI Due to PCRC by 8\/14 for NINR R21"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-08-12T16:19:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2015-08-12T16:19:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/loi-due-pcrc-814-ninr-r21",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h4><span style=\"color: #0481b2;\"><a style=\"color: #0481b2;\" href=\"http:\/\/grants.nih.gov\/grants\/guide\/notice-files\/NOT-NR-15-003.html\" target=\"_blank\">NINR Notice of Intent (NOI) to Publish a Funding Opportunity Announcement for the Exploratory Multi-site Palliative Care Research in Diverse Populations Utilizing the Palliative Care Research Cooperative (PCRC) Group (R21)<\/a><\/span><\/h4>\r\n<strong><span style=\"color: #0481b2;\"><span class=\"heading3\">Notice Number:<\/span>\u00a0<span class=\"noticenum\">NOT-NR-15-003<\/span><\/span><\/strong>\r\n\r\n<span style=\"color: #00007f; font-family: Helvetica;\"><span class=\"heading3\"><span style=\"text-decoration: underline;\"><strong><span style=\"color: #000000; text-decoration: underline;\">Key Dates:<\/span><\/strong><\/span>\r\n<\/span><\/span><strong>Release Date:<\/strong>\u00a0\u00a0\u00a0July 7, 2015\r\n<span style=\"font-family: Helvetica;\"><strong>Estimated Publication Date of Announcement:\u00a0<\/strong>\u00a0September 2015\r\n<strong>Earliest Estimated Award Date:\u00a0<\/strong>\u00a0July 2016\r\n<strong>Earliest Estimated Start Date:\u00a0<\/strong>\u00a0July 2016\u00a0<\/span>\r\n\r\n<span style=\"text-decoration: underline;\"><strong>Steps to apply for this R21:\r\n<\/strong><\/span>\u2022 \u00a0Contact\u00a0<a href=\"mailto:karen.kehl@nih.gov\">NINR\r\n<\/a>\u2022 \u00a0Contact\u00a0<a href=\"mailto:\/\/CAREY.CANDRIAN@ucdenver.edu\">PCRC\r\n<\/a>\u2022 \u00a0Submit<a href=\"http:\/\/palliativecareresearch.org\/research\/investigators\/loi\/\">\u00a0LOI to PCRC<\/a>;\u00a0<span style=\"color: #ff0000;\"><strong>DUE DATE: 8\/14\/15<\/strong>\r\n<\/span>\u2022 \u00a0Submit LOI to NINR; Date TBD\r\n\u2022 \u00a0Submit application to NINR; Date TBD\r\n\r\n<strong><a href=\"http:\/\/palliativecareresearch.org\/funding\/funding-opportunities\/\">Visit the PCRC Funding Opportunities page for more information. \u00a0<\/a><\/strong>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

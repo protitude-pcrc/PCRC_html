@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "402c5637-a1c8-4a81-a3a8-c747c120bf75"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/67cec325-4041-425f-944f-d15851641242"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/diversedon"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

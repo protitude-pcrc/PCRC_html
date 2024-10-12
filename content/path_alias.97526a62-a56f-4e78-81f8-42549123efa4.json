@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "97526a62-a56f-4e78-81f8-42549123efa4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/14dfc6fd-43e7-4107-9b01-23855d99134a"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/study\/patient-centered-disease-management-heart-failure-pcdm"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

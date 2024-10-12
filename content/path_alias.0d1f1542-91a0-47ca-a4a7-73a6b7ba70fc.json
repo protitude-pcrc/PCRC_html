@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "0d1f1542-91a0-47ca-a4a7-73a6b7ba70fc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3a565e94-7b26-4cd3-a31a-fd479c6f4f90"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/corescenters\/caregiver-core\/example-proposals"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

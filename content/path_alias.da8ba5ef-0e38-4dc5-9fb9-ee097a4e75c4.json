@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "da8ba5ef-0e38-4dc5-9fb9-ee097a4e75c4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/0d72f1d4-2b83-4539-8b29-bd3b45c008d2"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/corescenters\/project-coordinating-center"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

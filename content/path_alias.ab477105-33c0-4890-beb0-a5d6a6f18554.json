@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ab477105-33c0-4890-beb0-a5d6a6f18554"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/585ac1bc-3ca9-43e5-9f7c-fbfdf9e7c192"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/critchie"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

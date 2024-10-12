@@ -1,0 +1,126 @@
+{
+    "uuid": [
+        {
+            "value": "2669af2f-9190-4b48-af16-cb10b4876133"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "directory",
+            "target_type": "node_type",
+            "target_uuid": "79e51216-81f7-458b-8bed-a5a563ac74ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-04-05T16:53:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "Karen Kehl"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-04-05T16:51:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-04-05T16:53:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "body": [],
+    "feeds_item": [],
+    "field_area_of_focus": [],
+    "field_directory_image": [
+        {
+            "alt": "Karen Kehl",
+            "title": "",
+            "width": 512,
+            "height": 512,
+            "target_type": "file",
+            "target_uuid": "ed37da12-81b3-41bb-afb1-40e0f1fb1cfe"
+        }
+    ],
+    "field_email": [
+        {
+            "value": "karen.kehl@nih.gov"
+        }
+    ],
+    "field_list_assignment": [],
+    "field_membership_title": [],
+    "field_name": [
+        {
+            "title": "",
+            "given": "Karen",
+            "middle": "",
+            "family": "Kehl",
+            "generational": "",
+            "credentials": "PhD, RN, FPCN"
+        }
+    ],
+    "field_organization": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d7dbca61-b5dd-4711-b16f-cc4114d49bc2"
+        }
+    ],
+    "field_publication_title": [],
+    "field_scientific_title": []
+}

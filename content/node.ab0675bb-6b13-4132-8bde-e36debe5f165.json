@@ -1,0 +1,99 @@
+{
+    "uuid": [
+        {
+            "value": "ab0675bb-6b13-4132-8bde-e36debe5f165"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-07T16:46:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Investigator Support Information"
+        }
+    ],
+    "created": [
+        {
+            "value": "2014-08-12T22:22:53+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-07T16:46:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/research\/investigator-support-information",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The PCRC was established in large part to help overcome the many challenges of conducting multi-site research. If you are interested in conducting multi-site research, the PCRC supports investigators by:<\/p>\r\n\r\n<ul>\r\n\t<li>Taking clinical research ideas from concept to study design through consultation with expert PCEOL research leaders through our <a href=\"\/corescenters\" target=\"_blank\">PCRC Cores and Centers<\/a>.<\/li>\r\n\t<li>Providing replicable infrastructure, processes, tools, and methods, including evaluative metrics, to support efficient and effective cooperative group function.<\/li>\r\n\t<li>Developing a comprehensive protocol and study-specific materials including data collection tool (DCT), case report forms (CRFs) and a site training manual.<\/li>\r\n\t<li>Developing a study calendar to clarify metrics and meet deadlines.<\/li>\r\n\t<li>Training site-based study personnel, creating a study database with web-based electronic data capture, and facilitating Institutional Review Board (IRB) approval at each site.<\/li>\r\n\t<li>Implementing study-specific Standard Operating Procedures (SOPs).<\/li>\r\n\t<li>Assisting with enrollment initiation, supporting accrual throughout the study, and ensuring high quality data collection.<\/li>\r\n\t<li>Developing and supporting Data Safety and Monitoring Board (DSMB ) activities.<\/li>\r\n\t<li>Establishing an Event Classification Committee (ECC) to confirm endpoint assessments and provide a quality assurance mechanism.<\/li>\r\n\t<li>Providing regular tracking and monitoring of study performance metrics in order to refine study processes and optimize efficiency.<\/li>\r\n\t<li>Refining processes based on lessons learned across studies and sites.<\/li>\r\n\t<li>Supporting publications of findings in accordance with the PCRC Authorship Protocol to advance the quality, productivity and impact of PCEOL research.<\/li>\r\n<\/ul>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": [
+        {
+            "value": "The PCRC was established in large part to help overcome the many challenges of conducting multi-site research"
+        }
+    ]
+}

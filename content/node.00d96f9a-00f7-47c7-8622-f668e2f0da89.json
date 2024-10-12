@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "00d96f9a-00f7-47c7-8622-f668e2f0da89"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "AAHPM Honors Hospice and Palliative Medicine Visionaries- 6 are PCRC leaders"
+        }
+    ],
+    "created": [
+        {
+            "value": "2013-10-14T17:51:25+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2013-10-14T17:51:25+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/aahpm-honors-hospice-and-palliative-medicine-visionaries-6-are-pcrc-leaders",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<a href=\"\/sites\/default\/files\/migrated_files\/AAHPM.jpg\"><img class=\"alignnone size-full wp-image-128\" src=\"\/sites\/default\/files\/migrated_files\/AAHPM.jpg\" alt=\"AAHPM\" width=\"192\" height=\"87\" \/><\/a>\r\n\r\n30 hospice and palliative medicine Visionaries named by AAHPM, 6 of the 30 are PCRC leaders!\r\n\r\n<em>In commemorating its founding, the Academy asked members to nominate whom they consider to be the most influential leader in hospice and palliative medicine, then vote ...<a href=\"http:\/\/www.aahpm.org\/about\/default\/visionaries.html\" target=\"_blank\">read more<\/a><\/em>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1a08e230-883f-4894-8acc-0fa2e96fa271"
+        }
+    ]
+}

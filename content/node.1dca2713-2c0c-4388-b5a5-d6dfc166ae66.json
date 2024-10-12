@@ -1,0 +1,110 @@
+{
+    "uuid": [
+        {
+            "value": "1dca2713-2c0c-4388-b5a5-d6dfc166ae66"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-11-18T21:38:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "title": [
+        {
+            "value": "Cambia Health Foundation 2023 Sojourns Scholar Leadership Program - CFA"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-11-18T21:15:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-11-18T21:38:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/cambia-health-foundation-2023-sojourns-scholar-leadership-program-cfa",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Cambia Health Foundation has opened the <a href=\"https:\/\/www.cambiahealthfoundation.org\/posts\/news\/2022-11-16\/cambia-health-foundation-announces-tenth-year-of-sojour.html\" rel=\"noopener\" target=\"_blank\">2023 Sojourns&nbsp;Scholar Leadership Program call for applications<\/a>, which will be the tenth and final cohort within the original program commitment of investing in up to 12 scholars per year for 10 years.<\/p>\r\n\r\n<p>As part of the leadership development program, each Sojourns Scholar receives $180,000 in funding ($90,000\/year over a two-year period) to conduct an innovative and impactful clinical, policy, education, or systems change project in the field of palliative care.<\/p>\r\n\r\n<p>Each Scholar also receives individual mentorship and support to implement a leadership development plan designed to support their growth as a national leader. Emerging palliative care leaders throughout the country, across all disciplines and practice settings are encouraged to apply.<\/p>\r\n\r\n<p>Letter of Intent (LOI) <strong>due by Feb. 27, 2023 @ 12pm PT<\/strong><\/p>\r\n\r\n<p>Full Proposal Grant Applications <strong>due by June 5, 2023 at 12pm PT<\/strong><\/p>\r\n\r\n<p>If invited for an interview, applicant must be available to attend a virtual interview that will be scheduled on <strong>Sept. 19 and 20, 2023.<\/strong><\/p>\r\n\r\n<p>For more information click <a href=\"https:\/\/www.cambiahealthfoundation.org\/focus-areas\/sojourns-scholars-leadership-program.html\" rel=\"noopener\" target=\"_blank\"><strong>HERE<\/strong><\/a>.<\/p>\r\n\r\n<p><strong>Questions?<\/strong> Please contact Jennifer Fuller, Program Officer at <a href=\"mailto:Jennifer.Fuller@cambiahealth.com\" rel=\"noopener\" target=\"_blank\">Jennifer.Fuller@cambiahealth.com<\/a> or Emily Rogers, Program Specialist at <a href=\"mailto:Emily.Rogers@cambiahealth.com\" rel=\"noopener\" target=\"_blank\">Emily.Rogers@cambiahealth.com<\/a><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Cambia Health Foundation 2023 Sojourns Scholar Leadership Program - Call for Applications (10th and final cohort)"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

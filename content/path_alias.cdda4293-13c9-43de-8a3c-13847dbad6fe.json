@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "cdda4293-13c9-43de-8a3c-13847dbad6fe"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/9899d1b9-6f77-42a1-9951-68efb35f4bf7"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/study\/rater-intensity-psychometrics-respiratory-distress-observation-scale-patient-data"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

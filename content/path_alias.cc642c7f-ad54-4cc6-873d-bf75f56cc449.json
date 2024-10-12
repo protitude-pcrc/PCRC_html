@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "cc642c7f-ad54-4cc6-873d-bf75f56cc449"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/5e668e55-24e4-4385-939f-e6ca51ea8ac6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/physician-investigator-approaching-primary-physician"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

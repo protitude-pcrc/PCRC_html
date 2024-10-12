@@ -1,0 +1,147 @@
+{
+    "uuid": [
+        {
+            "value": "902361c5-d682-4cf7-a51e-45ba4683dcaf"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "request",
+            "target_type": "node_type",
+            "target_uuid": "8262baa8-4bbb-493f-a05e-aae40f8a4fff"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-12-21T19:34:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "title": [
+        {
+            "value": "Factors Affecting the Use of Hospice and Palliative Care among Adolescent and Young Adult (AYA) Cancer Patients"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-07-30T22:57:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-12-21T19:34:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/request\/2021-0002",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_affiliation": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "10d8f3f4-f5bd-4254-b730-e137ae7b4cb8"
+        }
+    ],
+    "field_data_requested": [
+        {
+            "target_type": "node",
+            "target_uuid": "5925e705-11e6-453a-b76f-28fa836e5f50"
+        }
+    ],
+    "field_date_of_approval": [
+        {
+            "value": "2021-04-12"
+        }
+    ],
+    "field_date_of_submission": [
+        {
+            "value": "2021-03-01"
+        }
+    ],
+    "field_pcrc_project_review": [],
+    "field_pi": [
+        {
+            "value": "Hyunjin Noh, PhD"
+        }
+    ],
+    "field_project_status": [
+        {
+            "value": "<p>Ongoing<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_reason_deemed_infeasible": [],
+    "field_request_number": [
+        {
+            "value": "2021-0002"
+        }
+    ],
+    "field_request_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ba7bda26-0f55-4e73-8bc3-3cc5408dfd93"
+        }
+    ],
+    "field_research_proposal": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "daa18167-8363-4e3b-a2cb-d1dcb0db50f0"
+        }
+    ],
+    "field_research_proposal_abstract": [
+        {
+            "value": "<p>The purpose of this study is to examine factors affecting the use of hospice and palliative care among adolescent and young adult (AYA) patients diagnosed with cancer. A secondary data analysis of an existing dataset from Dr. Jennifer Mack\u2019s study, \u201cBarriers to Hospice and Palliative Care Utilization among Adolescent and Young Adult Cancer Patients Living in Poverty\u201d will be conducted. Guided by the Andersen's Behavioral Model for Healthcare Utilization, predictor variables that correspond to factors from each of the model\u2019s three domains - predisposing, enabling, and need factors - will be selected and tested for association with outcome variables on hospice or palliative care utilization.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ]
+}

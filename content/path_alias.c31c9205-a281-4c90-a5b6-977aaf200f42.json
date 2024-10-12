@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c31c9205-a281-4c90-a5b6-977aaf200f42"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/8867fc8b-2b35-40be-a81d-c3ba337f682b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/corescenters\/caregiver-core\/caregiver-profile-fact-sheets"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

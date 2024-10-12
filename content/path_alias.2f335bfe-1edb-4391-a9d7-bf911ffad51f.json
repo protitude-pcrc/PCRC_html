@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "2f335bfe-1edb-4391-a9d7-bf911ffad51f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/410a0c12-707b-4920-8e2d-2491c32d6974"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-41-april-2020"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

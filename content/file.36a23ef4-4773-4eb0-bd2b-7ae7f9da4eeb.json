@@ -1,0 +1,69 @@
+{
+    "uuid": [
+        {
+            "value": "36a23ef4-4773-4eb0-bd2b-7ae7f9da4eeb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "document",
+            "target_type": "file_type",
+            "target_uuid": "aba37c63-b654-405f-a34e-d829c2ad7580"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "filename": [
+        {
+            "value": "CCM_45_1_2016_07_19_BARNATO_CCMED-D-15-00767_SDC2.docx"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/annotated-crfs\/CCM_45_1_2016_07_19_BARNATO_CCMED-D-15-00767_SDC2.docx"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 125448
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-02-19T19:55:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-02-19T19:55:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/ccm45120160719barnatoccmed-d-15-00767sdc2docx",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ]
+}

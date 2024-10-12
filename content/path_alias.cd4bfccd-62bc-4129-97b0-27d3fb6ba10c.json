@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "cd4bfccd-62bc-4129-97b0-27d3fb6ba10c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/09cdb23d-9181-4b81-b67e-efd4dc40f5c0"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-16-november-2015"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

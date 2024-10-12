@@ -1,0 +1,222 @@
+{
+    "uuid": [
+        {
+            "value": "28d04899-9a65-483d-884c-9cc6f7fd55a2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-01-25T21:49:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "Interdisciplinary Models for ICU-Based Palliative Care"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-08-15T23:28:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-01-25T21:49:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/study\/interdisciplinary-models-icu-based-palliative-care",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [],
+    "field_approved_data_requests": [],
+    "field_award_number": [
+        {
+            "value": "15-04p"
+        }
+    ],
+    "field_condition_studied": [],
+    "field_csr_summary": [],
+    "field_data_dictionary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "bff709bc-8aca-45e8-867f-baa5223b4221"
+        }
+    ],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e494a23c-aea6-4f0b-a534-4b948ddfdb07"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Interdisciplinary Models for Delivering High-Quality Palliative Care in the ICU"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "217"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": false
+        }
+    ],
+    "field_nct_link_field": [],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d7cd26a3-2482-49da-b75d-bdd120b563ae"
+        }
+    ],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        }
+    ],
+    "field_participant_ethnicity_coll": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "350f6f60-c882-44d9-bf86-2f242d671d54"
+        }
+    ],
+    "field_participant_race": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "88ac74e1-8f30-4ba6-bbe9-d8a410f35170"
+        }
+    ],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bb33a50f-e9de-47ae-80e4-5167ef2b0d2f"
+        }
+    ],
+    "field_pcrc_study_num": [
+        {
+            "value": "15-04"
+        }
+    ],
+    "field_primary_citation": [],
+    "field_sponsor": [
+        {
+            "value": "PCRC"
+        }
+    ],
+    "field_study_design": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "daae6b51-dea5-4f17-a71d-6e8474c47e08"
+        }
+    ],
+    "field_study_pi": [
+        {
+            "value": "Nicholas Wysham, MD & Arif H Kamal, MD, MHS"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "Duke University"
+        }
+    ],
+    "field_study_setting": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "0273e5e5-00f3-4ffe-89c2-4dd69d36e8fc"
+        }
+    ],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "89b177d7-1afa-4d2b-bb5a-199a38866463"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p>This was a single-center, retrospective, exposure-control study comparing critically ill patients with specialty palliative care consults to a matched cohort who do not receive palliative care consults. The primary outcome will be rate of performance 14 patient-level metrics of palliative care quality.&nbsp;Other outcomes include utilization, disposition, and pain control. This aim will describe rate of performance in the proposed quality indicators and what role specialty palliative care consultation might serve in improving performance.&nbsp;These results may be useful for early identification of patients who will be most likely to benefit from specialty palliative care.<\/p>\r\n\r\n<p>Hierarchical coarsened exact matching was used to find&nbsp;the 105 best-fit matches between patients who received a palliative care consult and those who didn\u2019t. Pairs were matched by (in order of importance): Unit, date of admission, death during hospitalization, age, gender, and admitting attending.&nbsp;<\/p>\r\n\r\n<p>Demographics, diagnoses, and laboratory values, insurance status, prior place of residence, type of ICU, source of ICU admission (e.g. emergency department, out of hospital transfer, in hospital ward), APACHEII score at time of ICU admission and time of consultation, and&nbsp;reason for palliative care consult were abstracted from the EHR.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [
+        {
+            "value": "<p>Grant application, research summary<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_therapeutic_area": [],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8dc925b0-06b7-4440-ac2b-424a6cc2821b"
+        }
+    ]
+}

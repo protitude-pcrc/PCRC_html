@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "b297ece3-2ef3-42a4-8a99-26ee79829648"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-22T17:00:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "title": [
+        {
+            "value": "NIH Hosting Two-Part Webinar: Implementing the NIH Data Management and Sharing Policy"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-07-22T16:44:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-22T17:00:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/nih-hosting-two-part-webinar-implementing-nih-data-management-and-sharing-policy",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The NIH Offices of Science Policy (OSP) and Extramural Research (OER) are co-hosting a <a href=\"https:\/\/lnks.gd\/l\/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MjIuNjExNDA0MTEiLCJ1cmwiOiJodHRwczovL3NoYXJpbmcubmloLmdvdi9hYm91dC9sZWFybmluZy9ETVMtVXBkYXRlP3V0bV9jYW1wYWlnbj0mdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPWdvdmRlbGl2ZXJ5In0.h0dAvlTvvxg-ZcSrc5ZfbEDnw1-torvNqo7eBaRlYP4\/s\/1089407217\/br\/141444146176-l\" rel=\"noopener\" target=\"_blank\">webinar series<\/a> focused on implementing the NIH Data Management and Sharing (DMS) Policy. In this webinar series, NIH policy experts will break down what the policy means for stakeholders and help the community get ready to successfully implement the policy when it takes effect on January 25, 2023.&nbsp;<\/p>\r\n\r\n<p>Part one: <em><a href=\"https:\/\/lnks.gd\/l\/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDIsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MjIuNjExNDA0MTEiLCJ1cmwiOiJodHRwczovL3ZmYWlycy56b29tLnVzL3dlYmluYXIvcmVnaXN0ZXIvV05fQ3RadVlLeHRUZWlvWHB0ZzQzSkRnZz91dG1fY2FtcGFpZ249JnV0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1nb3ZkZWxpdmVyeSJ9.NkOMhXZrcFJvuIl8DkFZ_VtEmc_Ig-IL0y9Gp_v3dpo\/s\/1089407217\/br\/141444146176-l\" rel=\"noopener\" target=\"_blank\">Understanding the New NIH Data Management and Sharing (DMS) Policy<\/a><\/em>. <strong>Thursday, August 11, 2022 from 1:30-3:00 PM (ET)<\/strong><\/p>\r\n\r\n<ul>\r\n\t<li>This first webinar will focus on DMS policy expectations, the applicability of the policy, how to prepare a Data Management and Sharing Plan, and considerations for responsible data sharing.<\/li>\r\n<\/ul>\r\n\r\n<p>Part two: <em><a href=\"https:\/\/lnks.gd\/l\/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDMsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MjIuNjExNDA0MTEiLCJ1cmwiOiJodHRwczovL3ZmYWlycy56b29tLnVzL3dlYmluYXIvcmVnaXN0ZXIvV05fM3k5R0ZNYzJTc1dwdjJHaEl6T0dzZz91dG1fY2FtcGFpZ249JnV0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1nb3ZkZWxpdmVyeSJ9.CbBtgQSgC5j4rfiFFHYnYhZpG6hwU3JJo29O-j12V_U\/s\/1089407217\/br\/141444146176-l\" rel=\"noopener\" target=\"_blank\">Diving Deeper into the New NIH Data Management and Sharing Policy.<\/a><\/em> <strong>Thursday September 22, 2022 from 1:30-3:00 PM (ET)<\/strong><\/p>\r\n\r\n<ul>\r\n\t<li>This webinar will dive deeper into specific topics and questions heard from the community, such as privacy protections for sharing data from human participants.<\/li>\r\n<\/ul>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p><strong>Registration is required for both webinars.<\/strong> To learn more about the webinar series, how to register, and how to submit questions about the DMS Policy please visit the webinar series <strong><a href=\"https:\/\/lnks.gd\/l\/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDQsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MjIuNjExNDA0MTEiLCJ1cmwiOiJodHRwczovL3NoYXJpbmcubmloLmdvdi9hYm91dC9sZWFybmluZy9ETVMtVXBkYXRlP3V0bV9jYW1wYWlnbj0mdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPWdvdmRlbGl2ZXJ5In0.XpePvPQLFnvFk-W49CAZI_8dPaUGWKUeLi4OpQcGNv8\/s\/1089407217\/br\/141444146176-l\" rel=\"noopener\" target=\"_blank\">website<\/a><\/strong>. The webinars will also be archived for future viewing.<\/p>\r\n\r\n<p>Questions? Contact the NIH Office of Science Policy at <a href=\"mailto:SciencePolicy@od.nih.gov\">SciencePolicy@od.nih.gov<\/a><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "NIH Hosting Two-Part Webinar: Implementing the NIH Data Management and Sharing Policy"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

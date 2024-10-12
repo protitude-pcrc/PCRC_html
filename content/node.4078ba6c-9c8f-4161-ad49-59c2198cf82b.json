@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "4078ba6c-9c8f-4161-ad49-59c2198cf82b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "We want to help you submit your grant to the NIH!"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-12-10T22:17:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2015-12-10T22:17:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/we-want-help-you-submit-your-grant-nih",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "The PCRC wants to collaborate with you to facilitate meaningful and succsessful palliative care research by using its resources to facilitate your study.\r\n\r\n<span style=\"text-decoration: underline;\"><strong>NIH Deadlines (rapidly approaching!)<\/strong><\/span>\r\nFebruary 5, 2016 for RO1s\r\nFebruary 15, 2015 for R21s\r\n\r\n<strong>Resources available through the PCRC:<\/strong>\r\n<ul style=\"list-style-type: disc;\">\r\n\t<li>identification of study sites<\/li>\r\n\t<li>access to outstanding methodologic resources through <a href=\"http:\/\/palliativecareresearch.org\/corescenters\/\">PCRC cores<\/a><\/li>\r\n\t<li>centralized site management and training<\/li>\r\n\t<li>support for building and managing your study database<\/li>\r\n<\/ul>\r\n<strong>How to make this happen?<\/strong>\r\nContact <a href=\"mailto:CAREY.CANDRIAN@ucdenver.edu, molly.gavigan@duke.edu\">Carey Candrian and Molly Gavigan<\/a> on or before <span style=\"color: #ff0000;\"><strong>MONDAY, DECEMBER 14, 2015<\/strong><\/span>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

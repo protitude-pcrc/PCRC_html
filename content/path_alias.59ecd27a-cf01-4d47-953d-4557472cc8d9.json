@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "59ecd27a-cf01-4d47-953d-4557472cc8d9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/112875e6-ea31-481b-99fc-0413f3db2e95"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-18-march-2016"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "3f301dd4-26e2-4aac-a113-fb5a5454d44d"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Frank Ruhl Libre&subset=hebrew#900"
+        }
+    ],
+    "name": [
+        {
+            "value": "Frank Ruhl Libre 900 (hebrew)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Frank Ruhl Libre"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "900"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:20:\"Frank Ruhl Libre:900\";s:6:\"subset\";s:6:\"hebrew\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:02:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:02:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "12b0dea5-d190-4fa8-bef6-36049468456b"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "35ced2d9-8b23-4062-9aa5-0e54c51a5044"
+        }
+    ],
+    "field_tags": []
+}

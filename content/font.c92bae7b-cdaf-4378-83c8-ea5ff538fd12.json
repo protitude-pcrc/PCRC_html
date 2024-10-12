@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "c92bae7b-cdaf-4378-83c8-ea5ff538fd12"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Ramaraja&subset=telugu#regular"
+        }
+    ],
+    "name": [
+        {
+            "value": "Ramaraja regular (telugu)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Ramaraja"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "normal"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:16:\"Ramaraja:regular\";s:6:\"subset\";s:6:\"telugu\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:01:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:01:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "12b0dea5-d190-4fa8-bef6-36049468456b"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a859294f-ee6c-4c95-90af-99b6680399ba"
+        }
+    ],
+    "field_tags": []
+}

@@ -1,0 +1,230 @@
+{
+    "uuid": [
+        {
+            "value": "518668f8-d607-4085-af7a-849e4de37831"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-06-01T18:20:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "title": [
+        {
+            "value": "Comparing the Effectiveness of the Stanford Letter to the Traditional Advance Directive in Bone Marrow Transplant Recipients"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-06-01T17:47:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-06-01T18:20:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/study\/comparing-effectiveness-stanford-letter-traditional-advance-directive-bone-marrow-transplant",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [],
+    "field_approved_data_requests": [],
+    "field_award_number": [],
+    "field_condition_studied": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "86510b2c-0278-4f34-bbe9-671a1fd3f874"
+        }
+    ],
+    "field_csr_summary": [],
+    "field_data_dictionary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "d787ff08-863c-4279-a6a0-55ee50a71301"
+        }
+    ],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e494a23c-aea6-4f0b-a534-4b948ddfdb07"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Comparing the Effectiveness of the Stanford Letter to the Traditional Advance Directive in Bone Marrow Transplant Recipients"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "126"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": false
+        }
+    ],
+    "field_nct_link_field": [],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d7cd26a3-2482-49da-b75d-bdd120b563ae"
+        }
+    ],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        }
+    ],
+    "field_participant_ethnicity_coll": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "350f6f60-c882-44d9-bf86-2f242d671d54"
+        }
+    ],
+    "field_participant_race": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "88ac74e1-8f30-4ba6-bbe9-d8a410f35170"
+        }
+    ],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bb33a50f-e9de-47ae-80e4-5167ef2b0d2f"
+        }
+    ],
+    "field_pcrc_study_num": [
+        {
+            "value": "16-04"
+        }
+    ],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/doi.org\/10.1016\/j.jtct.2021.03.030",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [],
+    "field_study_design": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8efa09b9-e9aa-43b7-bb08-51dcd38fabe3"
+        }
+    ],
+    "field_study_pi": [
+        {
+            "value": "Lori Muffly, MD, MS"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "Stanford University"
+        }
+    ],
+    "field_study_setting": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "0273e5e5-00f3-4ffe-89c2-4dd69d36e8fc"
+        }
+    ],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "89b177d7-1afa-4d2b-bb5a-199a38866463"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<h2>Abstract<\/h2>\r\n\r\n<p id=\"spara006\">Patients undergoing allogeneic hematopoietic cell transplantation (HCT) are at risk for high morbidity and mortality. Advance directives (AD) allow patients to express wishes regarding their care at the end of life, but these are not completed in the majority of patients undergoing HCT, with only 44% of deceased allogeneic HCT recipients at this institution completing an AD in the past decade. Increasing the AD completion rate can improve the quality of care for allogeneic HCT recipients. Our objective was to evaluate whether an alternative AD instrument can increase AD completion rate and patient satisfaction. We conducted a prospective, randomized controlled study of the traditional California AD versus a novel Letter AD, the Stanford What Matters Most Letter, in adult allogeneic HCT recipients. Patients age \u226518 years undergoing first allogeneic HCT at Stanford University were eligible. Prior to HCT conditioning, enrolled patients were assigned at random to complete either the traditional AD or the Letter AD. The primary endpoint was AD completion. The chi-square test was used to compare the AD completion rate between arms. The Wilcoxon rank-sum test was used to compare uncertainty, satisfaction with decision making, and satisfaction with the AD. Of the 212 patients who were eligible, 126 (59.4%) were enrolled and randomized. The mean age was 53.7 years, 57 (45.2%) were female, and 74 (58.7%) were non-Hispanic white. The overall AD completion rate was 71.4% and did not differ between the traditional and Letter AD arms (70.3% versus 72.6%;&nbsp;<em>P<\/em>&nbsp;=&nbsp;.78). Of those who completed the Letter AD, 66.7%, 42.2%, and 46.7% of patients wished to die gently\/naturally, at home, and\/or with hospice, respectively. In the traditional AD arm, 60.0% wished to not prolong life if recovery was unlikely. Opinion surveys did not find differences in levels of satisfaction between the traditional AD and Letter AD. Completion rates of AD on this study were high (71.4%) compared with historically reported completion rates and did not significantly differ based on AD version.<\/p>\r\n\r\n<hr \/>\r\n<h2>Highlights<\/h2>\r\n\r\n<ul>\r\n\t<li>Our study represents one of the only published randomized controlled trials on an&nbsp;advance care planning&nbsp;(ACP) intervention for patients undergoing allogeneic hematopoietic&nbsp;cell transplantation.<\/li>\r\n\t<li>Patients were randomized to the traditional state advanced directive (AD) and a novel Stanford Letter AD.<\/li>\r\n\t<li>Both groups in the study had a high AD completion rate, much higher than that reported historically elsewhere and at our own institution.<\/li>\r\n\t<li>Incorporating ACP education and reminders throughout the transplantation process can increase AD completion rates.<\/li>\r\n<\/ul>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [
+        {
+            "value": "<p>Keywords: advance directive; advance care planning; end-of-life care; transplant<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_therapeutic_area": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "f2104e69-5e6f-45bf-9e4d-74b521e869e0"
+        }
+    ],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "fbd491b5-cd5e-4bef-9b16-793bee9672cc"
+        }
+    ]
+}

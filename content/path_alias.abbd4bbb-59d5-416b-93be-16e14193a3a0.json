@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "abbd4bbb-59d5-416b-93be-16e14193a3a0"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/61e4564b-928b-4d5c-a0dc-887a2b265dc5"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/slide1png"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

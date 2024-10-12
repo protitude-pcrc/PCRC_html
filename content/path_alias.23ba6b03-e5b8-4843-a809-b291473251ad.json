@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "23ba6b03-e5b8-4843-a809-b291473251ad"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/e0dceac1-9388-406d-81b1-7ec4e79c1e25"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/study\/choice-sets-advance-directives"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

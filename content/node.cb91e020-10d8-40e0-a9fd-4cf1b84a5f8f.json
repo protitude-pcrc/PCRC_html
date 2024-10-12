@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "cb91e020-10d8-40e0-a9fd-4cf1b84a5f8f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-01-23T20:07:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "PCRC Webinar Series: Mentor-Mentee Relationships: Victories and Pitfalls"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-01-04T21:58:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-01-23T20:07:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/pcrc-webinar-series-mentor-mentee-relationships-victories-and-pitfalls",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<center>\r\n<h2>The PCRC Investigator Development Center (IDC) Webinar Series presents:<\/h2>\r\n\r\n<h3>\"Mentor-Mentee Relationships: Victories and Pitfalls\"<\/h3>\r\n<\/center>\r\n\r\n<p><strong>Host: <\/strong>Alex Smith, MD, MPH will be leading the January webinar, titled: <strong>Mentor-Mentee Relationships: Victories and Pitfalls.&nbsp;<\/strong>Dr. Smith is a Professor of Medicine at the University of California, San Francisco. He is co-founder of the Geriatrics and Palliative Care blog, GeriPal.<\/p>\r\n\r\n<p><strong>When:<\/strong> Wednesday, January 23<sup><span style=\"font-size: 12.5px;\">rd<\/span><\/sup>, 2019 at 12:30pm Eastern Time<\/p>\r\n\r\n<p><strong>Registration Required:<\/strong> Click below to register!<\/p>\r\n\r\n<center>[button url=\"https:\/\/ucsf.zoom.us\/webinar\/register\/WN_rxSz_YM8Qb2wPvtFHBqhmg\" color =\"blue\" size=\"large\" target=\"_blank\"]Register Now![\/button]<\/center>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<center>[button url=\"\/research\/investigator-support-information\/idc-webinar-series\" color=\"orange\" target=\"_blank\"]View Previously Presented and Recorded Webinars[\/button]<\/center>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Wednesday, January 23, 12:30pm ET"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "79f19229-97ab-4374-b750-70a60097eb51"
+        }
+    ]
+}

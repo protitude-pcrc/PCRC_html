@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ee894937-7da0-4ea0-982f-41d3c2c82134"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7d25a5a5-0349-4467-a34c-0857b186b7f1"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-24-april-2017"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

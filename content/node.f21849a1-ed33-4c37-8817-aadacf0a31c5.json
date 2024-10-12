@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "f21849a1-ed33-4c37-8817-aadacf0a31c5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-05T14:56:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Letter of Support"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-09-24T18:16:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-05T14:56:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/research\/investigator-support-information\/letter-support",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h4>There are two types of letters of support (LOS) from the PCRC<\/h4>\r\n\r\n<ol>\r\n\t<li>Letters for PCRC Members; and<\/li>\r\n\t<li>Support letters for planned collaborators.<\/li>\r\n<\/ol>\r\n\r\n<p>PCRC Members may seek an LOS to support a promotion, K-award or other similar requests (Type 1). If you have had a project reviewed by the <a href=\"\/who\/scientific\">Scientific Review Committee (SRC)<\/a> or if your project has been reviewed by the SRC with resources identified and a budget, you may request a LOS (Type 2).<\/p>\r\n\r\n<p>LOS Standard Language<\/p>\r\n\r\n<h5>To demonstrate mutual collaboration to work together, all Letters of Support include language for which collaborators agree to adhere:<\/h5>\r\n\r\n<ul>\r\n\t<li>To follow PCRC standards and processes in their project including use of Measurement Instruments and Standardized Data Elements, Data Sharing Agreements, and Financial Management Processes;\r\n\t<ul>\r\n\t\t<li>To provide de-identified study data and related study materials (e.g., data dictionary, case report forms) for inclusion into one or both of our&nbsp;Data Repositories (quantitative and qualitative, respectively), within one year of study ending or two months after publication has been accepted;<\/li>\r\n\t<\/ul>\r\n\t<\/li>\r\n\t<li>That all Letters of Intent and project summaries\/protocols will be reviewed by the PCRC Scientific Review Committee to ensure highest methodological standards;&nbsp;<\/li>\r\n\t<li>That all publications will adhere to the PCRC Authorship Guidelines to ensure consistent approaches to assigning authorship including acknowledgment of PCRC support in all publications and presentations; and&nbsp;<\/li>\r\n\t<li>To adhere to PCRC Conflict of Interest practices, in the interest of ensuring transparent and trustworthy research.<\/li>\r\n<\/ul>\r\n\r\n<center>[button url=\"https:\/\/airtable.com\/shrbX2sU5X9QVA8vb\" size=\"large\" color=\"orange\" target=\"_blank\"]Request LOS[\/button]<\/center>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

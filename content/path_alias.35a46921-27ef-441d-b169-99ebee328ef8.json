@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "35a46921-27ef-441d-b169-99ebee328ef8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/873cfc6c-30ef-4dca-af76-939c45930b9c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/stephencurry"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

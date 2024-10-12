@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1552be22-0a94-4cf8-aabb-cf67e964b98e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/56ae640e-77d0-4559-aa23-05fcc2ec9eae"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/colecs"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

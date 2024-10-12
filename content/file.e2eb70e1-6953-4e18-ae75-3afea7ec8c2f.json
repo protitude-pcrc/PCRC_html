@@ -1,0 +1,69 @@
+{
+    "uuid": [
+        {
+            "value": "e2eb70e1-6953-4e18-ae75-3afea7ec8c2f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "document",
+            "target_type": "file_type",
+            "target_uuid": "aba37c63-b654-405f-a34e-d829c2ad7580"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "filename": [
+        {
+            "value": "PCRCdatadictionary_Dr.Sun_formatted4_6_20.pdf"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/dictionaries\/PCRCdatadictionary_Dr.Sun_formatted4_6_20.pdf"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/pdf"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 125043
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-04-06T17:48:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-04-06T17:53:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/pcrcdatadictionarydrsunformatted4620pdf",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ]
+}

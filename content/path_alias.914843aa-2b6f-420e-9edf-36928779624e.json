@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "914843aa-2b6f-420e-9edf-36928779624e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/a5561392-ccad-43b1-8611-3b835cd215b1"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/kutner-interviewed-npr"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

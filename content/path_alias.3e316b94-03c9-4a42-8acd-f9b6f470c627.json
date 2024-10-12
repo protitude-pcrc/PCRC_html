@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "3e316b94-03c9-4a42-8acd-f9b6f470c627"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/478d6b6c-e38d-4788-bf0a-5f85ecbe5d05"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/special-interest-groups"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

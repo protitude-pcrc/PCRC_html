@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a8b66e6b-ad56-4d2b-89a2-917f0274a545"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/a011bdbe-3e13-479a-85eb-76c28867b2cd"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/currentmembershipmapjpg"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

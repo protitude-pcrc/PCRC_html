@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "6e24ec98-8760-4543-be20-fb91f9632676"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-07-13T16:09:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "Workshop in Research Methods in Supportive Oncology "
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-07-13T16:08:14+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-07-13T16:09:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/workshop-research-methods-supportive-oncology",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p style=\"text-align:start\"><span style=\"font-size:12pt\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"color:#000000\"><strong>&nbsp;<\/strong><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:start\"><span style=\"font-size:12pt\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"color:#000000\"><strong><span style=\"font-size:14pt\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"color:black\">2021 Harvard Medical School Workshop on Research Methods in Supportive Oncology<\/span><\/span><\/span><\/strong><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:start\"><span style=\"font-size:12pt\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"color:#000000\">&nbsp;<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:start\"><span style=\"font-size:12pt\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"color:#000000\"><span style=\"color:black\">This NCI-funded intensive 6-day workshop will provide an overview of fundamental methods in supportive oncology research (psychosocial oncology, palliative care, symptom management, and survivorship). Over the course of the workshop, participants will write a complete study protocol under the direct mentorship of expert faculty in the field of supportive oncology. Essential workshop topics include: creation of conceptual models, supportive care clinical trials, development of psychosocial interventions, decision science, stakeholder engagement, technology-based research, study of patient-provider communication, qualitative and survey methods, and data analysis.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:start\"><span style=\"font-size:12pt\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"color:#000000\">&nbsp;<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:start\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"color:#000000\"><span style=\"font-size:12pt\"><span style=\"color:black\">William Pirl, MD, MPH and&nbsp;Jennifer Temel, MD&nbsp;will co-chair the workshop with a multidisciplinary team of faculty including: Joseph Greer, PhD; Elyse Park, MD, MPH; Lisa Wood, PhD; James Tulsky, MD; Areej El-Jawahri, MD; Lara Traeger, PhD;&nbsp; Joanne Wolfe, MD, MPH and others.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:start\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"color:#000000\">&nbsp;<\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:start\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"color:#000000\"><span style=\"font-size:12pt\"><span style=\"color:black\">Physicians, nurses, social workers, and psychologists who are early-stage researchers are eligible to attend. Participants must have a doctoral degree.&nbsp;Depending on the volume of applications, students in doctoral programs might be able to attend. &nbsp;<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:start\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"color:#000000\">&nbsp;<\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:start\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"color:#000000\"><strong><span style=\"font-size:14pt\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"color:black\">January 24-29, 2021<\/span><\/span><\/span><\/strong>&nbsp;<span style=\"font-size:12pt\"><span style=\"color:black\">at the Wyndham Boston Beacon Hill and Massachusetts General Hospital in Boston, MA.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:start\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"color:#000000\">&nbsp;<\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:start\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"color:#000000\"><strong><span style=\"font-size:12pt\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"color:black\">As of now, there is still uncertainty regarding COVID-19 institutional travel restrictions&nbsp;in January 2021. A decision will be made by September 1st whether we are able to safely offer the workshop in-person. If we are unable to host the event in-person, a virtual version of the course will be provided.<\/span><\/span><\/span><\/strong><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:start\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"color:#000000\">&nbsp;<\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:start\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"color:#000000\"><span style=\"font-size:12pt\"><span style=\"color:black\">There is no tuition for the program and a travel stipend will be provided if the workshop is held in person.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:start\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"color:#000000\">&nbsp;<\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:start\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"color:#000000\"><span style=\"font-size:12pt\"><span style=\"color:black\">Individuals from under-represented minority groups are encouraged to apply.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:start\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"color:#000000\">&nbsp;<\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:start\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"color:#000000\"><span style=\"font-size:12pt\"><span style=\"color:black\">Applications are due by September 8, 2020. For more information and to apply, please visit&nbsp;<a href=\"https:\/\/pallcare.hms.harvard.edu\/courses\/rmso\" style=\"color:#0563c1; text-decoration:underline\">https:\/\/pallcare.hms.harvard.edu\/courses\/rmso.<\/a>&nbsp; Please contact&nbsp;<a href=\"mailto:pallcare@partners.org\" style=\"color:#0563c1; text-decoration:underline\">pallcare@partners.org<\/a>&nbsp;for questions.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:start\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"color:#000000\">&nbsp;<\/span><\/span><\/span><\/span><\/span><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Request for Applications"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

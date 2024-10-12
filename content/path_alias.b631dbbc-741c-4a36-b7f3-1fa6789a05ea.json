@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b631dbbc-741c-4a36-b7f3-1fa6789a05ea"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/bd8a52fb-babe-4e5a-ad24-6d723d25da9f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/therealsummer"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

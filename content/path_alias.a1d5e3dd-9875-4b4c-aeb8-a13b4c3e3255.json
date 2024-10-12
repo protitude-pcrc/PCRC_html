@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a1d5e3dd-9875-4b4c-aeb8-a13b4c3e3255"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/17775d0a-982b-4ba9-af57-edbe4aa8ef17"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/foa-call-proposals-data-be-included-pcrc-de-identified-data-repository"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

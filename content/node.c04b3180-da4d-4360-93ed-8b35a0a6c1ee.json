@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "c04b3180-da4d-4360-93ed-8b35a0a6c1ee"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-06-18T15:29:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Clinical Studies\/Methodology Core"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-06-26T18:31:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-06-18T15:29:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/corescenters\/clinical-studiesmethodology-core",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h3>Core Leadership:<\/h3>\r\n\r\n<drupal-entity alt=\"Kathryn Pollak\" data-align=\"left\" data-caption=\"Kathryn Pollak, PhD\" data-embed-button=\"image_browser\" data-entity-embed-display=\"image:linked_responsive_image\" data-entity-embed-display-settings=\"{&quot;responsive_image_style&quot;:&quot;original&quot;,&quot;image_link&quot;:&quot;&quot;,&quot;link_uri&quot;:&quot;&quot;}\" data-entity-type=\"file\" data-entity-uuid=\"e12263df-e12b-4fd1-a3bb-0815b2962f32\"><\/drupal-entity>\r\n\r\n<drupal-entity alt=\"Tamara Somers\" data-align=\"center\" data-caption=\"Tamara Somers, PhD\" data-embed-button=\"image_browser\" data-entity-embed-display=\"image:linked_responsive_image\" data-entity-embed-display-settings=\"{&quot;responsive_image_style&quot;:&quot;original&quot;,&quot;image_link&quot;:&quot;&quot;,&quot;link_uri&quot;:&quot;&quot;}\" data-entity-type=\"file\" data-entity-uuid=\"ef246ce0-6007-403d-9c05-cb6717599c6c\" title=\"Tamara Somers\"><\/drupal-entity>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<drupal-entity alt=\"Matthew DeCamp, MD, PhD\" data-caption=\"Matthew DeCamp, MD, PhD - Ethics &amp;amp; Engagement Advisor\" data-embed-button=\"image_browser\" data-entity-embed-display=\"image:linked_responsive_image\" data-entity-embed-display-settings=\"{&quot;responsive_image_style&quot;:&quot;original&quot;,&quot;image_link&quot;:&quot;&quot;,&quot;link_uri&quot;:&quot;&quot;}\" data-entity-type=\"file\" data-entity-uuid=\"f0a4f35e-6aed-4cc3-8e6c-383881da3dc9\"><\/drupal-entity>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p><em>Contact <a href=\"mailto:kathryn.pollak@duke.edu\" target=\"_blank\">Kathryn Pollak<\/a> for a core consultation.<\/em><\/p>\r\n\r\n<h4>Roles and Responsibilities of the Clinical Studies Core:<\/h4>\r\n\r\n<ul>\r\n\t<li>Help with study design and make recommendations that may improve study outcomes.<\/li>\r\n\t<li>Facilitate the determination of appropriate control groups for intervention studies or comparison data for observational studies.<\/li>\r\n\t<li>Collaborate with Study PI and others, as appropriate to ensure study aims can be carried out with the proposed methodology.<\/li>\r\n\t<li>Examine the intervention implementation or other intervention issues.<\/li>\r\n\t<li>Review how current study could be enhanced to prepare for future studies\/funding.<\/li>\r\n<\/ul>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>The Clinical Studies\/Methodology Core has developed a library to provide&nbsp;palliative care investigators with resources that are relative to clinical studies and methodology in palliative care research. It is continually being updated with new resources and literature as well as new topic areas. Click <a href=\"https:\/\/palliativecareresearch.org\/corescenters\/clinical-studiesmethodology-core\/palliative-care-clinical-studies-digital-library\"><strong>here<\/strong><\/a> to learn more.<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

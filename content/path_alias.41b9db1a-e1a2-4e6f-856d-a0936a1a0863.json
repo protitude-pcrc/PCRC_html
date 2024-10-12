@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "41b9db1a-e1a2-4e6f-856d-a0936a1a0863"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/cd9e576a-7d1f-4304-87a9-b43e47d835a8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-4-november-2013"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7489f12d-7211-472d-91a3-0bd3d5eac3c4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/d1aff1a8-05ce-4b68-99a3-7629d418fd93"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-12-march-2015"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

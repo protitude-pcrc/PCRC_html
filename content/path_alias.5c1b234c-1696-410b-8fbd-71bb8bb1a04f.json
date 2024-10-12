@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "5c1b234c-1696-410b-8fbd-71bb8bb1a04f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/bb12905d-0a6d-4a48-8ae0-dcd0d5337744"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/study\/refinement-prognostic-model-patients-metastatic-cancer"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

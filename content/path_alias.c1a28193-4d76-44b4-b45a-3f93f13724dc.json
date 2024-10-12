@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c1a28193-4d76-44b4-b45a-3f93f13724dc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/92afd23e-32a3-480a-822f-ee2875727a7d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/androidelus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

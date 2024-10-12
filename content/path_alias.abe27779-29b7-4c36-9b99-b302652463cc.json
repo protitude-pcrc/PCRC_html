@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "abe27779-29b7-4c36-9b99-b302652463cc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/0cd5dbe3-3552-4cc2-8df7-578f24fc212f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/requesttxt-4"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

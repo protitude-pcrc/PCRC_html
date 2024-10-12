@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "796b4b23-9e48-4be3-82bb-cda1ceb86f31"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/fe79ad5c-0fc3-49e9-aa10-46425e4bb579"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/plunkcalculating"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

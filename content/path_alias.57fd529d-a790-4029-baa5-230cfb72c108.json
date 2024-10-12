@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "57fd529d-a790-4029-baa5-230cfb72c108"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7efb3987-c9c7-48e2-b493-558ce0e10ec8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/new-pcrc-awardee-publication"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

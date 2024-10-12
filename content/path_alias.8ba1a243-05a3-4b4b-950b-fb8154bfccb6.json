@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "8ba1a243-05a3-4b4b-950b-fb8154bfccb6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/7aa828ed-b9a5-4760-a8a1-5d6cb8087527"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/pcdm-data-requestdocx"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

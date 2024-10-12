@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "9da41522-11a1-47c3-b215-7cf4409e117d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-26T17:32:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "4f9256af-a749-4859-a639-cdce784ab732"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "ea51790b-3f51-4230-8332-0ade273c9f9b"
+        }
+    ],
+    "title": [
+        {
+            "value": "A Community of Discovery"
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-11-15T01:25:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-26T17:32:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/community-discovery-0",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The Palliative Care Research Cooperative (PCRC) is a vibrant interdisciplinary research community committed to advancing rigorous palliative care science and improving care for people with serious illness.<\/p>\r\n\r\n<p>Engage<\/p>\r\n\r\n<p>With more than <a href=\"\/about-us\/membershipmap\/\">400 members<\/a>, PCRC offers unparalleled access to:<\/p>\r\n\r\n<ul>\r\n\t<li>The nation's top palliative care researchers,<\/li>\r\n\t<li>A growing national network of 130 clinical trial sites, and<\/li>\r\n\t<li><a href=\"\/corescenters\/idc\/\">A wealth of training resources<\/a><\/li>\r\n<\/ul>\r\n\r\n<p>Learn More<\/p>\r\n\r\n<ul>\r\n\t<li><a href=\"\/corescenters\/\">Cores &amp; Centers for Cooperative Research<\/a><\/li>\r\n\t<li><a href=\"\/corescenters\/idc\/\">Webinars, Intensives and Special Interest Groups<\/a><\/li>\r\n\t<li><a href=\"\/members\/member-meetings\/\">Upcoming Member Meeting<\/a><\/li>\r\n\t<li><a href=\"\/funding\/funding-opportunities\/\">Funding Opportunities<\/a><\/li>\r\n<\/ul>\r\n\r\n<p>Join Us<\/p>\r\n\r\n<p>We encourage palliative care researchers to <a href=\"\/members\/interested-in-pcrc-membership\/\">join the PCRC<\/a>, build their research skills, and participate in a warm collaborative community.<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

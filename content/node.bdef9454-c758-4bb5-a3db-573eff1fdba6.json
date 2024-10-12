@@ -1,0 +1,110 @@
+{
+    "uuid": [
+        {
+            "value": "bdef9454-c758-4bb5-a3db-573eff1fdba6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-03-07T23:23:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "PCRC Webinar Series: Novel Behavioral Interventions in Palliative Care"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-03-07T20:00:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-03-07T23:23:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/pcrc-webinar-series-novel-behavioral-interventions-palliative-care",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<center>\r\n<h2>The PCRC Investigator Development Center (IDC) Webinar Series presents:<\/h2>\r\n\r\n<h3>\"Novel Behavioral Interventions in Palliative Care\"<\/h3>\r\n<\/center>\r\n\r\n<p><strong>Host: <\/strong>Francis Keefe, PhD will be leading the March webinar, titled: <strong>Novel Behavioral Interventions in Palliative Care.&nbsp;<\/strong>Dr. Keefe is a Professor in Psychiatry and Behavioral Sciences, Professor in Psychology and Neuroscience, Professor in Medicine, and Professor in Anesthesiology at Duke University.<\/p>\r\n\r\n<p><strong>When:<\/strong> Thursday, March 7<sup>th<\/sup>, 2019 at 3:00pm Eastern Time<\/p>\r\n\r\n<p><strong>Registration Required:<\/strong> Click below to register!<\/p>\r\n\r\n<center>[button url=\"https:\/\/ucsf.zoom.us\/webinar\/register\/a762d7b307668a9c66858a512be5123a\" color =\"blue\" size=\"large\" target=\"_blank\"]Register Now![\/button]<\/center>\r\n\r\n<p>We hope you will join us!<\/p>\r\n\r\n<center>[button url=\"\/research\/investigator-support-information\/idc-webinar-series\" color=\"orange\" target=\"_blank\"]View Previously Presented and Recorded Webinars[\/button]<\/center>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Thursday, March 7th, 3:00pm ET"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "79f19229-97ab-4374-b750-70a60097eb51"
+        }
+    ]
+}

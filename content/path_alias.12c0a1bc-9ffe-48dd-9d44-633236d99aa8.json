@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "12c0a1bc-9ffe-48dd-9d44-633236d99aa8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/acf08c65-7e7d-4fe9-926d-c1c653788eae"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/pansycuban"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

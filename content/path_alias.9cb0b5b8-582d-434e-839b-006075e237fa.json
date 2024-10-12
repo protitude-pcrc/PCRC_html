@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "9cb0b5b8-582d-434e-839b-006075e237fa"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/5f96ec6e-ee1e-4f63-8a7a-6787f63b9f87"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/banner1png"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

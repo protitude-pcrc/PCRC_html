@@ -1,0 +1,226 @@
+{
+    "uuid": [
+        {
+            "value": "89b2672f-260f-4660-895c-6eb6554b8e75"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-08-16T15:36:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "FOCIS"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-08-15T15:05:53+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-08-16T15:36:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/study\/focis",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "d1ed9ed2-1067-4238-b64f-11992222c4e5"
+        }
+    ],
+    "field_approved_data_requests": [],
+    "field_award_number": [
+        {
+            "value": "K23AG045560"
+        }
+    ],
+    "field_condition_studied": [],
+    "field_csr_summary": [],
+    "field_data_dictionary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "3c1cdac1-57a6-407c-a53b-3261bbd8dc47"
+        }
+    ],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e494a23c-aea6-4f0b-a534-4b948ddfdb07"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Frailty and Outcomes in Critical Illness Survivors"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "188"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": true
+        }
+    ],
+    "field_nct_link_field": [],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4f231d80-83c7-45f6-affe-6a582e037a21"
+        }
+    ],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "caefce4c-5e94-458b-b838-42ec8e25ae95"
+        }
+    ],
+    "field_participant_ethnicity_coll": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "350f6f60-c882-44d9-bf86-2f242d671d54"
+        }
+    ],
+    "field_participant_race": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "36faef51-6c51-4ba6-a88c-7f25cc6846bd"
+        }
+    ],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9bae5dc6-39bb-4eb6-ba24-2add620945de"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bb33a50f-e9de-47ae-80e4-5167ef2b0d2f"
+        }
+    ],
+    "field_pcrc_study_num": [],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/28263377",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [
+        {
+            "value": "NIA"
+        }
+    ],
+    "field_study_design": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "daae6b51-dea5-4f17-a71d-6e8474c47e08"
+        }
+    ],
+    "field_study_pi": [
+        {
+            "value": "Matthew Baldwin, MD, MS"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "Columbia University Medical Center"
+        }
+    ],
+    "field_study_setting": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "0273e5e5-00f3-4ffe-89c2-4dd69d36e8fc"
+        }
+    ],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [],
+    "field_summary": [
+        {
+            "value": "<p>OBJECTIVES: To assess symptoms in older intensive care unit (ICU) survivors and determine whether post-ICU frailty identifies those with the greatest palliative care needs.<\/p>\r\n\r\n<p>DESIGN:&nbsp;A prospective cohort study.<\/p>\r\n\r\n<p>SETTING:&nbsp;Urban tertiary care hospital and community hospital.<\/p>\r\n\r\n<p>PARTICIPANTS: Medical ICU survivors of mechanical ventilation aged 65 and older.<\/p>\r\n\r\n<p>MEASUREMENTS:&nbsp;Baseline measurements of age, sex, race, ethnicity, religion, insurance, discharge location, smoking history, Edmonton Symptom Assessment Scale (ESAS), Charlson Comorbidity Index (CCI), Acute Physiology and Chronic Health Evaluation (APACHE-II), mechanical ventilation, length of ICU stay, confusion assessment method (CAM-ICU), mini-cog, pre-hospitalization disability (Katz), brief fatigue index (BFI), patient health questionnaire 9 (PHQ-9), insomnia severity index (ISI), hospice questions, frailty measurements, other strength measures, and serologic measures. Re-hospitalization, DNR status, Barthel Index, Katx, EQ5D, and Family Evaluation of Treatment at End of Life Short Form (FATE-S) were assessed at 1, 3, and 6 months after hospital discharge. The ESAS, BFI, PHQ-9, and ISI were also reassessed at 1 month post discharge.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [
+        {
+            "value": "<p>Analysis and data cleaning code (STATA), research protocol\/handbook<\/p>\r\n\r\n<h3>Additional Citations:<\/h3>\r\n\r\n<p><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/24559575\" target=\"_blank\">Baldwin MR et al. The feasibility of measuring frailty to predict disability and mortality in older medical-ICU survivors. Journal of Critical Care. 2014 Jun;29(3):401-8.<\/a><\/p>\r\n\r\n<p><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/28398076\" target=\"_blank\">Baldwin MR et al. Refining Low Physical Activity Measurement Improves Frailty Assessment in Advanced Lung Disease and Survivors of Critical Illness. Annals of the American Thoracic Society. 2017;14(8):1270-9.<\/a><\/p>\r\n\r\n<p>[notification color=\"orange\"]Please note, 23 participants from pilot study did not have all measures collected; there were 166 participants from the non-pilot study, 118 of which had&nbsp;palliative care assessments and the remainder with frailty and follow up data only.&nbsp;[\/notification]<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_therapeutic_area": [],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "fbd491b5-cd5e-4bef-9b16-793bee9672cc"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "ba6bb7a7-5896-409d-84f8-5603cc257c9d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-09-11T21:18:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "NPCRC Call for Applications"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-09-11T21:06:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-09-11T21:18:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/npcrc-call-applications",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The National Palliative Care Research Center (NPCRC) is soliciting applications for <strong>Pilot\/Exploratory Project Grants (PEP)<\/strong> and <strong>Junior Faculty Career Development Awards (CDA)<\/strong>. Please note that this will be the last year of the Pilot\/Exploratory Project Grant Program due to NPCRC\u2019s expansion of CDA funding opportunities in 2019.<\/p>\r\n\r\n<p>These RFAs are limited to applications that focus on palliative care research projects for seriously ill patients and their families in one or more of the three specific areas:<\/p>\r\n\r\n<ol>\r\n\t<li>Exploring the relationship of pain and other distressing symptoms to quality and quantity of life, independence, function, and disability and developing interventions directed at their treatment in patients with serious and chronic illnesses.<\/li>\r\n\t<li>Studying methods of improving communication between patients living with serious illness, their families and their health care providers;&nbsp;<\/li>\r\n\t<li>Evaluating models and systems of care for patients living with serious illness and their families.<\/li>\r\n<\/ol>\r\n\r\n<p>[notification color=\"yellow\"]Of note, research focused on advanced care planning will not be considered this year due to NPCRC current funding priorities.[\/notification]<\/p>\r\n\r\n<p><strong>Letters of Intent are due November 5, 2018. Full proposals are accepted by invitation only and are due January 21, 2019. All awards will start July 1, 2019.<\/strong><\/p>\r\n\r\n<p>For more information about the RFA and application process, please visit the NPCRC\u2019s website at: <a href=\"http:\/\/www.npcrc.org\" target=\"_blank\">www.npcrc.org<\/a>. Additionally, please circulate this email to anyone you think might be interested in and appropriate for either of these awards.<\/p>\r\n\r\n<drupal-entity data-embed-button=\"file_browser\" data-entity-embed-display=\"file:file_default\" data-entity-embed-display-settings=\"{&quot;use_description_as_link_text&quot;:1,&quot;description&quot;:&quot;Pilot RFA&quot;}\" data-entity-type=\"file\" data-entity-uuid=\"43b0b93f-36af-4469-945d-45d2edb79d3f\"><\/drupal-entity>\r\n\r\n<drupal-entity data-embed-button=\"file_browser\" data-entity-embed-display=\"file:file_default\" data-entity-embed-display-settings=\"{&quot;use_description_as_link_text&quot;:1,&quot;description&quot;:&quot;CDA RFA&quot;}\" data-entity-type=\"file\" data-entity-uuid=\"282cfb34-3889-4ccc-80a6-7ac6cd366a71\"><\/drupal-entity>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

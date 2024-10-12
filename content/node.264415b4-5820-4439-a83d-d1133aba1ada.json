@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "264415b4-5820-4439-a83d-d1133aba1ada"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "PCORI Funding Announcement"
+        }
+    ],
+    "created": [
+        {
+            "value": "2016-09-05T21:49:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2016-09-05T21:49:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/pcori-funding-announcement",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "PCORI Announces Funding Opportunity for\u00a0<a href=\"http:\/\/www.pcori.org\/funding-opportunities\/announcement\/community-based-palliative-care-delivery-adult-patients-advanced\" target=\"_blank\">Community-based Palliative Care Delivery for Adult Patients with Advanced Illnesses and their Caregivers<\/a>\r\n<table class=\"t1\" width=\"602.0\" cellspacing=\"0\" cellpadding=\"0\">\r\n<tbody>\r\n<tr style=\"height: 35px;\">\r\n<td class=\"td1\" style=\"height: 35px;\" valign=\"top\">\r\n<p class=\"p1\"><strong><span class=\"s1\">Key Deadlines<\/span><\/strong><\/p>\r\n<\/td>\r\n<td class=\"td2\" style=\"height: 35px;\" valign=\"top\">\r\n<p class=\"p1\"><strong><span class=\"s1\">Type<\/span><\/strong><\/p>\r\n<\/td>\r\n<td class=\"td3\" style=\"height: 35px;\" valign=\"top\">\r\n<p class=\"p2\"><strong><span class=\"s1\">Funds Available<\/span><\/strong><\/p>\r\n<\/td>\r\n<td class=\"td4\" style=\"height: 35px;\" valign=\"top\">\r\n<p class=\"p2\"><strong><span class=\"s1\">Total Direct Costs<\/span><\/strong><\/p>\r\n<\/td>\r\n<\/tr>\r\n<tr style=\"height: 173px;\">\r\n<td class=\"td5\" style=\"height: 173px;\" valign=\"top\">\r\n<p class=\"p3\"><span class=\"s1\"><b>LOI:<\/b> September 14, 2016<\/span><\/p>\r\n<p class=\"p3\"><span class=\"s1\"><b>Application:<\/b> December 19, 2016<\/span><\/p>\r\n<p class=\"p3\"><span class=\"s1\"><b>Merit Review:<\/b> March 2017<\/span><\/p>\r\n<\/td>\r\n<td class=\"td6\" style=\"height: 173px;\" valign=\"top\">\r\n<p class=\"p3\"><span class=\"s1\">Research Award<\/span><\/p>\r\n<\/td>\r\n<td class=\"td7\" style=\"height: 173px;\" valign=\"top\">\r\n<p class=\"p3\"><span class=\"s1\">$48 million<\/span><\/p>\r\n<\/td>\r\n<td class=\"td8\" style=\"height: 173px;\" valign=\"top\">\r\n<p class=\"p3\"><span class=\"s1\">\u00b7<\/span><span class=\"s2\">\u00a0\u00a0 <\/span><span class=\"s1\">Advance Care Planning: Not to exceed $6M per study<\/span><\/p>\r\n<p class=\"p3\"><span class=\"s1\">\u00b7<\/span><span class=\"s2\">\u00a0\u00a0 <\/span><span class=\"s1\">Models of Palliative Care Delivery: Not to exceed $10M per study<\/span><\/p>\r\n<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>\r\n<p class=\"p3\"><span class=\"s1\">\u00a0<\/span><\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

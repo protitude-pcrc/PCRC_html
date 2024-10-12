@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "56b6de72-b20e-4724-8b55-be7a28ffd6f6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-08-06T17:35:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "AHRQ: Draft Report for Review and Comment"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-08-06T17:34:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-08-06T17:35:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/ahrq-draft-report-review-and-comment",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The Evidence-based Practice Center (EPC) Program at the Agency for Healthcare Research and Quality (AHRQ) has posted the draft report for the systematic review on&nbsp;<b>Integrating Palliative Care in Ambulatory Care of Non-Cancer Serious Chronic Illness<\/b>. It is available for your review and feedback until September 18, 2020 at&nbsp;<a data-auth=\"NotApplicable\" href=\"https:\/\/urldefense.com\/v3\/__https:\/effectivehealthcare.ahrq.gov\/products\/palliative-care-integration\/draft-review__;!!OToaGQ!8q0JkaYSoQnOohLQ3LOCTz5e1ajoxKLxyytOdzUsyyoJ0ApWKSENDfv-RWx3gKFiOPxusA$\" rel=\"noopener noreferrer\" target=\"_blank\">the Effective Healthcare Web site<\/a>.<\/p>\r\n\r\n<p>The purpose of the review is to evaluate effectiveness and implementation of interventions for integrating palliative care into ambulatory care for patients with serious life-threatening chronic illness or conditions other than cancer and their caregivers.<\/p>\r\n\r\n<p>The draft report describes the findings from the evidence review. Your feedback will help improve the relevance of our reviews for healthcare decision making. All comments will be reviewed and considered. We value your feedback and look forward to receiving your comments.<\/p>\r\n\r\n<p>AHRQ is a government agency tasked with producing evidence to improve the quality of healthcare while working with partners to ensure that the evidence is understood and used. Below are links that provide more information on the EPC Program.<\/p>\r\n\r\n<p>Please share these emails with any interested or relevant colleagues. Thank you in advance for your input.<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Integrating Palliative Care in Ambulatory Care of Non-Cancer Serious Chronic Illness"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "a6132281-4fa7-4a50-a8b3-189a7669d40d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-04T19:18:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Member Meetings"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-10-13T05:38:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-04T19:18:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/membership\/member-meetings",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h1>Past Meeting Materials<\/h1>\r\n\r\n<h4>Information from February 2023 PCRC Investigator Meeting:<\/h4>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/dfnzitfusmvlzb3zihurs82xquvuauoo\" rel=\"noopener\" target=\"_blank\">PCRC Introduction &amp; Updates<\/a><\/li>\r\n<\/ul>\r\n\r\n<h4>Information from March 2022 PCRC Investigator Meeting:<\/h4>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/ge2hi4hzt6a0j9xcqzwe1utnxg81v6j3\" rel=\"noopener\" target=\"_blank\">PCRC New Member Orientation<\/a><\/li>\r\n<\/ul>\r\n\r\n<h4>Information from March 2021 PCRC Investigator Meeting:<\/h4>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/2bb19r3zsvbnmasqrkmnvosav0pcnzrp\" rel=\"noopener\" target=\"_blank\">PCRC Introduction &amp; Updates<\/a><\/li>\r\n<\/ul>\r\n\r\n<h4>Information from February 2020 PCRC Investigator Meeting:<\/h4>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/2ivsqjx91a74pmtj0pcj4q39ygud081u\" rel=\"noopener\" target=\"_blank\">PCRC New Member Orientation<\/a><\/li>\r\n<\/ul>\r\n\r\n<h4>Information from February 2019&nbsp;PCRC Investigator Meeting:<\/h4>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/i6n57rbzl0xutgr6hi3limd0edjjdyl1\" rel=\"noopener\" target=\"_blank\">PCRC New Member Orientation<\/a><\/li>\r\n<\/ul>\r\n\r\n<h4>Information from April 2018 PCRC Investigator Meeting:<\/h4>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/pcrc.app.box.com\/s\/idksex2c4a12vmnt5zw6g4dysit5enem\" rel=\"noopener\" target=\"_blank\">PCRC New Member Orientation<\/a><\/li>\r\n<\/ul>\r\n\r\n<h4>Information from October 2017 PCRC Investigator Meeting:<\/h4>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/lclm7yy1gf4c5cwo7rg8xx3crzv368j1\" rel=\"noopener\" target=\"_blank\">Writing compelling science (Dionne-Odom)<\/a><\/li>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/cumdej8oqdi8fiqt1m2380p9vnh280b3\" rel=\"noopener\" target=\"_blank\">Creating a sparkling grant application (Pollak)<\/a><\/li>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/266q60gd1lzauais9gclb0mebsk4vqc1\" rel=\"noopener\" target=\"_blank\">Closing your study: You can't start too early (Fairclough)<\/a><\/li>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/8s5l9ra46t6dfdpp6ub0733b3m3geria\" rel=\"noopener\" target=\"_blank\">PCRC Data Repository (Colborn)<\/a><\/li>\r\n<\/ul>\r\n\r\n<h4>Information from April 2017 PCRC Investigator Meeting:<\/h4>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/f6i3vpt6xc0wuiwg9ldfuz567ldlk1rl\" rel=\"noopener\" target=\"_blank\">Budgeting for multisite studies slides (Kutner &amp; Ritchie)<\/a><\/li>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/svo7r8d34v2ez6rowju5q20ebxdjstgl\" rel=\"noopener\" target=\"_blank\">The process of behavioral intervention development slides (Somers)<\/a><\/li>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/0mjw92mnbszjvaizf82322joaa6652wn\" rel=\"noopener\" target=\"_blank\">The art of the pilot proposal slides (Fischer &amp; Matlock)&nbsp;<\/a><\/li>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/s\/y9douajwzcl73uu0qstu3hh5ol3pxpoy\" rel=\"noopener\" target=\"_blank\">PCRC Data Repository slides (Colborn)<\/a><\/li>\r\n\t<li><a href=\"https:\/\/pcrc.box.com\/v\/Multi-siteStudiesInHPM\" rel=\"noopener\" target=\"_blank\">Approaching multi-site studies in hospice and palliative care (Ellington &amp; Morrison)<\/a><\/li>\r\n<\/ul>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "391dc2b6-2077-4136-9a1a-c114ab98e17a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/763c1c1f-c372-43da-87f0-f4ca93942310"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/mds-distress-redcap-crfblankredactedpdf"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

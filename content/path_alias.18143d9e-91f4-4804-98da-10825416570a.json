@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "18143d9e-91f4-4804-98da-10825416570a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/90d6b61c-31dc-41fd-8de4-af8361f49f5d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/hgroninger"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

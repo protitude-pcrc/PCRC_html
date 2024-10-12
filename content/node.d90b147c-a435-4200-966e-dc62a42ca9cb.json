@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "d90b147c-a435-4200-966e-dc62a42ca9cb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-12-04T22:52:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "5f686ebb-b50d-407c-8038-e50304f18bef"
+        }
+    ],
+    "title": [
+        {
+            "value": "NIH Webinar: Stepped Wedge Cluster Randomized Designs for Disease Prevention Research"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-06-20T15:21:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-12-04T22:52:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/nih-webinar-stepped-wedge-cluster-randomized-designs-disease-prevention-research",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Presented by&nbsp;<b>Monica Taljaard, Ph.D.<\/b><br \/>\r\nWednesday, July 11, 2018 | 11:00 a.m.\u201312:00 noon ET<\/p>\r\n\r\n<p>The stepped wedge cluster randomized design has seen a rapid increase in popularity over the past decade. It is different than the conventional parallel arm cluster randomized design in that all clusters (e.g., communities, schools, or hospitals), rather than half, receive the intervention. This presentation will:<\/p>\r\n\r\n<ul>\r\n\t<li>Explain the unique characteristics of the stepped wedge cluster randomized design and its implications for sample size calculation and analysis.<\/li>\r\n\t<li>Discuss the strengths and weaknesses of stepped wedge design compared to traditional designs.&nbsp;<\/li>\r\n<\/ul>\r\n\r\n<p>[infobox]<strong>Dr. Taljaard will accept questions<\/strong> during the webinar via WebEx and Twitter. Use the hashtag #NIHMtG.[\/infobox]<\/p>\r\n\r\n<p>[button url=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=http-3A__r20.rs6.net_tn.jsp-3Ff-3D001yldsdHTeIV9Kja-5FXxwEP6SrxPRxwxVynBU87iR-2DQzUOmRZ82klJelQvybFPDYssGuASGJkwsvoJNFYxw1WPe61mhR3AxJ5ZKOdNO3NoojkmTK7C10bvglTJFFujr6TAdtOzHM-5F5N-2D8kmnAWMaQUcTgh3BliOy3vRf-2D87D4veAbPLwa0C7PVfuV5WbV8OHiQxNCZ-2DD2DLURY9LSogzK2STCCUBP9Mc4HA-26c-3Ds1uspP6DBn-5FUef9paQs7hektPsG-5F3ESz0kMOWkBofe-2DmlpyVf0SBsQ-3D-3D-26ch-3DeEd-5Fdm7gP0YJd0YNMv6JzD4Fzvc8NfISosrR1FvfSud43GMqhHdgZw-3D-3D&amp;d=DwMGaQ&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=8C4-rom4vo65lN8cMhXTtyI_NCb50RUDs_a4mHieg_s&amp;s=cQOzKLr8NnFlhl2Pr3XXbt_zX7YR9gkD2U9ekBFOcZ8&amp;e=\" size=\"medium\" color=\"green\" target=\"_blank\"]Registration is Required[\/button]<\/p>\r\n\r\n<p>Can't be there? A recording of <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=http-3A__r20.rs6.net_tn.jsp-3Ff-3D001yldsdHTeIV9Kja-5FXxwEP6SrxPRxwxVynBU87iR-2DQzUOmRZ82klJelQvybFPDYssGkBQdxd2P5ji8-2DQ46BqFaqbjD9kMhqModivNxb5KpTNUvjAc691SWNQe7q-2DLN33MZ1p-2D0GylTXN6bUQlM7GmU5IvVRpVUHTDkzhBF1dz2WqhC9nCAiEnx1cOczY8iMnzoyeVN5dtbyBeYzhFENuDTC2p0AjNseMI1M7Wb6LQffepxIZuhP8TSNYq-2DdGVf9R8ypf2Rzun-2Djm6P7zLtFoXg4lwvpWT1mOUCezlrHafEwj4JUpxnVP7r0qB7c9tuYDLkgEBc8v1ZjOfXJNHJrHd3-5F8srAt7a1Zep6W1IFekEpccosI0ZmFHES-2DaGfsA1NxZ6-26c-3Ds1uspP6DBn-5FUef9paQs7hektPsG-5F3ESz0kMOWkBofe-2DmlpyVf0SBsQ-3D-3D-26ch-3DeEd-5Fdm7gP0YJd0YNMv6JzD4Fzvc8NfISosrR1FvfSud43GMqhHdgZw-3D-3D&amp;d=DwMGaQ&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=8C4-rom4vo65lN8cMhXTtyI_NCb50RUDs_a4mHieg_s&amp;s=5MNOY-OoHeA8uu2Vr2DpyUsnRKDUpbxG_vNVn3-yMJE&amp;e=\">this webinar<\/a> will be available approximately one week after the session. You can view the full archive of previous <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=http-3A__r20.rs6.net_tn.jsp-3Ff-3D001yldsdHTeIV9Kja-5FXxwEP6SrxPRxwxVynBU87iR-2DQzUOmRZ82klJelRjt32YfWKMo7bQELC2bI-5F6mkqS5XkwJx5GL2nWxLptjqVQZkMHs-2Dmdw6rlnMAz3dKyr1jK4yszevINQd-2DFq8PPa8cVaeo1pu-2D28YNabRbX1Ib2pYel6FkzRAR9QFvpxC-5F9Z45kFnBJ9hNgokVftvNZkR1zDjudxWSYtQrtHBVwlm1TaYejZjUD-2DDolS19pWVvo-2D-2DpJuxvyRDQXBLxNL7Swn63HPOn36pxpJ5zTLxdAwMOpgIFTAMRiSMXBBN4ucybHn9u0M-5F0IDpMFPULFoRI5S3DY8oWPrRA-3D-3D-26c-3Ds1uspP6DBn-5FUef9paQs7hektPsG-5F3ESz0kMOWkBofe-2DmlpyVf0SBsQ-3D-3D-26ch-3DeEd-5Fdm7gP0YJd0YNMv6JzD4Fzvc8NfISosrR1FvfSud43GMqhHdgZw-3D-3D&amp;d=DwMGaQ&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=8C4-rom4vo65lN8cMhXTtyI_NCb50RUDs_a4mHieg_s&amp;s=UinN55um6cuNtR_mQUO5_XiciGHtKUdQPA6-L4yp8KE&amp;e=\">Mind the Gap<\/a> webinars on our website.<\/p>\r\n\r\n<p>This event is open to the public. Please feel free to share this information widely.&nbsp; For more information, please contact the Office of Disease Prevention at <a href=\"mailto:MindtheGap@od.nih.gov\">MindtheGap@od.nih.gov<\/a>.<\/p>\r\n\r\n<p>[notification color=\"orange\"]Please note the registration page may not work in Firefox.[\/notification]<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "This event is open to the public. Please feel free to share this information widely."
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

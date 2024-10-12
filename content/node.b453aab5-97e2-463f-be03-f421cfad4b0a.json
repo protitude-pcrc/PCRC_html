@@ -1,0 +1,143 @@
+{
+    "uuid": [
+        {
+            "value": "b453aab5-97e2-463f-be03-f421cfad4b0a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "request",
+            "target_type": "node_type",
+            "target_uuid": "8262baa8-4bbb-493f-a05e-aae40f8a4fff"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-07-30T22:58:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "Will an alternative reimbursement model provide financial sustainability for a palliative care program?"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-03-21T20:06:53+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-07-30T22:58:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/request\/2018-0003",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_affiliation": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "decc977a-16a5-4c6a-b874-01fcfe20cd8a"
+        }
+    ],
+    "field_data_requested": [
+        {
+            "target_type": "node",
+            "target_uuid": "936912b9-02a7-4299-97f8-6def8cae5068"
+        }
+    ],
+    "field_date_of_approval": [
+        {
+            "value": "2017-09-15"
+        }
+    ],
+    "field_date_of_submission": [
+        {
+            "value": "2017-06-26"
+        }
+    ],
+    "field_pcrc_project_review": [],
+    "field_pi": [
+        {
+            "value": "Sean M. Reed, PhD, APN, ACNS-BC, ACHPN"
+        }
+    ],
+    "field_project_status": [
+        {
+            "value": "<p>Ongoing<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_reason_deemed_infeasible": [],
+    "field_request_number": [
+        {
+            "value": "2018-0003"
+        }
+    ],
+    "field_request_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ba7bda26-0f55-4e73-8bc3-3cc5408dfd93"
+        }
+    ],
+    "field_research_proposal": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "7c62b9c3-99cf-4443-b0c4-d6bb84f19cfc"
+        }
+    ],
+    "field_research_proposal_abstract": [
+        {
+            "value": "<p><span><span><span><span>Although there are studies that demonstrate improved symptom management, improved quality of life, and increased satisfaction, there remains no consensus on methodology for measuring effectiveness in the <em>economic evaluation<\/em> of palliative care or a study that quantifies the relationship between palliative care effectiveness in a value equation measure. The research goal for this project is to answer: <em>Will an alternative reimbursement model provide financial sustainability for a palliative care program?&nbsp; <\/em><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><strong>Aim 1: Evaluate the association between palliative care interventions and cost of care.<\/strong><\/p>\r\n\r\n<p><span><span><em><span><span>Hypothesis: Palliative care interventions are associated with significantly lower Medicare cost. <\/span><\/span><\/em><span><span>Extrapolated cost from Medicare claims data will provide evidence of cost-savings for patients receiving palliative care interventions compared to patients who did not receive palliative care interventions.<\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><strong>Aim 2: Evaluate an alternative reimbursement model for palliative care services.&nbsp;<\/strong><\/p>\r\n\r\n<p><span><span><span><span><em>Hypothesis: A global\/capitated (per member per month) alternative reimbursement model for palliative care services will pay for palliative care operating and service delivery costs while demonstrating a return on investment for 3rd party payers.<\/em>&nbsp; <\/span><\/span><\/span><\/span><\/p>\r\n",
+            "format": "full_html"
+        }
+    ]
+}

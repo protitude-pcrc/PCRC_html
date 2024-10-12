@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "617242b6-ccb8-461b-bcce-78ae166d863a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/937050a2-26da-4d5b-a69c-3893c453d880"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/study\/rdos-cut-point-substantiation-study"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

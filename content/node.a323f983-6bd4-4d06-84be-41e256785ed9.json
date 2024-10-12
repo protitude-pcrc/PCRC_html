@@ -1,0 +1,91 @@
+{
+    "uuid": [
+        {
+            "value": "a323f983-6bd4-4d06-84be-41e256785ed9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-10-11T17:48:14+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Letter of Intent"
+        }
+    ],
+    "created": [
+        {
+            "value": "2014-08-12T22:29:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-10-11T17:48:14+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/research\/investigator-support-information\/collaborating-pcrc\/letter-intent",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><a href=\"\/sites\/default\/files\/migrated_files\/1-LOI.jpg\"><img alt=\"1-LOI\" class=\"alignnone size-full wp-image-1381\" height=\"146\" src=\"\/sites\/default\/files\/migrated_files\/1-LOI.jpg\" width=\"721\" \/><\/a><\/p>\r\n\r\n<p>Interested investigators must first submit a letter of intent to the <a href=\"\/who\/scientific\/\">PCRC Scientific Review Committee<\/a> using the <strong>PCRC&nbsp;<a href=\"https:\/\/pcrc.box.com\/v\/pcrc-loi-template-vJuly2018\" target=\"_blank\">Letter of Intent (LOI) form<\/a><\/strong>. Once both the PCRC Scientific Review Committee and Steering Committee approve a LOI, full protocol development will begin. Details around the process and steps are noted below.<\/p>\r\n\r\n<ul>\r\n\t<li>For the PCRC, the LOI means you have a study idea that you&nbsp;think would align well with the PCRC, benefit from multi-site&nbsp; infrastructure, and are planning to submit a grant (<a href=\"\/research\/conduct-your-research-through-pcrc\" target=\"_blank\">click here<\/a> for more information on grants).<\/li>\r\n\t<li>Submission of the LOI is a pivotal step for the PCRC because&nbsp;it gives the SRC a comprehensive understanding of your&nbsp;study in order to evaluate the science, and enough&nbsp;information to allow the Steering Committee to evaluate the&nbsp;study in light of the strategic goals of the PCRC.<\/li>\r\n\t<li>Approval of the LOI at the Steering Committee level ultimately&nbsp;influences whether the PCRC is able to provide a <a href=\"\/research\/investigator-support-information\/collaborating-pcrc\/letter-support\" target=\"_blank\">letter of support<\/a> stating that it has the necessary infrastructure to&nbsp;successfully implement your study and start budget&nbsp;development (if requested)<\/li>\r\n<\/ul>\r\n\r\n<p><strong>Download and complete the <a href=\"https:\/\/pcrc.box.com\/v\/pcrc-loi-template-vJuly2018\" target=\"_blank\">Letter of Intent <\/a>and submit to: <\/strong> <a href=\"mailto:carey.candrian@ucdenver.edu\">Carey Candrian PhD - <\/a>PCRC Research Development <a href=\"mailto:\/\/molly.gavigan@dm.duke.edu\">Molly Gavigan RN JD - <\/a>PCRC Operations<\/p>\r\n\r\n<h4><a href=\"\/research\/investigator-support-information\/collaborating-pcrc\/site-selection\"><strong>\u232a<\/strong><em> NEXT STEPS<\/em>- Site Selection and Budget Development<\/a><\/h4>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

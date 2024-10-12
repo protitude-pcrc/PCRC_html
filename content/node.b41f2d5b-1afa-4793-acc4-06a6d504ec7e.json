@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "b41f2d5b-1afa-4793-acc4-06a6d504ec7e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-04-28T15:14:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "Call for Researchers to Submit Supplement Funding Applications for COVID-19 Efforts"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-04-28T15:11:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-04-28T15:14:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/call-researchers-submit-supplement-funding-applications-covid-19-efforts",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p style=\"text-align:start\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\">NINR is participating in NOT-OD-20-097, a recently issued Notice of Special Interest (NOSI) that highlights the urgent need for social, behavioral, economic, health communication, and epidemiologic research relevant to the 2019 Novel Coronavirus (SARS-CoV-2) and COVID-19.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span style=\"font-size:11pt\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\">The NOSI can be accessed here: <a href=\"https:\/\/grants.nih.gov\/grants\/guide\/notice-files\/not-od-20-097.html\" style=\"color:#954f72; text-decoration:underline\">https:\/\/grants.nih.gov\/grants\/guide\/notice-files\/not-od-20-097.html<\/a><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span style=\"font-size:11pt\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\">Please note that this NOSI is for supplements to existing longitudinal studies that address key social and behavioral questions related to the COVID-19 pandemic. The parent study may be observational or a clinical study with a fairly large sample size.&nbsp; Randomized control trials (RCTs) may be appropriate for supplement funding under this NOSI in order to extend data collection points beyond 3 or more data points or expand data collection at scheduled endpoints. RCTs with only 2 study endpoints are generally not considered appropriate for this NOSI. If interested and for more information on eligibility, please send a one page concept of your idea to your Program Officer and set up a time to discuss the potential of an application through this mechanism.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "NOT-OD-20-097"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7d0e7be3-2e93-41fb-b290-b44af41acd9a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/2bea1c7a-6590-4d0e-8ea5-6f4395dd9b12"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/cperumal"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

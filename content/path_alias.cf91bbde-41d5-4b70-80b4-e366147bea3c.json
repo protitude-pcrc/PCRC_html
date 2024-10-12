@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "cf91bbde-41d5-4b70-80b4-e366147bea3c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/fb861dec-1bba-4e61-b2cc-c807c95fb3fc"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-38-september-2019"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

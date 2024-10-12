@@ -1,0 +1,256 @@
+{
+    "uuid": [
+        {
+            "value": "937050a2-26da-4d5b-a69c-3893c453d880"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-08-15T22:54:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "RDOS Cut-point Substantiation Study"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-05-15T18:09:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-08-15T22:54:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/study\/rdos-cut-point-substantiation-study",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "3959d89f-1c9f-4cf6-a281-0ef56af69ece"
+        }
+    ],
+    "field_approved_data_requests": [],
+    "field_award_number": [],
+    "field_condition_studied": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8831528a-a5ce-441c-a11e-546983797930"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "83712aa5-211f-46de-a282-dead5352e1ec"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ce4e1d08-48a7-4ef8-bf5a-123148f64dcf"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "7af4261f-4397-4f37-b980-f57c7df48abf"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d4c251a2-2c5b-48f9-ad19-c228c1e8048f"
+        }
+    ],
+    "field_csr_summary": [],
+    "field_data_dictionary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "9e5a6c59-ac53-4d7c-91a2-cbd5d1416f5d"
+        }
+    ],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e494a23c-aea6-4f0b-a534-4b948ddfdb07"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Respiratory Distress Observation Scale Cut-point Substantiation Study"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "84"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": false
+        }
+    ],
+    "field_nct_link_field": [],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d7cd26a3-2482-49da-b75d-bdd120b563ae"
+        }
+    ],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        }
+    ],
+    "field_participant_ethnicity_coll": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "350f6f60-c882-44d9-bf86-2f242d671d54"
+        }
+    ],
+    "field_participant_race": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "36faef51-6c51-4ba6-a88c-7f25cc6846bd"
+        }
+    ],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bb33a50f-e9de-47ae-80e4-5167ef2b0d2f"
+        }
+    ],
+    "field_pcrc_study_num": [],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/27495878",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [],
+    "field_study_design": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "daae6b51-dea5-4f17-a71d-6e8474c47e08"
+        }
+    ],
+    "field_study_pi": [
+        {
+            "value": "Margaret Campbell, PhD, RN, FPCN"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "Wayne State University"
+        }
+    ],
+    "field_study_setting": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "0273e5e5-00f3-4ffe-89c2-4dd69d36e8fc"
+        }
+    ],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [],
+    "field_summary": [
+        {
+            "value": "<p>The Respiratory Distress Observation Scale<sup>\u00a9<\/sup>&nbsp;(RDOS) is a means for assessing respiratory distress when a patient is unable to give a dyspnea self-report. Cut-point determination was needed to guide clinical application.<\/p>\r\n\r\n<p>A Receiver Operating Characteristic (ROC) curve analysis was conducted in a prospective, observation study with inpatients ranked by nurse practitioners (NP) into levels of respiratory distress. A&nbsp;research assistant simultaneously measured RDOS blinded to NP ranking.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [
+        {
+            "value": "<p>Analysis code, grant application<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_therapeutic_area": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9f0b313e-b0ad-4af6-94c5-b2cd31413fe1"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "5a63a88c-7232-4892-bb34-63e7ddc7e662"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6a1018ec-a158-4a14-9d20-00e8998eb62d"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c423d9a8-677d-45f4-981e-143fb7f7106a"
+        }
+    ],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "fbfde82e-fe88-4af6-9020-923c25b3405b"
+        }
+    ]
+}

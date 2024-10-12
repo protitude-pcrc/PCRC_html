@@ -1,0 +1,110 @@
+{
+    "uuid": [
+        {
+            "value": "2f6315f0-187a-40f4-b2f0-72d2d5880052"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-12-17T19:00:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "NIH HEAL (Helping to End Addiction Long-term) Initiative FOAs Posted"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-12-17T18:52:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-12-17T19:00:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/nih-heal-helping-end-addiction-long-term-initiative-foas-posted",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>NIH leadership from across the agency has been working diligently to identify areas of greatest opportunity for research to address the national opioid crisis.&nbsp; Several NIH HEAL (Helping to End Addiction Long-term<sup>SM<\/sup>) Initiative FOAs published in the NIH Guide on Dec 10 support \"real world\" assessment of health care strategies and clinical practices delivered across health care systems.<\/p>\r\n\r\n<p>Two of the published FOAs are soliciting pragmatic clinical trials that will leverage the NIH Collaboratory program infrastructure \u2013 via the Collaboratory Coordinating Center at Duke University.<\/p>\r\n\r\n<p>A brief description of these FOAs and links to more information are posted on our <a href=\"\/node\/542\">Extramural Funding &amp; Training Opportunities<\/a> page.<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "FOAs to Address National Opioid Crisis"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

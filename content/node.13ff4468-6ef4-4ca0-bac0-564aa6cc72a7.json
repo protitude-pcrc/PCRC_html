@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "13ff4468-6ef4-4ca0-bac0-564aa6cc72a7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "NINR Director\u2019s Lecture: 9\/20\/17"
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-08-31T03:05:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2017-08-31T03:05:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/ninr-directors-lecture-92017",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p class=\"p1\"><span class=\"s1\">In September, the National Institute of Nursing Research (NINR) will hold the third Director\u2019s Lecture of 2017. Dr. Mary Beth Happ will present:\u00a0<\/span><strong><span class=\"s1\">\"Giving Voice to the Voiceless: Improving Communication with Critically Ill Patients\u201d\u00a0<\/span><\/strong><\/p>\r\n<p class=\"p1\"><span class=\"s1\">September 20, 2017 1:30 p.m. - 2:30 p.m.\r\n<\/span><span class=\"s1\">Lipsett Amphitheater (Building 10)\r\n<\/span><span class=\"s1\">NIH Campus - Bethesda, MD<\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\">\u00a0<\/span><span class=\"s1\">In her presentation, \"Giving Voice to the Voiceless: Improving Communication with Critically Ill Patients,\u201d Dr. Happ will describe her program of research which addresses family bedside presence during critical illness, end-of-life care and treatment decision making in the ICU, and patient and family outcomes in acute-critical illness.<\/span><\/p>\r\n<p class=\"p2\"><span class=\"s2\">Click to register and add this event to your calendar: <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__www.eventbrite.com_e_giving-2Dvoice-2Dto-2Dthe-2Dvoiceless-2Dimproving-2Dcommunication-2Dwith-2Dcritically-2Dill-2Dpatients-2Dtickets-2D34893563588-3Faff-3Dgrantees&amp;d=DwMF-g&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=IqDpeejHY-oUvwIEabpVqb5UN__5VYpMbIe8flk7c40&amp;s=zzPvy7Z1NHPD-ocl8ffOxe0ymAR_DyVaxaYbXjRMXnA&amp;e=\"><span class=\"s3\">https:\/\/www.eventbrite.com\/e\/giving-voice-to-the-voiceless-improving-communication-with-critically-ill-patients-tickets-34893563588?aff=grantees<\/span><\/a><\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\">\u00a0<\/span><span class=\"s1\">About the Speaker:<\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\">Dr. Mary Beth Happ is a Nursing Distinguished Professor of Critical Care Research and Associate Dean of Research and Innovation at The Ohio State University College of Nursing. She is an NIH-funded researcher in the areas of critical care and aging. For over 20 years, Dr. Happ\u2019s research has focused on improving care and communication with impaired patients, and their families and clinicians during hospitalization and at the end of life. She developed the SPEACS-2 online training program and toolkit for use with ICU patients. She is a fellow in the Gerontological Society of America and the American Academy of Nursing. Dr. Happ has authored more than 120 journal articles, editorials, and book chapters.<\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\">About the Event:<\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\">This event is free and open to the public. This event will not be webcast, but it will be available on YouTube a few weeks following the lecture.<\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\">\u00a0<\/span><span class=\"s1\">To request reasonable accommodations, including sign language interpretation, please contact Nathan Brown at 301-594-9262 \/ <a href=\"mailto:nathan.brown2@nih.gov\"><span class=\"s4\">nathan.brown2@nih.gov<\/span><\/a> or the Federal Relay at 1-800-877-8339 before September 13, 2017.<\/span><\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e5e1892a-27ca-4729-ad34-118f67f61a94"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/0e0a2ec7-2bc8-475c-b73d-ae0f070771b9"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/membership\/becoming-member"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

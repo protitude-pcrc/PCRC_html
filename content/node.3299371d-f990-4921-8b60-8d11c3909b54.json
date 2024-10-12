@@ -1,0 +1,99 @@
+{
+    "uuid": [
+        {
+            "value": "3299371d-f990-4921-8b60-8d11c3909b54"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-06-23T16:43:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Clinical Trials Intensives"
+        }
+    ],
+    "created": [
+        {
+            "value": "2016-02-04T20:52:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-06-23T16:43:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/research\/investigator-support-information\/clinical-trials-intensives",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h2><b>Palliative Care Intensives in Clinical Trials<\/b><\/h2>\r\n\r\n<p>This <strong>three-day intensive<\/strong> seeks to provide a foundation in practical aspects involving the conduct of randomized clinical trials in palliative care.&nbsp;It is designed for researchers and health professionals interested in developing competence in the planning, design, and execution of palliative care-focused randomized clinical trials. Instruction will include a combination of focused lectures, small group experiential learning sessions, and individual and group consultations with experts in the field.&nbsp;Previous attendees have described the Intensive as an important step towards greater productivity and funding for their research.<\/p>\r\n\r\n<p>The curriculum will enable participants to:&nbsp;<\/p>\r\n\r\n<ul>\r\n\t<li>Describe the principles underlying the conduct of unbiased clinical trials.<\/li>\r\n\t<li>Identify the unique challenges posed by behavioral randomized clinical trials (RCTs).<\/li>\r\n\t<li>Evaluate RCT designs in terms of their appropriateness to scientific and clinical goals.<\/li>\r\n\t<li>Select appropriate strategies for enrollment, randomization, and retention.<\/li>\r\n\t<li>Understand methods for monitoring, coordinating, and conducting RCTs.<\/li>\r\n\t<li>Develop basic strategies for appropriate statistical analyses of RCT data.<\/li>\r\n\t<li>Work with an interdisciplinary group to design an RCT on an assigned topic.<\/li>\r\n\t<li>Better understand the process used in NIH Study Sections to review clinical trials.&nbsp;<\/li>\r\n<\/ul>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p><b>Contacts:<\/b><\/p>\r\n\r\n<p>Jean:&nbsp;&nbsp;<a href=\"mailto:Jean.Kutner@cuanschutz.edu\" style=\"color:blue; text-decoration:underline\">Jean.Kutner@cuanschutz.edu<\/a><\/p>\r\n\r\n<p>Christine:&nbsp;&nbsp;<a href=\"mailto:CSRitchie@mgh.harvard.edu\" style=\"color:blue; text-decoration:underline\">CSRitchie@mgh.harvard.edu<\/a><\/p>\r\n\r\n<p>Kathryn:&nbsp;&nbsp;<a href=\"mailto:Kathryn.Pollak@duke.edu\" style=\"color:blue; text-decoration:underline\">Kathryn.Pollak@duke.edu<\/a><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": [
+        {
+            "value": "These three-day intensives seek to provide a foundation in practical aspects involving the conduct of randomized clinical trials in palliative care."
+        }
+    ]
+}

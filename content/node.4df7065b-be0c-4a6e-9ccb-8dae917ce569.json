@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "4df7065b-be0c-4a6e-9ccb-8dae917ce569"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Congratulations to Dr. Lee Ellington!"
+        }
+    ],
+    "created": [
+        {
+            "value": "2016-08-06T07:16:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2016-08-06T07:16:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/congratulations-dr-lee-ellington",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "Hearty congratulations to Dr. Lee Ellington, Associate Professor in the College of Nursing at the University of Utah for receiving a perfect score on her R01 grant application entitled \u201cCancer Caregiver Interactions with the Hospice Team: Implications for End of Life and Bereavement Outcomes.\u201d The National Institute of Nursing Research, with secondary funding from the National Cancer Institute awarded Dr. Ellington $2,252,243 over four years to conduct this important study. The PCRC is thrilled to collaborate with her and her team at the University of Utah.\r\n\r\nSummary of Study:\r\nHospice family caregivers (FCG) of cancer patients provide 24\/7 care and report multiple unmet needs despite the hospice team members\u2019 efforts to inform and support them. When caregiver needs go unaddressed, cancer patient care may be compromised and family caregiver quality of life and emotional well-being are negatively impacted. This project will evaluate hospice care teams\u2019 responsiveness to family caregiver daily needs and assess impact for family caregivers\u2019 long-term adjustment. The study findings will inform future clinical interventions by identifying specific family-centered hospice care team processes that are critical for FCG benefit.\r\n\r\nThe study design includes two for-profit and two not-for-profit hospices. The PCRC, on behalf of Dr. Ellington, will be identifying potential study sites in the near future. Keep your eyes peeled for the site interest and feasibility form. Congratulations again!\r\n\r\nFor more information, see the press release available here:\u00a0<a href=\"http:\/\/healthcare.utah.edu\/publicaffairs\/news\/2016\/08\/nursing_grant.php\" target=\"_blank\">http:\/\/healthcare.utah.edu\/publicaffairs\/news\/2016\/08\/nursing_grant.php<\/a>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a70e4596-8d5b-4232-b9cf-d997ff69eb1e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/a93068b8-06f2-44fa-89f8-4d1b9cb6c95c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/study\/surrogate-storytelling"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

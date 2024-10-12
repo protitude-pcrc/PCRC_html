@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "bd294e72-5ed9-4801-bf6e-ea07bcf5da85"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/c91e0473-04d8-4800-ad41-6a1944bb1cdb"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/nce16"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

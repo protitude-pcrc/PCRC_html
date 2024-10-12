@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "44b60b21-cf24-4bef-9209-4ce3adce7111"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-10-22T20:15:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "6cac56de-08eb-4148-8ad6-c0d54446f554"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "6cac56de-08eb-4148-8ad6-c0d54446f554"
+        }
+    ],
+    "title": [
+        {
+            "value": "The PCRC is pleased to announce our Intent to Publish our Pilot Awards Funding announcement!"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-10-22T19:24:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-10-22T20:15:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/pcrc-pleased-announce-our-intent-publish-our-pilot-awards-funding-announcement",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><a href=\"https:\/\/pcrc.box.com\/s\/9hlt09l6ig4uoegbl2cmmyxvans8cpoi\">The PCRC is pleased to announce our Intent to Publish our Pilot Awards Funding announcement!<\/a><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

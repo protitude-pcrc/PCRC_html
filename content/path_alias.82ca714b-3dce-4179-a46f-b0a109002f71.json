@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "82ca714b-3dce-4179-a46f-b0a109002f71"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3e894f50-b288-4cc4-92ca-21819ee7e5ef"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/funding"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

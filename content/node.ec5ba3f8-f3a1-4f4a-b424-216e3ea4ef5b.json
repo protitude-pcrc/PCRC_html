@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "ec5ba3f8-f3a1-4f4a-b424-216e3ea4ef5b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-08-22T23:17:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "Palliative Care Clinical Studies Digital Library"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-03-14T23:52:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-08-22T23:17:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/corescenters\/clinical-studiesmethodology-core\/palliative-care-clinical-studies-digital-library",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>This <strong>Palliative Care Clinical Studies Digital Library<\/strong> provides palliative care investigators with resources that are relative to clinical studies and methodology in palliative care research. It is continually being updated with new resources and literature as well as new topic areas. There is now an additional focus on adding content related specifically to work in the area of Alzheimer\u2019s Disease-Related Dementias (ADRD).<\/p>\r\n\r\n<p>Contents include published examples of clinical trial designs, behavioral intervention protocols, and exemplar funded grant proposals for palliative care intervention work, including in the area of ADRD, from early pilot stages to large trials including adaptive designs. There are also published articles on important methodological issues related to palliative care (e.g., choosing a control group) intervention clinical trials. Please periodically check back or make suggestions of new content you would like to see included in this library.<\/p>\r\n\r\n<p>[button size=\"large\" url=\"https:\/\/airtable.com\/shrmWzGDGFAPQyheg\" color=\"blue\" target=\"_blank\"]Request Clinical Studies Digital Library[\/button]<\/p>\r\n\r\n<p>Please direct any questions about the PCRC Palliative Care Clinical Studies Digital Library to the CSMC Co-Leads, <a href=\"mailto:tamara.somers@duke.edu;kathryn.pollak@duke.edu?subject=PCRC%20CSMC%20Library\" target=\"_blank\">Tammy Somers and Kathryn Pollak<\/a>.<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

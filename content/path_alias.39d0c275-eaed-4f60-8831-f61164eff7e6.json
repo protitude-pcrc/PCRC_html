@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "39d0c275-eaed-4f60-8831-f61164eff7e6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/taxonomy\/term\/352"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news-type\/announcements"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "uuid": [
+        {
+            "value": "0e0a2ec7-2bc8-475c-b73d-ae0f070771b9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-12-19T21:29:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Becoming a Member"
+        }
+    ],
+    "created": [
+        {
+            "value": "2014-08-12T21:16:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-12-19T21:29:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/membership\/becoming-member",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Thank you for your interest in becoming a member of the Palliative Care Research Cooperative (PCRC), a group committed to the conduct, analysis, and dissemination of high quality&nbsp;end-of-life and palliative care (EOLPC)&nbsp;research.<\/p>\r\n\r\n<p>This application asks for succinct information regarding your work and your institution. There is a section that allows you to upload your CV and Biosketch, so please have those accessible. The application should only require about 10 minutes to complete and will only be submitted once you click the \"Save\/Submit\" button on the last page.<\/p>\r\n\r\n<p>[button url=\"https:\/\/airtable.com\/shrdLsURHRJ2Pddqm\" size=\"\" color=\"orange\" target=\"_blank\"]Complete the Membership Application[\/button]<\/p>\r\n\r\n<h4>Questions &amp; Membership Terms of Reference (TOR)<\/h4>\r\n\r\n<p>If you have any questions about the membership application, contact <a href=\"mailto:pcrc@ucdenver.edu\">PCRC@ucdenver.edu<\/a>.<\/p>\r\n\r\n<p><em>Please note that PCRC Membership Applications are reviewed on a regular basis. As such, you can expect to hear back within a few months after you submit your application.<\/em><\/p>\r\n\r\n<p>[button url=\"https:\/\/pcrc.box.com\/s\/zfo0iffbbi8apg9a95vcaz22d0hlzm3t\" size=\"\" color=\"blue\" target=\"_blank\"]Membership Terms of Reference (TOR)[\/button]<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": [
+        {
+            "value": "PCRC is a group committed to the conduct, analysis, and dissemination of high quality palliative care and end-of-life (PCEOL) research."
+        }
+    ]
+}

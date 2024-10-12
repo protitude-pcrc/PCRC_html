@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "ed15d9cd-fd97-4fba-889b-e54118208431"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-01-08T20:16:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "Reissue of NINR FOA: End-of-Life and Palliative Needs of Adolescents and Young Adults (AYA) with Serious Illnesses"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-01-08T20:09:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-01-08T20:16:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/reissue-ninr-foa-end-life-and-palliative-needs-adolescents-and-young-adults-aya-serious",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><strong>PAR-19-136:&nbsp;End-of-Life and Palliative Needs of Adolescents and Young Adults (AYA) with Serious Illnesses (R01 Clinical Trial Optional)<\/strong><\/p>\r\n\r\n<p><em>Reissue of PA-18-137<\/em><\/p>\r\n\r\n<p>The purpose of this funding opportunity announcement (FOA) is to foster research on the unique perspectives, needs, wishes, and decision-making processes of adolescents and young adults (AYA; defined by the World Health Organization and the Centers for Disease Control and Prevention as youth between 12\u201324 years of age) with serious, advanced illnesses; and research focused on specific end-of-life\/palliative care (EOLPC) models that support the physical, psychological, spiritual, and social needs of AYA with serious illness, their families and caregivers.<\/p>\r\n\r\n<p>To access the application and additional information, please visit:<\/p>\r\n\r\n<p>R01:&nbsp;<a href=\"https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/PAR-19-136.html\" target=\"_blank\">https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/PAR-19-136.html<\/a><\/p>\r\n\r\n<p>See this and many more funding opportunities from the NINR and others on our <a href=\"\/node\/542\">extramural funding and training opportunities page<\/a>!<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

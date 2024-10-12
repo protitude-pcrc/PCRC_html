@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "10045561-b8f7-4aa5-8367-81c73780dbfb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/caa44f80-d71c-40b0-a8b9-0e61db26763c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/mydropwizard"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

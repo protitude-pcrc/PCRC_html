@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "44b11b4a-18e0-4aae-917a-2a56ac00aa78"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Source Sans Pro&subset=greek-ext#900"
+        }
+    ],
+    "name": [
+        {
+            "value": "Source Sans Pro 900 (greek-ext)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Source Sans Pro"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "900"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:19:\"Source Sans Pro:900\";s:6:\"subset\";s:9:\"greek-ext\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:00:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:00:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "3a52e156-ae57-4a95-a295-e559e21bea2e"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4bc2d2bc-b086-4cfa-aa03-92c030ca7c37"
+        }
+    ],
+    "field_tags": []
+}

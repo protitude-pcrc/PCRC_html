@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a2cfaf33-a1dc-4071-9baf-a9db7e0870a7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/a48c7ac3-d700-4988-8203-165b9710b479"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/pcrcauthorshipprotocolv11pdf"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

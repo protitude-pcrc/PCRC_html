@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "26be615a-8398-40de-afe5-140141dd6d5a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/279de189-0b86-4eb1-af11-7ca87151efd9"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/funding-opportunities-specific-covid-19"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

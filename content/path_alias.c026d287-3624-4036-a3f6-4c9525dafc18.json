@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "c026d287-3624-4036-a3f6-4c9525dafc18"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3f16f6f3-6eda-4420-9695-00f89ee65dd4"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-8-july-2014"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

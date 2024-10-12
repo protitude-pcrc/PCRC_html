@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "4ec7f9a0-0336-40af-bfac-324f9429cebd"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/6eed85f7-1d39-49db-bd5a-88754496815c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/ninr-webinar-new-oepcr-foas"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

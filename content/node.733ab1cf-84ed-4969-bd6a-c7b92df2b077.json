@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "733ab1cf-84ed-4969-bd6a-c7b92df2b077"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-08-05T20:41:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "Registration Open!  "
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-08-05T20:22:10+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-08-05T20:41:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/registration-open",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p style=\"text-align:start\"><span style=\"font-size:medium\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"vertical-align:baseline\"><b><span style=\"border:1pt none windowtext; font-size:14pt; padding:0in\"><span style=\"font-family:Arial, sans-serif\"><span style=\"color:#36495f\">About the Webinar:&nbsp;<\/span><\/span><\/span><\/b><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:start\"><span style=\"font-size:medium\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"font-size:14pt\"><span style=\"font-family:Arial, sans-serif\"><span style=\"color:#29384c\">Tuesday, September 1, 2020,&nbsp;<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><span style=\"font-size:14pt; text-align:start\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"font-family:Arial, sans-serif\"><span style=\"color:#29384c\">12:30-2:00 p.m. ET. &nbsp; &nbsp;<\/span><\/span><\/span><\/span><\/span><\/span><\/span><strong>Register <a href=\"https:\/\/prevention.nih.gov\/funding\/funding-opportunities\/multimorbidity-funding-opportunity-announcements-technical-assistance-webinar?utm_source=ODPEblast&amp;utm_medium=email&amp;utm_campaign=multimorbidity\">here:<\/a><\/strong><\/p>\r\n\r\n<p style=\"text-align:start\"><span style=\"font-size:medium\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"vertical-align:baseline\"><span style=\"border:1pt none windowtext; font-size:10.5pt; padding:0in\"><span style=\"font-family:Arial, sans-serif\"><span style=\"color:#36495f\">This pre-application technical assistance webinar will provide an overview of the two NIH multimorbidity funding opportunity announcements (FOAs) listed below. These FOAs are soliciting innovative research to better understand, measure, and intervene on multimorbidity, or multiple chronic conditions.<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:start\"><span style=\"font-size:medium\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"vertical-align:baseline\"><span style=\"border:1pt none windowtext; font-size:10pt; padding:0in\"><span style=\"font-family:Symbol\">\u00b7<\/span><\/span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"border:1pt none windowtext; font-size:10.5pt; padding:0in\"><span style=\"font-family:Arial, sans-serif\"><span style=\"color:#36495f\"><a href=\"https:\/\/urldefense.com\/v3\/__http:\/r20.rs6.net\/tn.jsp?f=001aSSCNl-5StdtQebCpBXT-6_OnfFVc8bVnuPqAO5-nCw-INaBnxvSXRU2MYGALH4aitFvaVY54Vjeb2VK_MdEB06LyEzRMd9_ictkD8slStduR-otjFg5fX4OG7zY9L51naNuvs6DxEz23XJjk_-5E13fSLop8r1OR4ZpSmOUqAjrUB9-feBloovx0woLZbOQVZKlysv6QSIv6WtRvyLargvw_EwSZ3Q4EhXcPh00lk767bU2BxDEn8VySDwPejLNbGEpIYeheVxhSE-YK_000XDrcv06uuRD5ZxH2Oe8V3PNXklYlxTxYQ==&amp;c=eDYUpX787rKtS3m875LUjU5Dh1tSHIoYh8NgKScqNg9hMF-0GqnxlQ==&amp;ch=FQpretupV-2bXto7yGR04MC64ByQtZP68jM7riOGBK9FJLvNwEociw==__;!!OToaGQ!6ZwCiezLCyjh9emfcwVUX9IDeL9YKvqnjK57X-OY8oX4MxHOhS7Wph7OUiDiCwlZcaCu6w$\" target=\"_blank\"><span style=\"color:#1a0dab\">PAR-20-179<\/span><\/a>: Advancing Research To Develop Improved Measures and Methods for Understanding Multimorbidity (R01 Clinical Trial Optional)<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:start\"><span style=\"font-size:medium\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"vertical-align:baseline\"><span style=\"border:1pt none windowtext; font-size:10pt; padding:0in\"><span style=\"font-family:Symbol\">\u00b7<\/span><\/span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"border:1pt none windowtext; font-size:10.5pt; padding:0in\"><span style=\"font-family:Arial, sans-serif\"><span style=\"color:#36495f\"><a href=\"https:\/\/urldefense.com\/v3\/__http:\/r20.rs6.net\/tn.jsp?f=001aSSCNl-5StdtQebCpBXT-6_OnfFVc8bVnuPqAO5-nCw-INaBnxvSXRU2MYGALH4aVyO_agjurfOnngKDgiPWVqmF8lTUobB9RlEQYAvXlvzno8gIV2KQGlVYGlsDDC4cP9MuyZsJQcNwn3GDcXWoX-rjoRdEzTEVMvtKgdtaNbvqrDcKpq1_GoA34H2cMs9_KQbO_CMxIwFn1x0POYU4WSBa854VAz-klFH65FNwqstYjQ8dbGI0bUtRjDDNXAEQU5fLbhljSRZ_o6-skWetW3IMYvya_-_TeyJWnyOqVMvvxGRrI-fSgQ==&amp;c=eDYUpX787rKtS3m875LUjU5Dh1tSHIoYh8NgKScqNg9hMF-0GqnxlQ==&amp;ch=FQpretupV-2bXto7yGR04MC64ByQtZP68jM7riOGBK9FJLvNwEociw==__;!!OToaGQ!6ZwCiezLCyjh9emfcwVUX9IDeL9YKvqnjK57X-OY8oX4MxHOhS7Wph7OUiDiCwky2U6nHw$\" target=\"_blank\"><span style=\"color:#1a0dab\">PAR-20-180<\/span><\/a>: Identifying Innovative Mechanisms or Interventions That Target Multimorbidity and Its Consequences (R01 Clinical Trial Optional)<\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p style=\"text-align:start\"><span style=\"font-size:medium\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-weight:normal\"><span style=\"white-space:normal\"><span style=\"text-decoration:none\"><span style=\"vertical-align:baseline\">&nbsp;<span style=\"border:1pt none windowtext; font-size:10.5pt; padding:0in\"><span style=\"font-family:Arial, sans-serif\"><span style=\"color:#36495f\">We highly encourage prospective applicants to submit general questions in advance by emailing&nbsp;<a href=\"mailto:prevention@nih.gov\" target=\"_blank\"><span style=\"color:#1a0dab\">prevention@nih.gov<\/span><\/a>. We will prioritize these questions during the Q&amp;A portion of the webinar.<\/span><\/span><\/span>&nbsp;<u><span style=\"border:1pt none windowtext; font-size:10.5pt; padding:0in\"><span style=\"font-family:Arial, sans-serif\"><span style=\"color:#36495f\">Participation in the webinar is&nbsp;<b>not<\/b>&nbsp;a prerequisite to applying<\/span><\/span><\/span><\/u><span style=\"border:1pt none windowtext; font-size:10.5pt; padding:0in\"><span style=\"font-family:Arial, sans-serif\"><span style=\"color:#36495f\">. A recording of this webinar and the slides will be available approximately 1 week after the session. Prospective applicants who are unable to participate in the webinar are encouraged to view the video, presentation slides, and frequently asked questions. All of these materials will be posted&nbsp;<a href=\"https:\/\/urldefense.com\/v3\/__http:\/r20.rs6.net\/tn.jsp?f=001aSSCNl-5StdtQebCpBXT-6_OnfFVc8bVnuPqAO5-nCw-INaBnxvSXRU2MYGALH4aqewLVeXSCZ1LTgVdGFCNkCKRk7TtVa4i4dkb3k2MuzXhgabqP6X0MqnqQCuLTqM22vVjlwMTNCUob5ETu5us6xdk3WnYCUC6-i28X8nmzMVJnQW07nPngfswSxL9nm6u6KAfXDeDbTCm3YXngYPjhg6UdCHIQxHdfjmQaSmh6ix7lrRtVADm7Au16Ttx_b5-_9RLq9aM73CJGwkBnx9BBXkG9jivvlGDmgrF8emYnzQVhUf2kFPO6jDxPZj3o-VhJTxD6w_d-vyl2g-06wZI5eCwuol55G1hzMTdFmwTCLB0ZqFXaiumiienyPLkDf5HFrlgd2YxuoUxO_4-2ZCt1A==&amp;c=eDYUpX787rKtS3m875LUjU5Dh1tSHIoYh8NgKScqNg9hMF-0GqnxlQ==&amp;ch=FQpretupV-2bXto7yGR04MC64ByQtZP68jM7riOGBK9FJLvNwEociw==__;!!OToaGQ!6ZwCiezLCyjh9emfcwVUX9IDeL9YKvqnjK57X-OY8oX4MxHOhS7Wph7OUiDiCwkSwUTttw$\" target=\"_blank\"><span style=\"color:#1a0dab\">on the Office of Disease Prevention website<\/span><\/a>&nbsp;after the event.<\/span><\/span><\/span>&nbsp;<\/span><span style=\"border:1pt none windowtext; font-size:10.5pt; padding:0in\"><span style=\"font-family:Arial, sans-serif\"><span style=\"color:#36495f\">This event is open to the public. Please feel free to share this information widely. If you have questions about the webinar, email&nbsp;<a href=\"mailto:prevention@nih.gov\" target=\"_blank\"><span style=\"color:#1a0dab\">prevention@nih.gov<\/span><\/a><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/span><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Multimorbidity Funding Opportunity Announcements  Technical Assistance Webinar "
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "25e11d37-d325-4e55-8a8e-d27694507d09"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/33e027f8-1817-4520-9503-4b11f7293256"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/kottikcer"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

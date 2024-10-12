@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "69a3c27e-8f36-4ae5-9900-27818d06f648"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "EAPC Research Network Registration Now Open & Abstract Submission Information"
+        }
+    ],
+    "created": [
+        {
+            "value": "2016-09-26T19:03:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2016-09-26T19:03:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/eapc-research-network-registration-now-open-abstract-submission-information",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p class=\"p1\"><span class=\"s1\">Covenant Health Palliative Institute is pleased to announce that the 6th International Seminar of the European Palliative Care Research Centre (PRC) and European Palliative Care Research Network (EAPC RN) will be held for the first time in Banff, Alberta, Canada on December 1-3, 2016.<\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\">Investigators are\u00a0invited to register and submit an abstract for oral, poster or protocol development presentation before the deadline of October 14, 2016. Please visit the website ( <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=http-3A__pallres.org_-2520&amp;d=CwMFAw&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=r7QVGx6t1UN-ytb-bmWsa5gQzlV2o7XMeSSgDT5Okag&amp;s=W4dhT-xFo228rlb6rBn3u1EDR7zdpJhGTVfjC4fFQzc&amp;e=\"><span class=\"s2\">http:\/\/pallres.org\/<\/span><\/a> ) to review the abstract submission criteria or to submit your abstract online. For those submitting protocol development abstracts, expert faculty will work with attendees in a pre-conference workshop to develop and strengthen proposals.<\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\">The deadline for registration of the seminar is November 1, 2016. <\/span><\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "0ee9c045-9a6e-4c93-8911-870c825d15aa"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/0b1abf45-74ed-4031-8eed-46f2fd47734d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/radx-frequently-asked-questions"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

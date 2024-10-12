@@ -1,0 +1,99 @@
+{
+    "uuid": [
+        {
+            "value": "4849821b-c1d4-4d0a-b94b-417831e6a32f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-10-31T15:48:27+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Measurement References"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-09-04T03:40:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-10-31T15:48:27+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/corescenters\/measurement-core\/measurement-references",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The following references and resources may be useful in the design and conduct of research studies that include patient-reported outcome (PRO) measures or caregiver assessments:<\/p><p>If you would like to request access to the PCRC's&nbsp;Measurement Tool Library, please click below.&nbsp;<\/p><p><a href=\"https:\/\/airtable.com\/app4IrnavovUaEum3\/shrDZpNRNjNxGjr1e\/\" target=\"_blank\">Measurement Tool Library Access Request<\/a><\/p><table><caption><a href=\"https:\/\/airtable.com\/app4IrnavovUaEum3\/shrDZpNRNjNxGjr1e\/\"><strong>Information about PROs to include in Clinical Trials<\/strong><\/a><\/caption><tbody><tr><td><a href=\"https:\/\/pubmed.ncbi.nlm.nih.gov\/29411037\/\" target=\"_blank\">Calvert M, Kyte D, Mercieca-Bebber R, et al. Guidelines for Inclusion of Patient-Reported Outcomes in Clinical Trial Protocols: The SPIRIT-PRO Extension. JAMA. 2018;319(5):483-494. doi:10.1001\/jama.2017.21903<\/a><\/td><\/tr><\/tbody><\/table><table><caption><a href=\"https:\/\/airtable.com\/app4IrnavovUaEum3\/shrDZpNRNjNxGjr1e\/\"><strong>Selecting PROs for Research Studies<\/strong><\/a><\/caption><tbody><tr><td><a href=\"https:\/\/pubmed.ncbi.nlm.nih.gov\/23288613\/\" target=\"_blank\" rel=\"noopener\">Reeve BB, Wyrwich KW, Wu AW, et al. ISOQOL recommends minimum standards for patient-reported outcome measures used in patient-centered outcomes and comparative effectiveness research.&nbsp;<em>Qual Life Res<\/em>. 2013;22(8):1889-1905. doi:10.1007\/s11136-012-0344-y<\/a><\/td><\/tr><\/tbody><\/table><table><caption><a href=\"https:\/\/airtable.com\/app4IrnavovUaEum3\/shrDZpNRNjNxGjr1e\/\"><strong>NIH Assessment Tools<\/strong><\/a><\/caption><tbody><tr><td><a href=\"https:\/\/www.healthmeasures.net\/explore-measurement-systems\/nih-toolbox\" target=\"_blank\" rel=\"noopener\">NIH Toolbox for Neurologic and Behavioral Research<\/a><\/td><\/tr><tr><td><a href=\"https:\/\/www.healthmeasures.net\/explore-measurement-systems\/promis\" target=\"_blank\" rel=\"noopener\">NIH Patient-Reported Outcomes Measurement Information System (PROMIS)<\/a><\/td><\/tr><tr><td><a href=\"https:\/\/healthcaredelivery.cancer.gov\/pro-ctcae\/\" target=\"_blank\" rel=\"noopener\">NCI Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events (PRO-CTCAE)<\/a><\/td><\/tr><\/tbody><\/table><table style=\"width:817px;\"><caption><a href=\"https:\/\/airtable.com\/app4IrnavovUaEum3\/shrDZpNRNjNxGjr1e\/\"><strong>Topic-Specific Instrument Reviews<\/strong><\/a><\/caption><tbody><tr><td style=\"width:805px;\"><a href=\"https:\/\/pcrc.box.com\/s\/y8koa9cqvoiz7s99kwhyy9l7wwjw2o4e\" target=\"_blank\">Systematic Reviews of Instruments Relevant to Palliative Care, compiled by the PCRC&nbsp;<\/a><a href=\"https:\/\/airtable.com\/app4IrnavovUaEum3\/shrDZpNRNjNxGjr1e\/\">&nbsp;&nbsp;<\/a><\/td><\/tr><tr><td style=\"width:805px;\"><a href=\"https:\/\/effectivehealthcare.ahrq.gov\/products\/palliative-care-tools\/\" target=\"_blank\">AHRQ Evidence Review: Assessment Tools for Palliative Care<\/a><\/td><\/tr><\/tbody><\/table><table style=\"width:817px;\"><caption><a href=\"https:\/\/airtable.com\/app4IrnavovUaEum3\/shrDZpNRNjNxGjr1e\/\"><strong>Systems for Web and Telephone-based PRO Survey Administration<\/strong><\/a><\/caption><tbody><tr><td style=\"width:805px;\"><a href=\"https:\/\/pro.unc.edu\" target=\"_blank\">Patient-Reported Outcomes Core (PRO-Core). University of North Carolina.<\/a><a href=\"https:\/\/airtable.com\/app4IrnavovUaEum3\/shrDZpNRNjNxGjr1e\/\"> &nbsp;<\/a><\/td><\/tr><\/tbody><\/table><table><caption><a href=\"https:\/\/airtable.com\/app4IrnavovUaEum3\/shrDZpNRNjNxGjr1e\/\"><strong>PRO Data Analysis<\/strong><\/a><\/caption><tbody><tr><td><a href=\"https:\/\/airtable.com\/app4IrnavovUaEum3\/shrDZpNRNjNxGjr1e\/\">Fairclough DL. Design and Analysis of Quality of Life Studies in Clinical Trials, 2nd edition. New York: Chapman &amp; Hall\/CRC Interdisciplinary Statistics Series, 2010.<\/a><\/td><\/tr><tr><td><a href=\"https:\/\/airtable.com\/app4IrnavovUaEum3\/shrDZpNRNjNxGjr1e\/\">Cappelleri JC, Zou KH, Bushmakin AG, et al. Patient-reported outcomes: measurement, implementation and interpretation. New York: Chapman &amp; Hall\/CRC Biostatistics Series, 2014.<\/a><\/td><\/tr><\/tbody><\/table><table><caption><a href=\"https:\/\/airtable.com\/app4IrnavovUaEum3\/shrDZpNRNjNxGjr1e\/\"><strong>Reporting PRO Results<\/strong><\/a><\/caption><tbody><tr><td><a href=\"https:\/\/pubmed.ncbi.nlm.nih.gov\/23443445\/\" target=\"_blank\" rel=\"noopener\">Calvert M, Blazeby J, Altman DG, et al. Reporting of patient-reported outcomes in randomized trials: the CONSORT PRO extension.&nbsp;<em>JAMA<\/em>. 2013;309(8):814-822. doi:10.1001\/jama.2013.879<\/a><\/td><\/tr><\/tbody><\/table><table><caption><a href=\"https:\/\/airtable.com\/app4IrnavovUaEum3\/shrDZpNRNjNxGjr1e\/\"><strong>PRO Methodology \u2013 Scale Development, Translation and Cultural Adaptation<\/strong><\/a><\/caption><tbody><tr><td><a href=\"https:\/\/pubmed.ncbi.nlm.nih.gov\/22152165\/\" target=\"_blank\" rel=\"noopener\">Patrick DL, Burke LB, Gwaltney CJ, et al. Content validity--establishing and reporting the evidence in newly developed patient-reported outcomes (PRO) instruments for medical product evaluation: ISPOR PRO good research practices task force report: part 1--eliciting concepts for a new PRO instrument.&nbsp;<em>Value Health<\/em>. 2011;14(8):967-977. doi:10.1016\/j.jval.2011.06.014<\/a><\/td><\/tr><tr><td><a href=\"https:\/\/pubmed.ncbi.nlm.nih.gov\/22152166\/\" target=\"_blank\" rel=\"noopener\">Patrick DL, Burke LB, Gwaltney CJ, et al. Content validity--establishing and reporting the evidence in newly developed patient-reported outcomes (PRO) instruments for medical product evaluation: ISPOR PRO Good Research Practices Task Force report: part 2--assessing respondent understanding.&nbsp;<em>Value Health<\/em>. 2011;14(8):978-988. doi:10.1016\/j.jval.2011.06.013<\/a><\/td><\/tr><tr><td><a href=\"https:\/\/pubmed.ncbi.nlm.nih.gov\/15851774\/\" target=\"_blank\" rel=\"noopener\">Eremenco SL, Cella D, Arnold BJ. A comprehensive method for the translation and cross-cultural validation of health status questionnaires.&nbsp;<em>Eval Health Prof<\/em>. 2005;28(2):212-232. doi:10.1177\/0163278705275342<\/a><\/td><\/tr><\/tbody><\/table><p><a href=\"https:\/\/airtable.com\/app4IrnavovUaEum3\/shrDZpNRNjNxGjr1e\/\">&nbsp;<\/a><\/p>",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": [
+        {
+            "value": "The following references and resources may be useful in the design and conduct of research studies that include patient-reported outcome (PRO) measures or caregiver assessments"
+        }
+    ]
+}

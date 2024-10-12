@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "2a331fe0-fbd3-41d2-a65e-9cfcf0ab8e1a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-10-11T17:46:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Site Selection"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-09-25T05:52:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-10-11T17:46:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/research\/investigator-support-information\/collaborating-pcrc\/site-selection",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><a href=\"\/sites\/default\/files\/migrated_files\/2A-site-selection.jpg\"><img alt=\"2A-site-selection\" height=\"146\" src=\"\/sites\/default\/files\/migrated_files\/2A-site-selection.jpg\" width=\"721\" \/><\/a><\/p>\r\n\r\n<ul>\r\n\t<li>FOA may require a Letter Of Support (LOS) from planned sites \u2013 check your FOA<\/li>\r\n\t<li>\u202fPCRC will facilitate identification of pertinent study sites<\/li>\r\n\t<li>After grant funding, if PI\u2019s selected sites are not available, PCRC will assist in identifying additional sites<\/li>\r\n\t<li>Number of sites required for enrollment needs determined by the Statistical Analysis Plan and budget plan<\/li>\r\n\t<li>PCRC will review Membership Database for potential subject population, study site PI and Site expertise<\/li>\r\n\t<li>PCRC will connect PI with potential sites and study site PIs<\/li>\r\n\t<li>PI will discuss study with study site PIs and obtain site LOS<\/li>\r\n<\/ul>\r\n\r\n<h4><a href=\"\/research\/investigator-support-information\/collaborating-pcrc\/budget-development\"><strong>\u232a<\/strong><em> NEXT STEPS<\/em>- Budget Development<\/a><\/h4>\r\n\r\n<p>&nbsp; &nbsp; &nbsp; &nbsp;<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

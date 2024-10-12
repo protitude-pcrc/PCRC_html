@@ -1,0 +1,122 @@
+{
+    "uuid": [
+        {
+            "value": "fc0327cb-e4d9-4cd0-8e6a-449a47cb813e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "directory",
+            "target_type": "node_type",
+            "target_uuid": "79e51216-81f7-458b-8bed-a5a563ac74ab"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-02-18T18:45:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "title": [
+        {
+            "value": "Romana Hasnain-Wynia"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-11-02T14:59:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-02-18T18:45:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "body": [],
+    "feeds_item": [],
+    "field_area_of_focus": [],
+    "field_directory_image": [
+        {
+            "alt": "Romana Hasnain-Wynia, Denver Health",
+            "title": "",
+            "width": 215,
+            "height": 215,
+            "target_type": "file",
+            "target_uuid": "99b2d5a3-d484-4023-b123-7e72df95e558"
+        }
+    ],
+    "field_email": [
+        {
+            "value": "romana.hasnain@dhha.org"
+        }
+    ],
+    "field_list_assignment": [],
+    "field_membership_title": [],
+    "field_name": [
+        {
+            "title": "Dr.",
+            "given": "Romana",
+            "middle": "",
+            "family": "Hasnain-Wynia",
+            "generational": "",
+            "credentials": "PhD, MS"
+        }
+    ],
+    "field_organization": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "512a805f-2c8e-42ab-ba02-391052e15410"
+        }
+    ],
+    "field_publication_title": [],
+    "field_scientific_title": []
+}

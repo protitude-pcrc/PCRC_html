@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "3c9f83b8-f4b4-4cba-8554-b226faebe946"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/f1e9230b-23ab-43ba-a929-36a7ceedf757"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/apostier"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "uuid": [
+        {
+            "value": "b66bda31-4043-4b5f-a6c1-beadbad0f52e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-05-17T16:46:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "title": [
+        {
+            "value": "NIA IMPACT Collaboratory: NOI to publish FOA for IMPACT CDAs"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-05-17T16:46:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-05-17T16:46:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/nia-impact-collaboratory-noi-publish-foa-impact-cdas",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The NIA IMPACT Collaboratory plans to publish a RFA for CDA Program. The IMPACT Collaboratory plans to fund up to 2 CDAs in this cycle. For more information, click <a href=\"https:\/\/impactcollaboratory.org\/grants-and-training\/career-development-awards\/cda\/\">HERE<\/a>.<\/p>\r\n\r\n<p>RFA is expected to be published on <strong>June 13, 2022<\/strong> on <a href=\"https:\/\/impactcollaboratory.us18.list-manage.com\/track\/click?u=b39fd7e3d891a68be47c6d4bf&amp;id=83116eda3d&amp;e=171e1e02ab\">impactcollaboratory.org<\/a><\/p>\r\n\r\n<p>Informational Webinar: <strong>June 29, 2022 @ 2pm ET<\/strong>. Register <a href=\"https:\/\/impactcollaboratory.us18.list-manage.com\/track\/click?u=b39fd7e3d891a68be47c6d4bf&amp;id=93d12b914f&amp;e=171e1e02ab\">HERE<\/a><\/p>\r\n\r\n<p>Applications Due: <strong>September 1, 2022 @ 5pm ET<\/strong><\/p>\r\n\r\n<p>Questions related to this funding opportunity? Contact <a href=\"mailto:IMPACTcollaboratory@hsl.harvard.edu\">IMPACTcollaboratory@hsl.harvard.edu.<\/a><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "NIA IMPACT Collaboratory: NOI to publish FOA for IMPACT CDAs"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

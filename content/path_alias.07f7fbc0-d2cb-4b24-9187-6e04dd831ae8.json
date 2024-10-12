@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "07f7fbc0-d2cb-4b24-9187-6e04dd831ae8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3d33f6c9-1628-4abc-9121-a546eb2084d0"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/current-pcrc-members-and-trial-sites"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

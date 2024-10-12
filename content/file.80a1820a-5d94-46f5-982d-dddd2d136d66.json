@@ -1,0 +1,69 @@
+{
+    "uuid": [
+        {
+            "value": "80a1820a-5d94-46f5-982d-dddd2d136d66"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "document",
+            "target_type": "file_type",
+            "target_uuid": "aba37c63-b654-405f-a34e-d829c2ad7580"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "filename": [
+        {
+            "value": "Caregiving-in-the-US-2015_AsianPacificIslander_CGProfile.pdf"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/Caregiving-in-the-US-2015_AsianPacificIslander_CGProfile.pdf"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/pdf"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 773326
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-07-06T21:24:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-07-06T21:24:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/caregiving-us-2015asianpacificislandercgprofilepdf",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ]
+}

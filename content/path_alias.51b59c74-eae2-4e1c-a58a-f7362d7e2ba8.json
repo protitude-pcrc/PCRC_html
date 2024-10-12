@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "51b59c74-eae2-4e1c-a58a-f7362d7e2ba8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/01324cd5-bf70-441d-b875-25a7becb0f8e"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/regde"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

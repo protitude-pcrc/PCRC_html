@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "f088fa3f-a2e9-4455-b3e7-c7b903c9feaa"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-10-15T19:20:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "Palliative Care Research Fellowship Programs"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-10-15T18:54:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-10-15T19:20:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/palliative-care-research-fellowship-programs",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Specialized research training programs throughout the US focus on preparing potential candidates in careers in Palliative Care Research. Three nationally known programs are currently available and accepting applications for fellowship trainees.<\/p>\r\n\r\n<p>Please see the attached flyer for more information.<\/p>\r\n\r\n<center>[button url=\"https:\/\/palliativecareresearch.org\/sites\/default\/files\/combined_fellowship_flyer_v_10_10_2018.pdf\" color=\"green\" target=\"_blank\" size=\"large\"]Palliative Care Research Fellowship Opportunities Flyer[\/button]<\/center>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Multiple programs accepting applications for post-doctoral research fellowships"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

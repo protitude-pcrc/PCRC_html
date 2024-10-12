@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "087def45-2f3a-4b0f-a4bf-0834a66c5db8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/9fbf0ec0-ed73-4929-992c-ef2baec5cd6a"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/corescenters\/caregiver-core"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

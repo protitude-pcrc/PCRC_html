@@ -1,0 +1,69 @@
+{
+    "uuid": [
+        {
+            "value": "1e68c9cd-1b8a-43e2-ac6d-67e555562bd4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "document",
+            "target_type": "file_type",
+            "target_uuid": "aba37c63-b654-405f-a34e-d829c2ad7580"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "filename": [
+        {
+            "value": "PCRC RESOURCES - SUMMARY 4-page 062018.pdf"
+        }
+    ],
+    "uri": [
+        {
+            "value": "private:\/\/webform\/request_data_form\/11\/PCRC RESOURCES - SUMMARY 4-page 062018.pdf"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/pdf"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 1253985
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-08-09T19:46:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-08-09T19:47:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/pcrc-resources-summary-4-page-062018pdf-0",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ]
+}

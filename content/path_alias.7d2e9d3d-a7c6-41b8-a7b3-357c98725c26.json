@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7d2e9d3d-a7c6-41b8-a7b3-357c98725c26"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/taxonomy\/term\/500"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news-type\/newsletters-cloned"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

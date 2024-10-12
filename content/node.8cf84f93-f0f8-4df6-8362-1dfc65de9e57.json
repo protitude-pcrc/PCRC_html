@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "8cf84f93-f0f8-4df6-8362-1dfc65de9e57"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "AHRQ Announces Funding Opportunity for Developing Measures of Shared Decision Making"
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-02-05T04:28:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2017-02-05T04:28:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/ahrq-announces-funding-opportunity-developing-measures-shared-decision-making",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p class=\"p1\">A new <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=http-3A__links.govdelivery.com-3A80_track-3Ftype-3Dclick-26enid-3DZWFzPTEmbWFpbGluZ2lkPTIwMTcwMTMwLjY5MzQyOTAxJm1lc3NhZ2VpZD1NREItUFJELUJVTC0yMDE3MDEzMC42OTM0MjkwMSZkYXRhYmFzZWlkPTEwMDEmc2VyaWFsPTE3Mzg0NTAzJmVtYWlsaWQ9am1pbGxlckBtYWlsLm5paC5nb3YmdXNlcmlkPWptaWxsZXJAbWFpbC5uaWguZ292JmZsPSZleHRyYT1NdWx0aXZhcmlhdGVJZD0mJiY-3D-26-26-26105-26-26-26http-3A__grants.nih.gov_grants_guide_pa-2Dfiles_PA-2D16-2D424.html-3Futm-5Fsource-3DAHRQ-26utm-5Fmedium-3DEN-2D1-26utm-5Fterm-3D-26utm-5Fcontent-3D1-26utm-5Fcampaign-3DAHRQ-5FEN11-5F29-5F2016&amp;d=CwMFAg&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=djrRZCbsCqy3sA8Mr2NsDENyu04_sTmFIBtVc9qKD9U&amp;s=Hf6ezV5cn2Y-JGi1oGiyAC2eDXGqH_oIMitleRvVTYY&amp;e=\" target=\"_blank\"><span class=\"s2\">funding opportunity announcement<\/span><\/a> from AHRQ solicits applications for research projects to develop, test and evaluate measures of shared decision making for research conducted in clinical settings. Shared decision making is a collaborative process in which patients and members of their clinical team make health care decisions that are informed by scientific evidence as well as patients' values and preferences. Each project is expected to produce valid and reliable measures of shared decision making, along with instructions for implementing the measures and documentation on the development, testing and evaluation of the measures. The maximum cost for each project is $500,000 per year and $1.5 million for up to three years.<\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

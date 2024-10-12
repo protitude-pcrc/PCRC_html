@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "7e9350d6-61dd-4db1-9f9c-568eb7b7c196"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/395a2d4e-e528-4b2c-9e27-676fde5b8250"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/nia-impact-collaboratory-webinars"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

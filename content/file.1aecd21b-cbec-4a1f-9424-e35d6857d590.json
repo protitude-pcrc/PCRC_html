@@ -1,0 +1,69 @@
+{
+    "uuid": [
+        {
+            "value": "1aecd21b-cbec-4a1f-9424-e35d6857d590"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "document",
+            "target_type": "file_type",
+            "target_uuid": "aba37c63-b654-405f-a34e-d829c2ad7580"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "filename": [
+        {
+            "value": "DISC Data Repository - Study Summary Portz 2021-6-23.docx"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/csr_summaries\/DISC Data Repository - Study Summary Portz 2021-6-23.docx"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 7083595
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-07-13T06:01:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-07-13T06:07:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/disc-data-repository-study-summary-portz-2021-6-23docx",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ]
+}

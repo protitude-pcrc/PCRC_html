@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "ea58139e-fc2b-491e-9c8d-52ddc9794c0f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:27+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "New PCRC Publication!"
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-05-16T05:47:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2017-05-16T05:47:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/new-pcrc-publication",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p class=\"p1\"><span class=\"s1\">We are happy to share that the PCRC Executive Committee recently published a paper in collaboration with Karen Kehl and Jeri Miller from the National Institute of Nursing Research (NINR). The Journal of Palliative Medicine (JPM) publication, titled, \u201cBetter together: The making and maturation of the Palliative Care Research Cooperative Group,\u201d explores the important steps that the PCRC has taken in order to advance the quality and impact of palliative care research.<\/span><\/p>\r\n<p class=\"p2\"><span class=\"s2\">The publication is now available on JPM\u2019s website:\u00a0 <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=http-3A__online.liebertpub.com_doi_10.1089_jpm.2017.0138&amp;d=DwMFAg&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=7OpL0NMkdMWqoj2HTmCKrLUSnP35kl51H1uAl9al1Es&amp;s=ohQgkWz8Zp6HU4gIhIIcl973gijsvGhtbQQ6A1zOCj8&amp;e=\"><span class=\"s3\">http:\/\/online.liebertpub.com\/doi\/10.1089\/jpm.2017.0138<\/span><\/a><\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\">\u00a0<\/span><\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

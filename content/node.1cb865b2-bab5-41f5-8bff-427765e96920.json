@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "1cb865b2-bab5-41f5-8bff-427765e96920"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c4c1b62a-869d-454a-b78c-bde33aba2db8"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c4c1b62a-869d-454a-b78c-bde33aba2db8"
+        }
+    ],
+    "title": [
+        {
+            "value": "PCRC Leaders Named Visionaries in Hospice and Palliative Medicine"
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-12-02T02:14:14+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2017-12-02T02:14:14+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/pcrc-leaders-named-visionaries-hospice-and-palliative-medicine",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "PCRC Leaders Jean Kutner and Christine Ritchie are two of the thirty recently named <strong>Visionaries in Hospice and Palliative Medicine.<\/strong>\u00a0 The American Academy of Hospice and Palliative Medicine established this honor to recognize individuals who have made exemplary contributions to the field of hospice and palliative medicine.\r\n\r\nSeveral other PCRC members were also honored.\u00a0 Click <a href=\"http:\/\/aahpm.org\/awards\/visionaries-in-hpm\"><strong>here<\/strong><\/a> to view the full list of visionaries.",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6dd63752-6c14-4b63-b4b3-629fa676ba6e"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a1db425d-2f66-457c-be62-cdff25c1bd0f"
+        }
+    ]
+}

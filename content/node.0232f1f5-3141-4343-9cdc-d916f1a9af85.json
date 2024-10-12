@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "0232f1f5-3141-4343-9cdc-d916f1a9af85"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-01-06T00:39:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "US Deprescribing Research Network"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-01-06T00:37:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-01-06T00:39:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/us-deprescribing-research-network",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Happy to welcome the US Deprescribing Research Network \u2013 a new collaborative to support research on deprescribing for older adults.&nbsp;See their website at<span>&nbsp;<\/span><a href=\"https:\/\/deprescribingresearch.org\/%3chttps:\/urldefense.proofpoint.com\/v2\/url?u=https-3A__deprescribingresearch.org_&amp;d=DwMGaQ&amp;c=iORugZls2LlYyCAZRB3XLg&amp;r=AS_w6hAizkyM7qOCfg9r7TFIIEEAP67hAKAZzB-k9IY&amp;m=n0pb5RZkztEuYCXlx2s786YRkb9zYdpgywqug7eKs1M&amp;s=p9YUH3ZsXSV-7vO4UlzwJTvzq58bqe-7o6WscauEHus&amp;e\" style=\"color: rgb(149, 79, 114); text-decoration: underline;\" title=\"https:\/\/deprescribingresearch.org\/%3chttps:\/urldefense.proofpoint.com\/v2\/url?u=https-3A__deprescribingresearch.org_&amp;d=DwMGaQ&amp;c=iORugZls2LlYyCAZRB3XLg&amp;r=AS_w6hAizkyM7qOCfg9r7TFIIEEAP67hAKAZzB-k9IY&amp;m=n0pb5RZkztEuYCXlx2s786YRkb9zYdpgywqug7eKs1M&amp;s=p9YUH3ZsXSV-7vO4UlzwJTvzq58bqe-7o6WscauEHus&amp;e\">https:\/\/deprescribingresearch.org\/<\/a>&nbsp;and follow them on Twitter at @DeprescribeUS!<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

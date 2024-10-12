@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b540c2e3-7b6c-4f9a-ae97-d597cebcb2c4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/147aac90-8dde-4feb-ab19-45e5d321b229"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/line13pdf"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

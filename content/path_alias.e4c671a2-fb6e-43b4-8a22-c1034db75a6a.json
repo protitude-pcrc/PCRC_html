@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e4c671a2-fb6e-43b4-8a22-c1034db75a6a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/db4ddbfe-e137-4441-9e2a-f75a31440b22"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/study\/unplanned-admission-icu-qualitative-study-examining-family-member-experiences"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

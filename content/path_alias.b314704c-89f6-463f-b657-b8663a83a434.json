@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b314704c-89f6-463f-b657-b8663a83a434"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/f4f38b92-c31b-43e6-8774-cd7065e49fff"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/saraharn"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

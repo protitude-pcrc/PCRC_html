@@ -1,0 +1,266 @@
+{
+    "uuid": [
+        {
+            "value": "c1f0af31-65cd-4baa-845f-6f1f29eb88fc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-03-08T00:05:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "Translation of a Lung Cancer Palliative Care Intervention for Clinical Practice"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-01-25T22:00:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-03-08T00:05:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/study\/translation-lung-cancer-palliative-care-intervention-clinical-practice",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "28d197f4-f1f6-4a6a-b3a1-ee4a01b92b93"
+        }
+    ],
+    "field_approved_data_requests": [],
+    "field_award_number": [
+        {
+            "value": "5R01NR015341-03"
+        }
+    ],
+    "field_condition_studied": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ce4e1d08-48a7-4ef8-bf5a-123148f64dcf"
+        }
+    ],
+    "field_csr_summary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "c03703a9-e648-4bc2-9424-568e98e90cd2"
+        }
+    ],
+    "field_data_dictionary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "5ad63b15-20ec-4cd9-b2cb-ec47c45b2489"
+        }
+    ],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e494a23c-aea6-4f0b-a534-4b948ddfdb07"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Palliative Care Intervention in Improving Symptom Control and Quality of Life in Patients With Stage II-IV Non-small Cell Lung Cancer and Their Family Caregivers"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "324"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": true
+        }
+    ],
+    "field_nct_link_field": [
+        {
+            "uri": "https:\/\/clinicaltrials.gov\/ct2\/show\/NCT02243748",
+            "title": "NCT02243748",
+            "options": []
+        }
+    ],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4f231d80-83c7-45f6-affe-6a582e037a21"
+        }
+    ],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "caefce4c-5e94-458b-b838-42ec8e25ae95"
+        }
+    ],
+    "field_participant_ethnicity_coll": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "350f6f60-c882-44d9-bf86-2f242d671d54"
+        }
+    ],
+    "field_participant_race": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "88ac74e1-8f30-4ba6-bbe9-d8a410f35170"
+        }
+    ],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9bae5dc6-39bb-4eb6-ba24-2add620945de"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bb33a50f-e9de-47ae-80e4-5167ef2b0d2f"
+        }
+    ],
+    "field_pcrc_study_num": [
+        {
+            "value": "14-09"
+        }
+    ],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/30076966",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [
+        {
+            "value": "NINR"
+        }
+    ],
+    "field_study_design": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8efa09b9-e9aa-43b7-bb08-51dcd38fabe3"
+        }
+    ],
+    "field_study_pi": [
+        {
+            "value": "Betty Ferrell, PhD, RN, MA, FAAN, FPCN, CHP"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "City of Hope Medical Center"
+        }
+    ],
+    "field_study_setting": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "5ccfdb7d-bd8f-4259-b6b6-b51b7e66dfca"
+        }
+    ],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d8112c55-df67-4b13-8ec6-fb43a0ba8e31"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p>CONTEXT:<br \/>\r\nA notable gap in the evidence base for palliative care (PC) for cancer is that most trials were conducted in specialized centers with limited translation and further evaluation in \"real-world\" settings. Health systems are desperate for guidance on effective, scalable models.<\/p>\r\n\r\n<p>OBJECTIVES:<br \/>\r\nThe objective of this study was to determine the effects of a nurse-led PC intervention for patients with non-small-cell lung cancer and their family caregivers (FCGs) in a community-based setting.<\/p>\r\n\r\n<p>METHODS:<br \/>\r\nTwo-group, sequential, quasi-experimental design with Phase 1 (usual care [UC]) followed by Phase 2 (intervention) was conducted at three Kaiser Permanente Southern California sites. Participants included patients with Stage 2-4 non-small-cell lung cancer and their FCG. Standard measures of quality of life (QOL) included Functional Assessment of Cancer Therapy-Lung, Functional Assessment of Chronic Illness Therapy-Spirituality Subscale, City of Hope Family QOL; other outcomes were distress, health care utilization, caregiver preparedness, and burden.<\/p>\r\n\r\n<p>RESULTS:<br \/>\r\nPatients in the intervention cohort had significant improvements in three (physical, emotional, and functional well-being) of the five QOL domains at one month that were sustained through three month compared to UC (P &lt; 0.01). Caregivers in the intervention cohort had improvements in physical (P = 0.04) and spiritual well-being (P = 0.03) and preparedness (P = 0.04) compared to UC. There were no differences in distress or health care utilization between cohorts.<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [
+        {
+            "value": "<p>Data management code (SAS), intervention data collection tools, IRB protocol, summary README file<\/p>\r\n\r\n<h3>Additional Citations<\/h3>\r\n\r\n<ul>\r\n\t<li><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/28598227\">Nguyen HQ, Cuyegkeng T, Phung TO, Jahn K, Borneman T, Macias M, Ruel N, Ferrell BR. Integration of a Palliative Care Intervention into Community Practice for Lung Cancer: A Study Protocol and Lessons Learned with Implementation. J Palliat Med. 2017 Dec;20(12):1327-1337.<\/a><\/li>\r\n<\/ul>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_therapeutic_area": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9f0b313e-b0ad-4af6-94c5-b2cd31413fe1"
+        }
+    ],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "016aaa43-cedb-435d-a7d6-d6446d7af039"
+        }
+    ]
+}

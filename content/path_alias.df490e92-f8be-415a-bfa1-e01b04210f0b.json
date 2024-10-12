@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "df490e92-f8be-415a-bfa1-e01b04210f0b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/9a4552bf-626b-4a3c-a1c0-56b75bd4f245"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/pcrc-structure-smpng"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

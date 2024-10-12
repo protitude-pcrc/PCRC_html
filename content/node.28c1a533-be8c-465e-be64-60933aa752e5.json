@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "28c1a533-be8c-465e-be64-60933aa752e5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "New PCORI FOA"
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-07-06T06:13:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2017-07-06T06:13:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/new-pcori-foa",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p class=\"p1\"><span class=\"s1\">Be sure to look into the new funding opportunity from the Patient-Centered Outcomes Research Institute (PCORI), entitled, \u201cSymptom Management for Patients with Advanced Illness\u201d.\u00a0 This announcement can be found <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=http-3A__www.pcori.org_funding-2Dopportunities_announcement_symptom-2Dmanagement-2Dpatients-2Dadvanced-2Dillness-2Dcycle-2D2-2D2017&amp;d=DwMF-g&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=r2wokrL1Bs8BQ7ZQlR3uvXmVu4qAij0SMS-ihwD3fPg&amp;s=C70w152J2li8h5jzvJeoSWhhwaOlIGGeiZ1ZbdSpTSw&amp;e=\"><span class=\"s2\">on the PCORI website<\/span><\/a>. \u00a0<\/span><\/p>\r\n<p class=\"p2\"><span class=\"s3\">Email <a href=\"mailto:sciencequestions@pcori.org\">sciencequestions@pcori.org<\/a> with any questions related to this funding announcement.<\/span><\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

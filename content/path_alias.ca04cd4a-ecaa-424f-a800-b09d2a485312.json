@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "ca04cd4a-ecaa-424f-a800-b09d2a485312"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/e46db078-f086-4a72-a484-d3cb3102f49d"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/sallychezem"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

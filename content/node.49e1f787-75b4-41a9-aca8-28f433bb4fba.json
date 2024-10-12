@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "49e1f787-75b4-41a9-aca8-28f433bb4fba"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "PCRC STUDY RECRUITMENT"
+        }
+    ],
+    "created": [
+        {
+            "value": "2014-11-21T21:49:27+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2014-11-21T21:49:27+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/pcrc-study-recruitment",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h1>Vanderbilt Medical Center Invites you to\r\nParticipate in a research project<\/h1>\r\nDo you have a child between the ages of 7-17 who has cancer? Participate to have a chance to win a $100 Amazon gift card in a Vanderbilt University Study. Your child will create a digital story that reflects who they are, including music, photographs, and video.\r\n\r\nVisit the <a href=\"http:\/\/mystor.ee\/story\/splash\" target=\"_blank\">MyStor.ee website <\/a>to learn more, or contact Dr. Terrah Akard at 615-343-6025 or <a href=\"mailto:Terrah.L.Foster@vanderbilt.edu\">Terrah.L.Foster@vanderbilt.edu<\/a>.<a href=\"http:\/\/mystor.ee\/story\/splash\" target=\"_blank\">\r\n<\/a>Flyer:<a href=\"\/sites\/default\/files\/migrated_files\/Children-with-cancer-study_PCRC.pdf\"> Children-with-cancer-study_PCRC<\/a>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6dd63752-6c14-4b63-b4b3-629fa676ba6e"
+        }
+    ]
+}

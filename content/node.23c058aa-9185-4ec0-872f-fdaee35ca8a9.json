@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "23c058aa-9185-4ec0-872f-fdaee35ca8a9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Sojourn Scholar Leadership Award Opportunity"
+        }
+    ],
+    "created": [
+        {
+            "value": "2014-01-30T22:34:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2014-01-30T22:34:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/sojourn-scholar-leadership-award-opportunity",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h2>New Sojourn Scholar Leadership Award Opportunity<\/h2>\r\nThis initiative of the Cambia Health Foundation seeks to identify, support, and foster the next generation of leaders in the field of Palliative Medicine. The Award provides mentorship, networking, and 2-years of salary support for a project in Palliative Care. The projects can be in any activity that promotes the field and generates work that can be disseminated including research, education, program development, and policy and advocacy. The Award seeks burgeoning leaders in the field in the disciplines of nursing and medicine. You can find more information and a link to the application at:\r\n\r\n<a href=\"http:\/\/www.cambiahealthfoundation.org\/sojourn-awards\/sojourns-award-program.html\" target=\"_blank\">http:\/\/www.cambiahealthfoundation.org\/sojourn-awards\/sojourns-award-program.html<\/a>\r\n\r\n<strong>Applications are due on March 10, 2014.<\/strong>\r\n\r\n<a href=\"\/sites\/default\/files\/migrated_files\/2014_Sojourns_Scholar_Info.pdf\">Download the PDF<\/a>\u00a0for more information abut the opportunity and application process.",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "1a08e230-883f-4894-8acc-0fa2e96fa271"
+        }
+    ]
+}

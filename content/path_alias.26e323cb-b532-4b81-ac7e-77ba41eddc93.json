@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "26e323cb-b532-4b81-ac7e-77ba41eddc93"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/8d0c7695-07db-43a4-9e96-3b2998c727f5"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-5-january-2014"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

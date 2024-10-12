@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "0e5ea0cf-fbc2-4fb1-bd45-5919a2c5853f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/cde8ae39-ef40-4013-993d-de44fb713a59"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/research\/pcrc-projects"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

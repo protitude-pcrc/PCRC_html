@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "002254bd-2312-4791-a8a2-9efc4c31f1a7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/0c26d885-ce6e-4766-87a8-ad311bf27cd8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/nih-common-fund-funding-opportunities"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

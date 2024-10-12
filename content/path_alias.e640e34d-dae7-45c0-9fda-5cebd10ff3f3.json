@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e640e34d-dae7-45c0-9fda-5cebd10ff3f3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/f5ba05a2-a661-4a60-b777-4563a227f5bb"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/kieranquinn"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

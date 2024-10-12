@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "e36a762f-076c-4873-af79-1824da031f13"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-10-11T18:10:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "title": [
+        {
+            "value": "NINR Technical Assistance Webinar For RFA-NR-23-001: Monday Oct 24 from 12-1pm ET"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-10-11T17:58:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-10-11T18:10:45+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/news\/ninr-technical-assistance-webinar-rfa-nr-23-001-monday-oct-24-12-1pm-et",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The Notice for the technical assistance webinar for <a href=\"https:\/\/grants.nih.gov\/grants\/guide\/rfa-files\/RFA-NR-23-001.html\" rel=\"noopener\" target=\"_blank\">RFA-NR-23-001<\/a> HEAL Initiative: Prevention and Management of Chronic Pain in Rural Populations (UG3\/UH3, Clinical Trials Required) has been released:<\/p>\r\n\r\n<p><a href=\"https:\/\/grants.nih.gov\/grants\/guide\/notice-files\/NOT-NR-23-001.html\" rel=\"noopener\" target=\"_blank\">NOT-NR-23-001<\/a>: NOTICE OF NINR TECHNICAL ASSISTANCE WEBINAR FOR RFA-NR-23-001<\/p>\r\n\r\n<p><u>Note<\/u>: The technical assistance webinar is on <strong>Monday, October 24, 2022 from 12-1pm ET.<\/strong> The link to register is in the Notice (linked below):<\/p>\r\n\r\n<p><a href=\"https:\/\/grants.nih.gov\/grants\/guide\/notice-files\/NOT-NR-23-001.html\" target=\"_blank\">https:\/\/grants.nih.gov\/grants\/guide\/notice-files\/NOT-NR-23-001.html<\/a><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "NINR Technical Assistance Webinar For RFA-NR-23-001: Monday Oct 24 from 12-1pm ET"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

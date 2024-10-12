@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "42a6da03-08c1-44cd-90b9-044583a21a8f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/df275cd9-0937-43cb-8384-bf2528b8de25"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/fabianjohnston"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "0c7a1b7e-75da-463f-9290-11ca40f975da"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/524d72f6-bab5-4488-af8e-e57a4826a4e1"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/pcrc-data-repository-expansion-grant-awards"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

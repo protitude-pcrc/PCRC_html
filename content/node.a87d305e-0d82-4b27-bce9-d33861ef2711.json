@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "a87d305e-0d82-4b27-bce9-d33861ef2711"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-12-21T21:17:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c4c1b62a-869d-454a-b78c-bde33aba2db8"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c4c1b62a-869d-454a-b78c-bde33aba2db8"
+        }
+    ],
+    "title": [
+        {
+            "value": "FOA Posted for Alzheimer's-Focused Administrative Supplements"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-12-21T21:17:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-12-21T21:17:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/foa-posted-alzheimers-focused-administrative-supplements",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p class=\"MsoNormal\">The notice NOT-AG-18-039 was recently posted for Alzheimer's-focused administrative supplements for NIH grants that are not focused on Alzheimer's disease<\/p>\r\n\r\n<p class=\"MsoNormal\"><a href=\"https:\/\/grants.nih.gov\/grants\/guide\/notice-files\/NOT-AG-18-039.html\">https:\/\/grants.nih.gov\/grants\/guide\/notice-files\/NOT-AG-18-039.html<\/a> <o:p><\/o:p><\/p>\r\n\r\n<p class=\"MsoNormal\"><span style=\"text-indent: -0.5in;\">Key aspects of NOT-AG-18-039 are as follows:<\/span><\/p>\r\n\r\n<ul style=\"margin-top:0in\" type=\"disc\">\r\n\t<li class=\"MsoNormal\" style=\"mso-list:l0 level1 lfo1\"><span style=\"mso-fareast-font-family:\r\n     &quot;Times New Roman&quot;\">Purpose is to expand existing awards that are not currently focused on Alzheimer\u2019s disease and its related dementias (ADRD) to allow them to develop a focus on ADRD <o:p><\/o:p><\/span><\/li>\r\n\t<li class=\"MsoNormal\" style=\"mso-list:l0 level1 lfo1\"><span style=\"mso-fareast-font-family:\r\n     &quot;Times New Roman&quot;\">Active awards with project end dates in FY 2020 or later are eligible. The award may not be in terminal no cost extension or going into no cost extension in FY2019<o:p><\/o:p><\/span><\/li>\r\n\t<li class=\"MsoNormal\" style=\"mso-list:l0 level1 lfo1\"><span style=\"mso-fareast-font-family:\r\n     &quot;Times New Roman&quot;\">One year of support; Budget limited to no more than $250,000 in direct costs but may not exceed the amount of the current annual budget of the parent award<o:p><\/o:p><\/span><\/li>\r\n\t<li class=\"MsoNormal\" style=\"mso-list:l0 level1 lfo1\"><span style=\"mso-fareast-font-family:\r\n     &quot;Times New Roman&quot;\">Proposed work must be within the scope of the current project<o:p><\/o:p><\/span><\/li>\r\n\t<li class=\"MsoNormal\" style=\"mso-list:l0 level1 lfo1\"><span style=\"mso-fareast-font-family:\r\n     &quot;Times New Roman&quot;\">Proposed work must have relevance to Alzheimer\u2019s disease or a related dementia<o:p><\/o:p><\/span><\/li>\r\n\t<li class=\"MsoNormal\" style=\"mso-list:l0 level1 lfo1\"><span style=\"mso-fareast-font-family:\r\n     &quot;Times New Roman&quot;\">Deadline February 26, 2019<o:p><\/o:p><\/span><\/li>\r\n<\/ul>\r\n\r\n<p class=\"MsoNormal\">You are encouraged to contact both your NINR Program Officer and Lois Tully (<a href=\"mailto:lois.tully@nih.gov\">lois.tully@nih.gov<\/a>) to discuss your proposed research. <o:p><\/o:p><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

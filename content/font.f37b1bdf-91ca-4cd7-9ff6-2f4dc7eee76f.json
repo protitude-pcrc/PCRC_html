@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "f37b1bdf-91ca-4cd7-9ff6-2f4dc7eee76f"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Catamaran&subset=tamil#200"
+        }
+    ],
+    "name": [
+        {
+            "value": "Catamaran 200 (tamil)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Catamaran"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "200"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:13:\"Catamaran:200\";s:6:\"subset\";s:5:\"tamil\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:02:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:02:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "3a52e156-ae57-4a95-a295-e559e21bea2e"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2ca703db-b891-48ee-b8a8-6f6a66f53c9c"
+        }
+    ],
+    "field_tags": []
+}

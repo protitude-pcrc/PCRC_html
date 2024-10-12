@@ -1,0 +1,99 @@
+{
+    "uuid": [
+        {
+            "value": "eed0be35-4980-4999-ac90-26befe98c9a8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-05T14:56:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Collaborating with PCRC"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-03-24T17:50:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-05T14:56:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/research\/investigator-support-information\/collaborating-pcrc",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h3>How can I collaborate with the PCRC?<\/h3>\r\n\r\n<p>The PCRC was established in large part to help overcome the many challenges of multi-site research because we know this research matters, and is necessary to advance the field of palliative care. There are many potential opportunities for collaboration, including:<\/p>\r\n\r\n<p>[col width=\"1-2\"]<\/p>\r\n\r\n<ul>\r\n\t<li>\r\n\t<p>Scientific Review \/ Guidance<\/p>\r\n\t<\/li>\r\n\t<li>Research Development<\/li>\r\n\t<li>PCRC Sites<\/li>\r\n\t<li>PCRC Standardized Data elements [SDEs]<\/li>\r\n\t<li>PCRC-recommended instruments<\/li>\r\n\t<li>Data sharing \/ Registry Participation<\/li>\r\n\t<li>Investigator Development<\/li>\r\n\t<li>Mentoring \/ Networking opportunities<\/li>\r\n\t<li>Data Quality Assurance Audits<\/li>\r\n<\/ul>\r\n\r\n<p>[\/col]<\/p>\r\n\r\n<p>[col width=\"1-2\" last=\"1\"]<\/p>\r\n\r\n<ul>\r\n\t<li>Statistical consulting<\/li>\r\n\t<li>Caregiver Core<\/li>\r\n\t<li>Measurement Core<\/li>\r\n\t<li>Clinical Studies Core<\/li>\r\n\t<li>Data \/ Informatics<\/li>\r\n\t<li>Database development \/ Data Management<\/li>\r\n\t<li>Site Training<\/li>\r\n\t<li>Site Management<\/li>\r\n\t<li>Site Finance<\/li>\r\n\t<li>Grant opportunities<\/li>\r\n<\/ul>\r\n\r\n<p>[\/col]<\/p>\r\n\r\n<h3>&nbsp;<\/h3>\r\n\r\n<p>[toggle]<\/p>\r\n\r\n<p>[toggle-item title=\"Step 1: Request review by PCRC Scientific&nbsp;Review Committee (SRC)\"]<\/p>\r\n\r\n<p>Interested investigators must first complete an <a href=\"https:\/\/airtable.com\/shrrIvoSF1jNxAgNi\">SRC Review Request Form<\/a>&nbsp;for an initial review.&nbsp;<\/p>\r\n\r\n<p>[\/toggle-item]<\/p>\r\n\r\n<p>[toggle-item title=\"Step 2: Approval of the Proposed Research\"]<\/p>\r\n\r\n<p>Approval of the proposed research by the&nbsp;<a href=\"\/who\/steering\/\">PCRC Steering Committee<\/a><\/p>\r\n\r\n<p>[\/toggle-item]<\/p>\r\n\r\n<p>[toggle-item title=\"Step 3: Study Site PI\/Site Selection\"]<\/p>\r\n\r\n<ul>\r\n\t<li>FOA may require a Letter Of Support (LOS) from planned sites \u2013 check your FOA<\/li>\r\n\t<li>PCRC will facilitate identification of pertinent collaborators at sites appropriate for the proposed science&nbsp;<\/li>\r\n\t<li>After grant funding, if PI\u2019s selected Study Site PI\/ sites are not available, PCRC will assist in identifying additional members who may serve as a Study Site PI<\/li>\r\n\t<li>Number of clinical sites required for enrollment needs is determined by the Statistical Analysis Plan and budget plan<\/li>\r\n\t<li>PCRC will review Membership Database for potential subject population, Study Site PI expertise and site capabiliites<\/li>\r\n\t<li>PCRC will connect PI with potential&nbsp;Study Site PIs<\/li>\r\n\t<li>PI will discuss study with Study Site PIs and obtain site LOS<\/li>\r\n<\/ul>\r\n\r\n<p>[\/toggle-item]<\/p>\r\n\r\n<p>[toggle-item title=\"Step 4: Budget Development (after SRC&nbsp;approval)\"]<\/p>\r\n\r\n<p><strong>Following<\/strong> approval of the proposed research&nbsp;by the PCRC Scientific Review and Steering Committees, the PCRC will work with the Principal Investigator to develop a budget related to PCRC collaboration activities.<\/p>\r\n\r\n<ul>\r\n\t<li><strong>Potential<\/strong> components of PCRC Budget are based on information provided by PI, and include things such as the research plan,&nbsp;study schema and details of planned use of PCRC resources<\/li>\r\n\t<li>Once the budget is approved, the PCRC will create \/ provide all necessary grant package documents for PCRC subcontract<\/li>\r\n<\/ul>\r\n\r\n<h4>Potential Budget Components<\/h4>\r\n\r\n<h6>Site Payment budget on a per \u201dparticipant\u201d model - e.g. start up fees, study conduct, patient remuneration, etc.<\/h6>\r\n\r\n<ul>\r\n\t<li><a href=\"\/corescenters\/project-coordinating-center\">Project Coordinating Center [PCC] Activities<\/a>\r\n\r\n\t<ul>\r\n\t\t<li>Research development<\/li>\r\n\t\t<li>Site management (training, support, communications, enrollment tracking, etc.)<\/li>\r\n\t\t<li>Site Visits<\/li>\r\n\t\t<li>Site finance \/ grant management (contracts, invoicing, payments, etc.)<\/li>\r\n\t\t<li>Database \/ data management development \/informatics<\/li>\r\n\t<\/ul>\r\n\t<\/li>\r\n<\/ul>\r\n\r\n<p>Assistance with DSM committees\/boards: &nbsp;<i>Packe<\/i><i>t <\/i><i>will<\/i> <i>include<\/i> <i>budge<\/i><i>t <\/i><i>ju<\/i><i>st<\/i><i>i<\/i><i>f<\/i><i>ica<\/i><i>t<\/i><i>ion<\/i><i> f<\/i><i>or<\/i> <i>PCRC<\/i> <i>componen<\/i><i>t<\/i><i>s.<\/i><\/p>\r\n\r\n<h6>Include in PI grant budget<\/h6>\r\n\r\n<p>Include applicable PCRC consulting activities to be using during conduct of the funded study in PI\u2019s budget; for example: Statistics, Caregiver, Measurement, and Clinical Studies.<\/p>\r\n\r\n<ul>\r\n\t<li>PI provides details regarding planned PCRC collaborations in the <a href=\"https:\/\/airtable.com\/shrrIvoSF1jNxAgNi\">request for SRC review application<\/a><\/li>\r\n\t<li>PCRC documents these commitments in LOS<\/li>\r\n<\/ul>\r\n\r\n<p>[notification color=\"green\"]NOTE: pre-grant submission consultation with <a href=\"\/corescenters\/\">PCRC Core resources<\/a> does NOT require a budget \u2013 supported by PCRC U2C[\/notification]<\/p>\r\n\r\n<h6>Directs\/Indirects<\/h6>\r\n\r\n<p>Check your Funding Opportunity Announcement (FOA):<\/p>\r\n\r\n<ul>\r\n\t<li>If maximum budget total amounts include only \u201cDirect\u201d costs, Direct Costs include the PCRC subcontract subagreement costs<\/li>\r\n<\/ul>\r\n\r\n<h6>Budget Example<\/h6>\r\n\r\n<p><a href=\"https:\/\/pcrc.box.com\/budget\"><img alt=\"budget_example\" height=\"717\" src=\"\/sites\/default\/files\/migrated_files\/budget_example.png\" width=\"1155\" \/><\/a><\/p>\r\n\r\n<p>[\/toggle-item]<\/p>\r\n\r\n<p>[toggle-item title=\"Step 5: Grant Submission\"]<\/p>\r\n\r\n<p>Following budget approval, the PCRC will provide all grant package documents based upon details in the information provided by the PI.&nbsp; This will include the following:<\/p>\r\n\r\n<ul>\r\n\t<li>Subcontract Package with the University of Colorado (PCRC primary grant institution)\r\n\t<ul>\r\n\t\t<li>Scope of Work \/ Biosketch(s)<\/li>\r\n\t\t<li>Budget \/ Budget justifications for the Project Coordinating Center activities<\/li>\r\n\t\t<li>Budget \/ Budget justifications for Planned consortium [genralized for total number of sites and planned accrual]<\/li>\r\n\t\t<li>Grant documents [Checklist, FCOI, Tax ID, Face page, etc.]<\/li>\r\n\t<\/ul>\r\n\t<\/li>\r\n\t<li>Biosketch(s) of PCRC Co-Chair and other relevant<br \/>\r\n\tPCRC key personnel (e.g. Caregiver Core Director) if<br \/>\r\n\tapplicable<\/li>\r\n\t<li><a href=\"\/node\/533\" target=\"_blank\">Letter of Support<\/a>&nbsp;signed by the PCRC Executive<br \/>\r\n\tLeadership outlining your specific planned PCRC<br \/>\r\n\tcollaboration.*<\/li>\r\n<\/ul>\r\n\r\n<p><em>*Critical to NIH reviewers to demonstrate \u201ccollaboration\u201d<\/em><\/p>\r\n\r\n<p>[\/toggle-item]<\/p>\r\n\r\n<p>[\/toggle]<\/p>\r\n\r\n<p>[infobox]Please contact us if you have questions at <a href=\"mailto:pcrc@ucdenver.edu \">PCRC@ucdenver.edu<\/a>.&nbsp; We look forward to working together.[\/infobox]<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": [
+        {
+            "value": "PCRC was established in large part to help overcome the many challenges of multi-site research"
+        }
+    ]
+}

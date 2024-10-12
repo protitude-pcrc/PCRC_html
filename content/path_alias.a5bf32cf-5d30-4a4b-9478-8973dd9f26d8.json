@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a5bf32cf-5d30-4a4b-9478-8973dd9f26d8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/99137a46-44bd-4405-8e51-6b6c3b269a75"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/rhackbar"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

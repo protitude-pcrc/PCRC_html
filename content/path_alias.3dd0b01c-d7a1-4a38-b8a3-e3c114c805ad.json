@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "3dd0b01c-d7a1-4a38-b8a3-e3c114c805ad"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1e5535fa-9a48-48cb-81ba-0e5f8fc4d826"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/nia-funding-announcements-dementia-care-and-caregiver-support"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,219 @@
+{
+    "uuid": [
+        {
+            "value": "ab9a1915-1439-4d51-996f-3e3ed3f11ff8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-07-13T06:08:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "title": [
+        {
+            "value": "Examining the Utility of Patient Portals in the Setting of Serious Illness and End of Life"
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-07-13T06:01:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-07-13T06:08:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/study\/examining-utility-patient-portals-setting-serious-illness-and-end-life",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [],
+    "field_approved_data_requests": [],
+    "field_award_number": [],
+    "field_condition_studied": [],
+    "field_csr_summary": [
+        {
+            "display": true,
+            "description": "",
+            "target_type": "file",
+            "target_uuid": "1aecd21b-cbec-4a1f-9424-e35d6857d590"
+        }
+    ],
+    "field_data_dictionary": [],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e494a23c-aea6-4f0b-a534-4b948ddfdb07"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Examining the Utility of Patient Portals in the Setting of Serious Illness and End of Life"
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "6680"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": false
+        }
+    ],
+    "field_nct_link_field": [],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d7cd26a3-2482-49da-b75d-bdd120b563ae"
+        }
+    ],
+    "field_participant_age": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8ab69d80-7dc6-4123-8867-55fdcb467700"
+        }
+    ],
+    "field_participant_ethnicity_coll": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "350f6f60-c882-44d9-bf86-2f242d671d54"
+        }
+    ],
+    "field_participant_race": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "88ac74e1-8f30-4ba6-bbe9-d8a410f35170"
+        }
+    ],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "9bae5dc6-39bb-4eb6-ba24-2add620945de"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bb33a50f-e9de-47ae-80e4-5167ef2b0d2f"
+        }
+    ],
+    "field_pcrc_study_num": [
+        {
+            "value": "19-01"
+        }
+    ],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/pubmed.ncbi.nlm.nih.gov\/33506403\/",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [],
+    "field_study_design": [],
+    "field_study_pi": [
+        {
+            "value": "Jennifer Dickman Portz, PhD, MSW"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "CU Anschutz"
+        }
+    ],
+    "field_study_setting": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4fb30600-1784-41e5-8d7d-2e45bef6acca"
+        }
+    ],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [],
+    "field_study_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "89b177d7-1afa-4d2b-bb5a-199a38866463"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<h3>Objectives:<\/h3>\r\n\r\n<p><span style=\"font-size:12pt\"><span style=\"text-autospace:none\"><span style=\"font-family:Cambria,serif\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Using <\/span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Kaiser Permanente Colorado\u2019s (KPCO) established patient portal, My Health Manager (MHM), we conducted a secondary data analysis of the effects of portal utilization on important palliative care and end of life (PCEOL) outcomes. The objectives of this project include: <\/span><\/span><\/span><\/span><\/span><\/p>\r\n\r\n<ul>\r\n\t<li style=\"margin-left:8px\"><span style=\"font-size:12pt\"><span style=\"text-autospace:none\"><span style=\"font-family:Cambria,serif\"><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Describe MHM utilization patterns and user characteristics among deceased patients and their caregivers (via a proxy log-in option) in the last 12 months of life. <\/span><\/span><\/span><\/span><\/span><\/li>\r\n\t<li style=\"margin-left:8px\"><span style=\"font-size:12pt\"><span style=\"text-autospace:none\"><span style=\"font-family:Cambria,serif\"><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Conduct exploratory analysis to test the association between MHM utilization among deceased patients in the last 12 months of life and their proxy caregivers with important PCEOL outcomes including advance directive documentation, hospitalization near the end of life, and hospice referral\/use.&nbsp; <\/span><\/span><\/span><\/span><\/span><\/li>\r\n<\/ul>\r\n\r\n<hr \/>\r\n<h3 style=\"margin-left: 8px;\">Methodology:<\/h3>\r\n\r\n<p><span style=\"font-size:12pt\"><span style=\"font-family:Cambria,serif\"><u><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">D<\/span><\/span><\/u><u><span style=\"font-family:&quot;Arial&quot;,sans-serif\">esign:<\/span><\/u><span style=\"font-family:&quot;Arial&quot;,sans-serif\"> R<\/span><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">etrospective cohort study to investigate the utility of portals during PCEOL. <\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span style=\"font-size:12pt\"><span style=\"font-family:Cambria,serif\"><u><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Sample:<\/span><\/span><\/u><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\"> Deceased patient and caregiver MHM users over the age of 18 between 1\/1\/2016-6\/30\/2019. Patients and caregivers must have been registered for MHM during the 12 months prior to the patient\u2019s death. Patients who did not die from a chronic or serious illness (i.e. accident) were excluded from analysis to accurately capture patient portal use at end of life. <\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><span style=\"font-size:12pt\"><span style=\"font-family:Cambria,serif\"><u><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Data Extraction:<\/span><\/span><\/u><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\"> Data was extracted from KPCO\u2019s integrated electronic medical record, KP HealthConnect\u2014Epic Systems, Death Records\u2014Research Data Warehouse, Health Trac&nbsp;and My Health Manager databases. Data extracted included patient characteristics (age, race, ethnicity, gender, diagnoses, rural\/urban location, and socioeconomic status), Care Group flags (Advanced Illness, Serious Illness, Chronic Illness), date of flag, enrollment data, MHM utilization (number of log-ons, total time on site, and features used\u2014Table 1), and PCEOL outcomes (advance directive documentation, hospitalization near end of life, and hospice referral\/use)<\/span><\/span><\/span><\/span><\/p>\r\n\r\n<p><u><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Analysis:<\/span><\/span><\/u><span style=\"font-size:11.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\"> After cleaning the data and addressing data issues and concerns, univariate descriptive analysis was conducted. Frequencies, measures of central tendency, and percentages were used to create summary tables of utilization patterns for the number of log-ons and used MHM features per month, over the 12-month&nbsp;period as the patient nears death. Utilization differences by patient characteristics were tested by t-test and ANOVA as appropriate. We conducted exploratory analyses to examine associations between patient and caregiver proxy MHM utilization with PCEOL outcomes (advance directive documentation, hospitalization near end of life, and hospice referral\/use).<\/span><\/span><\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [],
+    "field_therapeutic_area": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "f2104e69-5e6f-45bf-9e4d-74b521e869e0"
+        }
+    ],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "4899ab96-a788-4a21-8a17-927137b8ffa9"
+        }
+    ]
+}

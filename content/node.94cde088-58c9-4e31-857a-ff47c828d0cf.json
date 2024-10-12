@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "94cde088-58c9-4e31-857a-ff47c828d0cf"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-05-08T18:21:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "title": [
+        {
+            "value": "Call for submissions: PEC Innovation \u2013 Special Issue DUE Sept. 30"
+        }
+    ],
+    "created": [
+        {
+            "value": "2023-05-08T18:10:53+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-05-08T18:21:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/news\/call-submissions-pec-innovation-special-issue-due-sept-30",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p style=\"margin-bottom:11px\">PEC Innovation has announced a call for submissions of empirical articles for their forthcoming special issue: Palliative, hospice, and end-of-life care. PEC Innovation is an online, open-access companion journal to Patient Education and Counseling.<\/p>\r\n\r\n<p><strong>Submissions are due by September 30th, 2023.<\/strong> Submissions will be assigned to expert peer reviewers to ensure that all special issue articles demonstrate quality, originality, and rigor.<\/p>\r\n\r\n<p>All articles that are accepted for publication in this special issue will have open-access article processing fees waived.<\/p>\r\n\r\n<p>Please follow this link for more information about this opportunity: <a href=\"https:\/\/www.sciencedirect.com\/journal\/pec-innovation\/about\/call-for-papers\" rel=\"noopener\" target=\"_blank\">https:\/\/www.sciencedirect.com\/journal\/pec-innovation\/about\/call-for-papers<\/a>.<\/p>\r\n\r\n<p>If you have any questions, please contact Emily Mroz, PhD at <a href=\"mailto:Emily.mroz@yale.edu\" rel=\"noopener\" target=\"_blank\">Emily.mroz@yale.edu<\/a>.<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Call for submissions: PEC Innovation \u2013 Special Issue DUE Sept. 30"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

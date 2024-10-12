@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "79c746d3-ac64-4db5-a287-dae215e482a6"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Teko&subset=devanagari#300"
+        }
+    ],
+    "name": [
+        {
+            "value": "Teko 300 (devanagari)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Teko"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "300"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:8:\"Teko:300\";s:6:\"subset\";s:10:\"devanagari\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:00:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:00:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "3a52e156-ae57-4a95-a295-e559e21bea2e"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6964e565-7158-454f-8e66-67ca0d8c11a9"
+        }
+    ],
+    "field_tags": []
+}

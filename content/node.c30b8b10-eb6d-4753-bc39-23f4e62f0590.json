@@ -1,0 +1,110 @@
+{
+    "uuid": [
+        {
+            "value": "c30b8b10-eb6d-4753-bc39-23f4e62f0590"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-01-23T23:37:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "Notice of Intent to Publish a Funding Opportunity Announcement for PCRC 2019 Pilots"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-01-23T23:26:20+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-01-23T23:37:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/notice-intent-publish-funding-opportunity-announcement-pcrc-2019-pilots",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>We are pleased to announce that the PCRC has published a Notice of Intent to Publish a Funding Opportunity&nbsp;Announcement for the 2019&nbsp;PCRC Investigator Development Center Pilot Program.<\/p>\r\n\r\n<p>This&nbsp;<a href=\"https:\/\/pcrc.box.com\/v\/2019-pilot-notice-of-intent\" target=\"_blank\">Notice of Intent to Publish<\/a>&nbsp;encourage small research grant applications focused on generating pilot data and supporting investigator development for building the science of palliative care. The goal of the PCRC pilot awards is to provide seed funding for future research activities through the PCRC. Additionally, the awards offer opportunities for investigators to participate in investigator development activities and be mentored\/coached by senior investigators in the field. For your reference, previously funded PCRC pilot grant awards are listed&nbsp;<a href=\"https:\/\/palliativecareresearch.org\/research\/pilot-studies\" target=\"_blank\">here<\/a>.<\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<center>[button url=\"\/node\/521\" size=\"large\" color=\"blue\"]More Information[\/button]<\/center>\r\n\r\n<p>&nbsp;<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "79f19229-97ab-4374-b750-70a60097eb51"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

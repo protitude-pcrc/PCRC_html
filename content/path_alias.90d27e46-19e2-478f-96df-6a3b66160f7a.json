@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "90d27e46-19e2-478f-96df-6a3b66160f7a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/b66bda31-4043-4b5f-a6c1-beadbad0f52e"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/nia-impact-collaboratory-noi-publish-foa-impact-cdas"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

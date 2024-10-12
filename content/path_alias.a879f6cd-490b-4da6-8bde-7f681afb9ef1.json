@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "a879f6cd-490b-4da6-8bde-7f681afb9ef1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/7fafe786-c6fd-4273-9f06-c914635a6ec7"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/lacttal"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

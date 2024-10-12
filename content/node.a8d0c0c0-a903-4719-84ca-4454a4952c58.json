@@ -1,0 +1,110 @@
+{
+    "uuid": [
+        {
+            "value": "a8d0c0c0-a903-4719-84ca-4454a4952c58"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "\u2018Dying in America: Conversations About Care at the End of Life\u2019 - A Four Part Series Launches on ReachMD"
+        }
+    ],
+    "created": [
+        {
+            "value": "2016-05-27T15:23:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2016-05-27T15:23:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/dying-america-conversations-about-care-end-life-four-part-series-launches-reachmd",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p class=\"responsiveNews\">For the millions of Americans who work in or with the healthcare sector \u2013 including clinicians, clergy, social workers, caregivers, and support staff \u2013 providing high-quality care for people who are nearing the end of life is a matter of professional commitment and responsibility. ReachMD has partnered with the National Academy of Medicine, part of the National Academies of Sciences, Engineering, and Medicine, to broadcast a <a title=\"Dying in America\" href=\"http:\/\/www.prweb.net\/Redirect.aspx?id=aHR0cHM6Ly9yZWFjaG1kLmNvbS9wcm9ncmFtcy9keWluZy1pbi1hbWVyaWNhLXNlcmllcy8=\" target=\"_blank\" rel=\"nofollow\">new series<\/a> across the ReachMD network based on the report <a title=\"IOM Report on Dying in America\" href=\"http:\/\/www.prweb.net\/Redirect.aspx?id=aHR0cDovL2lvbS5uYXRpb25hbGFjYWRlbWllcy5vcmcvcmVwb3J0cy8yMDE0L2R5aW5nLWluLWFtZXJpY2EtaW1wcm92aW5nLXF1YWxpdHktYW5kLWhvbm9yaW5nLWluZGl2aWR1YWwtcHJlZmVyZW5jZXMtbmVhci10aGUtZW5kLW9mLWxpZmUuYXNweA==\" target=\"_blank\" rel=\"nofollow\">\u2018Dying in America: Improving Quality and Honoring Individual Preferences Near the End of Life\u2019.<\/a> The report is from the Institute of Medicine (IOM), a division of the Academies.<\/p>\r\n<p class=\"responsiveNews\">The four topics in the series include:<\/p>\r\n\r\n<ol>\r\n \t<li class=\"responsiveNews\"><strong><a href=\"https:\/\/reachmd.com\/programs\/dying-in-america-series\/improving-palliative-care-quality-honoring-individual-preferences-near-end-life\/7853\/\" target=\"_blank\">Improving Palliative Care Quality and Honoring Individual Preferences Near the End of Life<\/a>,<\/strong> featuring Dr. James A. Tulsky<\/li>\r\n \t<li><strong><a href=\"https:\/\/reachmd.com\/programs\/dying-in-america-series\/interdisciplinary-teamwork-palliative-care-successes-challenges\/7854\/\" target=\"_blank\">Interdisciplinary Teamwork in Palliative Care, Successes and Challenges<\/a><\/strong>, featuring Dr. Jean S. Kutner<\/li>\r\n \t<li><header class=\"object-data\" data-model=\"segment\" data-id=\"7846\"><a href=\"https:\/\/reachmd.com\/programs\/dying-in-america-series\/toward-higher-quality-communication-and-advance-care-planning\/7846\/\" target=\"_blank\"><strong>Toward Higher Quality Communication and Advance Care Planning,<\/strong><\/a> featuring Dr. Patricia Bomba\r\n\r\n<\/header><\/li>\r\n \t<li><a href=\"https:\/\/reachmd.com\/programs\/dying-in-america-series\/policies-payment-systems--care-near-end-life\/7847\/\" target=\"_blank\"><strong>Policy and Payment Systems for Care Near the End of Life<\/strong><\/a>, featuring Mr. Leonard D. Schaeffer<\/li>\r\n<\/ol>\r\n<p class=\"responsiveNews\">The \u2018Dying in America\u2019 podcast series on ReachMD can be found across the ReachMD distribution network, which includes ReachMD, iHeartRadio, Tunein, iTunes, and Stitcher.<\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6dd63752-6c14-4b63-b4b3-629fa676ba6e"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a1db425d-2f66-457c-be62-cdff25c1bd0f"
+        }
+    ]
+}

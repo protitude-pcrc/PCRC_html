@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "0758b7d7-9773-4c3f-888a-0a4b12ab7a90"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/317bc427-d509-41e9-8940-3629193b1bb6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/pcrc-logos"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

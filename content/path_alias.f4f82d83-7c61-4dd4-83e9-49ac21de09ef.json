@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f4f82d83-7c61-4dd4-83e9-49ac21de09ef"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3fb2fff9-7413-48fe-be63-7798b3162047"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/corescenters\/data-informatics-statistics-core-disc\/qualitative-and-mixed-methods-library"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

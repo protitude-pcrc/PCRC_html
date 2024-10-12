@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "1bfd5c3f-02c4-4f56-b076-774e69abf0a2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-05-09T01:58:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Open Position: NIH DIRECTOR OF THE NINR DIVISION OF EXTRAMURAL SCIENCE PROGRAMS"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-05-09T01:53:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-05-09T01:58:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/open-position-nih-director-ninr-division-extramural-science-programs",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>INTERESTED IN BECOMING THE DIRECTOR OF THE NINR DIVISION OF EXTRAMURAL SCIENCE PROGRAMS? Are you an exceptional candidate who can provide leadership to one of the preeminent institutes for nursing research in the world? The National Institute of Nursing Research (NINR), a research component of the National Institutes of Health (NIH), the Department of Health and Human Services (DHHS), is seeking exceptional candidates for the position of Director, Division of Extramural Science Programs (DESP). The NINR (<a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=http-3A__www.ninr.nih.gov&amp;d=DwMGaQ&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=ZC_qcUrCJ7xfGpmWaLM7iBm3Gguox0oERl-Yc5wjr-w&amp;s=fs-9jc78XJgQ4bK4v05ZaLr-fG4t3CnxI1sTi7qiLNM&amp;e=\">www.ninr.nih.gov<\/a>) supports and conducts clinical and basic research and research training to build the scientific foundation for clinical practice, promote health, prevent disease and disability, manage and eliminate symptoms, and improve palliative and end-of-life care.<\/p>\r\n\r\n<p>For more information, visit:&nbsp;<a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__www.ninr.nih.gov_sites_files_docs_ninr-2Ddirector-2Ddesp-2Dapril-2D2019.pdf&amp;d=DwMGaQ&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=ZC_qcUrCJ7xfGpmWaLM7iBm3Gguox0oERl-Yc5wjr-w&amp;s=b9aG5woHo5plB2ze3Vp_Fsn1PDo-cjkzTqmASgf7Klc&amp;e=\">https:\/\/www.ninr.nih.gov\/sites\/files\/docs\/ninr-director-desp-april-2019.pdf<\/a><\/p>\r\n\r\n<p>Interested applicants should submit (via pdf or Microsoft Word format only) a current Curriculum Vitae, Bibliography, supplemental narrative statement that addresses relevant experience and qualifications, and the full contact information of five references to:&nbsp;<a href=\"mailto:ninrrecruitment@mail.nih.gov\">ninrrecruitment@mail.nih.gov<\/a>. For questions about the position or application process, email:&nbsp;<a href=\"mailto:Yvonne.Bryan@nih.gov\">Yvonne.Bryan@nih.gov<\/a>. Applications will be accepted through June 10, 2019.<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "271ce670-f57d-4905-b1d0-9cb96de1aab6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Sojourns Scholar Leadership Program Updates"
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-12-21T08:49:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2017-12-21T08:49:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/sojourns-scholar-leadership-program-updates",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p class=\"p1\"><span class=\"s1\">The Cambia Health Foundation recently\u00a0expanded the <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=http-3A__www.cambiahealthfoundation.org_sojourns&amp;d=DwMGaQ&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=HEY6o6WOwRWvCSZOb88mBm15tg-cwpslDQwH9IPMOHE&amp;s=hAUguuGc28oZuanLdxEUWfkNEUUuS981rP4J4-o_HkE&amp;e=\"><span class=\"s2\">Sojourns Scholar Leadership Program<\/span><\/a> to include emerging leaders in palliative care who are physicians, nurses, social workers, physician assistants, chaplains, psychologists, pharmacists and other health system professionals.<\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\">The goal is to be a catalyst for system and culture change by developing palliative care leaders who put patients and families first so that they can live well in the face of serious illness.\u00a0 We recognize that passionate leaders who can move the field forward come from diverse backgrounds and multiple disciplines.\u00a0 The Cambia Health Foundation is investing in emerging leaders to improve the quality of life for people with serious illness and to increase the capacity of the field to provide palliative care across multiple settings so that patients and families can access it wherever they want when they need it most. <\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\"><strong>Interested parties must submit a Letter of Intent by February 1, 2018.<\/strong> After review, a select group of applicants will be invited to submit full applications by June 1, 2018. More information, including details about eligibility, is available at <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=http-3A__www.cambiahealthfoundation.org_sojourns&amp;d=DwMGaQ&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=HEY6o6WOwRWvCSZOb88mBm15tg-cwpslDQwH9IPMOHE&amp;s=hAUguuGc28oZuanLdxEUWfkNEUUuS981rP4J4-o_HkE&amp;e=\"><span class=\"s2\">Sojourns Scholar Leadership Program<\/span><\/a>.<\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\">\u00a0<\/span><\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

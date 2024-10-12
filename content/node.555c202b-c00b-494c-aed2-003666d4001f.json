@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "555c202b-c00b-494c-aed2-003666d4001f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-12-04T22:52:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "July 13th - Webinar: Implementation Science"
+        }
+    ],
+    "created": [
+        {
+            "value": "2016-06-07T15:04:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-12-04T22:52:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/july-13th-webinar-implementation-science",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><a href=\"http:\/\/palliativecareresearch.org\/corescenters\/idc\/idc-webinars\/\">Implementation Science<\/a><\/p>\r\n\r\n<p><strong>Presenter:<\/strong> <strong>Elaine Morrato, DrPH MPH<\/strong> is the Associate Dean for Public Health Practice at the Colorado School of Public Health.&nbsp; Her research focuses on accelerating the translation of drug warnings into clinical practice.&nbsp; She directs the Pragmatic Trials and Dissemination and Implementation Research program and the Innovation-Corps training program for commercialization in the Colorado Clinical &amp; Translational Sciences Institute. <strong>When:&nbsp;<\/strong>&nbsp; Wednesday, July 13th, 2016&nbsp; -&nbsp; 11:00am-12:30pm Eastern Daylight Time *Note this is a 90-minute webinar To Join: <strong>Step 1:<\/strong>&nbsp;&nbsp; Click this link on your computer: <a href=\"https:\/\/webmeeting.ucsf.edu\/orion\/joinmeeting.do?ED=JmS_7WysH8ZD7BtTUODPnA==&amp;Rnd=0.22234557366096264\" target=\"_blank\">https:\/\/webmeeting.ucsf.edu\/orion\/joinmeeting.do?ED=JmS_7WysH8ZD7BtTUODPnA==&amp;Rnd=0.22234557366096264<\/a> <strong>Step 2:<\/strong> &nbsp; Connect to the audio portion of the meeting. Either:<\/p>\r\n\r\n<ul>\r\n\t<li>Let the system call your phone (you will receive prompts once you have clicked on the link above and joined the meeting)<\/li>\r\n\t<li>Call in directly, using this phone number: +1 415-514-1000; Access Code: 990 489 623<strong>IMPORTANT NOTE:<\/strong> You must have the WebEx Meeting plugin downloaded to your computer in order for WebEx to work. The first time you start or join a meeting, you will be prompted to download the plugin to your computer or you may choose to run WebEx as a temporary application. We strongly encourage you to test WebEx before the webinar.&nbsp; To download the plugin or to confirm that you're able to successfully join, click here:&nbsp; <a href=\"http:\/\/www.webex.com\/test-meeting.html\" target=\"_blank\">http:\/\/www.webex.com\/test-meeting.html<\/a><\/li>\r\n<\/ul>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

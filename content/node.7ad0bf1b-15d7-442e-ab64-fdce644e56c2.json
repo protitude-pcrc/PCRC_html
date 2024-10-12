@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "7ad0bf1b-15d7-442e-ab64-fdce644e56c2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-08-02T15:37:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Funding Acknowledgement"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-06-10T17:35:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-08-02T15:37:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news-publications\/funding-acknowledgement",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h3>For publications from PCRC Awards:<\/h3>\r\n\r\n<p>Acknowledge the PCRC and the National Institute of Nursing Research in all public communication of work resulting from your specific grant, including published studies, media communications, and Internet-based communications.<\/p>\r\n\r\n<p><em><strong>Statement to include: <\/strong><\/em>[\u201cResearch reported in this publication was supported by the National Institute of Nursing Research of the National Institutes of Health under award number U2CNR014637. &nbsp;The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.\u201d]<\/p>\r\n\r\n<p>[button url=\"\/node\/522\" size=\"\" color=\"green\"]PCRC logo files[\/button]<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

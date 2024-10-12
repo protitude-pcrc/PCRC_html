@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "250d4659-6ea8-4b98-b7e6-64a6ee7f0411"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/9c7a7e82-3147-4635-9b3d-5622f0297d39"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/study\/family-experiences-icu-transfers"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

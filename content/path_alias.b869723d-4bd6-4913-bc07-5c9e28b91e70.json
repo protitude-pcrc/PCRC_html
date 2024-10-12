@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "b869723d-4bd6-4913-bc07-5c9e28b91e70"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/264415b4-5820-4439-a83d-d1133aba1ada"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/pcori-funding-announcement"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

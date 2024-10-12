@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "dcd6eec9-a6f3-49b3-beef-15c80402e2fb"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/a16d7ade-06be-4e96-baab-deedda179fbe"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/study\/pilot-testing-virtual-reality-protocol-improving-pain-and-pain-related-distress-patients"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

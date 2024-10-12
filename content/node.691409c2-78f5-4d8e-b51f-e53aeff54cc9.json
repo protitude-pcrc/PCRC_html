@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "691409c2-78f5-4d8e-b51f-e53aeff54cc9"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-01-23T16:59:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "NIH Collaboratory: New Self-Paced ePCT Training Course Available"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-01-23T16:49:54+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-01-23T16:59:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/nih-collaboratory-new-self-paced-epct-training-course-available",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The NIH Collaboratory is pleased to announce the availability of a new self-paced, 10-module introductory course on how to design, conduct, and disseminate embedded PCTs (ePCTs). This course presents condensed material from the inaugural ePCT Training Workshop held in 2018 and provides users with important things to know and do when designing an ePCT, along with helpful links to additional learning resources within the Living Textbook.<\/p>\r\n\r\n<center>[button size=\"medium\" color=\"green\" url=\"http:\/\/rethinkingclinicaltrials.org\/news\/january-22-2019-new-self-paced-epct-training-course-available\/\" target=\"_blank\"]See the announcement![\/button]<\/center>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<p>Also available in the Living Textbook are links to videocast workshops hosted by the NIH on a range of ePCT topics including:<\/p>\r\n\r\n<ul>\r\n\t<li>Embedded PCTs of therapeutic A versus B interventions<\/li>\r\n\t<li>Unique opportunities for disseminating, implementing, and sustaining evidence-based practices into clinical care<\/li>\r\n\t<li>Ethical and regulatory issues of PCTs<\/li>\r\n<\/ul>\r\n\r\n<p>For these and other ePCT resources, visit the NIH&nbsp;Collaboratory&nbsp;<a href=\"http:\/\/rethinkingclinicaltrials.org\/training-resources\/\" target=\"_blank\">Training Resources<\/a> webpage.<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

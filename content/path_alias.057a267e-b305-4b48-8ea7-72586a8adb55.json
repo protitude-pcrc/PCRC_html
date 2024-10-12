@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "057a267e-b305-4b48-8ea7-72586a8adb55"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/42ac1dca-2144-44d5-877f-f14c8f922d2f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/pr-2016-0884pdf"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

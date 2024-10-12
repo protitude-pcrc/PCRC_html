@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "5bbfc029-5138-4906-bda1-1b6b6b3bf886"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/bf43ab06-e03d-4cb4-a90f-92298829dda8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/flintcool"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

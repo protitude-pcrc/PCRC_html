@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "041d7e7b-4909-4ebf-9c68-47d21aa225b8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "R21 FOA PUBLISHED"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-08-22T05:24:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2015-08-22T05:24:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/r21-foa-published",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h4><span style=\"color: #0481b2;\"><a style=\"color: #0481b2;\" href=\"http:\/\/grants.nih.gov\/grants\/guide\/pa-files\/PAR-15-337.html\" target=\"_blank\">Funding Opportunity Announcement: Exploratory Multi-site Palliative Care Research in Diverse Populations Utilizing the Palliative Care Research Cooperative (PCRC) Group (R21)<\/a><\/span><\/h4>\r\n<strong><span style=\"color: #0481b2;\"><span class=\"heading3\">Funding Opportunity Announcement (FOA) Number:<\/span>\u00a0PAR-15-337<\/span><\/strong>\r\n\r\n<span style=\"color: #00007f; font-family: Helvetica;\"><span class=\"heading3\"><span style=\"text-decoration: underline;\"><strong><span style=\"color: #000000; text-decoration: underline;\">Key Dates:<\/span><\/strong><\/span>\r\n<\/span><\/span><strong>Posted Date:<\/strong>\u00a0\u00a0 August 21, 2015<span style=\"font-family: Helvetica;\">\r\n<strong>Letter of Intent due to NINR:\u00a0<\/strong> October 30, 2015\r\n<strong>Application Due:\u00a0<\/strong> November 30, 2015\r\n<strong>Earliest Estimated Start Date:\u00a0<\/strong>\u00a0July 2016\r\n<\/span>\r\n\r\n<span style=\"text-decoration: underline;\"><strong>Steps to apply for this R21:<\/strong><\/span>\r\n<ul>\r\n\t<li>Contact\u00a0<a href=\"mailto:karen.kehl@nih.gov\">NINR<\/a><\/li>\r\n\t<li>Contact\u00a0<a href=\"mailto:CAREY.CANDRIAN@ucdenver.edu\">PCRC<\/a><\/li>\r\n\t<li>Submit<a href=\"http:\/\/palliativecareresearch.org\/research\/investigators\/loi\/\">\u00a0LOI to PCRC<\/a> (binding); <strong>C<\/strong><span style=\"color: #000000;\"><strong>ontact Dr. Carey Candrian at <a href=\"mailto:carey.candrian@ucdenver.edu\">carey.candrian@ucdenver.edu<\/a> as soon as possible for instructions and guidance.<\/strong><\/span><\/li>\r\n\t<li>Submit LOI to NINR (nonbinding); <strong>October 30, 2015<\/strong><\/li>\r\n\t<li>Submit application to NINR; <strong>November 30, 2015, by 5:00 PM local time of applicant organization<\/strong><\/li>\r\n<\/ul>\r\n<strong><a href=\"http:\/\/palliativecareresearch.org\/funding\/funding-opportunities\/\">Visit the PCRC Funding Opportunities page for more information. \u00a0<\/a><\/strong>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

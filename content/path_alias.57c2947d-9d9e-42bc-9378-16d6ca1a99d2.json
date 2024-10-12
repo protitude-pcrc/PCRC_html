@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "57c2947d-9d9e-42bc-9378-16d6ca1a99d2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/02e9cc23-e344-42b4-80e2-71c06a85af94"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/kp47"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

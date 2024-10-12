@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "64c2cfa4-ee69-48f0-8453-65926a845260"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/2b9cd021-2f19-4cda-bc4e-f16ea77567b9"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/corescenters\/data-informatics-statistics-core-disc\/pcrc-standardized-data-elements"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

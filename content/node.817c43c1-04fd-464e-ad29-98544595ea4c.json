@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "817c43c1-04fd-464e-ad29-98544595ea4c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Pragmatic Trials for Dementia Care in Long-term Services and Support Settings R61\/R33"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-02-06T05:24:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-02-06T05:24:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/pragmatic-trials-dementia-care-long-term-services-and-support-settings-r61r33",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p class=\"p1\"><span class=\"s1\">Funding Opportunity Number:\u00a0PAR-18-585\r\n<\/span><span class=\"s1\">CFDA Number:\u00a093.866<\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\">National Institute on Aging (<a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=http-3A__www.nia.nih.gov_&amp;d=DwMGaQ&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=12r7gQsoTRVFOFemyvMBx44Pb_WBLry99ekjFoDZ37U&amp;s=OLh6ax0I1swQO4ii3IUmw3W0RV-Q9tEGb1LWF9qBUdo&amp;e=\"><span class=\"s2\">NIA<\/span><\/a>)<\/span><span class=\"s3\">\u00a0invites applications for\u00a0pragmatic trials for dementia care in Long-term Services and Support (LTSS) settings which will: (1) be designed to address practical comparative questions faced by Alzheimer\u2019s disease (AD) and AD-related dementia (ADRD) patients, clinicians and caregivers (both paid and unpaid); (2) include broad and diverse populations; and (3) be conducted in real-world settings. These trials are intended to produce results that can be directly adopted by healthcare providers, patients or caregivers for rapid translation.<\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\">Deadline Dates: Applications may be submitted on or after February 23, 2018. The deadline for receipt of optional letters of intent is 30 days prior to the application due date. The deadlines for receipt of full applications are: March 27, 2018; February 20, 2019; and February 20, 2020, by 5:00 PM local time of applicant organization. This FOA will expire on February 21, 2020.\r\n\r\nFor more details, visit:\u00a0<a href=\"https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/PAR-18-585.html\" target=\"_blank\" rel=\"noopener\">https:\/\/grants.nih.gov\/grants\/guide\/pa-files\/PAR-18-585.html<\/a><\/span><\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

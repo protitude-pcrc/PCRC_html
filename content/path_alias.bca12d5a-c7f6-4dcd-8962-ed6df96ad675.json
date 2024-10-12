@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "bca12d5a-c7f6-4dcd-8962-ed6df96ad675"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/271092b2-9531-44b5-8b30-9c49732e00dd"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/simulationdctspdf"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

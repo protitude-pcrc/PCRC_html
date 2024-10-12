@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "3a565e94-7b26-4cd3-a31a-fd479c6f4f90"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-08-05T18:34:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Example Proposals"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-08-05T20:18:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-08-05T18:34:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/corescenters\/caregiver-core\/example-proposals",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><a href=\"https:\/\/pcrc.box.com\/s\/cal88ua22sg1mxas4lswsxtdl4djpdrm\" rel=\"noopener\" target=\"_blank\">Family Caregivers of Patients with Lung Cancer<\/a>&nbsp;is&nbsp;an example of a proposal focused on caregiving. &nbsp;This particular example represents one of three R01s within a program project grant (P01) funded by the NCI&nbsp;which&nbsp;includes the family caregivers across both early and late stage lung cancer patients. &nbsp;The study was funded from 2009-2014 to the City of Hope Medical Center, Betty Ferrell, PI.<\/p>\r\n\r\n<p><a href=\"https:\/\/pcrc.box.com\/s\/etpig0x3rihpw7yh0x0fv06cmrhzulc8\" rel=\"noopener\" target=\"_blank\">Lay Coach-Led Early Palliative Care for Underserved Advanced Cancer Caregivers: The Project ENABLE Cornerstone RCT<\/a> is an example of a recently-funded R01 application, generously shared by Dr. Dionne-Odom. &nbsp;This study is testing a&nbsp;lay navigator-led, community-based, telehealth early PC intervention for underserved rural and African-American FCGs of newly-diagnosed advanced cancer patients.&nbsp;<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

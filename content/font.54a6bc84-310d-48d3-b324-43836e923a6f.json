@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "54a6bc84-310d-48d3-b324-43836e923a6f"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Scheherazade&subset=arabic#700"
+        }
+    ],
+    "name": [
+        {
+            "value": "Scheherazade 700 (arabic)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Scheherazade"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "700"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:16:\"Scheherazade:700\";s:6:\"subset\";s:6:\"arabic\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:01:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:01:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "12b0dea5-d190-4fa8-bef6-36049468456b"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "77be5c58-1174-4af9-b2c4-9e8f09b63c12"
+        }
+    ],
+    "field_tags": []
+}

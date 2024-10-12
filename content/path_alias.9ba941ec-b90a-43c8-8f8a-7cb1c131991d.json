@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "9ba941ec-b90a-43c8-8f8a-7cb1c131991d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/bbc84103-4817-4be3-ba6d-6aab19918995"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/echuang"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

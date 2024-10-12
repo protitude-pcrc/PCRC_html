@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f0bac416-ddb9-451c-93e9-778742f73346"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/5925e705-11e6-453a-b76f-28fa836e5f50"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/study\/barriers-hospice-and-palliative-care-utilization"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

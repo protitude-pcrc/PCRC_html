@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "533d7060-5919-4449-baf4-2702be6c01ce"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-12-04T22:52:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "NIH Webinar Series: Mind the Gap"
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-11-29T08:36:25+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-12-04T22:52:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/nih-webinar-series-mind-gap",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p><strong><span>Research Methods Resources A New Website from the NIH Office of Disease Prevention<\/span><\/strong><\/p>\r\n\r\n<p><span>Presented by&nbsp;<\/span><span><strong>David Murray, Ph.D. <\/strong><\/span><span>Associate Director for Prevention Director of the Office of Disease Prevention<\/span><\/p>\r\n\r\n<p><span><strong>Wednesday, December 13, 2017 | 11:00 a.m. to 12:00 noon ET<\/strong><\/span><\/p>\r\n\r\n<p><span>This webinar will provide a guided tour of the new website, <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=http-3A__r20.rs6.net_tn.jsp-3Ff-3D0014EO8m3cJ6-5Fq-5FfQ6MtPf5pTLhFqrp8o33cYve3nDwiwpvOjzgSw8m-2Dbc9M2Wjsewu-2D9udA-5FMwYQabmSk8jTUumawGKgVGRu9iJSju7eSm871a9U5F3DbPTH-2Dwr-5F2uO-2DvK84qxCPI7WqrQCtybTeR0M6UPOupc1vCujbjOrgVSWjAG38RqmnDFErb0rUjFD3CrVlBc9j08UtP-2DWcS0RCc6DZ7rNBSOG-2Duud6XjOqALDceqeemSkviUj-2D0CRSITLO2kU2B-2DTVq0olB4YFg6sxZO8FScM2cD0pyKyNxbyNIZ0CYl4pY0pc7MVJ2lBjg7hvEB5qyNxdC4o3r-5F4t0sCchpyg-3D-3D-26c-3Deqb8f-2DYbf5NQixlS0Kq4GRbkSOj3QNIQQ4K-5Fzc-2DdlEwLLqpAc4eaAw-3D-3D-26ch-3D7RuxEk58J7dkuFRzKtNb1wRXlASeYzjiLeNaD-5Fzfk8lFJASOOHaQEA-3D-3D&amp;d=DwMFAg&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=DpfrjJvnOVHpE7Ot39t6f1qEZC9zYmJKbx_ADH15ZKM&amp;m=LmxdiwpCaSCJtZh5wnZx0GtIezSMs2tUweuSQYt5Xq0&amp;s=KrKKtn41xx2IoNI0NTa9cWi8PWGfTEPmx8kfvkmK_gg&amp;e=\"><span>Research Methods Resources<\/span><\/a>, and discuss its relevance to the changes in <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=http-3A__r20.rs6.net_tn.jsp-3Ff-3D0014EO8m3cJ6-5Fq-5FfQ6MtPf5pTLhFqrp8o33cYve3nDwiwpvOjzgSw8m-2DZgrt-2DFNMBt-2DI-2DE8Bk4w5mBJpWF90CG0e-2DtNjEql6-5FjKO9AePcQm271hyOZL-2DO5ksd95JuD1FvFpA1cL9uzC1eQ4um67OJ2vXFg1XPePIkpk-5FnTm5Y2KlBaVmxa5ME7q42mgQL5ZERNi42RqaX6M6sNIir5tjGV1nw-3D-3D-26c-3Deqb8f-2DYbf5NQixlS0Kq4GRbkSOj3QNIQQ4K-5Fzc-2DdlEwLLqpAc4eaAw-3D-3D-26ch-3D7RuxEk58J7dkuFRzKtNb1wRXlASeYzjiLeNaD-5Fzfk8lFJASOOHaQEA-3D-3D&amp;d=DwMFAg&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=DpfrjJvnOVHpE7Ot39t6f1qEZC9zYmJKbx_ADH15ZKM&amp;m=LmxdiwpCaSCJtZh5wnZx0GtIezSMs2tUweuSQYt5Xq0&amp;s=b8AomKBQRDfmt4WUnITEyVKI3VZQIUYzC0nV8eJmR0A&amp;e=\"><span>NIH requirements for applications for clinical trials<\/span><\/a> submitted on or after January 25, 2018. It will include examples to illustrate the use of the sample size calculator for group- or cluster-randomized trials, which is included on the website.<\/span><\/p>\r\n\r\n<p><strong>REGISTRATION IS REQUIRED:&nbsp; <a href=\"https:\/\/nih.webex.com\/mw3100\/mywebex\/default.do?nomenu=true&amp;siteurl=nih&amp;service=6&amp;rnd=0.9672541096777683&amp;main_url=https%3A%2F%2Fnih.webex.com%2Fec3100%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Ddetail%26%26%26EMK%3D4832534b0000000404beedf8385495b2abb5194931705a7bf205db2f552eb1d2e2d3cdbf597fc260%26siteurl%3Dnih%26confViewID%3D76345587364029809%26encryptTicket%3DSDJTSwAAAAT21L4rSiT9KVjGTmWpKZ0gQHVBzXLF044k3kW4ov-F0A2%26\" rel=\"noopener\" target=\"_blank\">Sign up here!<\/a><\/strong><\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

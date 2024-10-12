@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "5a854c0b-e5b7-4ce1-95c2-0a3f83636dcd"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/89b2672f-260f-4660-895c-6eb6554b8e75"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/study\/focis"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

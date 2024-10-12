@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "3144a019-6f5b-4c40-a0fa-f3ace11a25d4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Save the date: 3rd Annual Quality Matters Conference for palliative care and hospice professionals"
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-08-31T03:10:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2017-08-31T03:10:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/save-date-3rd-annual-quality-matters-conference-palliative-care-and-hospice-professionals",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p class=\"p1\"><span class=\"s1\">Global Palliative Care Quality Alliance is pleased to announce that the 3rd Annual Quality Matters Conference for palliative care and hospice professionals will take place on October 26th, 2017 from 12-5pm EST. \u00a0 Complimentary CME\/CNE credits are possible.<\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\">Registration is free and the conference is recorded so individuals\/teams can watch parts of the conference, and come back and watch the recording later. \u00a0\u00a0<\/span><\/p>\r\n<p class=\"p1\">For more Information &amp; Registration: <a href=\"http:\/\/www.gpcqa.org\/qmc\" target=\"_blank\" rel=\"noopener\">http:\/\/www.gpcqa.org\/qmc<\/a><\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

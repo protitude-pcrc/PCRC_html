@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "6565ade6-6dcb-4b5c-835c-5f56d893dbff"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/ac0cc7fe-8f49-4248-acc6-79b25e1066fd"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/surrogatedatadictionarycodebook-ercpdf"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

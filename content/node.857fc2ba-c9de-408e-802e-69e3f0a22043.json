@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "857fc2ba-c9de-408e-802e-69e3f0a22043"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-04-26T20:58:14+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Research"
+        }
+    ],
+    "created": [
+        {
+            "value": "2014-08-12T22:06:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-04-26T20:58:14+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/research",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h4><strong><a href=\"\/research\/investigator-support-information\">Investigator Support Information<\/a><\/strong><\/h4>\r\n\r\n<p>The PCRC supports investigators conducting multi-site clinical research from initial study concept to study design and implementation, utilizing the expert Palliative Care\/End of Life (PCEOL) research leaders that comprise the <a href=\"\/corescenters\">PCRC Centers and Cores<\/a>. The PCRC further supports investigators by providing replicable infrastructure, processes, tools, and methods.&nbsp;<\/p>\r\n\r\n<h4><strong><a href=\"\/research\/pilot-studies\">Pilot Studies<\/a><\/strong><\/h4>\r\n\r\n<p>The PCRC pilot awards provide seed funding for research activities to be conducted utilizing PCRC resources and offer opportunities for investigators to participate in investigator development activities, including mentorship from expert investigators in the field. The PCRC is well aligned to support pilot studies designed to generate initial data that will inform and strengthen future multi-site palliative care research. Pilot studies play a pivotal role in the PCRC\u2019s commitment to support ongoing investigator development. <a href=\"\/funding-opportunities\">Pilot funding opportunities<\/a> occur annually.<\/p>\r\n\r\n<h4><strong>Active Clinical Studies<\/strong><\/h4>\r\n\r\n<p>The PCRC was established with a primary goal of helping investigators overcome the many challenges of conducting multi-site research in order to advance the field of palliative care. The PCRC offers an interdisciplinary infrastructure as a means to efficiently complete complex studies that otherwise would not or could not be undertaken. It encourages the use of common outcome measures, enhances recruitment, and maximizes generalizability of study results. By pooling resources and expertise across sites, the PCRC leverages sites\u2019 varied research capacities. The PCRC supports a broad range of study topics, designs, outcomes, and methodologies (e.g., quantitative, qualitative, exploratory, explanatory, implementation). <strong>&nbsp;<\/strong><\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

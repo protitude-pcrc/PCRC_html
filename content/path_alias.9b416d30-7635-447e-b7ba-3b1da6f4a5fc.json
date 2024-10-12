@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "9b416d30-7635-447e-b7ba-3b1da6f4a5fc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/041d7e7b-4909-4ebf-9c68-47d21aa225b8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/r21-foa-published"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

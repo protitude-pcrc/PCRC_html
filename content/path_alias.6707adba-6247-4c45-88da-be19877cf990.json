@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "6707adba-6247-4c45-88da-be19877cf990"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/72ced091-2192-420f-9129-89cb2ac33830"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/pcrc-admin"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

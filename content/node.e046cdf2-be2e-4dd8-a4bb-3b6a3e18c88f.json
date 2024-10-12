@@ -1,0 +1,102 @@
+{
+    "uuid": [
+        {
+            "value": "e046cdf2-be2e-4dd8-a4bb-3b6a3e18c88f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "Seeking Research PhD Applicants: Health Psychology training in Palliative Care at Tulane University"
+        }
+    ],
+    "created": [
+        {
+            "value": "2016-10-19T21:56:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2016-10-19T21:56:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/seeking-research-phd-applicants-health-psychology-training-palliative-care-tulane-university",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p class=\"p1\"><span class=\"s2\">Tulane University is seeking Psychology PhD applicants with an interest in palliative care psychology research. The Health Psychology program, which will be entering its 2<\/span><span class=\"s3\"><sup>nd<\/sup><\/span><span class=\"s2\"> year, provides a non-clinical doctorate in research and is ideal for applicants interested in psycho-oncology who may be contemplating programs at the intersection of psychology and public health. Psychology PhD students receive five-year nationally-competitive assistantships. New Orleans is a diverse, welcoming, and rapidly expanding city, with warm winters, and a rich culture that thrives on music, entertainment, and cuisine. Culturally diverse applicants are encouraged to apply as Tulane University is an Affirmative Action\/Equal Opportunity institution.\r\n\r\nFor questions, please contact Michael Hoerger, PhD, MSCR (<a href=\"mailto:mhoerger@tulane.edu\"><span class=\"s4\">mhoerger@tulane.edu<\/span><\/a><\/span><span class=\"s1\">)<\/span><span class=\"s2\">\r\nAnnouncement:\u00a0<a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=http-3A__www.healthpsychphd.com_&amp;d=CwMFAg&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=-KxQLJrBwEj5a8yRh-IlO7M5NLiyYu8ggwg3CPiFIFM&amp;m=N5es4s_fK70txLQizsSEpxl3tESIgnx4XJDRpXz4gY8&amp;s=a2WQQ0xTCI62OI7XrBMlthJB_JuQpRBZprL8bgR1JqI&amp;e=\"><span class=\"s4\">http:\/\/www.healthpsychphd.com\/<\/span><\/a>\r\nDeadline: 12\/1\/16<\/span><\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

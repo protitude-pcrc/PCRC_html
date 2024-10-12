@@ -1,0 +1,110 @@
+{
+    "uuid": [
+        {
+            "value": "7efb3987-c9c7-48e2-b493-558ce0e10ec8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-08-26T15:32:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "New PCRC Awardee Publication!"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-08-26T15:24:14+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-08-26T15:32:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/new-pcrc-awardee-publication",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h1>Congratulations to PCRC pilot awardee and study PI, Angela Ghesquiere!<\/h1>\r\n\r\n<h2><a href=\"https:\/\/authors.elsevier.com\/a\/1ZZAm3RTyQTszN\" target=\"_blank\">Abstract<\/a><\/h2>\r\n\r\n<p id=\"spar0055\"><a href=\"https:\/\/authors.elsevier.com\/a\/1ZZAm3RTyQTszN\" target=\"_blank\">Massage therapy (MT) may be more effective for certain subgroups of advanced cancer patients, but this is not well-studied. Psychological symptoms are one potential moderator of MT outcomes, as they occur frequently in MT patients. Therefore, we conducted a secondary analysis of data from a multi-site study which compared MT to simple touch in 380 adults with advanced cancer. We examined whether the presence of depression or baseline psychological symptom frequency moderated outcomes of change in pain, interference of pain, quality of life, 60-second heart and respiratory rates, and physical distress. We found significant main effects of depression and baseline psychological symptom frequency on changes in pain, 60-second heart and respiratory rates, quality of life, and physical distress for both MT and simple touch, but did not find differential responses between groups in moderator analyses. Results imply that psychological interventions could be targeted to patients with cancer who are receiving any type of touch therapy to improve outcomes.<\/a><\/p>\r\n\r\n<p>Full article available here:&nbsp;<span style=\"font-size:13.5pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\"><span style=\"color:#53565a\"><a href=\"https:\/\/authors.elsevier.com\/a\/1ZZAm3RTyQTszN\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><span style=\"color:#007398\">https:\/\/authors.elsevier.com\/a\/1ZZAm3RTyQTszN<\/span><\/a><\/span><\/span><\/span><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Associations between psychological symptoms and treatment outcomes of a massage therapy intervention: Secondary analyses of a RCT"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6dd63752-6c14-4b63-b4b3-629fa676ba6e"
+        }
+    ]
+}

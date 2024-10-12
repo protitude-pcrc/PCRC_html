@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "f93d12c6-4a63-434a-b073-dbf02f6c15e8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-03-07T23:23:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "65809d94-9be9-410d-8447-c799a524fb4c"
+        }
+    ],
+    "title": [
+        {
+            "value": "NPCRC Webinar:\u00a0Research in Disenfranchised and Vulnerable Populations: Overcoming Challenges"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-03-07T18:00:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-03-07T23:23:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/npcrc-webinar-research-disenfranchised-and-vulnerable-populations-overcoming-challenges",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The National Palliative Care Research Center (NPCRC) has invited members of the PCRC to attend a webinar this Thursday:<\/p>\r\n\r\n<center>\r\n<h3>\"Research in Disenfranchised and Vulnerable Populations: Overcoming Challenges\"<\/h3>\r\n<\/center>\r\n\r\n<p><strong>Brie Williams, MD, MS<\/strong>, Professor of Medicine in the UCSF Division of Geriatrics, Director of the Criminal Justice &amp; Health Program at UCSF and Director of the Criminal Justice and Aging Project of Tideswell at UCSF.<\/p>\r\n\r\n<p><strong>Thursday, March 7<sup>th<\/sup>, 2019 at 1:00pm Eastern Time<\/strong> (US and Canada)<\/p>\r\n\r\n<center>[button url=\"https:\/\/zoom.us\/j\/700581191\" color =\"blue\" size=\"large\" target=\"_blank\"]Join Zoom Meeting[\/button]<\/center>\r\n\r\n<center>&nbsp;<\/center>\r\n\r\n<p>One tap mobile<br \/>\r\n+16465588656,,700581191# US (New York)<br \/>\r\n+16699006833,,700581191# US (San Jose)<br \/>\r\n&nbsp;<br \/>\r\nDial by your location<br \/>\r\n&nbsp; &nbsp; &nbsp; &nbsp; +1 646 558 8656 US (New York)<br \/>\r\n&nbsp; &nbsp; &nbsp; &nbsp; +1 669 900 6833 US (San Jose)<br \/>\r\nMeeting ID: 700 581 191<br \/>\r\nFind your local number: https:\/\/zoom.us\/u\/arOIvIILL<\/p>\r\n\r\n<p style=\"text-align:center\"><img align=\"center\" alt=\"\" data-file-id=\"1063263\" id=\"_x0000_i1025\" src=\"https:\/\/gallery.mailchimp.com\/35d8f230d0736fcddc4387497\/images\/98bd90b6-7fc5-4850-bf07-f178196f1699.png\" style=\"border:initial; outline:none; -ms-interpolation-mode:bicubic; height:81px; margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:0px; text-decoration:none; width:175px\" \/><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "Thursday, March 7, 1 PM ET"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        }
+    ]
+}

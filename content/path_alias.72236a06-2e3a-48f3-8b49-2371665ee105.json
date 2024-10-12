@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "72236a06-2e3a-48f3-8b49-2371665ee105"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/file\/beb5b3c4-4ae2-42f0-b5a1-4a3d5b15cdec"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/file\/timelinepng"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

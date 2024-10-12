@@ -1,0 +1,99 @@
+{
+    "uuid": [
+        {
+            "value": "20816007-3bcd-40b4-b20d-c1485b873fee"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-07-01T19:21:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b8fa8193-a706-41e4-acf7-6515a79af290"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Extramural Grant Process"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-07-13T15:50:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-07-01T19:21:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/research\/conduct-your-research-through-pcrc\/extramural-grant-process",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>If you are an investigator interested in submitting a grant proposal in collaboration with the PCRC, the following figures outline the ideal steps and timeline to be followed.&nbsp;Embedded in the figures are the supportive and&nbsp;consultative&nbsp;resources&nbsp;available&nbsp;to you as you move through grant\/study development and eventually to study start up and implementation.<\/p>\r\n\r\n<p><a href=\"\/sites\/default\/files\/Extramural%20Grant%20Flow%202021.png\"><img alt=\"\" class=\"alignnone size-full wp-image-2541\" src=\"\/sites\/default\/files\/Extramural%20Grant%20Flow%202021.png\" \/><\/a> <a href=\"\/sites\/default\/files\/SRC%20arrow%20flow%202021.png\"><img alt=\"\" class=\"alignnone size-full wp-image-2540\" src=\"\/sites\/default\/files\/SRC%20arrow%20flow%202021.png\" \/><\/a><\/p>\r\n\r\n<p>&nbsp;<\/p>\r\n\r\n<table class=\"table-simple table-green\">\r\n\t<thead>\r\n\t\t<tr>\r\n\t\t\t<th>Pre-Award Phase **<\/th>\r\n\t\t\t<th>Links<\/th>\r\n\t\t<\/tr>\r\n\t<\/thead>\r\n\t<tfoot>\r\n\t\t<tr>\r\n\t\t\t<th>\r\n\t\t\t<p><em>** PI should contact the PCRC ideally three&nbsp;<\/em><em>months prior to grant due date for the scientific review&nbsp;process<\/em><\/p>\r\n\t\t\t<\/th>\r\n\t\t\t<th>&nbsp;<\/th>\r\n\t\t<\/tr>\r\n\t<\/tfoot>\r\n\t<tbody>\r\n\t\t<tr class=\"row-bkgd\">\r\n\t\t\t<td><strong>Pre-Award<\/strong><\/td>\r\n\t\t\t<td>&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<p>Complete Request for Scientific Review form<\/p>\r\n\t\t\t<\/td>\r\n\t\t\t<td>\r\n\t\t\t<p><a href=\"https:\/\/airtable.com\/shrrIvoSF1jNxAgNi\">SRC Request form<\/a><\/p>\r\n\t\t\t<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<p>Complete the PCRC Project Coordinating Center (PCC) Services checklist, selecting the PCRC Services you wish to use \/ learn more about<\/p>\r\n\t\t\t<\/td>\r\n\t\t\t<td><a href=\"https:\/\/pcrc.box.com\/s\/xvu3l5305r4jaecy5tjtlg23tdgywnfi\" rel=\"noopener\" target=\"_blank\">PCC Services Checklist<\/a><\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td><strong>Core Consulting<\/strong>: Contact Core and\/or Center Directors for complimentary consultation.<\/td>\r\n\t\t\t<td><a href=\"\/corescenters\" rel=\"noopener\" target=\"_blank\">PCRC Cores<\/a><\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>&nbsp;<\/td>\r\n\t\t\t<td>&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr class=\"row-bkgd\">\r\n\t\t\t<td><strong>Collaborations Involving Budget\/Subcontract with PCRC<\/strong><\/td>\r\n\t\t\t<td>&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>The PCRC will create a budget based upon the PCC checklist responses<\/td>\r\n\t\t\t<td><a href=\"mailto:pcrc@ucdenver.edu; \" rel=\"noopener\" target=\"_blank\">Request meeting to discuss scope of work and budget for proposed work<\/a><\/td>\r\n\t\t<\/tr>\r\n\t\t<tr class=\"row-bkgd\">\r\n\t\t\t<td><strong>Site Identification (if applicable)<\/strong><\/td>\r\n\t\t\t<td><a href=\"https:\/\/pcrc.box.com\/s\/0n9cz30ol8h3sm4pj85n7ljyge67ap9i\" rel=\"noopener\" target=\"_blank\">Site Collaboration Checklist<\/a><\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Complete Project Information Form, including per participant payment and start up payment for sites (site budgets)<\/td>\r\n\t\t\t<td><a href=\"https:\/\/pcrc.box.com\/s\/kb04jpfujazphb7d5r530q5239l1konv\" rel=\"noopener\" target=\"_blank\">Project Information Form template<\/a><br \/>\r\n\t\t\t<a href=\"https:\/\/pcrc.box.com\/s\/1oio3wifhwfgqikie7njyjcri9vi0f4v\" rel=\"noopener\" target=\"_blank\">PCRC per-participant payment model information sheet<\/a><\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>PCRC sends \u201cwarm handoff\u201d email to potential study sites with Project Information Form<\/td>\r\n\t\t\t<td>&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Study PI directly talks with potential Study Site PIs about study specifics and budget (including Single IRB)<\/td>\r\n\t\t\t<td>&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Study PI obtains commitment from sites and requests Letters of Support and other required docs from each site for grant application<\/td>\r\n\t\t\t<td>&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr class=\"row-bkgd\">\r\n\t\t\t<td><strong>Letter of Support<\/strong><\/td>\r\n\t\t\t<td>&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>PI requesting a Letter of Support should submit request using the on-line submission portal.&nbsp; For LOS requests, please give 2-3 weeks lead time.<\/td>\r\n\t\t\t<td><a href=\"https:\/\/airtable.com\/shrbX2sU5X9QVA8vb\" rel=\"noopener\" target=\"_blank\">Letter of Support Request: On-Line Submission Portal<\/a><\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>PI informs PCRC which Cores\/Centers were contacted pre- and post-award<\/td>\r\n\t\t\t<td>&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t<\/tbody>\r\n<\/table>\r\n\r\n<table class=\"table-simple table-orange\">\r\n\t<thead>\r\n\t\t<tr>\r\n\t\t\t<th>PI Received Fundable Score<\/th>\r\n\t\t\t<th>Links<\/th>\r\n\t\t<\/tr>\r\n\t<\/thead>\r\n\t<tbody>\r\n\t\t<tr class=\"row-bkgd\">\r\n\t\t\t<td><strong>Protocol Development<\/strong><\/td>\r\n\t\t\t<td>&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Use PCRC Protocol Instructions and template<\/td>\r\n\t\t\t<td><a href=\"https:\/\/pcrc.box.com\/s\/mr4d415b6e787y1kxmn99z5csvbploao\" rel=\"noopener\" target=\"_blank\">PCRC Protocol instructions &amp; template<\/a><\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Ensure PCRC-required language is included<\/td>\r\n\t\t\t<td>&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Provide to Project Coordinating Center (PCC) for review and comments<\/td>\r\n\t\t\t<td>&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Revise protocol as necessary \u2013 it is now ready for review by PCRC\u2019s Scientific Review Committee<\/td>\r\n\t\t\t<td>&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr class=\"row-bkgd\">\r\n\t\t\t<td><strong>Data Related<\/strong><\/td>\r\n\t\t\t<td>&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Analysis Plan: Consult with budgeted Data Informatics &amp; Statistics Core (DISC) to review your analysis plan<\/td>\r\n\t\t\t<td><a href=\"\/corescenters\/data-informatics-and-statistics-core-disc\">Data Informatics &amp; Statistics Core (DISC)<\/a><\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Data Dictionary: Consult with budgeted Data Informatics &amp; Statistics Core (DISC) to review your data dictionary and ensure PCRC-required standardized data elements are included<\/td>\r\n\t\t\t<td><a href=\"\/corescenters\/data-informatics-and-statistics-core-disc\">Data Informatics &amp; Statistics Core (DISC)<\/a><\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Data Collection Tools: Consult with Measurement and\/or Caregiver Core to review your instruments<\/td>\r\n\t\t\t<td><a href=\"\/corescenters\/measurement-core\/\">Measurement Core<\/a> and <a href=\"\/corescenters\/caregiver-core\/\">Caregiver Core<\/a><\/td>\r\n\t\t<\/tr>\r\n\t<\/tbody>\r\n<\/table>\r\n\r\n<table class=\"table-simple table-blue\">\r\n\t<thead>\r\n\t\t<tr>\r\n\t\t\t<th>When Study is Funded<\/th>\r\n\t\t\t<th>Links<\/th>\r\n\t\t<\/tr>\r\n\t<\/thead>\r\n\t<tbody>\r\n\t\t<tr class=\"row-bkgd\">\r\n\t\t\t<td><strong>Finalization of Study Protocol<\/strong><\/td>\r\n\t\t\t<td>&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Protocol reviewed by PCRC\u2019s Scientific Review Committee (SRC)<\/td>\r\n\t\t\t<td>&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Comments\/suggestions from SRC incorporated; protocol revised (if necessary)<\/td>\r\n\t\t\t<td>&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Protocol provided to Study Site PIs (SSPIs) for their review (at PI\u2019s discretion)<\/td>\r\n\t\t\t<td>&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Protocol finalized by Study PI<\/td>\r\n\t\t\t<td>&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Finalized protocol handed over to PCRC to ensure version control<\/td>\r\n\t\t\t<td>&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr class=\"row-bkgd\">\r\n\t\t\t<td><strong>Pre-Implementation Tasks<\/strong> **<\/td>\r\n\t\t\t<td>&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Finalize data collection tools, consulting with Cores\/Centers as needed<\/td>\r\n\t\t\t<td>\r\n\t\t\t<p><a href=\"\/corescenters\/\">PCRC Core contact<\/a><br \/>\r\n\t\t\t<a href=\"\/operations\/\">Project Coordinating Center Contact list<\/a><\/p>\r\n\t\t\t<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Finalize data dictionary and build of database, consulting with Data Informatics &amp; Statistics Core (DISC), as appropriate<\/td>\r\n\t\t\t<td><a href=\"\/corescenters\/data-informatics-and-statistics-core-disc\">Data Informatics &amp; Statistics Core (DISC)<\/a><\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Develop data collection instructions \/ manual, consulting with Project Coordinating Center and Data Informatics &amp; Statistics Core (DISC) as appropriate<\/td>\r\n\t\t\t<td><a href=\"\/operations\/\">Project Coordinating Center Contact list<\/a><\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Submit IRB application to Single IRB of record<\/td>\r\n\t\t\t<td>&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Prepare necessary finance\/contract paperwork<\/td>\r\n\t\t\t<td>&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>PI communicates with any Core leaders who are included in the study budget for post-award consulting<\/td>\r\n\t\t\t<td>&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Work with Project Coordinating Center to develop Study Start Up training materials (if included in budget)<\/td>\r\n\t\t\t<td>&nbsp;<\/td>\r\n\t\t<\/tr>\r\n\t<\/tbody>\r\n\t<tfoot>\r\n\t\t<tr>\r\n\t\t\t<th><em>** Responsible party determined during pre-award phase &amp; included in budget<\/em><\/th>\r\n\t\t\t<th>&nbsp;<\/th>\r\n\t\t<\/tr>\r\n\t<\/tfoot>\r\n<\/table>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": [
+        {
+            "value": "If you are an investigator interested in submitting a grant proposal in collaboration with the PCRC, the following figures outline the ideal steps and timeline to be followed"
+        }
+    ]
+}

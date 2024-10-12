@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "2acbadfb-5330-4661-8af4-05dee2707474"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/72ced091-2192-420f-9129-89cb2ac33830"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/testrequester"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

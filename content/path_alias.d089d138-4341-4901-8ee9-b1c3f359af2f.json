@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d089d138-4341-4901-8ee9-b1c3f359af2f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/0deb6f53-f330-4dc1-94bd-9a892572c751"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-49-april-2022"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

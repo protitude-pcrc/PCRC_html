@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "e35f373e-5888-45d2-8d69-0d561d512a22"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/271a3af4-0c32-45fd-aab1-34774a672a0c"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/news\/issue-33-november-2018"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

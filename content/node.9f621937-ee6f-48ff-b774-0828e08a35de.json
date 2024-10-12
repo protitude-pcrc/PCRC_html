@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "9f621937-ee6f-48ff-b774-0828e08a35de"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Early Career Investigators Opportunity: 2016 NIMHD Health Disparities Research Institute"
+        }
+    ],
+    "created": [
+        {
+            "value": "2016-05-24T17:00:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2016-05-24T17:00:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/early-career-investigators-opportunity-2016-nimhd-health-disparities-research-institute",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h1><strong><b>Early career investigators would you like to incorporate the latest science in health disparities into your own research?<\/b><\/strong><\/h1>\r\nThe National Institute on Minority Health and Health Disparities (NIMHD) will host the <strong>Health Disparities Research Institute<\/strong>\u00a0from <strong>August 15, 2016, to August 19, 2016. <\/strong>The Institute aims to foster individual research projects of promising scientists and motivated research scholars with the overall goal to stimulate innovative research in the minority health and health disparities sciences. Please forward this message to anyone who may be interested in applying.<strong>\u00a0<\/strong>\r\n\r\n<strong>What the\u00a0<\/strong><strong>Health Disparities Research Institute<\/strong><strong>\u00a0Is:<\/strong>\u00a0This program provides a unique opportunity for early career researchers, interested in addressing health disparities and minority health research,\u00a0to learn about the latest science and receive guidance on their own research projects from leaders in the field.\r\n\r\n<strong>Who Should Apply: <\/strong>Early career investigators, including postdoctoral researchers, research associates and assistant professors, engaged in\u00a0health disparities and minority health research\u00a0\u00a0are encouraged to apply. We\u00a0seek participants from diverse backgrounds within and outside of academia, such as from community-based and nonprofit organizations.<strong>\u00a0<\/strong>\r\n\r\n<strong>Cost:<\/strong> There is no cost, but admission is competitive and participants are required to attend all daily sessions. Participants are responsible for arranging their own transportation, room, and board. Limited scholarships will be available to cover travel expenses based on need. Applicants from diverse backgrounds, including underrepresented racial and ethnic groups, who require financial assistance are always encouraged to apply for NIH support.\r\n\r\n<strong>How to Apply:<\/strong> The online application is <strong>now open<\/strong> on the NIMHD website: <a href=\"http:\/\/bit.ly\/hdinstitute16?utm_medium=email&amp;utm_source=govdelivery\" target=\"_blank\">http:\/\/bit.ly\/hdinstitute16<\/a>.\r\n\r\n<strong>The due date for submitting an application is 5:00pm local time on June 1, 2016.<\/strong>\r\n\r\n<strong>Application Information:<\/strong> Selection will be based on the following criteria:\r\n<ul>\r\n \t<li>Professional experience and educational achievements.<\/li>\r\n \t<li>A brief essay (no more than 250 words) addressing interest in the program and outlining objectives for participation in the program<\/li>\r\n \t<li>A one-page abstract with specific aims of a proposed research project<\/li>\r\n \t<li>One letter of recommendation providing evidence of potential success in minority health and health disparities research<\/li>\r\n<\/ul>\r\nApproximately 60 participants will be accepted and preference will be given to those who demonstrate high potential to incorporate training into their own research.\r\n\r\n<strong>Program Information:<\/strong> The program will feature lectures, seminars, small group discussions, and sessions with scientific staff from across NIH Institutes and Centers. Lectures and seminars will include the following topics:\r\n<ul>\r\n \t<li>Population science and health disparities<\/li>\r\n \t<li>Research design and measurement approaches<\/li>\r\n \t<li>Intervention science methods<\/li>\r\n \t<li>Healthcare disparities and outcomes research<\/li>\r\n \t<li>Community-based participatory research<\/li>\r\n<\/ul>\r\nSmall group discussions will be tailored to the research interests of the participants. NIH staff will also consult on research strategies and methodologies specific to the participant\u2019s project and how to develop the project into an R01, R21, or K award application.\r\n\r\nFor additional information, contact the course planning committee at <a href=\"mailto:nimhdhealthdc@mail.nih.gov\">NIMHDHealthDC@mail.nih.gov<\/a>.",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

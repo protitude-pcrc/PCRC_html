@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1dd91411-3d67-40e5-96c7-cf00fdf4c1da"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/12357ab5-f8e6-416c-83f4-f058bff7ee81"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/tpetitte"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

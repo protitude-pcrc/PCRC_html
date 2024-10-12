@@ -1,0 +1,106 @@
+{
+    "uuid": [
+        {
+            "value": "d8f5d056-40ff-436d-8064-06ed7d4e9a73"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:34:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c4c1b62a-869d-454a-b78c-bde33aba2db8"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "c4c1b62a-869d-454a-b78c-bde33aba2db8"
+        }
+    ],
+    "title": [
+        {
+            "value": "Funding Opportunity Announcement (FOA) Webinar"
+        }
+    ],
+    "created": [
+        {
+            "value": "2017-07-21T19:11:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2017-07-21T19:11:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/funding-opportunity-announcement-foa-webinar",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<strong>National Cancer Institute: Healthcare Delivery Research Program<\/strong>\r\n\r\n<strong>Funding Opportunity Announcement (FOA) Webinar: \u00a0<\/strong>\r\n\r\n<strong>Intervening with Cancer Caregivers to Improve Patient Health Outcomes and Optimize Health Care Utilization<\/strong>\r\n<table width=\"0\">\r\n<tbody>\r\n<tr>\r\n<td><strong>When: August 17, 2017 from 2:00 PM \u2013 3:00 PM ET <\/strong>\r\n\r\n<strong>Where: via<\/strong> <strong>WebEx (<a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__cbiit.webex.com_mw3000_mywebex_default.do-3Fnomenu-3Dtrue-26siteurl-3Dcbiit-26service-3D6-26rnd-3D0.23857976832107775-26main-5Furl-3Dhttps-253A-252F-252Fcbiit.webex.com-252Fec3000-252Feventcenter-252Fevent-252FeventAction.do-253FtheAction-253Ddetail-2526-2526-2526EMK-253D4832534b00000004f864f08751af3e4141fd37cfdf2df9c2996ea80784e090dca9981a521f8ea45d-2526siteurl-253Dcbiit-2526confViewID-253D2670271627-2526encryptTicket-253DSDJTSwAAAAS-2DCaWpnb7k6YYt3kaUjxKheXu5PK6rM0RA8gpqz01Knw2-2526&amp;d=DwMGaQ&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=DpfrjJvnOVHpE7Ot39t6f1qEZC9zYmJKbx_ADH15ZKM&amp;m=wRmXJrolhqrEPmpdxwEvhqwydyPyWUXRvxqXyLSpXRU&amp;s=HRJhWY-sQ8RHs7l6vIKlasm-ngf9oV2bD6OeVWnniZ8&amp;e=\">Register Here<\/a>)<\/strong>\r\n\r\n<strong>\u00a0<\/strong><strong>Presenters: Dr. Erin Kent and Dr. Michelle Mollica<\/strong>\r\n\r\n&nbsp;\r\n\r\n<strong>Summary:<\/strong> This webinar will provide an overview of the R01\/R21 Funding Opportunity Announcement (FOA),\u00a0<strong>Intervening with Cancer Caregivers to Improve Patient Health Outcomes and Optimize Health Care Utilization: Funding Opportunity<\/strong>\u00a0<strong>(<a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__grants.nih.gov_grants_guide_pa-2Dfiles_PAR-2D16-2D317.html&amp;d=DwMGaQ&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=DpfrjJvnOVHpE7Ot39t6f1qEZC9zYmJKbx_ADH15ZKM&amp;m=wRmXJrolhqrEPmpdxwEvhqwydyPyWUXRvxqXyLSpXRU&amp;s=zxxo9PZmdUnObCFmp91Pofy7RpOLvxFfASuwthe1fow&amp;e=\">PAR-16-317<\/a>\/<a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__grants.nih.gov_grants_guide_pa-2Dfiles_PAR-2D16-2D318.html&amp;d=DwMGaQ&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=DpfrjJvnOVHpE7Ot39t6f1qEZC9zYmJKbx_ADH15ZKM&amp;m=wRmXJrolhqrEPmpdxwEvhqwydyPyWUXRvxqXyLSpXRU&amp;s=jBM7TqBmjxIL54uChQt6DBzrqEpwUpR4ySeS2Ganl6Q&amp;e=\">PAR-17-318<\/a>)<\/strong>. \u00a0This FOA invites applications for intervention research designed to support caregivers of adult cancer patients. Interventions are intended to provide caregivers with care training, promote coping skills, and ultimately help them manage care. Outcomes of such interventions are expected to (1) optimize patient health care utilization, (2) improve caregiver well-being, and (3) improve patient physical health and psychosocial outcomes.\u00a0 The next receipt dates for all types of applications (new and resubmissions) are October 10, 2017; April 11, 2018; October 10, 2018; and April 11, 2019.\u00a0 For more information about cancer caregiving research at NCI, please see our <a href=\"https:\/\/urldefense.proofpoint.com\/v2\/url?u=https-3A__healthcaredelivery.cancer.gov_caregiving_&amp;d=DwMGaQ&amp;c=imBPVzF25OnBgGmVOlcsiEgHoG1i6YHLR0Sj_gZ4adc&amp;r=DpfrjJvnOVHpE7Ot39t6f1qEZC9zYmJKbx_ADH15ZKM&amp;m=wRmXJrolhqrEPmpdxwEvhqwydyPyWUXRvxqXyLSpXRU&amp;s=OS4tA4uSyczi0LgoK8E0SVNayRpRPH-ql64Aaes0lWg&amp;e=\">website<\/a>.<\/td>\r\n<\/tr>\r\n<\/tbody>\r\n<\/table>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

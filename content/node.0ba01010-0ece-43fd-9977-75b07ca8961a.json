@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "0ba01010-0ece-43fd-9977-75b07ca8961a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2023-06-23T16:07:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "0fca5a7e-572e-4259-a341-e7fff5672015"
+        }
+    ],
+    "title": [
+        {
+            "value": "Pilot Studies"
+        }
+    ],
+    "created": [
+        {
+            "value": "2015-06-26T16:22:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2023-06-23T16:07:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/research\/pilot-studies",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<table>\r\n\t<tbody>\r\n\t<\/tbody>\r\n\t<caption>Pilot Studies<\/caption>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<th>PI(s)<\/th>\r\n\t\t\t<th>Pilot Study Title<\/th>\r\n\t\t\t<th>Type<\/th>\r\n\t\t\t<th>Status<\/th>\r\n\t\t\t<th style=\"width:20%;\">Funding<\/th>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Bhavsar<\/td>\r\n\t\t\t<td>Statin Guidelines &amp; Practice Patterns<\/td>\r\n\t\t\t<td>Survey<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2014 Pilot Award (NINR U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Sun<\/td>\r\n\t\t\t<td>Pancreatic Care Planning<\/td>\r\n\t\t\t<td>Intervention<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2014 Pilot Award (NINR U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Furuno<\/td>\r\n\t\t\t<td>Anticoagulation Therapy<\/td>\r\n\t\t\t<td>Retrospective Chart Review&nbsp;<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2014 Pilot Award (NINR U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Long<\/td>\r\n\t\t\t<td>Family Experiences of ICU Transfers<\/td>\r\n\t\t\t<td>Qualitative (Prospective Interview)<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2014 Pilot Award (NINR U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Harrison<\/td>\r\n\t\t\t<td>Advance care planning in hospice organizations: a qualitative pilot study<\/td>\r\n\t\t\t<td>Qualitative (multi-site)<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2015 Pilot Award (Round 2) (NINR U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Zafar \/ Wysham<\/td>\r\n\t\t\t<td>Interdisciplinary Models for Delivering High-Quality Palliative Care in the ICU<\/td>\r\n\t\t\t<td>Retrospective case control (single site)<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2015 Pilot Award (Round 2) (NINR U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Kamal<\/td>\r\n\t\t\t<td>Testing PCforMe: A Web-Based Tool to Prepare Patients for Palliative Care<\/td>\r\n\t\t\t<td>Feasibility<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2015 Pilot Award (Round 2) (NINR U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Rhodes<\/td>\r\n\t\t\t<td>Pilot Testing of a Culturally Sensitive End-of-Life Care Intervention for Seriously Ill African Americans and Their Caregivers<\/td>\r\n\t\t\t<td>RCT<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2015 Pilot Award (Round 2) (NINR U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Nipp<\/td>\r\n\t\t\t<td>Early Palliative Care for Advanced Lung and Non-Colorectal Malignancies<\/td>\r\n\t\t\t<td>Randomized Controlled Trial (RCT) [Secondary Analysis]<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2015 Pilot Award (Round 2) (NINR U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>LeBlanc<\/td>\r\n\t\t\t<td>Patient-Reported Distress in Myelodysplastic Syndromes<\/td>\r\n\t\t\t<td>Retrospective Cohort<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2015 Pilot Award (Round 2) (NINR U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Lindvall<\/td>\r\n\t\t\t<td>Natural Language Processing to Extract Data from Medical Notes to Quantify QOL &amp; Improve Mortality Prediction in Heart Failure Patients<\/td>\r\n\t\t\t<td>Cohort; retrospective<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2016 Pilot Award (NINR U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Muffly<\/td>\r\n\t\t\t<td>Comparing the Effectiveness of the Stanford Letter to the Traditional Advance Directive in BMT Recipients<\/td>\r\n\t\t\t<td>Randomized Clinical Study; intervention<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2016 Pilot Award (NINR U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Wagner-Johnston<\/td>\r\n\t\t\t<td>Perspectives on the adolescent, young adult, and adult experience as donors for their parent undergoing haploidentical BMT<\/td>\r\n\t\t\t<td>Qualitative<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2016 Pilot Award (NINR U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Krishnan<\/td>\r\n\t\t\t<td>Refinement of a Prognostic Model for Patients with Metastatic Cancer<\/td>\r\n\t\t\t<td>Retrospective<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2016 Pilot Award (NINR U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Sadak<\/td>\r\n\t\t\t<td>Experiences and Outcomes of Dementia Caregivers: Developing Dementia Palliative Care Approach<\/td>\r\n\t\t\t<td>Qualitative<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2016 Pilot Award (NINR U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Brown<\/td>\r\n\t\t\t<td>Understanding the perspectives of PC &amp; ACP in Pts with pulmonary arterial hypertension &amp; the physicians caring for them<\/td>\r\n\t\t\t<td>Qualitative<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2016 Pilot Award (NINR U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Stephenson<\/td>\r\n\t\t\t<td>Determining the Feasibility of the State of Spirituality Scale<\/td>\r\n\t\t\t<td>Qualitative<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2016 Pilot Award (NINR U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Lum<\/td>\r\n\t\t\t<td>Understanding advance care planning in patients and care partners living with Parkinson's disease<\/td>\r\n\t\t\t<td>Qualitative<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2017 Pilot Award (NINR U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Singh<\/td>\r\n\t\t\t<td>Post acute care outcomes of oncology patients discharged to a skilled nursing facility<\/td>\r\n\t\t\t<td>Retrospective Cohort<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2017 Pilot Award (NINR U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Warren<\/td>\r\n\t\t\t<td>Addressing needs of family caregivers of patients with advanced brain tumors who are at risk for seizures<\/td>\r\n\t\t\t<td>Cross-sectional; qualitative<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2017 Pilot Award (NINR U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Ghesquiere<\/td>\r\n\t\t\t<td>Understanding bereavement services delivered in hospice settings for family members with symptoms of depression, anxiety, and complicated grief<\/td>\r\n\t\t\t<td>Chart review<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2017 Pilot Award (NINR U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Jones<\/td>\r\n\t\t\t<td>Exploring the experience of Latino adolescent young adults with advanced cancer and those who care for them<\/td>\r\n\t\t\t<td>Qualitative<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2017 Pilot Award (NINR U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Schulman Green<\/td>\r\n\t\t\t<td>A Qualitative meta-synthesis of family caregiver practices to support self-management among adults with serious, chronic illness<\/td>\r\n\t\t\t<td>Qualitative meta-synthesis<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2017 Pilot Award (NINR U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>van Cleave<\/td>\r\n\t\t\t<td>A Patient-Centered e-Health System for Advanced Symptoms in Head and Neck Cancer<\/td>\r\n\t\t\t<td>Focus groups<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2017 Pilot Award (NINR U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Cardenas<\/td>\r\n\t\t\t<td>Su Voz: Advanced care planning preferences among Spanish-speaking patients and their caregivers<\/td>\r\n\t\t\t<td>Qualitative<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2017 Pilot Award (NINR U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Plumb Vilardaga<\/td>\r\n\t\t\t<td>Telephone implementation of mindfulness-based multi-symptom CBT for advanced cancer patients<\/td>\r\n\t\t\t<td>Feasibility<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2017 Pilot Award (NINR U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Knoepke<\/td>\r\n\t\t\t<td>Using Novel Shared Decision Making to Help Frail &amp; High-Risk Patients with Aortic Stenosis Make Goal-Concordant Decisions<\/td>\r\n\t\t\t<td>Iterative model; Decision support<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2017 Pilot Award (NINR U24)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>McDermott<\/td>\r\n\t\t\t<td>Investigating outcomes at end of life for patients with multi-morbidity and their caregivers<\/td>\r\n\t\t\t<td>Retrospective EMR review; CG interviews<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2018 Pilot Award (NINR U2C)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Thrane<\/td>\r\n\t\t\t<td>Teaching patents reiki for their adolescents receiving palliative care<\/td>\r\n\t\t\t<td>Intervention<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2018 Pilot Award (NINR U2C)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Forst<\/td>\r\n\t\t\t<td>Psychological Intervention for caregivers of patients with malignant gliomas<\/td>\r\n\t\t\t<td>Intervention<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2018 Pilot Award (NINR U2C)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Reb<\/td>\r\n\t\t\t<td>Psychosocial support intervention for fear of cancer progression in patients with advanced cancer<\/td>\r\n\t\t\t<td>Mixed methods, Intervention<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2018 Pilot Award (NINR U2C)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Bauman<\/td>\r\n\t\t\t<td>A collaborative palliative and oncology care intervention to improve symptoms and coping during treatment for head and neck cancer<\/td>\r\n\t\t\t<td>Intervention<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2018 Pilot Award (NINR U2C)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Portz<\/td>\r\n\t\t\t<td>Examining the Utility of Patient Portals in the Setting of Serious Illness and End of Life<\/td>\r\n\t\t\t<td>Exploratory<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2019 Pilot Award (NINR U2C)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Shaw<\/td>\r\n\t\t\t<td>An exploration of palliative care experiences, preferences, and needs among Alaska Native\/American Indian people in a home-based medical care program<\/td>\r\n\t\t\t<td>Exploratory<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2019 Pilot Award (NINR U2C)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Kelleher<\/td>\r\n\t\t\t<td>Pilot Testing a Virtual Reality Protocol for Improving Pain and Pain-Related Distress in Patients with Advanced Stage Colorectal Cancer&nbsp;<\/td>\r\n\t\t\t<td>Intervention<\/td>\r\n\t\t\t<td>Complete<\/td>\r\n\t\t\t<td>PCRC 2019 Pilot Award (NINR U2C)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Schell<\/td>\r\n\t\t\t<td>Building evidence for a concurrent hospice and dialysis program for terminal patients with end-stage renal disease (ESRD)<\/td>\r\n\t\t\t<td>Community-Based Participant Research<\/td>\r\n\t\t\t<td>Active<\/td>\r\n\t\t\t<td>PCRC 2020 Pilot Award (NINR U2C)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Cruz-Oliver<\/td>\r\n\t\t\t<td>Improving Self-efficacy through A Telenovela Intervention for Caregivers of Patients receiving Hospice Care: Feasibility Study<\/td>\r\n\t\t\t<td>Feasibility<\/td>\r\n\t\t\t<td>Active<\/td>\r\n\t\t\t<td>PCRC 2020 Pilot Award (NINR U2C)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Dias<\/td>\r\n\t\t\t<td>Pilot-Testing a Theoretically Based Digital Intervention for Bereaved Parents<\/td>\r\n\t\t\t<td>Mixed Methods<\/td>\r\n\t\t\t<td>Active<\/td>\r\n\t\t\t<td>PCRC 2020 Pilot Award (NINR U2C)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Richardson<\/td>\r\n\t\t\t<td>Establishing the Validity of a Best-Worst Scaling Survey to Quantify the Preferences of Older Patients with Advanced Cancer<\/td>\r\n\t\t\t<td>Mixed Methods<\/td>\r\n\t\t\t<td>Active<\/td>\r\n\t\t\t<td>PCRC 2021&nbsp;Pilot Award (NINR U2C)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Marron<\/td>\r\n\t\t\t<td>Understanding educational and communication needs regarding genomically-informed decision-making in advanced pediatric cancers<\/td>\r\n\t\t\t<td>Qualitative<\/td>\r\n\t\t\t<td>Active<\/td>\r\n\t\t\t<td>PCRC 2021&nbsp;Pilot Award (NINR U2C)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Feder<\/td>\r\n\t\t\t<td>Exploring Patient, Family-Caregiver, and Clinician Perspectives of Outpatient Models of Palliative Care Delivery<\/td>\r\n\t\t\t<td>Qualitative and stakeholder<\/td>\r\n\t\t\t<td>Active<\/td>\r\n\t\t\t<td>PCRC 2021&nbsp;Pilot Award (NINR U2C)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Gazaway<\/td>\r\n\t\t\t<td>Exploring the acceptability of a stakeholder enhanced intervention to improve palliative decision partnership of chronic kidney disease dyads<\/td>\r\n\t\t\t<td>Intervention<\/td>\r\n\t\t\t<td>Active<\/td>\r\n\t\t\t<td>PCRC 2022&nbsp;Pilot Award (NINR U2C)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Groninger<\/td>\r\n\t\t\t<td>Virtual reality for outpatient management of cancer pain: a dosing study<\/td>\r\n\t\t\t<td>\r\n\t\t\t<p>Non-randomized, unblinded dose-titration<\/p>\r\n\t\t\t<\/td>\r\n\t\t\t<td>Active<\/td>\r\n\t\t\t<td>PCRC 2022&nbsp;Pilot Award (NINR U2C)<\/td>\r\n\t\t<\/tr>\r\n\t\t<tr>\r\n\t\t\t<td>Umaretiya<\/td>\r\n\t\t\t<td>Reducing Inequities Through Systematic Social Needs Screening in Pediatric Palliative Care<\/td>\r\n\t\t\t<td>Evaluation<\/td>\r\n\t\t\t<td>Active<\/td>\r\n\t\t\t<td>PCRC 2022&nbsp;Pilot Award (NINR U2C)<\/td>\r\n\t\t<\/tr>\r\n\t<\/tbody>\r\n<\/table>\r\n\r\n<p>[button url=\"\/node\/488\" size=\"\" color=\"green\" target=\"\"]View PCRC Active Clinical Studies[\/button]<\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

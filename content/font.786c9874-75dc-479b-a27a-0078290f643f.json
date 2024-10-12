@@ -1,0 +1,78 @@
+{
+    "uuid": [
+        {
+            "value": "786c9874-75dc-479b-a27a-0078290f643f"
+        }
+    ],
+    "pid": [
+        {
+            "value": "google_fonts_api"
+        }
+    ],
+    "url": [
+        {
+            "value": "http:\/\/www.google.com\/webfonts\/family?family=Arima Madurai&subset=tamil#regular"
+        }
+    ],
+    "name": [
+        {
+            "value": "Arima Madurai regular (tamil)"
+        }
+    ],
+    "css_family": [
+        {
+            "value": "Arima Madurai"
+        }
+    ],
+    "css_style": [
+        {
+            "value": "normal"
+        }
+    ],
+    "css_weight": [
+        {
+            "value": "normal"
+        }
+    ],
+    "foundry": [],
+    "foundry_url": [],
+    "license": [],
+    "license_url": [],
+    "designer": [],
+    "designer_url": [],
+    "metadata": [
+        {
+            "value": "a:2:{s:4:\"path\";s:21:\"Arima Madurai:regular\";s:6:\"subset\";s:5:\"tamil\";}"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-04-19T19:02:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-04-19T19:02:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "field_classification": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2f636896-a5a0-4bdf-8074-2ca54f732f28"
+        }
+    ],
+    "field_supported_languages": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2ca703db-b891-48ee-b8a8-6f6a66f53c9c"
+        }
+    ],
+    "field_tags": []
+}

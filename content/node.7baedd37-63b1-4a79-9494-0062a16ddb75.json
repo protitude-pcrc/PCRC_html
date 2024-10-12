@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "7baedd37-63b1-4a79-9494-0062a16ddb75"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "9e2f6dfa-9be2-4f4a-8f19-e8f67599c364"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-04-19T16:35:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "3a3020c3-909e-417d-9b43-02b83cf0624d"
+        }
+    ],
+    "title": [
+        {
+            "value": "draft webinar announcement"
+        }
+    ],
+    "created": [
+        {
+            "value": "2016-12-20T23:14:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2016-12-20T23:14:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/draft-webinar-announcement",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<h1 class=\"p1\"><span class=\"s1\"><b>Mentoring<\/b><\/span><\/h1>\r\n<strong>Presenter<\/strong>\r\n<p class=\"p1\"><span class=\"s1\"><strong>Mitch Feldman, MD<\/strong> will be leading the November webinar on <b>Mentoring <\/b>(<\/span><span class=\"s2\">for both mentors and mentees<\/span><span class=\"s1\">). \u00a0Dr. Feldman is Associate Vice Provost of Faculty Mentoring and Professor of Medicine at the University of California, San Francisco.<\/span><\/p>\r\n<strong>When:<\/strong>\r\n<p class=\"p1\"><strong><span class=\"s1\">Monday, November 28, 2016\r\n<\/span><span class=\"s1\">4 pm - 5 pm Eastern Daylight Time<\/span><span class=\"s1\">\r\n<\/span><\/strong><\/p>\r\n<strong>Step 1:<\/strong>\r\n<p class=\"p1\"><strong><span class=\"s1\">Click this link on your computer:<\/span><span class=\"s2\">\u00a0<a href=\"https:\/\/webmeeting.ucsf.edu\/orion\/joinmeeting.do?ED=vsGvhdqqsK7C-_mN1rf2vQ==&amp;Rnd=0.7653576974271289\" target=\"_blank\">https:\/\/webmeeting.ucsf.edu\/orion\/joinmeeting.do?ED=vsGvhdqqsK7C-_mN1rf2vQ==&amp;Rnd=0.7653576974271289<\/a>\r\n<\/span><\/strong><\/p>\r\n<strong>Step 2:<\/strong>\r\n\r\n<strong>Connect to the audio portion of the meeting.\u00a0 Either:<\/strong>\r\n<ul>\r\n \t<li>\r\n<p class=\"p1\"><strong><span class=\"s3\">Let the system call your phone (you will receive prompts once you have clicked on the link above and joined the meeting)\r\n<\/span><\/strong><\/p>\r\n<\/li>\r\n \t<li>\r\n<p class=\"p1\"><strong><span class=\"s3\">Call in directly, using this phone number: +1 415-514-1000; Access Code:\u00a0<\/span><span class=\"s1\">999 356 602<\/span><\/strong><\/p>\r\n<\/li>\r\n<\/ul>\r\n<strong>\u00a0<\/strong>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_subtitle": []
+}

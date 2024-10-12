@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "1f379385-b073-41eb-a52d-634fbf2305ee"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/6c2c95ea-b8a6-47e0-adef-beca213eb60b"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/research\/investigator-support-information\/collaborating-pcrc\/budget-development"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

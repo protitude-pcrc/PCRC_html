@@ -1,0 +1,110 @@
+{
+    "uuid": [
+        {
+            "value": "036d7457-5165-404a-b7aa-b0c8ab69a9cf"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news",
+            "target_type": "node_type",
+            "target_uuid": "f42e2542-8541-40aa-99cb-e9cf3f948dcc"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-11-18T21:38:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "2882a6d4-bad0-4d28-88df-21bee81c34cf"
+        }
+    ],
+    "title": [
+        {
+            "value": "NIA IMPACT Collaboratory Health Care Systems Scholars Program"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-11-18T21:09:53+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-11-18T21:38:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/news\/nia-impact-collaboratory-health-care-systems-scholars-program",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>The NIA IMPACT Collaboratory has published a new RFA for the Health Care Systems (HCS) Scholars Program.<\/p>\r\n\r\n<p>$120k in direct costs for 12 months.<\/p>\r\n\r\n<p>Goal: For investigators to partner with healthcare systems to develop research projects aimed at improving care for people living with dementia and their care partners<\/p>\r\n\r\n<p>Letter of Intent (Required): <strong>due by Dec. 19, 2022 @ 5pm ET<\/strong><\/p>\r\n\r\n<p>Full Applications (Invitation Only): <strong>due by March 13, 2023 @ 5pm ET<\/strong><\/p>\r\n\r\n<p>For more information click <a href=\"https:\/\/impactcollaboratory.org\/grants-and-training\/health-care-system-scholars-program\/hcs-scholars\/\" rel=\"noopener\" target=\"_blank\"><strong>HERE<\/strong><\/a><\/p>\r\n",
+            "format": "full_html",
+            "summary": ""
+        }
+    ],
+    "field_news_image": [],
+    "field_subtitle": [
+        {
+            "value": "NIA IMPACT Collaboratory Health Care Systems Scholars Program"
+        }
+    ],
+    "field_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bf6088b0-3d16-4ab7-81c1-b5c0caa823ab"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bbb27fea-2e7e-4280-a28b-351ed41afe6c"
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "uuid": [
+        {
+            "value": "4204b913-70bf-45ae-a508-b8d07bb88a70"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "study",
+            "target_type": "node_type",
+            "target_uuid": "624f831b-a965-4f06-b9f6-05dd6b3a17ca"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2021-04-13T16:11:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "title": [
+        {
+            "value": "Interdisciplinary Models for Delivering High-Quality Palliative Care in the ICU] "
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-04-13T16:11:27+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-04-13T16:11:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/study\/interdisciplinary-models-delivering-high-quality-palliative-care-icu",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "field_annotated_crf": [],
+    "field_approved_data_requests": [],
+    "field_award_number": [],
+    "field_condition_studied": [],
+    "field_csr_summary": [],
+    "field_data_dictionary": [],
+    "field_data_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e494a23c-aea6-4f0b-a534-4b948ddfdb07"
+        }
+    ],
+    "field_detailed_title": [
+        {
+            "value": "Interdisciplinary Models for Delivering High-Quality Palliative Care in the ICU] "
+        }
+    ],
+    "field_enrollment": [
+        {
+            "value": "217"
+        }
+    ],
+    "field_multi_site": [
+        {
+            "value": false
+        }
+    ],
+    "field_nct_link_field": [],
+    "field_number_of_study_sites": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d7cd26a3-2482-49da-b75d-bdd120b563ae"
+        }
+    ],
+    "field_participant_age": [],
+    "field_participant_ethnicity_coll": [],
+    "field_participant_race": [],
+    "field_participant_sex": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "927b2846-9a1b-4d5f-bb78-6d3d19808dd6"
+        }
+    ],
+    "field_participant_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bb33a50f-e9de-47ae-80e4-5167ef2b0d2f"
+        }
+    ],
+    "field_pcrc_study_num": [
+        {
+            "value": "15-04"
+        }
+    ],
+    "field_primary_citation": [
+        {
+            "uri": "https:\/\/journals.lww.com\/ccmjournal\/Citation\/2018\/01001\/498__PALLIATIVE_CARE_CONSULTATION_IS_ASSOCIATED.464.aspx",
+            "title": "",
+            "options": []
+        }
+    ],
+    "field_sponsor": [],
+    "field_study_design": [],
+    "field_study_pi": [
+        {
+            "value": "Nicholas Wysham"
+        }
+    ],
+    "field_study_pi_institution": [
+        {
+            "value": "Duke University Medical Center, Duke Clinical Research Institute, Dept. of Medicine, Division of Pulmonary and Critical Care Medicine"
+        }
+    ],
+    "field_study_setting": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "0273e5e5-00f3-4ffe-89c2-4dd69d36e8fc"
+        }
+    ],
+    "field_study_site_institution": [],
+    "field_study_site_pi": [
+        {
+            "value": "Christopher E. Cox, Arif H. Kamal"
+        }
+    ],
+    "field_study_type": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "89b177d7-1afa-4d2b-bb5a-199a38866463"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p><strong>Objective:&nbsp;<\/strong>To determine whether consultative (or specialist) palliative care improves adherence to quality metrics of ICU-Based Palliative Care<\/p>\r\n\r\n<p><strong>Methods:&nbsp;<\/strong>Performed a single-center, retrospective, exposure-control study comparing critically ill patients with specialty palliative care consults to a matched cohort who do not receive palliative care consults. The primary outcome is the rate of performance 14 patient-level metrics of palliative care quality. Other outcomes include utilization, disposition, and pain control. This aim will describe the rate of performance in the proposed quality indicators and what role specialty palliative care consultation might serve in improving performance. These results may be useful for early identification of patients who will be most likely to benefit from specialty palliative care.&nbsp;&nbsp;<\/p>\r\n\r\n<p><strong>Conclusion:&nbsp;<\/strong>It was observed that ICU patients who received palliative care consultations had higher rates of adherence to certain quality metrics compared to those who did not receive a PC consult, particularly in the documentation of family conferences and goals of care.&nbsp;<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_supporting_documentation": [
+        {
+            "value": "<p>Study protocol<\/p>\r\n",
+            "format": "full_html"
+        }
+    ],
+    "field_therapeutic_area": [],
+    "field_total_enrollment": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "8dc925b0-06b7-4440-ac2b-424a6cc2821b"
+        }
+    ]
+}

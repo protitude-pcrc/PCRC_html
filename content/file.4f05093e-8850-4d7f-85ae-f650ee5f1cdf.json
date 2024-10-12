@@ -1,0 +1,69 @@
+{
+    "uuid": [
+        {
+            "value": "4f05093e-8850-4d7f-85ae-f650ee5f1cdf"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "document",
+            "target_type": "file_type",
+            "target_uuid": "aba37c63-b654-405f-a34e-d829c2ad7580"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "b2dfdbb0-5646-4b19-ac55-753d3f535c0f"
+        }
+    ],
+    "filename": [
+        {
+            "value": "DISC_Data_Repository_-_Study_Summary_3.26.20.docx"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/csr_summaries\/DISC_Data_Repository_-_Study_Summary_3.26.20.docx"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 577727
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-04-21T13:41:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-04-21T14:05:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/file\/discdatarepository-studysummary32620docx",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "f0040252-8734-493d-83a8-7595441158c7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/user\/1de1d020-2cdf-4f6f-b2f0-2784b97ec152"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/user\/scho"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
